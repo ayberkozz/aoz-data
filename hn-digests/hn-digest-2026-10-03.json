@@ -1,0 +1,169 @@
+{
+  "date": "2026-10-03",
+  "timestamp": "2026-10-03T21:54:00Z",
+  "health_stories": [
+    {
+      "title": "Things that apparently cause cancer",
+      "points": 201,
+      "summary": "This piece dissects a widely shared epidemiological paper claiming that living near nuclear power plants correlates with cancer deaths. It shows the statistical method used in the paper produces spurious positive correlations with virtually any dataset, a textbook case of mistaking correlation for causation. It's notable as a sharp methodological takedown of the kind of 'cancer cluster' study that often fuels public health scares.",
+      "hn_url": "https://news.ycombinator.com/item?id=49940219",
+      "article_url": "https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer"
+    },
+    {
+      "title": "ADHD, autism or complex trauma? [pdf]",
+      "points": 191,
+      "summary": "A clinical paper examining why ADHD, autism, and complex childhood trauma are so often confused with one another in adults. It argues that adverse childhood experiences can produce brain and behavioral changes that mimic neurodivergence, while genuinely neurodivergent people face a higher risk of abuse, complicating diagnosis in both directions. The paper calls for more rigorous, evidence-based diagnostic criteria and more research into whether trauma-focused therapy can help with the executive-function problems often attributed to ADHD or autism.",
+      "hn_url": "https://news.ycombinator.com/item?id=49946403",
+      "article_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/30CC4826561366615BFAEC807CDE28A7/S0007125026108046a.pdf/adhd-autism-or-complex-trauma-the-complicated-nature-of-the-question.pdf"
+    },
+    {
+      "title": "Hair Loss Was Just the Start. Ozempic Users Are Also Reporting Nail Trouble",
+      "points": 66,
+      "summary": "Gizmodo reports that beyond already well-documented hair loss, users of Ozempic and similar GLP-1 weight-loss drugs are increasingly reporting brittle, peeling, or otherwise damaged nails. Experts and commenters debate whether this is a direct drug side effect or a consequence of rapid weight loss and resulting nutritional deficiencies. It's notable as another entry in the growing list of under-studied side effects of hugely popular weight-loss medications.",
+      "hn_url": "https://news.ycombinator.com/item?id=49940505",
+      "article_url": "https://gizmodo.com/hair-loss-was-just-the-start-ozempic-users-are-also-reporting-nail-trouble-2000820821"
+    },
+    {
+      "title": "Our AI Midwife",
+      "points": 55,
+      "summary": "A personal essay describing how the author and his wife used ChatGPT, roleplaying it as a fictional TV doctor, to help diagnose a six-year, unexplained infertility problem that specialists had missed: a large fibroid that was later surgically removed, after which the wife conceived naturally. The piece is framed as a counter to doom-laden AI discourse, highlighting a case where a chatbot's pattern-matching had a genuinely life-changing medical impact.",
+      "hn_url": "https://news.ycombinator.com/item?id=49946873",
+      "article_url": "https://www.astralcodexten.com/p/our-ai-midwife"
+    },
+    {
+      "title": "Epilepsy and multidimensional time: a perspective inspired by theoretical physics",
+      "points": 7,
+      "summary": "An academic paper in Frontiers in Psychology that uses the altered time-perception reported by people with epilepsy as a starting point for a speculative, physics-inspired theory of subjective, multidimensional time. It's a crossover piece connecting a specific neurological condition to deeper questions in the philosophy of mind and theoretical physics.",
+      "hn_url": "https://news.ycombinator.com/item?id=49940309",
+      "article_url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1884775/full"
+    },
+    {
+      "title": "Will A.I. Make Your Brain Lazy? Here's What the New Research Shows",
+      "points": 6,
+      "summary": "A New York Times Magazine feature examining new research into whether habitual use of AI chatbots is affecting cognitive development and critical thinking, particularly among students and younger users. It surveys early findings on 'cognitive offloading' and weighs them against the convenience AI tools provide, without reaching a fully settled verdict.",
+      "hn_url": "https://news.ycombinator.com/item?id=49945985",
+      "article_url": "https://www.nytimes.com/interactive/2026/09/29/magazine/ai-chatbots-brain-development-study.html"
+    },
+    {
+      "title": "Prenatal exposure to the plasticizer DEHP increases autism and ADHD",
+      "points": 6,
+      "summary": "A new study finds that prenatal exposure to DEHP, a common plastic-softening chemical, increases the risk of autism and ADHD symptoms in young children via epigenetic changes that disrupt hormone-regulated gene networks in the brain. Notably, the effects were observed at exposure levels below current regulatory safety limits, suggesting those limits may need to be revisited to better protect fetal brain development.",
+      "hn_url": "https://news.ycombinator.com/item?id=49940866",
+      "article_url": "https://www.sciencedirect.com/science/article/pii/S2666634026002941"
+    },
+    {
+      "title": "Reasons I didn't become an EMT, ranked",
+      "points": 3,
+      "summary": "A personal essay in which the author lists, then debunks, all the rational-sounding excuses he used for years to avoid training as an Emergency Medical Technician, concluding that the real obstacle was simple fear of the unfamiliar rather than any of the practical reasons he told himself. It's a candid look at how people talk themselves out of entering demanding, direct-patient-care healthcare roles.",
+      "hn_url": "https://news.ycombinator.com/item?id=49947631",
+      "article_url": "https://ben.stolovitz.com/posts/reasons-not-emt-ranked/"
+    },
+    {
+      "title": "One in eight cancers globally caused by infections",
+      "points": 1,
+      "summary": "Citing a major new WHO/IARC analysis, this piece reports that roughly one in eight cancer cases worldwide are attributable to preventable infections such as HPV, hepatitis B and C, and H. pylori. The finding underscores how vaccination and infection treatment could meaningfully reduce the global cancer burden, especially in lower-income countries where infection-driven cancers are more common.",
+      "hn_url": "https://news.ycombinator.com/item?id=49944531",
+      "article_url": "https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(26)00307-4/fulltext"
+    },
+    {
+      "title": "Patient-zero drill put health facilities to the test – 40% of them failed",
+      "points": 1,
+      "summary": "The article covers an unannounced 'mystery patient' drill in which a simulated high-risk infectious patient was sent into real health facilities to see whether staff would correctly identify and isolate them, finding that roughly 40% of facilities failed the test. It highlights persistent gaps in frontline outbreak-preparedness training even years after pandemic-era investment in infection control.",
+      "hn_url": "https://news.ycombinator.com/item?id=49943116",
+      "article_url": "https://arstechnica.com/health/2026/10/patient-zero-drill-put-health-facilities-to-the-test-40-of-them-failed/"
+    },
+    {
+      "title": "Boy with cerebral palsy passes GCSEs with eye-tracking technology",
+      "points": 1,
+      "summary": "The Guardian profiles a teenager with cerebral palsy in Cheshire, UK, who used eye-tracking communication technology to study for and pass his GCSE exams. While framed as a success story, the piece also uses his case to highlight the practical limits and funding gaps facing assistive technology for students with special educational needs and disabilities (SEND) more broadly.",
+      "hn_url": "https://news.ycombinator.com/item?id=49946385",
+      "article_url": "https://www.theguardian.com/education/2026/oct/02/patrick-mccabe-success-cheshire-reveals-limits-send-tech"
+    },
+    {
+      "title": "The right side of the brain shows more signs of aging than the left, new study",
+      "points": 1,
+      "summary": "Using an AI model trained on over 14,000 MRI scans, researchers found that the brain doesn't age uniformly: the right hemisphere, along with the frontal and temporal lobes, shows more signs of biological aging than the left hemisphere and posterior regions. These regional aging differences were more pronounced in people with Alzheimer's disease, suggesting such localized patterns could eventually serve as an early warning sign of cognitive decline.",
+      "hn_url": "https://news.ycombinator.com/item?id=49947329",
+      "article_url": "https://www.psypost.org/the-right-side-of-the-brain-shows-more-signs-of-aging-than-the-left-new-study-suggests/"
+    },
+    {
+      "title": "The Download: a biological de-aging contest and why LLMs don't reason",
+      "points": 1,
+      "summary": "An MIT Technology Review digest covering two stories: a high-profile contest aiming to reverse biological aging markers in the body, and a separate piece questioning whether large language models actually 'reason' or just pattern-match convincingly. It's included here for its biotech/longevity-research angle on the de-aging contest.",
+      "hn_url": "https://news.ycombinator.com/item?id=49943136",
+      "article_url": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/"
+    }
+  ],
+  "other_stories": [
+    {
+      "title": "Extra Big Ass Intelligence",
+      "points": 474,
+      "summary": "A satirical website parodying the bombastic marketing language of the AI industry, branding itself '100% Artificial-Free, Pure Unleaded Super Intelligence' in the style of a gas-station energy drink. It resonated heavily on Hacker News as tongue-in-cheek commentary on the hype and buzzword inflation surrounding AI product launches.",
+      "hn_url": "https://news.ycombinator.com/item?id=49941114",
+      "article_url": "https://www.extrabigassintelligence.com/"
+    },
+    {
+      "title": "Kolibri: A Sovereign Open-Weight Model",
+      "points": 439,
+      "summary": "German AI company Aleph Alpha released Kolibri, a 78-billion-parameter mixture-of-experts open-weight language model built entirely on European infrastructure under EU law. It's designed to give European organizations, especially in regulated sectors like finance and healthcare, a data-sovereign alternative to US and Chinese AI providers, while supporting up to 1-million-token context windows and strong German-language reasoning.",
+      "hn_url": "https://news.ycombinator.com/item?id=49942706",
+      "article_url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/"
+    },
+    {
+      "title": "Newgrounds.com – A community of games, music, and art",
+      "points": 426,
+      "summary": "A front-page link to Newgrounds, the long-running online community for independently published games, animation, and music that has been active since the late 1990s. Its appearance on HN sparked nostalgia and discussion about the site's role in launching early internet flash-animation culture and indie game careers.",
+      "hn_url": "https://news.ycombinator.com/item?id=49940394",
+      "article_url": "https://www.newgrounds.com/"
+    },
+    {
+      "title": "Aleph Alpha Kolibri: How the sovereign German LLM works",
+      "points": 409,
+      "summary": "A technical deep-dive, published the same day as Kolibri's launch, explaining the architecture behind Aleph Alpha's new 'sovereign' German LLM, including its mixture-of-experts design and efficiency tricks. It offers a more independent, hands-on technical perspective to complement Aleph Alpha's own announcement, which also topped HN the same day.",
+      "hn_url": "https://news.ycombinator.com/item?id=49943034",
+      "article_url": "https://tej.as/blog/aleph-alpha-kolibri"
+    },
+    {
+      "title": "Cloudflare OHTTP gateway",
+      "points": 181,
+      "summary": "Cloudflare announced a closed beta of a managed Oblivious HTTP (OHTTP) gateway service that lets app servers process requests without ever seeing a user's IP address or other identifying metadata. The 'double-blind' design splits knowledge of who is asking from what is being asked, making it easier for developers to add strong privacy protections without running their own relay infrastructure.",
+      "hn_url": "https://news.ycombinator.com/item?id=49941091",
+      "article_url": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/"
+    },
+    {
+      "title": "An Update on Orion for Linux and Windows",
+      "points": 170,
+      "summary": "Kagi announced it is discontinuing active development of its Orion browser on Linux and Windows and open-sourcing both versions for the community to maintain, so its small team can focus exclusively on the macOS and iOS versions. The move drew discussion about the challenges small teams face trying to support browsers across many platforms at once.",
+      "hn_url": "https://news.ycombinator.com/item?id=49941447",
+      "article_url": "https://blog.kagi.com/update-orion-linux-windows"
+    },
+    {
+      "title": "Every SaaS business will become a harness around a model",
+      "points": 158,
+      "summary": "The author argues that as AI agents shift from being tools humans operate to systems that autonomously get work done with human oversight only at key decision points, the 'harness' wrapped around the underlying model becomes a SaaS company's real product and competitive moat. This reframes software value away from the model itself and toward the orchestration, guardrails, and workflow logic built around it.",
+      "hn_url": "https://news.ycombinator.com/item?id=49938616",
+      "article_url": "https://blog.sshh.io/p/the-harness-is-the-company"
+    },
+    {
+      "title": "The Escalation of War in Ethiopia",
+      "points": 142,
+      "summary": "A political analysis arguing that Ethiopia's ongoing conflict stems from repeated elite choices to pursue war rather than negotiated peace, rooted in historical grievances and the country's ethnic-federalist system. It warns that the state's weakening ability to contain internal rebellions is inviting foreign intervention, and argues lasting peace will require resolving deeper questions about Ethiopian national identity and governance, not just changing leaders.",
+      "hn_url": "https://news.ycombinator.com/item?id=49943451",
+      "article_url": "https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia"
+    },
+    {
+      "title": "Hole Punch: Sling your spaceship around gravitational fields",
+      "points": 133,
+      "summary": "A browser-based physics game in which players sling a spaceship around gravitational fields, using orbital mechanics and gravity wells as the core puzzle-and-momentum mechanic rather than direct thrust control. It drew interest on HN both as a fun arcade-style project and for its implementation of realistic gravitational slingshot physics.",
+      "hn_url": "https://news.ycombinator.com/item?id=49946393",
+      "article_url": "https://notoriousbfg.com/hole-punch/"
+    },
+    {
+      "title": "FTL: A new operating system for clouds",
+      "points": 131,
+      "summary": "FTL is a new cloud operating system that lets developers build custom OS behavior as libraries running inside isolated containers instead of relying on a traditional monolithic kernel. It aims to combine the security isolation typically associated with full virtual machines with the performance and flexibility of lightweight containers, while staying compatible with existing Linux binaries.",
+      "hn_url": "https://news.ycombinator.com/item?id=49944912",
+      "article_url": "https://ftl-os.org/"
+    }
+  ]
+}
