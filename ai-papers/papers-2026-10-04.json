@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-04",
+  "timestamp": "2026-10-03T21:55:01Z",
+  "papers": [
+    {
+      "title": "Large Language Models: A Survey",
+      "pdf_url": "https://arxiv.org/pdf/2402.06196",
+      "summary": "A broad overview of how modern LLMs (GPT, LLaMA, PaLM families) work, covering their architectures, training techniques, datasets, and evaluation methods."
+    },
+    {
+      "title": "A Survey of Large Language Models",
+      "pdf_url": "https://arxiv.org/pdf/2303.18223",
+      "summary": "One of the most widely cited LLM surveys, tracing the evolution from statistical to neural language models and explaining pre-training, adaptation, usage, and evaluation of LLMs."
+    },
+    {
+      "title": "Foundations of Large Language Models",
+      "pdf_url": "https://arxiv.org/pdf/2501.09223",
+      "summary": "A textbook-style introduction covering the core building blocks of LLMs: pre-training, generative modeling, prompting, alignment, inference, and reasoning."
+    }
+  ]
+}
