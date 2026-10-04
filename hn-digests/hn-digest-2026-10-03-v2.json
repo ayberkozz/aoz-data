@@ -1,0 +1,225 @@
+{
+  "date": "2026-10-03",
+  "timestamp": "2026-10-04T10:00:00Z",
+  "summary_language": "tr",
+  "top_stories": [
+    {
+      "rank": 1,
+      "title": "Kolibri: A Sovereign Open-Weight Model",
+      "points": 613,
+      "num_comments": 315,
+      "summary": "Aleph Alpha'nın Ekim 2026'da yayımlanan açık ağırlıklı Almanca-İngilizce dil modeli Kolibri, toplam 78 milyar parametreye sahip ve token başına 3,5 milyarı etkin. Almanca muhakeme, 1 milyon token'a kadar uzun bağlam ve halüsinasyon yerine cevap vermekten kaçınma konusunda güçlü; kapalı kitap bilgi ve kodlamada ise geride olduğu belirtiliyor. Avrupa egemenliği, uyumluluk ve şirket içi (on-premises) kurulum odaklı konumlandırılıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=49942706",
+      "article_url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/"
+    },
+    {
+      "rank": 2,
+      "title": "Extra Big Ass Intelligence",
+      "points": 495,
+      "num_comments": 123,
+      "summary": "\"Extra Big Ass Intelligence™\" için hazırlanmış, ürün tanıtımı havasında bir açılış sayfası; \"federal olarak zorunlu süper zekâ\", \"%100 yapay-sız\" ve \"saf kurşunsuz süper zekâ\" olarak sunuluyor. Yapay zekâ pazarlamasına ve süper zekâ abartısına mizahi bir bakış gibi okunuyor. Sayfa meta verisi gerçek bir ürün ayrıntısı vermiyor; bu nedenle hiciv olduğu anlaşılıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=49941114",
+      "article_url": "https://www.extrabigassintelligence.com/"
+    },
+    {
+      "rank": 3,
+      "title": "Newgrounds.com – A community of games, music, and art",
+      "points": 447,
+      "num_comments": 135,
+      "summary": "Newgrounds, içerik üreticilerinin oyun, müzik, çizim ve diğer işlerini paylaştığı bir topluluk platformu. Ücretsiz hesapların yanı sıra ek ayrıcalıklar sunan aylık 2,99 $'lık destekçi üyeliği var; ana sayfada destekçi üyelerin seçtiği içerikler öne çıkarılıyor. Ana sayfa doğrudan topluluğun öne çıkan işlerine bağlanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=49940394",
+      "article_url": "https://www.newgrounds.com/"
+    },
+    {
+      "rank": 4,
+      "title": "Aleph Alpha Kolibri: How the sovereign German LLM works",
+      "points": 413,
+      "num_comments": 12,
+      "summary": "Aleph Alpha'nın Kolibri modelini anlatan bir blog yazısı: toplam 78 milyar, token başına 3,5 milyar etkin parametreli açık ağırlıklı Almanca-İngilizce model. Almanca muhakeme, 1 milyon token bağlam ve halüsinasyondan kaçınma güçlü yanlar olarak öne çıkıyor; kapalı kitap bilgi ve kodlama ise daha zayıf. Yazar, modeli şirket içi kurulum ve veri gizliliği uyumu gereken kurumlar için uygun buluyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=49943034",
+      "article_url": "https://tej.as/blog/aleph-alpha-kolibri"
+    },
+    {
+      "rank": 5,
+      "title": "Hole Punch: Sling your spaceship around gravitational fields",
+      "points": 290,
+      "num_comments": 66,
+      "summary": "Oyuncunun uzay gemisini çekim alanlarının etrafında sapan gibi fırlattığı küçük bir tarayıcı oyunu. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=49946393",
+      "article_url": "https://notoriousbfg.com/hole-punch/"
+    },
+    {
+      "rank": 6,
+      "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
+      "points": 282,
+      "num_comments": 40,
+      "summary": "Valve'ın Linux grafik sürücüsü ekibinden Timur Kristóf, on yıllık GCN 1.0/1.1 Radeon kartları için AMDGPU çekirdek sürücüsünde önemli iyileştirmeler yaptı. Düzeltmeler ekran kodundaki hataları ve güç yönetimini kapsıyor, yumuşak sıfırlama (soft reset) gibi özellikler ekleniyor; Linux 6.19 testlerinde yaklaşık %30 performans artışı görülmüş. Phoronix, AMD'nin bu eski kartlara az kaynak ayırması nedeniyle çalışmanın önemli olduğunu belirtiyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=49946895",
+      "article_url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU"
+    },
+    {
+      "rank": 7,
+      "title": "I quit OpenAI because its culture is broken",
+      "points": 222,
+      "num_comments": 484,
+      "summary": "Başlığa göre, eski bir OpenAI çalışanının şirketin kültürü yüzünden ayrıldığını anlattığı bir Atlantic yazısı. 484 yorumla günün en uzun tartışma dizilerinden birini oluşturdu. Makaleye erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=49944227",
+      "article_url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/"
+    },
+    {
+      "rank": 8,
+      "title": "ADHD, autism or complex trauma? [pdf]",
+      "points": 213,
+      "num_comments": 244,
+      "summary": "Yetişkinlerde DEHB, otizm ve karmaşık çocukluk travmasının neden sık karıştırıldığını inceleyen klinik bir makale. Olumsuz çocukluk deneyimlerinin nörogelişimsel farklılıkları taklit eden beyin ve davranış değişikliklerine yol açabileceğini, nörogelişimsel farklılığı olan kişilerin de istismar riskinin daha yüksek olduğunu ve bunun tanıyı iki yönde de zorlaştırdığını savunuyor. Daha titiz, kanıta dayalı tanı ölçütleri ve travma odaklı terapinin yürütücü işlev sorunlarına yardımcı olup olmadığına dair araştırma çağrısı yapıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=49946403",
+      "article_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/30CC4826561366615BFAEC807CDE28A7/S0007125026108046a.pdf/adhd-autism-or-complex-trauma-the-complicated-nature-of-the-question.pdf"
+    },
+    {
+      "rank": 9,
+      "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+      "points": 213,
+      "num_comments": 149,
+      "summary": "Opus 5.5'ten daha iyi sonuç almak için bir rehber: tamamlanma ölçütlerini baştan açıkça belirtin, gereksiz \"dikkatle düşün\" istemlerini kaldırın ve modelin çok adımlı görevlerde daha uzun çalışmasına izin verin. Claude Code için CLAUDE.md içinde durma kuralları tanımlamayı ve büyük denetimleri alt ajanlara bölmeyi öneriyor. Çıktıyı incelerken, bir insan okumadan önce kalite güvence kontrolü istenmesini tavsiye ediyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=49946567",
+      "article_url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/"
+    },
+    {
+      "rank": 10,
+      "title": "Things that apparently cause cancer",
+      "points": 208,
+      "num_comments": 76,
+      "summary": "Nükleer santrallere yakın yaşamanın kanser ölümleriyle ilişkili olduğunu öne süren, geniş çapta paylaşılmış bir epidemiyoloji makalesini inceliyor. Kullanılan istatistiksel yöntemin neredeyse her veri kümesiyle sahte pozitif korelasyon üretebildiğini göstererek korelasyonun nedensellikle karıştırılmasının ders kitabı örneğini sunuyor. Halk sağlığı korkularını sıkça besleyen \"kanser kümesi\" çalışmalarına yöntemsel bir eleştiri olarak dikkat çekiyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=49940219",
+      "article_url": "https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer"
+    }
+  ],
+  "health_stories": [
+    {
+      "rank": 1,
+      "title": "ADHD, autism or complex trauma? [pdf]",
+      "points": 213,
+      "num_comments": 244,
+      "summary": "Yetişkinlerde DEHB, otizm ve karmaşık çocukluk travmasının neden sık karıştırıldığını inceleyen klinik bir makale. Olumsuz çocukluk deneyimlerinin nörogelişimsel farklılıkları taklit eden beyin ve davranış değişikliklerine yol açabileceğini, nörogelişimsel farklılığı olan kişilerin de istismar riskinin daha yüksek olduğunu ve bunun tanıyı iki yönde de zorlaştırdığını savunuyor. Daha titiz, kanıta dayalı tanı ölçütleri ve travma odaklı terapinin yürütücü işlev sorunlarına yardımcı olup olmadığına dair araştırma çağrısı yapıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=49946403",
+      "article_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/30CC4826561366615BFAEC807CDE28A7/S0007125026108046a.pdf/adhd-autism-or-complex-trauma-the-complicated-nature-of-the-question.pdf"
+    },
+    {
+      "rank": 2,
+      "title": "Things that apparently cause cancer",
+      "points": 208,
+      "num_comments": 76,
+      "summary": "Nükleer santrallere yakın yaşamanın kanser ölümleriyle ilişkili olduğunu öne süren, geniş çapta paylaşılmış bir epidemiyoloji makalesini inceliyor. Kullanılan istatistiksel yöntemin neredeyse her veri kümesiyle sahte pozitif korelasyon üretebildiğini göstererek korelasyonun nedensellikle karıştırılmasının ders kitabı örneğini sunuyor. Halk sağlığı korkularını sıkça besleyen \"kanser kümesi\" çalışmalarına yöntemsel bir eleştiri olarak dikkat çekiyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=49940219",
+      "article_url": "https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer"
+    },
+    {
+      "rank": 3,
+      "title": "Reasons I didn't become an EMT, ranked",
+      "points": 149,
+      "num_comments": 75,
+      "summary": "Ben Stolovitz, EMT sertifikası almayı erteleme nedenlerinden 21'ini saçmalık derecesine göre sıralıyor. Zaman yükü ve iş yeri kültürü gibi meşru kaygıların yanında giderek komikleşen mazeretler var; asıl engelin bilinmeyen korkusu olduğu sonucuna varıyor. Mesajı: bir şeyden kaçınma gerekçelerinizin gerçek engeller mi yoksa yeni ve korkutucu bir şeye duyulan kaygıyı örten savunma mazeretleri mi olduğunu sorgulayın.",
+      "hn_url": "https://news.ycombinator.com/item?id=49947631",
+      "article_url": "https://ben.stolovitz.com/posts/reasons-not-emt-ranked/"
+    },
+    {
+      "rank": 4,
+      "title": "Hair Loss Was Just the Start. Ozempic Users Are Also Reporting Nail Trouble",
+      "points": 66,
+      "num_comments": 71,
+      "summary": "Gizmodo, iyi belgelenmiş saç dökülmesinin ötesinde, Ozempic ve benzeri GLP-1 kilo verme ilaçlarını kullananların giderek daha sık kırılgan, soyulan veya hasarlı tırnaklardan söz ettiğini bildiriyor. Uzmanlar ve yorumcular bunun doğrudan bir yan etki mi yoksa hızlı kilo kaybı ve beslenme eksikliklerinin sonucu mu olduğunu tartışıyor. Çok popüler kilo verme ilaçlarının az araştırılmış yan etkileri listesine bir yenisini ekliyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=49940505",
+      "article_url": "https://gizmodo.com/hair-loss-was-just-the-start-ozempic-users-are-also-reporting-nail-trouble-2000820821"
+    },
+    {
+      "rank": 5,
+      "title": "Our AI Midwife",
+      "points": 63,
+      "num_comments": 59,
+      "summary": "Yazar ve eşinin, kurgusal bir TV doktoru rolü verdikleri ChatGPT'yi kullanarak uzmanların gözünden kaçırdığı altı yıllık açıklanamayan kısırlık sorununu çözmeye çalışmasını anlatan kişisel bir deneme. Neden büyük bir fibroid çıktı; ameliyatla alındı ve eşi sonrasında doğal yolla hamile kaldı. Yazı, kıyamet temalı yapay zekâ tartışmalarına bir karşı örnek olarak sunuluyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=49946873",
+      "article_url": "https://www.astralcodexten.com/p/our-ai-midwife"
+    },
+    {
+      "rank": 6,
+      "title": "Prenatal exposure to the plasticizer DEHP increases autism and ADHD",
+      "points": 7,
+      "num_comments": 4,
+      "summary": "Çalışma, Barwon Bebek Çalışması'ndaki 847 çocuğu izleyerek göbek kordonu kanı DNA metilasyonunun, doğum öncesi DEHP plastikleştirici maruziyeti ile otizm veya DEHB belirtileri arasındaki bağlantıya aracılık edip etmediğini test ediyor. Belirli metilasyon örüntüleri ve 531 genlik birlikte metillenmiş bir ağ ilişkiye aracılık etti; bulgular bağımsız kan ve beyin veri kümelerinde doğrulandı. Sınırlılıklar: tanı yerine belirti ölçeklerine dayanması ve etkilerin erkeklerde daha güçlü olması.",
+      "hn_url": "https://news.ycombinator.com/item?id=49940866",
+      "article_url": "https://www.sciencedirect.com/science/article/pii/S2666634026002941"
+    },
+    {
+      "rank": 7,
+      "title": "Epilepsy and multidimensional time: a perspective inspired by theoretical physics",
+      "points": 7,
+      "num_comments": 0,
+      "summary": "Bu perspektif makalesi, epileptik nöbetlerin öznel zamanın tek bir saatten değil, etkileşen birden fazla sinirsel süreçten doğduğunu gösteren doğal deneyler olduğunu öneriyor. Nörobilim, fenomenoloji ve fizikten esinlenen fikirleri birleştirerek, déjà vu ve zamanın hızlanması gibi nöbetle ilgili bozulmaların hiyerarşik sinirsel zaman ölçeklerindeki ve beden-beyin ritimlerindeki aksamaları yansıttığını savunuyor. Çerçeve, sinirsel dinamikler ve değişen zaman bilinci hakkında test edilebilir öngörüler sunuyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=49940309",
+      "article_url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1884775/full"
+    },
+    {
+      "rank": 8,
+      "title": "EV drivers love their cars, but some passengers feel sick – this could be why",
+      "points": 4,
+      "num_comments": 0,
+      "summary": "Sürücüler elektrikli araçlarını severken bazı yolcuların neden mide bulantısı yaşadığını ele alan bir BBC yazısı. Başlığa göre bu etki için olası açıklamalar inceleniyor. Makaleye erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=49947662",
+      "article_url": "https://www.bbc.co.uk/news/articles/c3y0zx822wlzo"
+    },
+    {
+      "rank": 9,
+      "title": "Should you be using a tongue-scraper?",
+      "points": 3,
+      "num_comments": 1,
+      "summary": "Dil kazıyıcının ağız hijyeni rutinine eklenmeye değer olup olmadığını soran bir Economist bilim yazısı. Makaleye erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=49944630",
+      "article_url": "https://www.economist.com/science-and-technology/2026/10/02/should-you-be-using-a-tongue-scraper"
+    },
+    {
+      "rank": 10,
+      "title": "Show HN: Terminal Gym – a Claude mod that makes you do pushups between prompts",
+      "points": 2,
+      "num_comments": 2,
+      "summary": "Terminal Gym, günlük vücut ağırlığı egzersiz hedeflerini ilerleme çubuğu, seri sayacı ve isteğe bağlı katı mod ile takip eden bir Claude Code eklentisi. Kullanıcılar tekrarları /fit komutlarıyla kaydediyor; setler 8 saatlik bir antrenman penceresine yayılıyor ve kullanıcı tempoya yetişene kadar istemler bekletiliyor. Tüm veriler yerel olarak saklanıyor, ağ çağrısı yapılmıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=49945600",
+      "article_url": "https://github.com/DrumAndCode/terminal-gym"
+    },
+    {
+      "rank": 11,
+      "title": "The right side of the brain shows more signs of aging than the left, new study",
+      "points": 2,
+      "num_comments": 0,
+      "summary": "Araştırmacılar, yerel beyin yaşlanmasını haritalamak için sağlıklı yetişkinlere ait 14.748 MR taramasıyla bir derin öğrenme modeli eğitti ve Alzheimer'lı bazıları dahil 1.985 kişide test etti. Beyin bölgeleri eşit olmayan hızda yaşlandı; sağ yarımküre sol yarımküreden sistematik olarak daha yüksek yerel beyin yaşı gösterdi, Alzheimer hastalarında ise hipokampus gibi yapılarda hızlanmış yaşlanma görüldü. Çekinceler: araştırma sınıfı taramalar ve sağlıklı eğitim verisi; uzunlamasına çalışmalar gerekiyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=49947329",
+      "article_url": "https://www.psypost.org/the-right-side-of-the-brain-shows-more-signs-of-aging-than-the-left-new-study-suggests/"
+    },
+    {
+      "rank": 12,
+      "title": "Boy with cerebral palsy passes GCSEs with eye-tracking technology",
+      "points": 2,
+      "num_comments": 0,
+      "summary": "Serebral palsili bir gencin göz takip teknolojisiyle GCSE sınavlarını geçmesini anlatan bir Guardian eğitim haberi. Makalenin web adresi, özel eğitim ihtiyacı ve engelli çocuklar için teknoloji desteğinin sınırlarına da değindiğini düşündürüyor. Sayfaya erişilemediği için bu özet yalnızca başlık ve adrese dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=49946385",
+      "article_url": "https://www.theguardian.com/education/2026/oct/02/patrick-mccabe-success-cheshire-reveals-limits-send-tech"
+    },
+    {
+      "rank": 13,
+      "title": "One in eight cancers globally caused by infections",
+      "points": 2,
+      "num_comments": 0,
+      "summary": "Başlığa göre, dünya genelinde her sekiz kanserden birinin enfeksiyonlara bağlı olduğunu tahmin eden bir Lancet Oncology makalesi. Tam metne erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=49944531",
+      "article_url": "https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(26)00307-4/fulltext"
+    },
+    {
+      "rank": 14,
+      "title": "Patient-zero drill put health facilities to the test—40% of them failed",
+      "points": 1,
+      "num_comments": 0,
+      "summary": "Test edilen sağlık tesislerinin %40'ının başarısız olduğu bir \"sıfır hasta\" hazırlık tatbikatı hakkında Ars Technica sağlık haberi. Makaleye erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=49943116",
+      "article_url": "https://arstechnica.com/health/2026/10/patient-zero-drill-put-health-facilities-to-the-test-40-of-them-failed/"
+    }
+  ]
+}
