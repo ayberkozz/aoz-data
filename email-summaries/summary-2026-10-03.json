@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-03",
+  "timestamp": "2026-10-04T07:21:16Z",
+  "total_emails": 1,
+  "summary": "Exactly one email arrived on 2026-10-03: the automated daily Healthpoint Hacker News digest covering stories from 02.10.2026, sent by the bot to itself and a small distribution list. It flagged 22 health/medicine/biotech-related Hacker News stories (colorectal cancer rising among the young, creatine and muscle without exercise, GLP-1 drug usage, AI in healthcare, etc.) plus the day's top 10 general Hacker News stories (Linux kernel vulnerabilities, Utah's VPN law ruling, DeepSeek Harness desktop, and others). No other emails were received that day.",
+  "emails": [
+    {
+      "from": "ayberkooz03@gmail.com",
+      "subject": "Günlük Hacker News Özeti – 02.10.2026",
+      "preview": "HEALTHPOINT - GUNLUK HACKER NEWS OZETI\n02 Ekim 2026 - 22 saglik haberi, 10 diger populer haber\n\n=== SAGLIK HABERLERI ===\n- [35p] Colorectal Cancer Is ",
+      "received_at": "2026-10-03T06:35:04Z"
+    }
+  ]
+}
