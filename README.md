@@ -1,6 +1,6 @@
 # aoz-data
 
-Private data store for the AOZ app. Scheduled Claude routines write daily JSON files into the folders below. Each new file pushed to `main` triggers a push notification to the app (see [`.github/workflows/notify-aoz.yml`](.github/workflows/notify-aoz.yml)).
+Scheduled Claude routines write daily JSON files into the folders below. Each new file pushed to `main` triggers a push notification to the app (see [`.github/workflows/notify-aoz.yml`](.github/workflows/notify-aoz.yml)).
 
 ## Folders
 
