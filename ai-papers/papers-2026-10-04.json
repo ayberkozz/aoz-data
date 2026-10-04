@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-04",
+  "timestamp": "2026-10-04T13:43:30Z",
+  "papers": [
+    {
+      "title": "Retrieved But Not Reliable: A Survey on Attacks, and Defenses in Retrieval-Augmented Generation",
+      "pdf_url": "https://arxiv.org/pdf/2608.24977",
+      "summary": "A pipeline-aware survey of RAG robustness covering corpus poisoning, backdoors, and privacy leakage, organized by the stage of the retrieval-generation pipeline each attack targets. It maps stage-specific defenses and highlights open problems for building trustworthy RAG systems.",
+      "page_count": 24
+    },
+    {
+      "title": "Safety in Self-Evolving Agents: A Survey",
+      "pdf_url": "https://arxiv.org/pdf/2610.00093",
+      "summary": "A survey of safety for LLM agents that continuously update reusable state (parameters, memory, tools, skills, workflows) from experience. It argues safety must be judged by whether properties persist through accumulation and cross-context generalization, and organizes threats and defenses accordingly.",
+      "page_count": 80
+    }
+  ]
+}
