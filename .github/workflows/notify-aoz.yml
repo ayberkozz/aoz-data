@@ -1,0 +1,63 @@
+name: Notify AOZ app
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "ai-papers/**.json"
+      - "hn-digests/**.json"
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Send push for each new digest file
+        env:
+          APNS_KEY_P8: ${{ secrets.APNS_KEY_P8 }}
+          APNS_KEY_ID: ${{ secrets.APNS_KEY_ID }}
+          APNS_TEAM_ID: TMRNPYF52J
+          APNS_DEVICE_TOKEN: ${{ secrets.APNS_DEVICE_TOKEN }}
+          APNS_TOPIC: com.ayberkoz.Accountant-of-AO
+          # Xcode-installed builds use the sandbox; set this variable to api.push.apple.com for TestFlight/App Store builds.
+          APNS_HOST: ${{ vars.APNS_HOST || 'api.sandbox.push.apple.com' }}
+          BEFORE: ${{ github.event.before }}
+          AFTER: ${{ github.sha }}
+        run: |
+          pip install --quiet pyjwt cryptography
+
+          JWT=$(python3 -c '
+          import jwt, os, time
+          print(jwt.encode({"iss": os.environ["APNS_TEAM_ID"], "iat": int(time.time())},
+                           os.environ["APNS_KEY_P8"], algorithm="ES256",
+                           headers={"kid": os.environ["APNS_KEY_ID"]}))')
+
+          if [ "$BEFORE" = "0000000000000000000000000000000000000000" ]; then BEFORE="$AFTER~1"; fi
+
+          git diff --name-only --diff-filter=A "$BEFORE" "$AFTER" -- 'ai-papers/*.json' 'hn-digests/*.json' |
+          while read -r file; do
+            folder=$(dirname "$file")
+            date=$(jq -r '.date' "$file")
+            if [ "$folder" = "ai-papers" ]; then
+              title="New AI Papers Digest"
+              body="$(jq '.papers | length' "$file") papers picked for $date"
+            else
+              title="New HN Digest"
+              body="$(jq '.health_stories | length' "$file") health stories, $(jq '(.other_stories // .top_stories // []) | length' "$file") other popular stories"
+            fi
+
+            payload=$(jq -n --arg t "$title" --arg s "$date" --arg b "$body" --arg f "$folder" \
+              '{aps: {alert: {title: $t, subtitle: $s, body: $b}, sound: "default", "content-available": 1}, folder: $f}')
+
+            echo "Notifying for $file"
+            curl --fail-with-body --http2 -sS \
+              -H "authorization: bearer $JWT" \
+              -H "apns-topic: $APNS_TOPIC" \
+              -H "apns-push-type: alert" \
+              -H "apns-priority: 10" \
+              -d "$payload" \
+              "https://$APNS_HOST/3/device/$APNS_DEVICE_TOKEN"
+          done
