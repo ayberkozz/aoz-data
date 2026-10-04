@@ -1,162 +1,153 @@
 {
   "date": "2026-10-03",
-  "timestamp": "2026-10-04T13:20:00Z",
+  "timestamp": "2026-10-04T13:24:25Z",
   "summary_language": "tr",
   "top_stories": [
     {
       "rank": 1,
-      "title": "Kolibri: A Sovereign Open-Weight Model",
-      "points": 625,
-      "num_comments": 318,
-      "summary": "Aleph Alpha'nın Kolibri adlı egemen, açık ağırlıklı yeni dil modelini duyurduğu anlaşılıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
-      "hn_url": "https://news.ycombinator.com/item?id=49942706",
-      "article_url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/"
-    },
-    {
-      "rank": 2,
-      "title": "Extra Big Ass Intelligence",
-      "points": 497,
-      "num_comments": 123,
-      "summary": "Başlığa göre 'Extra Big Ass Intelligence' adlı bir yapay zekâ projesi veya sitesi tanıtılıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
-      "hn_url": "https://news.ycombinator.com/item?id=49941114",
-      "article_url": "https://www.extrabigassintelligence.com/"
-    },
-    {
-      "rank": 3,
-      "title": "Newgrounds.com – A community of games, music, and art",
-      "points": 449,
-      "num_comments": 135,
-      "summary": "Newgrounds, oyun, müzik ve sanat paylaşılan köklü bir topluluk sitesi olarak gündeme gelmiş. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
-      "hn_url": "https://news.ycombinator.com/item?id=49940394",
-      "article_url": "https://www.newgrounds.com/"
-    },
-    {
-      "rank": 4,
-      "title": "Federal judge calls Flock 'indiscriminate mass surveillance'",
-      "points": 442,
-      "num_comments": 247,
-      "summary": "Bir federal yargıcın, Flock kamera sisteminin kullanımını 'ayrım gözetmeyen kitlesel gözetim' olarak nitelendirdiği bildiriliyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
-      "hn_url": "https://news.ycombinator.com/item?id=49948254",
-      "article_url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/"
-    },
-    {
-      "rank": 5,
-      "title": "Aleph Alpha Kolibri: How the sovereign German LLM works",
-      "points": 413,
-      "num_comments": 12,
-      "summary": "Yazı, Aleph Alpha'nın egemen Alman dil modeli Kolibri'nin nasıl çalıştığını anlatıyor gibi görünüyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
-      "hn_url": "https://news.ycombinator.com/item?id=49943034",
-      "article_url": "https://tej.as/blog/aleph-alpha-kolibri"
-    },
-    {
-      "rank": 6,
       "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
-      "points": 338,
+      "points": 342,
       "num_comments": 57,
-      "summary": "Valve'dan Timur Kristóf'un Linux'ta eski AMD ekran kartlarını iyileştirme çalışmalarından söz ediliyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "summary": "Valve'den Timur Kristóf, eski AMD GCN 1.0/1.1 ekran kartlarını AMDGPU çekirdek sürücüsüne taşıyan iyileştirmeler yaptı. Ekran kodu ve güç yönetimi düzeltmeleri sayesinde bu kartlar RADV Vulkan desteği kazanıyor ve yaklaşık %30 performans artışı sağlıyor.",
       "hn_url": "https://news.ycombinator.com/item?id=49946895",
       "article_url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU"
     },
     {
+      "rank": 2,
+      "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+      "points": 222,
+      "num_comments": 152,
+      "summary": "Yazı, Opus 5.5'in net bir bitiş tanımı verildiğinde uzun ve çok adımlı görevlerde çok iyi çalıştığını anlatıyor. Model zaten yanıttan önce akıl yürüttüğü için \"dikkatlice düşün\" gibi istemlerin kaldırılması, uzun işlerin CLAUDE.md kurallarıyla yönlendirilmesi öneriliyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=49946567",
+      "article_url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/"
+    },
+    {
+      "rank": 3,
+      "title": "Reasons I didn't become an EMT, ranked",
+      "points": 177,
+      "num_comments": 80,
+      "summary": "Yazılım mühendisi Ben Stolovitz, acil tıp teknisyeni (EMT) olmayı neden ertelediğini 21 maddede sıralıyor ve asıl engelin bilinmeyenden duyduğu korku olduğu sonucuna varıyor. Zaman, iş kültürü ve kariyer endişelerine rağmen sertifikasını alıp bir ambulans servisinde gönüllü çalışmaya başlamış; tıp öğrenmenin ve insanlara yardım etmenin ilk kaygıdan çok daha değerli olduğunu savunuyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=49947631",
+      "article_url": "https://ben.stolovitz.com/posts/reasons-not-emt-ranked/"
+    },
+    {
+      "rank": 4,
+      "title": "We want you to build the next Git platform on Cloudflare",
+      "points": 157,
+      "num_comments": 136,
+      "summary": "Cloudflare, yapay zekâ ajanları için optimize edilmiş yeni nesil bir Git platformu geliştirmek üzere Artifacts hizmeti ve Workers platformunu kullanan bir yarışma başlattı. Başvurular 14 Ekim 2026'ya kadar kabul ediliyor; kazanan ekip 25.000 dolar kredi ve Cloudflare Connect'e masrafları ödenmiş bir gezi kazanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=49947051",
+      "article_url": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/"
+    },
+    {
+      "rank": 5,
+      "title": "Surely you have ultra-wideband radios on your bins too?",
+      "points": 96,
+      "num_comments": 47,
+      "summary": "Yazar, altı çöp kutusunun toplanmak üzere dışarı konup konmadığını izleyen ultra geniş bant (UWB) tabanlı BinRange sistemini anlatıyor. Kutulara takılan özel yazılımlı etiketler, sabit bir çapa ve Home Assistant otomasyonu ile hatırlatmalar gönderiliyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=49947472",
+      "article_url": "https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/"
+    },
+    {
+      "rank": 6,
+      "title": "What Meta got right with Muse",
+      "points": 67,
+      "num_comments": 89,
+      "summary": "Yazıya göre Meta'nın Muse'u, araç seçimi karmaşasının yerine tek bir sohbet arayüzü ve \"kişisel yardımcı\" metaforu sunarak ajan tabanlı yapay zekâyı sadeleştiriyor. Meta'nın reklam geliri sayesinde cömert ücretsiz erişim sunabilmesi, token satışına bağlı rakipler için zor bir avantaj.",
+      "hn_url": "https://news.ycombinator.com/item?id=49946526",
+      "article_url": "https://metedata.substack.com/p/what-meta-got-right-with-muse"
+    },
+    {
       "rank": 7,
-      "title": "Hole Punch: Sling your spaceship around gravitational fields",
-      "points": 311,
-      "num_comments": 71,
-      "summary": "Hole Punch, uzay gemisini yerçekimi alanları etrafında fırlattığınız bir oyun gibi görünüyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
-      "hn_url": "https://news.ycombinator.com/item?id=49946393",
-      "article_url": "https://notoriousbfg.com/hole-punch/"
+      "title": "Our AI Midwife",
+      "points": 63,
+      "num_comments": 61,
+      "summary": "Altı yıldır açıklanamayan kısırlık yaşayan bir çift, ChatGPT'yi dramatik bir TV doktoru karakteri olarak yönlendirerek durumlarını analiz ettirmiş. Yapay zekânın önerdiği MRI, doktorların gözden kaçırdığı 6 santimetrelik bir miyomu ortaya çıkarmış; ameliyatın ardından çift doğal yoldan hamile kalmış. Yazar, kuşkuculuğa rağmen yapay zekâ araçlarının gerçek hayatta anlamlı faydalar sağlayabileceğini düşünüyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=49946873",
+      "article_url": "https://www.astralcodexten.com/p/our-ai-midwife"
     },
     {
       "rank": 8,
-      "title": "I quit OpenAI because its culture is broken",
-      "points": 297,
-      "num_comments": 533,
-      "summary": "Bir yazar, kültürünün bozuk olduğunu söyleyerek OpenAI'dan ayrıldığını anlatıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
-      "hn_url": "https://news.ycombinator.com/item?id=49944227",
-      "article_url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA"
+      "title": "RSS Feed Best Practices (2022)",
+      "points": 62,
+      "num_comments": 10,
+      "summary": "Yazı, blog beslemeleri yayımlamak için Atom veya RSS 2 gibi biçimleri ve mutlak URL'leri öneriyor. Besleme keşfi için HTML meta etiketleri, HTTPS, tam içerik, kararlı girdi kimlikleri, doğru yayın tarihleri ile önbellekleme ve koşullu istek desteği gibi pratikler sıralanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=49946845",
+      "article_url": "https://kevincox.ca/2022/05/06/rss-feed-best-practices/"
     },
     {
       "rank": 9,
-      "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
-      "points": 264,
-      "num_comments": 3,
-      "summary": "OpenAI'ın bir güvenlik yöneticisi, şirket kültürünün 'bozuk' olduğunu söyleyerek istifa etti. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
-      "hn_url": "https://news.ycombinator.com/item?id=49948332",
-      "article_url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken"
+      "title": "Two American Airlines Flights End Up with the Same Flight Numbers",
+      "points": 60,
+      "num_comments": 34,
+      "summary": "12 Ağustos 2026'da iki American Eagle bölgesel jeti, Philadelphia–Providence hattında aynı anda 5083 sefer numarasıyla uçtu. Kontrolörler yinelenen çağrı işaretini fark edip her iki ekibi bilgilendirdi; olay iki gün içinde ikinci kez yaşandı ve aksaklıkların gönderim prosedürlerini nasıl atlatabildiğini gösteriyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=49946827",
+      "article_url": "https://aviationa2z.com/index.php/2026/08/19/two-american-airlines-flights-end-up-with-same-flight-numbers-again/"
     },
     {
       "rank": 10,
-      "title": "Treachery in the Rodin Museum 3D scan verdict",
-      "points": 236,
-      "num_comments": 108,
-      "summary": "Rodin Müzesi'ndeki 3B tarama konusunda bir soruşturmanın sonucu açıklanıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
-      "hn_url": "https://news.ycombinator.com/item?id=49946355",
-      "article_url": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict"
+      "title": "Ban Flock Act Proposed in the US Sente",
+      "points": 58,
+      "num_comments": 6,
+      "summary": "Senatörler Bernie Sanders ve Jeff Merkley ile Temsilci Alexandria Ocasio-Cortez, federal kurumların plaka okuma sistemlerini kullanmasını yasaklayan Ban Flock Yasası'nı sundu. Tasarı, ülke genelinde 120.000'den fazla kamerası bulunan Flock Safety'yi hedef alıyor ve gizlilik endişelerine dikkat çekiyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=49947176",
+      "article_url": "https://www.sanders.senate.gov/press-releases/news-sanders-ocasio-cortez-merkley-unveil-ban-flock-act-to-protect-americans-right-to-privacy/"
     }
   ],
   "health_stories": [
     {
       "rank": 1,
-      "title": "ADHD, autism or complex trauma? [pdf]",
-      "points": 218,
-      "num_comments": 255,
-      "summary": "Makale, DEHB, otizm ve karmaşık travma ayrımının zorluğunu tartışıyor gibi görünüyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
-      "hn_url": "https://news.ycombinator.com/item?id=49946403",
-      "article_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/30CC4826561366615BFAEC807CDE28A7/S0007125026108046a.pdf/adhd-autism-or-complex-trauma-the-complicated-nature-of-the-question.pdf"
+      "title": "Reasons I didn't become an EMT, ranked",
+      "points": 177,
+      "num_comments": 80,
+      "summary": "Yazılım mühendisi Ben Stolovitz, acil tıp teknisyeni (EMT) olmayı neden ertelediğini 21 maddede sıralıyor ve asıl engelin bilinmeyenden duyduğu korku olduğu sonucuna varıyor. Zaman, iş kültürü ve kariyer endişelerine rağmen sertifikasını alıp bir ambulans servisinde gönüllü çalışmaya başlamış; tıp öğrenmenin ve insanlara yardım etmenin ilk kaygıdan çok daha değerli olduğunu savunuyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=49947631",
+      "article_url": "https://ben.stolovitz.com/posts/reasons-not-emt-ranked/"
     },
     {
       "rank": 2,
-      "title": "Things that apparently cause cancer",
-      "points": 209,
-      "num_comments": 77,
-      "summary": "Yazı, kansere neden olduğu iddia edilen çeşitli şeyleri ele alıyor gibi görünüyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
-      "hn_url": "https://news.ycombinator.com/item?id=49940219",
-      "article_url": "https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer"
-    },
-    {
-      "rank": 3,
-      "title": "Hair Loss Was Just the Start. Ozempic Users Are Also Reporting Nail Trouble",
-      "points": 66,
-      "num_comments": 71,
-      "summary": "Ozempic kullanıcıları saç dökülmesinin yanı sıra tırnak sorunları da bildiriyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
-      "hn_url": "https://news.ycombinator.com/item?id=49940505",
-      "article_url": "https://gizmodo.com/hair-loss-was-just-the-start-ozempic-users-are-also-reporting-nail-trouble-2000820821"
-    },
-    {
-      "rank": 4,
       "title": "Our AI Midwife",
       "points": 63,
       "num_comments": 61,
-      "summary": "Yazı, doğum ve ebelikle ilgili bir yapay zekâ uygulamasını anlatıyor gibi görünüyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "summary": "Altı yıldır açıklanamayan kısırlık yaşayan bir çift, ChatGPT'yi dramatik bir TV doktoru karakteri olarak yönlendirerek durumlarını analiz ettirmiş. Yapay zekânın önerdiği MRI, doktorların gözden kaçırdığı 6 santimetrelik bir miyomu ortaya çıkarmış; ameliyatın ardından çift doğal yoldan hamile kalmış. Yazar, kuşkuculuğa rağmen yapay zekâ araçlarının gerçek hayatta anlamlı faydalar sağlayabileceğini düşünüyor.",
       "hn_url": "https://news.ycombinator.com/item?id=49946873",
       "article_url": "https://www.astralcodexten.com/p/our-ai-midwife"
     },
     {
-      "rank": 5,
-      "title": "Prenatal exposure to the plasticizer DEHP increases autism and ADHD",
-      "points": 7,
-      "num_comments": 4,
-      "summary": "Çalışma, doğum öncesi DEHP plastikleştirici maruziyetinin otizm ve DEHB riskini artırdığını öne sürüyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
-      "hn_url": "https://news.ycombinator.com/item?id=49940866",
-      "article_url": "https://www.sciencedirect.com/science/article/pii/S2666634026002941"
-    },
-    {
-      "rank": 6,
-      "title": "Epilepsy and multidimensional time:a perspective inspired by theoretical physics",
-      "points": 7,
-      "num_comments": 0,
-      "summary": "Makale, epilepsiyi kuramsal fizikten esinlenen çok boyutlu zaman perspektifiyle ele alıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
-      "hn_url": "https://news.ycombinator.com/item?id=49940309",
-      "article_url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1884775/full"
-    },
-    {
-      "rank": 7,
+      "rank": 3,
       "title": "EV drivers love their cars, but some passengers feel sick – this could be why",
       "points": 4,
       "num_comments": 0,
-      "summary": "Elektrikli araç yolcularının neden mide bulantısı yaşadığı inceleniyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "summary": "Elektrikli araç sürücüleri araçlarından memnun olsa da bazı yolcular mide bulantısı yaşıyor; haber bunun olası nedenlerini ele alıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
       "hn_url": "https://news.ycombinator.com/item?id=49947662",
       "article_url": "https://www.bbc.co.uk/news/articles/c3y0zx822wlzo"
+    },
+    {
+      "rank": 4,
+      "title": "Scotland turns humble oats into world-class oatmeal porridge",
+      "points": 3,
+      "num_comments": 1,
+      "summary": "İskoçya'nın yulaf mirası, Ekim ayında Carrbridge'de düzenlenen Golden Spurtle Dünya Lapa Yapma Şampiyonası ile kutlanıyor. Onlarca ülkeden yarışmacılar yalnızca yulaf, su ve tuz kullanarak lapa yapıyor ve lezzet, doku ve ağızda bıraktığı his açısından değerlendiriliyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=49947202",
+      "article_url": "https://text.npr.org/nx-s1-5896224"
+    },
+    {
+      "rank": 5,
+      "title": "The right side of the brain shows more signs of aging than the left, new study",
+      "points": 2,
+      "num_comments": 0,
+      "summary": "Araştırmacılar, MRI taramalarını voksel düzeyinde analiz ederek beyindeki bölgesel yaşlanmayı haritalayan bir derin öğrenme modeli geliştirdi. Sağ yarımkürenin sol yarımküreden, ön ve şakak bölgelerinin de arka bölgelerden daha hızlı yaşlandığı görüldü; model Alzheimer ve hafif bilişsel bozukluk hastalarında hipokampus gibi bellek yapılarında hızlanmış yaşlanma tespit etti. Araştırmacılar bunun klinik kullanım öncesinde doğrulanması gereken bir araştırma aracı olduğunu vurguluyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=49947329",
+      "article_url": "https://www.psypost.org/the-right-side-of-the-brain-shows-more-signs-of-aging-than-the-left-new-study-suggests/"
+    },
+    {
+      "rank": 6,
+      "title": "A 17yo student spent 40 nights looking for a snake and discovered a new species",
+      "points": 2,
+      "num_comments": 0,
+      "summary": "Çin'in Zhejiang bölgesinden 17 yaşındaki öğrenci Hu Jiahao, Kuocang dağlarında 40'tan fazla gece arama yaptıktan sonra Achalinus mirabilis adlı yeni bir yılan türünü keşfetti. 2025 yazında beş örnek bulan genç, türün uluslararası bir dergide bilimsel olarak yayımlanmasını sağladı.",
+      "hn_url": "https://news.ycombinator.com/item?id=49947469",
+      "article_url": "https://www.eldebate.com/ciencia/20261002/estudiante-17-anos-paso-40-noches-buscando-serpiente-descubrio-nueva-especie-nunca-pense-rendirme_465027.html"
     }
   ]
 }
