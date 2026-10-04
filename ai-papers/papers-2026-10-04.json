@@ -1,21 +1,18 @@
 {
   "date": "2026-10-04",
-  "timestamp": "2026-10-03T21:55:01Z",
+  "timestamp": "2026-10-04T05:09:57Z",
   "papers": [
     {
-      "title": "Large Language Models: A Survey",
-      "pdf_url": "https://arxiv.org/pdf/2402.06196",
-      "summary": "A broad overview of how modern LLMs (GPT, LLaMA, PaLM families) work, covering their architectures, training techniques, datasets, and evaluation methods."
+      "title": "LoRA: Low-Rank Adaptation of Large Language Models",
+      "pdf_url": "https://arxiv.org/pdf/2106.09685",
+      "summary": "Introduces a parameter-efficient fine-tuning method that freezes the pretrained model and injects small trainable low-rank matrices into each layer, making it cheap to adapt huge language models to new tasks.",
+      "page_count": 13
     },
     {
-      "title": "A Survey of Large Language Models",
-      "pdf_url": "https://arxiv.org/pdf/2303.18223",
-      "summary": "One of the most widely cited LLM surveys, tracing the evolution from statistical to neural language models and explaining pre-training, adaptation, usage, and evaluation of LLMs."
-    },
-    {
-      "title": "Foundations of Large Language Models",
-      "pdf_url": "https://arxiv.org/pdf/2501.09223",
-      "summary": "A textbook-style introduction covering the core building blocks of LLMs: pre-training, generative modeling, prompting, alignment, inference, and reasoning."
+      "title": "The Rise and Potential of Large Language Model Based Agents: A Survey",
+      "pdf_url": "https://arxiv.org/pdf/2309.07864",
+      "summary": "A comprehensive survey of how LLMs are used as the 'brain' of autonomous agents, covering their architecture (perception, memory, planning, action), capabilities, applications, and evaluation.",
+      "page_count": 86
     }
   ]
 }
