@@ -1,0 +1,207 @@
+{
+  "date": "2026-10-04",
+  "timestamp": "2026-10-05T04:58:21Z",
+  "summary_language": "tr",
+  "top_stories": [
+    {
+      "rank": 1,
+      "title": "Tell HN: Bob Cringely has died",
+      "points": 840,
+      "num_comments": 181,
+      "summary": "Teknoloji belgeselcisi Bob Cringely 73 yaşında hayatını kaybetti. Apple'ın erken dönem çalışanlarından olan Cringely, \"Triumph of the Nerds\" belgeseli ve \"Accidental Empires\" kitabıyla tanınıyordu. Yorumlarda ise sonraki yıllardaki bazı tartışmalı iddiaları da anılıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=49949438",
+      "article_url": "https://news.ycombinator.com/item?id=49949438"
+    },
+    {
+      "rank": 2,
+      "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+      "points": 665,
+      "num_comments": 309,
+      "summary": "Strata, 125 milyar parametreli Qwen3.8-Flash-Next modelini 12 GB üzeri VRAM'e sahip tüketici ekran kartlarında yerel olarak çalıştırmayı sağlayan açık kaynaklı bir çıkarım motoru. Windows ve Linux için tek tıkla kurulum sunuyor ve localhost üzerinde OpenAI/Anthropic uyumlu API sağlıyor. Orta seviye ekran kartlarında saniyede 50-94 token hız bildiriliyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=49953495",
+      "article_url": "https://github.com/Niko1221/Strata"
+    },
+    {
+      "rank": 3,
+      "title": "We're going to need default hard budget caps on pretty much everything",
+      "points": 599,
+      "num_comments": 299,
+      "summary": "Simon Willison, bulut hizmetlerinin ve API'lerin varsayılan olarak sert bütçe sınırlarına sahip olması gerektiğini savunuyor. Kodlama ajanlarının kontrolsüz harcamalara yol açabildiğini, AWS ve Google Cloud'un yakın zamanda harcama limiti özellikleri getirdiğini belirtiyor. Sınırsız kullanımın ancak kullanıcının açık onayıyla mümkün olması gerektiğini söylüyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=49949235",
+      "article_url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/"
+    },
+    {
+      "rank": 4,
+      "title": "Federal judge calls Flock 'indiscriminate mass surveillance'",
+      "points": 480,
+      "num_comments": 266,
+      "summary": "Federal bir yargıç, bir Tulsa şerif yardımcısının Flock plaka veri tabanında izinsiz arama yapmasının Dördüncü Değişiklik'i ihlal ettiğine hükmetti ve uygulamayı \"ayrım gözetmeyen kitlesel gözetim\" olarak niteledi. Karar, Flock aramalarına karşı verilen ilk federal kararlardan biri. Birçok eyalet ve Senatör Bernie Sanders da teknolojiyi kısıtlamaya çalışıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=49948254",
+      "article_url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/"
+    },
+    {
+      "rank": 5,
+      "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
+      "points": 459,
+      "num_comments": 284,
+      "summary": "RemoveMacAI, macOS 27'de Apple Intelligence özelliklerini kapatan ve indirilen modelleri silerek disk alanı kazandıran bir komut satırı aracı. Siri, Yazı Araçları ve Genmoji gibi özellikleri bir yapılandırma profiliyle devre dışı bırakıyor ve modellerin yeniden indirilmesini engelliyor. Tüm değişiklikler geri alınabiliyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=49957116",
+      "article_url": "https://github.com/omlahore/RemoveMacAI"
+    },
+    {
+      "rank": 6,
+      "title": "Improper redaction reveals Google Data Center water and electricity usage",
+      "points": 309,
+      "num_comments": 425,
+      "summary": "Google'ın Lincoln'deki veri merkezi (Agate LLC), kaynak kullanımını gizli tutmaya çalıştı ancak hatalı karartma nedeniyle yılda 52,65 megawatt elektrik ve 13,3 milyon galon su tükettiği ortaya çıktı. Belgeler ayrıca Google'ın 2025 için 55,8 milyon dolarlık vergi iadesi beklediğini gösteriyor. Bu durum Nebraska'daki veri merkezi teşvikleri ve şeffaflık konusunda soru işaretleri doğuruyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=49957068",
+      "article_url": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/"
+    },
+    {
+      "rank": 7,
+      "title": "Why don't more developers “use the platform”?",
+      "points": 288,
+      "num_comments": 299,
+      "summary": "Nolan Lawson, geliştiricilerin neden tarayıcının yerleşik API'leri yerine özel çözümler yazmayı tercih ettiğini inceliyor. Tarihsel nedenleri, npm kütüphanelerine aşinalığı ve bir şeyleri kendin inşa etmenin keyfini sebep olarak gösteriyor. \"Platformu kullan\" tavsiyesinin doğru olduğunu ama bu tercihi yapan geliştiricileri anlayabildiğini söylüyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=49950554",
+      "article_url": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/"
+    },
+    {
+      "rank": 8,
+      "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
+      "points": 267,
+      "num_comments": 3,
+      "summary": "Guardian'a göre OpenAI'ın bir güvenlik lideri, şirketin kültürünün \"bozuk\" olduğunu söyleyerek istifa etti. Haber, yapay zekâ şirketlerindeki güvenlik öncelikleri tartışmasını yeniden alevlendirdi. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=49948332",
+      "article_url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken"
+    },
+    {
+      "rank": 9,
+      "title": "Car is a smartphone on wheels. Here's who's listening",
+      "points": 206,
+      "num_comments": 139,
+      "summary": "Northeastern Üniversitesi'nin çalışmasında 21 araç ve 30 eşlik eden mobil uygulama test edildi. 21 araçtan 19'u Wi-Fi üzerinden en az bir üçüncü tarafla iletişim kurdu ve mobil uygulamalar reklam izleyicilerine maruziyeti yaklaşık iki katına çıkardı. Araştırmacılar üreticilerin açıklamaları ile gerçek veri paylaşımı arasında büyük bir boşluk olduğunu belirtiyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=49954882",
+      "article_url": "https://automatictransmission.khoury.northeastern.edu/"
+    },
+    {
+      "rank": 10,
+      "title": "In Ukraine, distributed renewables foil Russia's assaults",
+      "points": 166,
+      "num_comments": 188,
+      "summary": "Ukrayna'da dağıtık yenilenebilir enerji sistemleri, Rusya'nın enerji altyapısına yönelik saldırılarını etkisiz kılmaya yardımcı oluyor. Küçük ve dağınık güneş ve rüzgâr kurulumları, tek bir büyük santrale kıyasla saldırılara karşı daha dayanıklı bir şebeke sağlıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=49951881",
+      "article_url": "https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/"
+    }
+  ],
+  "health_stories": [
+    {
+      "rank": 1,
+      "title": "Does Costco Cause Cancer?",
+      "points": 15,
+      "num_comments": 3,
+      "summary": "Harvard'lı araştırmacıların nükleer santrallerin kanser oranlarını artırdığını öne süren çalışmalarının yöntemi eleştirel bir analizde çürütülüyor. Aynı yöntem Costco ve üniversitelere uygulandığında Costco'ya 2,2 milyon ölüm atfetmek gibi saçma sonuçlar çıkıyor. Yazı, yöntemin yayımlanmadan önce doğrulanmadığını savunuyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=49955544",
+      "article_url": "https://marginalrevolution.com/marginalrevolution/2026/10/does-costco-cause-cancer.html"
+    },
+    {
+      "rank": 2,
+      "title": "Nearly 200 people under observation after Irkutsk lab worker dies from plague",
+      "points": 14,
+      "num_comments": 0,
+      "summary": "Irkutsk'taki bir veba önleme enstitüsünde çalışan bir laboratuvar görevlisi, canlı bakteri içeren bir tüpü kırdıktan sonra vebadan öldü. Temas ihtimali bulunan yaklaşık 200 kişi tıbbi gözetim altına alındı ve enfeksiyonun solunum yoluyla bulaşan pnömonik veba olduğu belirtildi. Yetkililer sakin olunması çağrısı yaptı; temaslıların hiçbirinde belirti yok ve testleri negatif.",
+      "hn_url": "https://news.ycombinator.com/item?id=49953191",
+      "article_url": "https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857"
+    },
+    {
+      "rank": 3,
+      "title": "Plague death triggers quarantine, mask mandates in Russia's Irkutsk region",
+      "points": 11,
+      "num_comments": 0,
+      "summary": "Irkutsk Veba Önleme Araştırma Enstitüsü'nde çalışan bir laboratuvar teknisyeni 2 Ekim'de patojen içeren tüpü kırması sonucu vebadan öldü. Bölgedeki hastanelerde ve bir alüminyum fabrikasında karantina ve maske zorunluluğu getirildi. Rus yetkililer nedeni vebayla ilişkilendirmekten kaçınıyor, bazıları ölümü \"nedeni bilinmeyen zatürre\" olarak tanımlıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=49956736",
+      "article_url": "https://kyivindependent.com/plague-death-triggers-quarantine-mask-mandates-in-russias-irkutsk-region-in-siberia/"
+    },
+    {
+      "rank": 4,
+      "title": "How Fried is My Brain?",
+      "points": 6,
+      "num_comments": 1,
+      "summary": "Sayfa yalnızca \"Beynim ne kadar kızarmış?\" sorusundan oluşan çok kısa bir içerik sunuyor. Kullanıcıyla etkileşime yönelik bir sayfa ya da eksik bir sayfa gibi görünüyor, ayrıntılı bir makale içermiyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=49956013",
+      "article_url": "https://howfriedismybrain.com/"
+    },
+    {
+      "rank": 5,
+      "title": "Scoop: White House monitors suspected plague outbreak in Russia",
+      "points": 5,
+      "num_comments": 2,
+      "summary": "Axios'a göre Beyaz Saray, Rusya'da şüphelenilen bir veba salgınını yakından izliyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=49957787",
+      "article_url": "https://www.axios.com/2026/10/04/russia-plague-outbreak-white-house-us"
+    },
+    {
+      "rank": 6,
+      "title": "Teens Who Can't Put Down TikTok and Instagram Are Losing Their Sense of Time",
+      "points": 3,
+      "num_comments": 1,
+      "summary": "WSJ'ye göre TikTok, Instagram Reels ve YouTube Shorts'u bırakamayan gençler zaman algılarını yitiriyor. Haber, kısa video kullanımının gençlerin geleceğe dönük zaman perspektifini nasıl etkilediği konusunu ele alıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=49956598",
+      "article_url": "https://www.wsj.com/tech/personal-tech/tiktok-instgram-reels-youtube-shorts-future-time-perspective-395d055a"
+    },
+    {
+      "rank": 7,
+      "title": "Spotify billionaire's body scan startup Neko Health has come to America",
+      "points": 3,
+      "num_comments": 0,
+      "summary": "Spotify'ın milyarder kurucusunun vücut tarama girişimi Neko Health, Amerika'ya açıldı. Girişim, tüm vücut taramasıyla sağlık verisi sunan hizmetini ABD pazarına taşıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=49955724",
+      "article_url": "https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/"
+    },
+    {
+      "rank": 8,
+      "title": "Simulating death can reduce people's fear of dying",
+      "points": 3,
+      "num_comments": 1,
+      "summary": "The Economist'e göre ölümü simüle etmek insanların ölüm korkusunu azaltabiliyor. Haber, bu konudaki bilimsel çalışmanın bulgularını ele alıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=49955029",
+      "article_url": "https://www.economist.com/science-and-technology/2026/09/30/simulating-death-can-reduce-peoples-fear-of-dying"
+    },
+    {
+      "rank": 9,
+      "title": "Lung cancers can use two different mechanisms to evade KRAS-inhibiting drugs",
+      "points": 3,
+      "num_comments": 0,
+      "summary": "MIT araştırmacıları, akciğer kanserlerinin KRAS inhibitörlerine direnci iki farklı mekanizmayla geliştirdiğini buldu: bazıları KRAS genini çoğaltıyor, bazıları ise adenokarsinomdan skuamöz hücreli karsinoma dönüşerek KRAS'a ihtiyaç duymaz hale geliyor. Nature Genetics'te yayımlanan bulgu, akciğer adenokarsinomlarının yaklaşık %25'inde görülen KRAS mutasyonlu hastalar için çoklu hedefli tedavi fikrini destekliyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=49954668",
+      "article_url": "https://news.mit.edu/2026/lung-cancers-can-use-two-different-mechanisms-evade-kras-inhibiting-drugs-0930"
+    },
+    {
+      "rank": 10,
+      "title": "Sugar from Outer Space Became One of the Backbones of Life on Earth",
+      "points": 3,
+      "num_comments": 1,
+      "summary": "Nautilus'taki yazı, uzaydan gelen bir şekerin Dünya'da yaşamın temel yapı taşlarından biri haline geldiğini anlatıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=49953890",
+      "article_url": "https://nautil.us/how-sugar-from-outer-space-became-one-of-the-backbones-of-life-on-earth-1285504"
+    },
+    {
+      "rank": 11,
+      "title": "Six biology breakthroughs that should have won a Nobel Prize–but didn't",
+      "points": 3,
+      "num_comments": 0,
+      "summary": "Science dergisi, Nobel Ödülü'nü hak ettiği halde alamayan altı biyoloji buluşunu ele alıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=49952863",
+      "article_url": "https://www.science.org/content/article/six-biology-breakthroughs-should-have-won-nobel-prize-didn-t"
+    },
+    {
+      "rank": 12,
+      "title": "Pediatric no-shows rose most among Latine patients after ICE operation",
+      "points": 2,
+      "num_comments": 0,
+      "summary": "AAP 2026 Ulusal Konferansı'nda sunulan araştırmaya göre, Chicago'daki Operation Midway Blitz göçmenlik operasyonu sonrası çocuk hastalarda randevuya gelmeme ve iptal oranları belirgin biçimde arttı. En büyük artış Latin kökenli ve İspanyolca konuşan hastalarda görüldü (ortalama 8,7 puan, diğerlerinde 1,6 puan) ve yalnızca Latin kökenli hastalarda 1.200'den fazla kaçırılan randevu saptandı.",
+      "hn_url": "https://news.ycombinator.com/item?id=49957120",
+      "article_url": "https://www.contemporarypediatrics.com/view/pediatric-no-shows-rose-most-among-latine-patients-after-ice-operation"
+    }
+  ]
+}
