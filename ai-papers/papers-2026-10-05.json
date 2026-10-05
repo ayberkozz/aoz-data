@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-05",
+  "timestamp": "2026-10-05T04:46:34Z",
+  "papers": [
+    {
+      "title": "Learning from Repaired Reasoning: Root-Cause-Guided On-Policy Distillation",
+      "pdf_url": "https://arxiv.org/pdf/2610.03515",
+      "summary": "Proposes an on-policy distillation method for LLM reasoning that locates the root-cause error in a student's failed reasoning trace and learns from a repaired version of it. This gives targeted token-level supervision on the student's own distribution rather than generic teacher imitation.",
+      "page_count": 15
+    },
+    {
+      "title": "All Work And No Play Makes Jack a Dull Boy: Understanding and Preventing Catastrophic Strategy Collapse in RLVR",
+      "pdf_url": "https://arxiv.org/pdf/2610.02835",
+      "summary": "Gives a theoretical account of why GRPO-style RLVR post-training collapses late in training: the objectives concentrate probability on a single reasoning strategy while accuracy needs a minimum strategy capacity. Introduces the Mirrored Entanglement Index as an online warning signal and Mesh Learning to preserve strategy diversity, with gains of up to 13.4 pp on reasoning benchmarks.",
+      "page_count": 84
+    }
+  ]
+}
