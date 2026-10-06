@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-06",
+  "timestamp": "2026-10-06T04:50:00Z",
+  "papers": [
+    {
+      "title": "Periscope: Extending Frozen Language Models Beyond Their Context Window",
+      "pdf_url": "https://arxiv.org/pdf/2610.04047",
+      "summary": "Training-free inference technique that arranges text chunks on a K×K grid and queries a frozen LLM about local and strided spans, letting a W-token window reach W²/c tokens at O(s^1.5) cost. Reading only ~9k tokens matches 32k–1M windows on LongBench v2, beats window-based baselines by 5 points on InfiniteBench, and lets a 27B model handle 4.5M-token contexts on one 80GB GPU.",
+      "page_count": 19
+    },
+    {
+      "title": "LLM-Based Agents for Software and Systems Security: Approaches, Applications, and Assessment",
+      "pdf_url": "https://arxiv.org/pdf/2608.28490",
+      "summary": "Systematic literature review of 100 papers (2023-2026) on LLM agents for security work, covering agent architecture, memory, reasoning and self-improvement, the security tasks addressed, and assessment methods. Concludes the field has agents able to act but not yet agents whose authority is bounded or whose behavior is auditable, and flags inconsistent terminology and incomparable evaluation protocols.",
+      "page_count": 72
+    }
+  ]
+}
