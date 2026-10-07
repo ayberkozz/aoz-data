@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-07",
+  "timestamp": "2026-10-07T05:00:00Z",
+  "papers": [
+    {
+      "title": "Memory for Autonomous LLM Agents: Mechanisms, Evaluation, and Emerging Frontiers",
+      "pdf_url": "https://arxiv.org/pdf/2603.07670",
+      "summary": "Survey that formalizes agent memory as a write-manage-read loop coupled with perception and action, with a three-dimensional taxonomy (temporal scope, representational substrate, control mechanism). Covers five mechanism families, from context compression and retrieval stores to reflective self-improvement and policy-learned management, and argues evaluation should move to multi-session, decision-grounded tests.",
+      "page_count": 15
+    },
+    {
+      "title": "A Survey of Context Engineering for Large Language Models",
+      "pdf_url": "https://arxiv.org/pdf/2507.13334",
+      "summary": "Systematic survey of over 1,400 papers that treats context engineering as a discipline, splitting it into context retrieval and generation, processing, and management. It then shows how these components combine into RAG, memory systems, tool-integrated reasoning, and multi-agent systems, and highlights a gap between models' ability to understand complex contexts and to generate equally sophisticated long outputs.",
+      "page_count": 166
+    }
+  ]
+}
