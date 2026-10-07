@@ -1,0 +1,171 @@
+{
+  "date": "2026-10-07",
+  "timestamp": "2026-10-07T04:56:41Z",
+  "summary_language": "tr",
+  "top_stories": [
+    {
+      "rank": 1,
+      "title": "Mistral Large 4",
+      "points": 1650,
+      "num_comments": 985,
+      "summary": "Mistral, Avrupa altyapısında eğitilen, 1 trilyon parametreli ve 49 milyar aktif parametreli çok modlu Mistral Large 4 modelini duyurdu. Model siber güvenlik, finans ve hukuk alanlarında açık modeller arasında en üst düzeyde, kodlama ve bilimsel görevlerde de güçlü sonuçlar veriyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=49977979",
+      "article_url": "https://mistral.ai/news/mistral-large-4/"
+    },
+    {
+      "rank": 2,
+      "title": "JetBrains reports revenue growth, net financial loss for 2025",
+      "points": 575,
+      "num_comments": 537,
+      "summary": "Çekya merkezli JetBrains'in 2025 geliri %6,3 artarak yaklaşık 16 milyar CZK'ya ulaştı. Buna rağmen şirket 315 milyon CZK net zarar açıkladı ve FAVÖK marjı %14,6'dan %5,73'e geriledi.",
+      "hn_url": "https://news.ycombinator.com/item?id=49977072",
+      "article_url": "https://www.helgilibrary.com/companies/jetbrains"
+    },
+    {
+      "rank": 3,
+      "title": "Nobel Prize in Physics 2026: Francis Halzen",
+      "points": 540,
+      "num_comments": 189,
+      "summary": "2026 Nobel Fizik Ödülü'nün Francis Halzen'e verildiği duyuruldu. Nobel sayfasına erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=49976265",
+      "article_url": "https://www.nobelprize.org/prizes/physics/2026/"
+    },
+    {
+      "rank": 4,
+      "title": "Mistral Large 4: \"Le Chonk\"",
+      "points": 518,
+      "num_comments": 5,
+      "summary": "Mistral'in yeni Large 4 modeli, 'Le Chonk' takma adıyla paylaşıldı. Açık modeller arasında siber güvenlik, finans ve hukukta öne çıkan model çok modlu ve 1 trilyon parametreli.",
+      "hn_url": "https://news.ycombinator.com/item?id=49978116",
+      "article_url": "https://mistral.ai/news/mistral-large-4/"
+    },
+    {
+      "rank": 5,
+      "title": "Polars 2.0",
+      "points": 423,
+      "num_comments": 97,
+      "summary": "Polars 2.0, diske taşma (spill-to-disk) desteğini varsayılan hale getiriyor ve SQL'i birinci sınıf bir özellik olarak sunuyor. Sürüm ayrıca yeni bir Map veri türü ve daha sıkı tür denetimi getiriyor; TPC-H ve TPC-DS testlerinde DuckDB ve DataFusion'dan hızlı olduğu belirtiliyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=49977177",
+      "article_url": "https://pola.rs/posts/release-polars-2/"
+    },
+    {
+      "rank": 6,
+      "title": "Meta’s Muse is an adorable privacy and security dumpster fire",
+      "points": 368,
+      "num_comments": 261,
+      "summary": "Techdirt'e göre Meta'nın yapay zekâ asistanı Muse, çıkışından bu yana ciddi gizlilik ve güvenlik sorunları yaşıyor. Özel mesajlara yetkisiz erişim ve kişiler hakkında ayrıntılı profil çıkarma gibi sorunlar bildirilirken, şirketin güvenlik ekiplerinin uyarılarına rağmen ürünü aceleyle çıkardığı öne sürülüyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=49977588",
+      "article_url": "https://www.techdirt.com/2026/10/06/metas-muse-is-an-adorable-privacy-and-security-dumpster-fire/"
+    },
+    {
+      "rank": 7,
+      "title": "Nature's capacity to 'bounce back' when species are lost is overestimated: study",
+      "points": 322,
+      "num_comments": 157,
+      "summary": "423 çalışmayı inceleyen küresel bir analiz, ekosistemlerin sanıldığından çok daha az yedekliliğe sahip olduğunu gösteriyor. Biyoçeşitlilik arttıkça ekosistem hizmetleri de istikrarlı biçimde artıyor; okyanusların karbon depolaması özellikle deniz çeşitliliğine bağlı.",
+      "hn_url": "https://news.ycombinator.com/item?id=49976823",
+      "article_url": "https://phys.org/news/2026-10-nature-capacity-species-lost-vastly.html"
+    },
+    {
+      "rank": 8,
+      "title": "Gleam doesn't compile to Erlang source anymore",
+      "points": 300,
+      "num_comments": 128,
+      "summary": "Gleam v1.19.0 ile derleyici artık Erlang kaynak kodu yerine Erlang soyut biçimleri üretiyor. Bu değişiklik derleme performansını artırıyor ve yığın izlerini özgün Gleam kaynağına bağlıyor; ayrıca JavaScript ve TypeScript tarafında iyileştirmeler var.",
+      "hn_url": "https://news.ycombinator.com/item?id=49975619",
+      "article_url": "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/"
+    },
+    {
+      "rank": 9,
+      "title": "Why Common Lisp is now the best programming language",
+      "points": 283,
+      "num_comments": 382,
+      "summary": "Yazar, LLM destekli geliştirmede hızlı geri bildirim döngüsü ve etkileşimli hata ayıklayıcısı sayesinde Common Lisp'in artık en iyi programlama dili olduğunu savunuyor. Fonksiyonları yeniden başlatmadan güncelleyebilmek ve makro sistemiyle alana özgü diller kurabilmek önemli avantajlar olarak sunuluyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=49973598",
+      "article_url": "https://www.vivienhenz.com/common-lisp"
+    },
+    {
+      "rank": 10,
+      "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
+      "points": 264,
+      "num_comments": 31,
+      "summary": "Google, metin, görüntü, ses ve videoda cihaz üzerinde anlamsal arama sağlayan, 740 milyon parametreli açık kaynaklı çok modlu EmbeddingGemma 2'yi yayımladı. Model 1 milyar parametreden küçük çok modlu gömme modelleri arasında lider skorlar elde ediyor ve metin modunda yalnızca 191 MB RAM ile çalışabiliyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=49980487",
+      "article_url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/"
+    }
+  ],
+  "health_stories": [
+    {
+      "rank": 1,
+      "title": "Utah to let AI examine patients and prescribe medication without human oversight",
+      "points": 113,
+      "num_comments": 115,
+      "summary": "Utah'ın, yapay zekânın hastaları insan gözetimi olmadan muayene etmesine ve ilaç yazmasına izin vereceği bildiriliyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=49981197",
+      "article_url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html"
+    },
+    {
+      "rank": 2,
+      "title": "LLMs may have helped my RSI",
+      "points": 65,
+      "num_comments": 32,
+      "summary": "Vaughan Hilts, yıllardır süren tekrarlayan zorlanma yaralanmasının (RSI) büyük dil modelleri sayesinde belirgin biçimde hafiflediğini anlatıyor. Kod üretimini LLM'e bırakıp tasarım ve incelemeye odaklanınca klavyede daha az zorlandığını, ağrı ve kol yorgunluğunun azaldığını söylüyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=49973644",
+      "article_url": "https://vaughanhilts.me/2026/10/05/llms-immensely-helped-my-rsi.html"
+    },
+    {
+      "rank": 3,
+      "title": "Screens Aren't Destroying Young Minds. I Should Know",
+      "points": 33,
+      "num_comments": 47,
+      "summary": "Gelişim psikoloğu Adam Omary, sosyal medya ile gençlerin ruh sağlığı arasındaki bağın küçük ve tutarsız olduğunu, düzenleme çağrılarının bilimsel dayanağının zayıf olduğunu savunuyor. Yalnızlık ve aile istikrarsızlığı gibi etkenlerin ekranlardan daha belirleyici olduğunu, gençlerin suç ve uyuşturucu göstergelerinin ise iyileştiğini vurguluyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=49978484",
+      "article_url": "https://humanprogress.org/screens-arent-destroying-young-minds-i-should-know/"
+    },
+    {
+      "rank": 4,
+      "title": "Weight-loss drugs show signs of slowing biological aging, say drugmakers",
+      "points": 20,
+      "num_comments": 9,
+      "summary": "Eli Lilly ve Novo Nordisk, GLP-1 türü kilo verme ilaçlarının moleküler 'yaşlanma saatleri'ne göre biyolojik yaşlanmayı iki ila üç yıl yavaşlattığını bildiriyor. Bilim insanları sağlıklı kişilerde fayda olup olmadığının henüz bilinmediğini ve ilaçların kas kaybı gibi yan etkileri olduğunu vurguluyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=49981728",
+      "article_url": "https://www.technologyreview.com/2026/10/06/1145836/weight-loss-drugs-glp1-lilly-novo-aging-clocks/"
+    },
+    {
+      "rank": 5,
+      "title": "Remote Live vs. Pre-Recorded Exercise Training for Chronic Low Back Pain (RCT)",
+      "points": 11,
+      "num_comments": 3,
+      "summary": "Rastgele kontrollü bir çalışma, kronik bel ağrısı için canlı görüntülü ya da önceden kaydedilmiş videolarla uzaktan egzersiz eğitiminin benzer şekilde ağrıyı %20'nin üzerinde azalttığını buldu. Yarar; öz-bildirimli sağlık, fiziksel aktivite ve yürüme hızındaki iyileşmelerle açıklanıyor, kadınlarda ağrı azalması erkeklere göre daha az görüldü.",
+      "hn_url": "https://news.ycombinator.com/item?id=49977813",
+      "article_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13619851/"
+    },
+    {
+      "rank": 6,
+      "title": "Women with same health conditions as men 'less likely to be offered treatment'",
+      "points": 4,
+      "num_comments": 5,
+      "summary": "Aynı sağlık sorunlarına sahip kadınların erkeklere kıyasla daha az tedavi önerildiği bildiriliyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=49982508",
+      "article_url": "https://www.theguardian.com/science/2026/sep/16/women-with-same-health-conditions-as-men-less-likely-to-be-offered-active-treatment"
+    },
+    {
+      "rank": 7,
+      "title": "Anti-aging interventions need less hype and more clinical evidence",
+      "points": 3,
+      "num_comments": 0,
+      "summary": "Yaşlanma karşıtı müdahalelerde abartının azaltılıp daha fazla klinik kanıta ihtiyaç duyulduğu savunuluyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=49983683",
+      "article_url": "https://www.nature.com/articles/s41591-026-04611-3"
+    },
+    {
+      "rank": 8,
+      "title": "The Youth Mental Health Crisis Is a Moral Panic",
+      "points": 3,
+      "num_comments": 1,
+      "summary": "Yazar, gençlerdeki ruh sağlığı krizi söyleminin sağlam kanıttan yoksun bir ahlaki panik olduğunu savunuyor. Kanada'da genç intiharlarının azaldığını, ruhsal hastalık artışının genel nüfusla paralel olduğunu ve medya anlatısının ABD'den eleştirisiz alındığını belirtiyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=49982778",
+      "article_url": "https://matteoraso.substack.com/p/the-youth-mental-health-crisis-is"
+    }
+  ]
+}
