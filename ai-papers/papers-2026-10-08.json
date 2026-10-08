@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-08",
+  "timestamp": "2026-10-08T05:00:00Z",
+  "papers": [
+    {
+      "title": "GraphForge: Training Working Agents with Graph-Anchored Workspace Synthesis",
+      "pdf_url": "https://arxiv.org/pdf/2609.38923",
+      "summary": "Presents an evidence-graph framework that synthesizes agent training tasks from real workspace files, deriving both the task statement and verification rubrics from the graph so each criterion is anchored to files. Fine-tuning Qwen3.6-27B on 2,169 trajectories improves GDPVal by 65.7 points and SpreadsheetBench II by 13.7, and rubric-based rejection fine-tuning yields further gains.",
+      "page_count": 15
+    },
+    {
+      "title": "The Landscape of Agentic Reinforcement Learning for LLMs: A Survey",
+      "pdf_url": "https://arxiv.org/pdf/2509.02547",
+      "summary": "Survey of over 500 works that frames agentic RL as temporally extended POMDPs, in contrast to the single-step MDPs of conventional LLM-RL. It organizes the field by agentic capabilities (planning, tool use, memory, reasoning, self-improvement, perception) and application domains, and compiles open-source environments, benchmarks, and frameworks.",
+      "page_count": 95
+    }
+  ]
+}
