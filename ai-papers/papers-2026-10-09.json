@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-09",
+  "timestamp": "2026-10-09T05:00:00Z",
+  "papers": [
+    {
+      "title": "AdaptEvo: Adaptive Agent Learning with Evolving Supervision",
+      "pdf_url": "https://arxiv.org/pdf/2610.11354",
+      "summary": "Targets rule-based decision tasks where written rules leave gaps and reference labels may disagree with the evidence. Confidence-Adaptive GRPO weights outcome and process rewards by label confidence, while an evolution loop distills reusable decision knowledge from recurring failures and refines rubrics. On Qwen3.6-35B-A3B it beats GRPO by 7.5 points in exact-label accuracy and holds up under changed rules where GRPO degrades.",
+      "page_count": 21
+    },
+    {
+      "title": "A Survey of Agentic Reasoning for Large Language Models: Towards Recursively Self-Improving and Collective Agents",
+      "pdf_url": "https://arxiv.org/pdf/2601.12538",
+      "summary": "Organizes agentic reasoning into three layers: single-agent planning and tool use, self-evolving agents that learn from feedback and memory, and collective multi-agent reasoning. It contrasts in-context reasoning with post-training (RL, SFT) approaches and covers applications and open challenges such as long-horizon interaction, world modeling and governance. Accepted at TMLR.",
+      "page_count": 135
+    }
+  ]
+}
