@@ -1,0 +1,207 @@
+{
+  "date": "2026-10-09",
+  "timestamp": "2026-10-09T04:58:00Z",
+  "summary_language": "tr",
+  "top_stories": [
+    {
+      "rank": 1,
+      "title": "Trump administration is suspending Microsoft from a green card program",
+      "points": 852,
+      "num_comments": 1457,
+      "summary": "ABD yönetiminin, Microsoft'u green card programından askıya aldığı bildiriliyor. Haber, H-1B ve kalıcı oturum süreçlerinde büyük teknoloji şirketlerinin etkilenmesine işaret ediyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50006832",
+      "article_url": "https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea"
+    },
+    {
+      "rank": 2,
+      "title": "Tell HN: I've been paying for a rural Tanzanian's education for 10 years",
+      "points": 678,
+      "num_comments": 208,
+      "summary": "Yazar, 10 yıl önce Tanzanya'nın Ibumila köyünde tanıştığı Anwarite'nin eğitim masraflarını o günden beri karşıladığını anlatıyor. Anwarite bu yaz Dar es Salaam Üniversitesi'nden mezun olmuş. Paylaşım, küçük bir yardımın uzun vadede nasıl fark yarattığını konu alıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50006366",
+      "article_url": "https://news.ycombinator.com/item?id=50006366"
+    },
+    {
+      "rank": 3,
+      "title": "Whistle: Speech to Text in 16.9 MB",
+      "points": 639,
+      "num_comments": 138,
+      "summary": "Whistle, CPU üzerinde çalışan 16,9 MB boyutunda açık bir konuşmadan metne modeli; yedi dili 11 ms ilk token süresiyle yazıya döküyor. Kelime zaman damgaları ve konuşma gömmeleri de sunuyor. Bazı testlerde Whisper base ve Moonshine tiny v2'yi geride bırakıyor, bazılarında ise Whisper base önde.",
+      "hn_url": "https://news.ycombinator.com/item?id=50008427",
+      "article_url": "https://cactuscompute.com/blog/whistle"
+    },
+    {
+      "rank": 4,
+      "title": "“Math 2.0” will need to value mathematical progress more holistically",
+      "points": 594,
+      "num_comments": 631,
+      "summary": "Terence Tao'nun Mathstodon paylaşımı, \"Matematik 2.0\" döneminde matematiksel ilerlemenin daha bütüncül biçimde değerlendirilmesi gerektiğini savunuyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50002008",
+      "article_url": "https://mathstodon.xyz/@tao/117395269325940185"
+    },
+    {
+      "rank": 5,
+      "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+      "points": 512,
+      "num_comments": 433,
+      "summary": "Yazar, DeepSeek 4.1 Flash'ı bir ay boyunca yoğun kullandığını ve Opus gibi öncü modellerden neredeyse ayırt edilemediğini, üstelik çok daha ucuz olduğunu söylüyor. Sektörün bu Çin modellerine yeterince tepki vermediğini savunuyor. Düşük maliyeti DeepSeek'in KV önbellek iyileştirmelerine bağlıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50000488",
+      "article_url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/"
+    },
+    {
+      "rank": 6,
+      "title": "I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities",
+      "points": 381,
+      "num_comments": 187,
+      "summary": "Yazar, aynı tek komutu GPT-6 Astra ve Claude Opus 5.5'e vererek Italo Calvino'nun Görünmez Kentler kitabı için three.js görselleştirmesi yaptırmış. İkisi de çalışan sonuç üretmiş; Opus 5.5 yaklaşık 85 dakikada bitirmiş ve yaklaşık 74 dolarlık API maliyeti çıkarmış. Yazar, yapay zekâ destekli tasarımın yaygınlaştığını belirtiyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50004790",
+      "article_url": "https://quesma.com/blog/invisible-cities-one-shot/"
+    },
+    {
+      "rank": 7,
+      "title": "OpenAI annualised revenues $20B less than previously signalled",
+      "points": 370,
+      "num_comments": 246,
+      "summary": "CNBC haberine göre OpenAI'ın yıllıklandırılmış geliri daha önce işaret edilenden 20 milyar dolar daha düşük. Haber Nvidia, Oracle ve CoreWeave gibi altyapı ortaklarına da değiniyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50008187",
+      "article_url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html"
+    },
+    {
+      "rank": 8,
+      "title": "Theranos.world",
+      "points": 351,
+      "num_comments": 126,
+      "summary": "Theranos.world, Theranos temalı bir ofis masasını gösteren etkileşimli 3D bir sahne. Sahnede MacBook, iPhone, bir Theranos cihazı ve yeşil meyve suyu bardağı var; dizüstü ekranı parolasız Elizabeth Holmes girişini gösteriyor. Not kâğıdı 22 Ekim'de San Francisco'da bir belgesel gösterimine davet ediyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50009295",
+      "article_url": "https://www.theranos.world/"
+    },
+    {
+      "rank": 9,
+      "title": "OpenAI Withdraws 3 Math Papers",
+      "points": 338,
+      "num_comments": 3,
+      "summary": "OpenAI'ın matematik deposundaki geçmiş kaydına göre, bir işaret hatası kilit bir argümanı geçersiz kıldığı için üç makale geri çekildi. 14 makale kanıt düzeltmeleriyle revize edildi, 13 makale de güncellenen eşlik eden makalelere atıf yapacak şekilde değiştirildi. Biçimsel doğrulanan sonuçların oranı yaklaşık %42'ye (719'da 300) çıktı.",
+      "hn_url": "https://news.ycombinator.com/item?id=50003107",
+      "article_url": "https://github.com/openai/math/blob/main/history.md"
+    },
+    {
+      "rank": 10,
+      "title": "Beauty in DVD Menus",
+      "points": 281,
+      "num_comments": 153,
+      "summary": "Yazı, 2000'lerin yaratıcı DVD menülerini sabit çözünürlük ve 2 bitlik alt görüntü gibi teknik sınırlar içinde nasıl tasarlandıklarıyla anlatıyor. Scooby-Doo 2, Rocky Horror, Wayne's World ve Doctor Who öne çıkan örnekler. Yazar, günümüz menülerinin sıradanlaştığından yakınıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50005527",
+      "article_url": "https://vale.rocks/posts/dvd-menus"
+    }
+  ],
+  "health_stories": [
+    {
+      "rank": 1,
+      "title": "ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)",
+      "points": 220,
+      "num_comments": 142,
+      "summary": "Frontiers in Psychiatry'de yayımlanan 2025 tarihli makale, DEHB'li kişilerin önemli bir alt grubunda akşamcıllık ve geç melatonin salınımı gibi sirkadiyen ritim bozukluklarının yaygın olduğunu savunuyor. Melatonin ve parlak ışık tedavisinin zamanlamayı kaydırabildiği ve bazı çalışmalarda semptomlarda iyileşmeyle ilişkilendirildiği belirtiliyor. Yazarlar, sabit uyanma saati ve sabah ışığı gibi davranışsal yaklaşımı standart tedaviye ek olarak öneriyor, daha sıkı çalışmalara ihtiyaç olduğunu vurguluyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50011928",
+      "article_url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full"
+    },
+    {
+      "rank": 2,
+      "title": "AI-ready biological data: $1.8B global commitment",
+      "points": 97,
+      "num_comments": 14,
+      "summary": "Biohub, ABD Enerji Bakanlığı, NIH ve yeni ortaklar, açık ve yapay zekâya hazır biyolojik veri üretmek için 1,8 milyar dolarlık uluslararası bir girişim duyurdu. Enerji Bakanlığı ve NIH'in her biri 500 milyon doları aşan katkı yapıyor; Google DeepMind, Isomorphic Labs ve Meta 300 milyon dolar yatırıyor. Amaç, insan hastalıklarının anlaşılmasını hızlandıracak tahminci biyoloji modelleri geliştirmek.",
+      "hn_url": "https://news.ycombinator.com/item?id=50011999",
+      "article_url": "https://biohub.org/news/virtual-biology-initiative-expansion/"
+    },
+    {
+      "rank": 3,
+      "title": "Vanillin provides a sweet solution for chronic wound healing",
+      "points": 31,
+      "num_comments": 4,
+      "summary": "Flinders Üniversitesi araştırmacıları, vanilya kapsüllerinde bulunan vanilinin antioksidan, iltihap giderici ve antibakteriyel özellikleriyle yara iyileştirme formülasyonları için umut vadettiğini buldu. Ucuz ve gıdada uzun süredir kullanılan bir bileşik olması, ülser tedavileri ve hedefli ilaç taşıma için avantaj sağlayabilir. Çalışma International Journal of Pharmaceutics'te yayımlandı.",
+      "hn_url": "https://news.ycombinator.com/item?id=50004542",
+      "article_url": "https://news.flinders.edu.au/blog/2026/10/06/vanillin-provides-a-sweet-solution-for-chronic-wound-healing/"
+    },
+    {
+      "rank": 4,
+      "title": "'Neither war nor peace': Palestinians in Gaza on existing amid disease despair",
+      "points": 24,
+      "num_comments": 2,
+      "summary": "Guardian haberi, Gazze'deki Filistinlilerin ne savaş ne barış olan bir belirsizlik içinde hastalık ve umutsuzlukla yaşamaya çalıştığını anlatıyor. Haber, yıkıntılar arasında yayılan hastalıklara ve insani koşullara odaklanıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50005741",
+      "article_url": "https://www.theguardian.com/world/2026/oct/07/palestinians-gaza-existing-amid-disease-despair-ruins"
+    },
+    {
+      "rank": 5,
+      "title": "LSD reconfigs cortex thru faster brain rhythms and increased fractal dimension",
+      "points": 15,
+      "num_comments": 4,
+      "summary": "Nature kaynaklı çalışma, LSD'nin korteksteki beyin ritimlerini hızlandırdığını ve fraktal boyutu artırdığını bildiriyor. Başlığa göre bu, beyin aktivitesinin yeniden yapılanmasına işaret ediyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50003541",
+      "article_url": "https://www.nature.com/articles/s42003-026-10629-7"
+    },
+    {
+      "rank": 6,
+      "title": "The mysterious pneumonia in Russia deserves attention, not panic",
+      "points": 8,
+      "num_comments": 1,
+      "summary": "Enfeksiyon hastalıkları hekimi Krutika Kuppalli, Sibirya'daki bir laboratuvar çalışanının açıklanamayan zatürreden ölümünün dikkat gerektirdiğini ama paniğe yol açmaması gerektiğini söylüyor. Rus yetkililer vebayı doğrulamadı ve yeni bir pandeminin başlangıcına dair kanıt yok. Rusya'nın biyolojik silah geçmişi nedeniyle şeffaflık ve bağımsız doğrulama talep edilmesi gerektiğini ekliyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50001197",
+      "article_url": "https://www.statnews.com/2026/10/06/russia-plague-reports-pneuomonia-siberia-expert-calm/"
+    },
+    {
+      "rank": 7,
+      "title": "New York Declares State of Emergency as Measles Cases Spread Fast",
+      "points": 6,
+      "num_comments": 1,
+      "summary": "New York Valisi Kathy Hochul, Pensilvanya'dan yayılan ve orada beş ölüme yol açan kızamık salgını nedeniyle eyalet genelinde olağanüstü hal ilan etti. Bu, 2025'teki kızamık artışından beri ilk böyle ilan. Hochul ayrıca eczacıların 2 yaş ve üzerine MMR aşısı yapmasına izin veren bir kararname çıkardı ve dozların üç gün içinde bildirilmesini şart koştu.",
+      "hn_url": "https://news.ycombinator.com/item?id=50008328",
+      "article_url": "https://www.techdirt.com/2026/10/07/new-york-declares-state-of-emergency-as-measles-cases-spread-fast/"
+    },
+    {
+      "rank": 8,
+      "title": "Carbon-A: DNA annotation model used to discover 566M new gene candidates",
+      "points": 6,
+      "num_comments": 0,
+      "summary": "Hugging Face'in biyoloji ekibi, DNA'dan protein kodlayan bölgeleri tahmin eden 1,2 milyar parametreli Carbon-A modelini yayımladı. Model, 42 kıyas genomunda temel modellerden daha iyi sonuç verdi. Ekip, 22.617 taksonda yaklaşık 566 milyon tahmini gen içeren Carbon Annotation Database'i oluşturdu.",
+      "hn_url": "https://news.ycombinator.com/item?id=50006853",
+      "article_url": "https://huggingface.co/blog/HuggingFaceBio/carbon-annotator-genbank-genome-annotation"
+    },
+    {
+      "rank": 9,
+      "title": "Bird masturbation appears natural across 120 species, challenging vet advice",
+      "points": 5,
+      "num_comments": 0,
+      "summary": "Lancashire Üniversitesi'nin Ecology and Evolution dergisindeki çalışması, 120 kuş türünde mastürbasyonun hem erkek hem dişilerde yaygın olduğunu buldu. Davranış, vahşi ve ebeveynlerince büyütülen kuşlarda esaret altındakilere göre daha sık. Araştırmacılar bunun evrimleşmiş doğal bir davranış olduğunu, engellemeye çalışmanın zarar verebileceğini savunuyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50000793",
+      "article_url": "https://phys.org/news/2026-06-bird-masturbation-natural-species-held.html"
+    },
+    {
+      "rank": 10,
+      "title": "An open vision-language model for diverse medical applications",
+      "points": 4,
+      "num_comments": 0,
+      "summary": "Nature Medicine'de yayımlanan makale, çeşitli tıbbi uygulamalar için açık bir görsel-dil modelini tanıtıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50010267",
+      "article_url": "https://www.nature.com/articles/s41591-026-04626-w"
+    },
+    {
+      "rank": 11,
+      "title": "Prehistoric global migration of vanishing gut microbes with humans",
+      "points": 4,
+      "num_comments": 1,
+      "summary": "Nature'da yayımlanan çalışma, yok olmakta olan bağırsak mikroplarının insanlarla birlikte tarih öncesi dönemde küresel göç ettiğini ele alıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50009980",
+      "article_url": "https://www.nature.com/articles/s41586-026-11106-1"
+    },
+    {
+      "rank": 12,
+      "title": "Pregnant women exposed to heatwaves 25% more likely to suffer complications",
+      "points": 4,
+      "num_comments": 1,
+      "summary": "The Independent haberine göre sıcak hava dalgalarına maruz kalan hamile kadınlarda komplikasyon görülme olasılığı %25 daha yüksek. Haber, iklim değişikliğinin gebelik sağlığına etkisine dikkat çekiyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50009797",
+      "article_url": "https://www.independent.co.uk/news/health/pregnancy-stillbirth-heatwave-climate-change-cop-b3060938.html"
+    }
+  ]
+}
