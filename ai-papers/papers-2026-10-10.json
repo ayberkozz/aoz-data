@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-10",
+  "timestamp": "2026-10-10T05:00:00Z",
+  "papers": [
+    {
+      "title": "HarnessSQL: Harness-Native Training for SQL Agents in Realistic Database Environments",
+      "pdf_url": "https://arxiv.org/pdf/2610.12274",
+      "summary": "Addresses the train-deploy mismatch in Text-to-SQL, where models are trained on static queries but deployed as multi-turn agents interacting with live databases. HarnessSQL keeps the full harness interaction throughout post-training: verified teacher trajectories from executable database environments feed full-sequence SFT, followed by execution-reward RL. It lifts Qwen3-8B from 15.5% to 45.2% and Qwen3-14B from 22.2% to 54.8% on Spider 2.0-SQLite, and transfers to BIRD-Interact and LiveSQLBench.",
+      "page_count": 24
+    },
+    {
+      "title": "Knowing the Store: What a Memory Backend Must Write Down Before an Agent Can Read It",
+      "pdf_url": "https://arxiv.org/pdf/2610.04794",
+      "summary": "Studies whether a long-term-memory agent can tell, before retrieving anything, that a stored record is stale (e.g. a cancelled plan), framed as metamemory monitoring over a value-free store summary. Across 148 questions on matched store variants, most models do no better than a cosine-similarity lookup over attribute names on short lists, and only some gain an edge once the attribute list grows. The results indicate what memory backends must record for agents to judge reliability.",
+      "page_count": 94
+    }
+  ]
+}
