@@ -1,0 +1,180 @@
+{
+  "date": "2026-10-10",
+  "timestamp": "2026-10-10T04:58:00Z",
+  "summary_language": "tr",
+  "top_stories": [
+    {
+      "rank": 1,
+      "title": "Cloudflare acquires Deno",
+      "points": 1120,
+      "num_comments": 576,
+      "summary": "Deno ekibinin tamamı, ayrı bir çalışma zamanı ve barındırma hizmeti yerine Workers ve Durable Objects etrafında ortak bir platform kurmak için Cloudflare'e geçiyor. Deno çalışma zamanı bir yıl daha aylık hata ve güvenlik güncellemeleri alacak, Deno Deploy ise altı ay sonra kapanacak. JSR, Cloudflare altyapısında çalışmaya devam edecek.",
+      "hn_url": "https://news.ycombinator.com/item?id=50019911",
+      "article_url": "https://deno.com/blog/cloudflare"
+    },
+    {
+      "rank": 2,
+      "title": "Sorry, I'm in a meeting",
+      "points": 815,
+      "num_comments": 246,
+      "summary": "Fleeting, insanların yakınında olduğunuzda meşgul olduğunuzu düşünmesi için uydurma toplantıların uzun sentetik kayıtlarını çalan bir web sitesi. Siteye geri bağlanan sahte takvim davetleri de oluşturulabiliyor. Tüm sesler ve isimler kurgusal; toplantıları otomatik olarak art arda zincirleme seçeneği de var.",
+      "hn_url": "https://news.ycombinator.com/item?id=50018088",
+      "article_url": "https://iminafleeting.com/"
+    },
+    {
+      "rank": 3,
+      "title": "Triple-A Minesweeper",
+      "points": 773,
+      "num_comments": 153,
+      "summary": "Başlığa göre Minesweeper (Mayın Tarlası) tarzı bir oyun sayfası; ancak sayfa içeriği kuralları veya özellikleri hakkında ayrıntı vermiyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50022292",
+      "article_url": "https://minesweeper.mikelacher.com/"
+    },
+    {
+      "rank": 4,
+      "title": "Our $445M Series D",
+      "points": 622,
+      "num_comments": 284,
+      "summary": "Oxide Computer, Eclipse liderliğinde, mevcut yatırımcılar, yeni yatırımcı Atreides Management ve stratejik yatırımcı AMD'nin katılımıyla 445 milyon dolarlık Seri D yatırımı aldı. Şirket bu bahar faaliyetlerinden vergi ödeyecek kadar gelir elde etti. Yeni sermaye, birikmiş siparişlerin karşılanmasına ve üretim kapasitesinin artırılmasına gidecek.",
+      "hn_url": "https://news.ycombinator.com/item?id=50020014",
+      "article_url": "https://oxide.computer/blog/our-445m-series-d"
+    },
+    {
+      "rank": 5,
+      "title": "US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
+      "points": 472,
+      "num_comments": 462,
+      "summary": "ABD'nin, eski bir yargıcın Nobel Barış Ödülü'nü kazanmasından saatler sonra Uluslararası Ceza Mahkemesi'ne (UCM) yaptırım uyguladığı bildiriliyor. Haber, ödül ile yaptırım kararının aynı güne denk gelmesine dikkat çekiyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50021066",
+      "article_url": "https://www.reuters.com/world/us-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09/"
+    },
+    {
+      "rank": 6,
+      "title": "Nobel Peace Prize for 2026 to Navanethem Pillay",
+      "points": 454,
+      "num_comments": 236,
+      "summary": "Nobel Komitesi, 2026 Nobel Barış Ödülü'nü Navanethem Pillay'e verdi. Pillay Güney Afrikalı bir hukukçu ve eski BM İnsan Hakları Yüksek Komiseri. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50018420",
+      "article_url": "https://www.nobelprize.org/prizes/peace/2026/press-release/"
+    },
+    {
+      "rank": 7,
+      "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
+      "points": 390,
+      "num_comments": 171,
+      "summary": "big-arrow-on-the-screen (bigarrow), Claude Code ve Codex için bir macOS komut satırı aracı ve yeteneği; yapay zekâ ajanlarının Mac ekranına büyük oklar, kutular ve metinler çizmesini sağlıyor. Katmanlar tıklamayı engellemiyor, klavye odağını değiştirmiyor ve belirli bir süre sonra kendiliğinden kayboluyor. MIT lisanslı, çizim için macOS izni gerekmiyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50018817",
+      "article_url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen"
+    },
+    {
+      "rank": 8,
+      "title": "Keyboard differences between Windows and Macs",
+      "points": 327,
+      "num_comments": 267,
+      "summary": "Yazı, özellikle hem Windows hem Mac kullanıcılarına hizmet veren web uygulamaları için klavye farklarını anlatan bir başvuru kılavuzu. Tuş adlarını, değiştirici tuşları (Windows Ctrl ile Mac Command), kısayol gösterimini, fonksiyon tuşlarını ve metin alanı davranışlarını ele alıyor. Ayrıca bazı kısayolların işletim sistemi veya tarayıcı tarafından ayrıldığını ve geçersiz kılınamadığını belirtiyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50015515",
+      "article_url": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/"
+    },
+    {
+      "rank": 9,
+      "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
+      "points": 324,
+      "num_comments": 206,
+      "summary": "İşten çıkarılan üç OpenAI güvenlik araştırmacısı, hassas bilgileri kötü yönettikleri iddialarını reddediyor. Açık mektupta, işten çıkarmaların çalışanların güvenlik endişelerini dile getirmesini caydırdığını savunuyorlar. OpenAI ise kararların bir usulsüzlük soruşturmasından kaynaklandığını, misilleme olmadığını söylüyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50018350",
+      "article_url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/"
+    },
+    {
+      "rank": 10,
+      "title": "Typesafe AI raises $870M at $7.5B",
+      "points": 310,
+      "num_comments": 229,
+      "summary": "TypeSafe AI, Andreessen Horowitz liderliğinde, Sequoia Capital ve DCVC'nin katılımıyla 7,5 milyar dolar değerleme üzerinden 870 milyon dolarlık Seri A yatırımı topladı. Martin Casado yönetim kuruluna katılıyor. Şirket Jev model ailesini genişletmeyi ve kurumsal özellikler eklemeyi planlıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50023450",
+      "article_url": "https://typesafe.ai/blog/series-ai"
+    }
+  ],
+  "health_stories": [
+    {
+      "rank": 1,
+      "title": "Scam American companies are using to manipulate ingredient lists",
+      "points": 81,
+      "num_comments": 83,
+      "summary": "Başlığa göre, bazı Amerikan şirketlerinin içerik listelerini yanıltıcı biçimde düzenlemek için kullandığı bir yöntem tartışılıyor. Konu gıda etiketlemesi ve tüketicilerin ürün içeriklerini doğru anlayabilmesi ile ilgili. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50023995",
+      "article_url": "https://twitter.com/WallStreetApes/status/2108594998656807078"
+    },
+    {
+      "rank": 2,
+      "title": "Study: Exercise increases cancer survival rates",
+      "points": 76,
+      "num_comments": 42,
+      "summary": "Başlığa göre, egzersizin kanserden sağ kalım oranlarını artırdığını gösteren bir çalışma New England Journal of Medicine'de yayımlanmış. Bulgular, fiziksel aktivitenin kanser tedavisi sonrası sağ kalımda rolü olabileceğine işaret ediyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50019741",
+      "article_url": "https://www.nejm.org/doi/10.1056/NEJMoa2502760"
+    },
+    {
+      "rank": 3,
+      "title": "Scientists discover 180k giant tortoises on one Seychelles island",
+      "points": 7,
+      "num_comments": 0,
+      "summary": "Başlığa göre, bilim insanları Seyşeller'deki tek bir adada yaklaşık 180 bin dev kaplumbağa keşfetti. Bu, türün korunması açısından önemli bir biyolojik bulgu. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50023315",
+      "article_url": "https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles"
+    },
+    {
+      "rank": 4,
+      "title": "ADHD and autism at risk of over-diagnosis, says UK government review",
+      "points": 6,
+      "num_comments": 0,
+      "summary": "Başlığa göre, İngiltere hükümetinin bir incelemesi DEHB ve otizmde aşırı tanı riskine dikkat çekiyor. Konu ruh sağlığı ve nörogelişimsel durumların tanı süreçleriyle ilgili. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50014470",
+      "article_url": "https://www.bbc.com/news/articles/crkg7n1ypj24o"
+    },
+    {
+      "rank": 5,
+      "title": "Twin study sheds new light on screen time and mental health",
+      "points": 5,
+      "num_comments": 0,
+      "summary": "Karolinska Enstitüsü'nün Nature Human Behaviour'da yayımlanan ikiz çalışması, yoğun ekran kullanımı ile gençlerdeki ruh sağlığı sorunları arasındaki ilişkinin büyük bölümünün ortak ailesel etkilerden (kalıtsal özellikler, çocukluk ortamı) kaynaklanabileceğini gösteriyor. Bu, ekran süresinin tek başına bu bağlantıyı çok açıklamayabileceği anlamına geliyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50016732",
+      "article_url": "https://news.ki.se/twin-study-sheds-new-light-on-screen-time-and-mental-health"
+    },
+    {
+      "rank": 6,
+      "title": "Feds sold lab equipment that exposed US to 'severe bioterrorism threat'",
+      "points": 5,
+      "num_comments": 0,
+      "summary": "ABD Hükümet Hesap Verebilirlik Ofisi (GAO) raporuna göre HHS ve USDA, 2022-2025 arasında 1.316 laboratuvar ekipmanı sattı; bunların dokuzu ihracat kontrollü ekipmandı. Kurumlar bu satışların biyogüvenlik risklerini değerlendirmedi. GAO, sahte kimliklerle riskli olabilecek dört ekipman edindi ve dört öneri sundu.",
+      "hn_url": "https://news.ycombinator.com/item?id=50022447",
+      "article_url": "https://www.cidrap.umn.edu/biosecurity-issues/feds-sold-lab-equipment-exposed-us-severe-bioterrorism-threat-report-says"
+    },
+    {
+      "rank": 7,
+      "title": "Plague scare: what scientists know",
+      "points": 4,
+      "num_comments": 0,
+      "summary": "Başlığa göre, Nature, veba salgını endişesine ilişkin bilim insanlarının bildiklerini özetliyor. Konu bulaşıcı hastalıklar ve halk sağlığı ile ilgili. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50023731",
+      "article_url": "https://www.nature.com/articles/d41586-026-03215-8"
+    },
+    {
+      "rank": 8,
+      "title": "How people use social media may matter more than screen time for mental health",
+      "points": 4,
+      "num_comments": 0,
+      "summary": "Exeter Üniversitesi'nin 304 yetişkin üzerindeki çalışması, insanların sosyal medyayı nasıl düşündüğü ve duygusal olarak ne kadar bağlandığının, kullanım süresi kadar önemli olabileceğini gösteriyor. Süre depresif belirtilerle, duygusal bağlılık ise kaygıyla daha çok ilişkili. Çalışma kesitsel olduğundan neden-sonuç kurulamıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50023136",
+      "article_url": "https://news.exeter.ac.uk/faculty-of-humanities-arts-and-social-sciences/focus-on-social-media-engagement-not-just-screen-time-essential-to-help-protect-mental-health/"
+    },
+    {
+      "rank": 9,
+      "title": "Scientists Spotted a Giant New Species in the Background of an Instagram Selfie",
+      "points": 4,
+      "num_comments": 0,
+      "summary": "Bilim insanları, 2021'de Kolombiya'nın Inírida bölgesinde çekilmiş bir Instagram selfie'sinde fark edilen dev nilüfer türünü Victoria colombiana adıyla resmen tanımladı. Uydu görüntüleriyle doğrulanan bitkilerden yedisi beş günlük bir keşif gezisinde bulundu. Doğada yalnızca 30-50 bitki kaldığı tahmin edildiğinden tür kritik derecede tehlikede olabilir.",
+      "hn_url": "https://news.ycombinator.com/item?id=50016136",
+      "article_url": "https://gizmodo.com/someone-posted-an-instagram-selfie-scientists-spotted-a-giant-new-species-in-the-background-2000823673"
+    }
+  ]
+}
