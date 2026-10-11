@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-11",
+  "timestamp": "2026-10-11T04:46:53Z",
+  "papers": [
+    {
+      "title": "Event-Centric Memory with Query-Aware Graph Augmentation for Long-Term Conversational Agents",
+      "pdf_url": "https://arxiv.org/pdf/2610.11920",
+      "summary": "Proposes QGMem, which organizes dialogue history into event-indexed memory units consolidated into traces, then uses hybrid retrieval with query-aware reranking to build a compact working memory. The working memory is encoded as a local graph token passed to the LLM, improving multi-hop reasoning and conflict resolution across six benchmarks.",
+      "page_count": 17
+    },
+    {
+      "title": "Caught in the Act: Probes Effectively Detect Sabotage and Catch Unverbalized Deception",
+      "pdf_url": "https://arxiv.org/pdf/2610.12445",
+      "summary": "Trains white-box probes on FIBS, the largest deception dataset to date, using an architecture that aggregates across layers and tokens. The probes reach 98.8% AUC on SHADE-Arena sabotage, beat a text-monitor baseline, and improve with model scale, while also detecting introspective deception.",
+      "page_count": 98
+    }
+  ]
+}
