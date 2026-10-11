@@ -1,0 +1,234 @@
+{
+  "date": "2026-10-11",
+  "timestamp": "2026-10-11T05:00:02Z",
+  "summary_language": "tr",
+  "top_stories": [
+    {
+      "rank": 1,
+      "title": "REA Reverse – Engineer Anything",
+      "points": 722,
+      "num_comments": 312,
+      "summary": "REA, bir kodlama ajanına bağlanarak ona tersine mühendislik yetenekleri kazandıran bir araç; çalıştırılabilir dosyaları, uygulama kodunu ve tarayıcı etkinliğini inceleyip yazılımın nasıl çalıştığını açıklıyor. Sayfa, Chrome'daki dinozor oyununun hız kuralını ve Windows Hesap Makinesi'nin yüzde mantığını çözerek örnek veriyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50028275",
+      "article_url": "https://rea.tools/"
+    },
+    {
+      "rank": 2,
+      "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
+      "points": 667,
+      "num_comments": 351,
+      "summary": "Kanadalı YouTuber Anthony Sistilli, polis araçlarını izlemek için kendi plaka tanıma kamerasını yaptı ve Peel Bölge Polisi'nden iki memur niyetini sormak için kendisini ziyaret etti. Olay, kameraları halka karşı rahatça kullanan polisin aynı teknoloji kendisine çevrilince rahatsız olmasındaki çifte standardı gösteriyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50026555",
+      "article_url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306"
+    },
+    {
+      "rank": 3,
+      "title": "Lobbying is corruption",
+      "points": 475,
+      "num_comments": 269,
+      "summary": "Yazar, George Hotz'un ABD'deki kampanya finansmanı ve etki üzerine açıklamasına yanıt vererek lobiciliğin yolsuzluk olduğunu savunuyor. Wikipedia tanımına dayanarak, aradaki tek farkın yasallık olduğunu ve ikisinin aslında aynı şey olduğunu söylüyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50032556",
+      "article_url": "https://carette.xyz/posts/lobbying_and_corruption/"
+    },
+    {
+      "rank": 4,
+      "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
+      "points": 435,
+      "num_comments": 277,
+      "summary": "Bir araştırmacı, Telegram Desktop'ın tek örnek IPC mekanizmasında komut ayırıcının kaçışlanmadığını ve hazırlanmış bir bağlantıyla çalışan uygulamaya komut enjekte edilebildiğini buldu. Yerel dosyaları yetkisiz okuyup yükleyen dahili bir işlevle birleşince tek tıklamayla hesap ele geçirilebiliyordu. Açık CVE-2026-107181 olarak izleniyor ve Telegram Desktop 7.2.9'da düzeltildi.",
+      "hn_url": "https://news.ycombinator.com/item?id=50029123",
+      "article_url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/"
+    },
+    {
+      "rank": 5,
+      "title": "`123456' password used in Danish CPR data breach",
+      "points": 382,
+      "num_comments": 194,
+      "summary": "Danimarka'nın CPR kişisel kimlik verilerinin yer aldığı büyük bir veri ihlalinde '123456' parolasının kullanıldığı bildiriliyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50031269",
+      "article_url": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/"
+    },
+    {
+      "rank": 6,
+      "title": "Bitwarden Dual License Model",
+      "points": 363,
+      "num_comments": 262,
+      "summary": "Bitwarden, uygulama mağazalarındaki sürümlerin ticari lisanslı derlemelere geçeceğini, GPLv3 sürümünün ise GitHub'da kalacağını duyurdu. Çalışanlar kendi sunucusunda barındırmanın değişmediğini, bazı gelecek bileşenlerin yalnızca ticari lisansla yayımlanacağını belirtti. Topluluk, açık kaynaktan geri dönüş ihtimali konusunda endişe dile getirdi.",
+      "hn_url": "https://news.ycombinator.com/item?id=50033407",
+      "article_url": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750"
+    },
+    {
+      "rank": 7,
+      "title": "The Lightbulb Computer",
+      "points": 316,
+      "num_comments": 46,
+      "summary": "Yazı, bir projektör ile bilgisayarlı görüyü büyük bir ampul biçiminde birleştiren, standart duvar duyuluna takılabilen spekülatif 'Işık Ampulü Bilgisayar' fikrini öneriyor. Kullanıcılar işaret ederek akıllı ev cihazlarını kontrol edebiliyor, tarif ve harita gibi içerikleri gerçek yüzeylere yansıtabiliyor. Yazar bunu ekranlara ve gözlüklere göre daha az yalnızlaştırıcı bir alternatif olarak sunarken gizliliğin merkezde olması gerektiğini vurguluyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50029487",
+      "article_url": "https://lightbulbcomputer.com/"
+    },
+    {
+      "rank": 8,
+      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+      "points": 270,
+      "num_comments": 124,
+      "summary": "Talorys, kendi Cloudflare hesabınızda çalışan, ücretsiz ve açık kaynaklı kişisel bir yapay zekâ asistanı; sohbet, hafıza, görev, not ve zamanlanmış hatırlatıcı sunuyor. Tek kullanıcı için tasarlanmış ve Cloudflare'in ücretsiz katmanında çalışıyor. Tek bir npx komutuyla kurulup parola korumalı bir web arayüzü sağlıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50031614",
+      "article_url": "https://github.com/rociiu/talorys"
+    },
+    {
+      "rank": 9,
+      "title": "Apple/macOS removed from official Unix registry",
+      "points": 268,
+      "num_comments": 224,
+      "summary": "Bağlantı, Open Group'un UNIX sertifikalı ürünler kaydına işaret ediyor; ancak sayfada IBM, HPE ve SCO ürünleri listeleniyor ve Apple veya macOS'tan söz edilmiyor. Başlık, macOS'un resmî kayıttan çıkarıldığını öne sürüyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50031653",
+      "article_url": "https://www.opengroup.org//openbrand/register/"
+    },
+    {
+      "rank": 10,
+      "title": "A city-building game in which the city would prefer you didn't",
+      "points": 245,
+      "num_comments": 87,
+      "summary": "Sayfa, 2015 yılı Ocak ayında San Francisco'da geçen 'Discretionary Review' adlı bir konut simülasyonunun arayüzü; yükseklik sınırları, bölgeler, ev sahibi koalisyonları ve konut değerleri gibi katmanlar sunuyor. Başlığa göre oyunda şehir, oyuncunun yaptıklarına direniyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50036864",
+      "article_url": "https://housing.over.pizza/"
+    }
+  ],
+  "health_stories": [
+    {
+      "rank": 1,
+      "title": "FDA may allow some toxic chemicals to be added to food without safety review",
+      "points": 180,
+      "num_comments": 85,
+      "summary": "Guardian'ın analizine göre FDA, bazı toksik kimyasalların gıdalara güvenlik incelemesi yapılmadan eklenmesine izin verebilir. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50033638",
+      "article_url": "https://www.theguardian.com/us-news/2026/oct/10/fda-toxic-chemicals-food-analysis"
+    },
+    {
+      "rank": 2,
+      "title": "Clinical trial of a prion disease drug candidate begins enrolling participants",
+      "points": 162,
+      "num_comments": 44,
+      "summary": "Broad Enstitüsü ve UMass Chan Tıp Fakültesi bilim insanları, prion hastalığına yol açan hatalı katlanmış prion proteininin üretimini azaltmayı hedefleyen bir küçük girişimci RNA ilacı geliştirdi. Faz 1 PRiSM çalışması, güvenlik ve dozu değerlendirmek için 15 semptomatik hasta ile 15 tedavisiz gözlem katılımcısı alıyor. Çalışma NINDS'in NeuroNEXT programı tarafından finanse ediliyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50028027",
+      "article_url": "https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants"
+    },
+    {
+      "rank": 3,
+      "title": "Food processing influences metabolism and brain activity",
+      "points": 125,
+      "num_comments": 95,
+      "summary": "Virginia Tech'ten bir araştırmanın, gıda işlemenin metabolizmayı ve beyin aktivitesini etkilediğini gösterdiği bildiriliyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50029830",
+      "article_url": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html"
+    },
+    {
+      "rank": 4,
+      "title": "PVX-001: open-source Covid-19 vaccine starts Phase 1 trial",
+      "points": 123,
+      "num_comments": 29,
+      "summary": "Hindistanlı yapay zekâ destekli biyoteknoloji şirketi PopVax, gelecekteki varyantlara karşı koruma hedefleyen COVID-19 aşı adayı PVX-001'in Faz 1 çalışmasında 31 Ağustos 2026'da ilk katılımcılara doz verdi. 6 Ekim itibarıyla planlanan 36 gönüllüden 14'üne doz verildi ve ciddi yan etki bildirilmedi. Aşı, mRNA kodlu virüs benzeri parçacık tasarımı ve buzdolabında saklanabilen lipit nanoparçacık kullanıyor; şirket çalışma sonrası tasarımı açık kaynak yapmayı planlıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50033721",
+      "article_url": "https://chronicles.popvax.com/p/popvax-goes-clinical"
+    },
+    {
+      "rank": 5,
+      "title": "How Protein Took over the World",
+      "points": 64,
+      "num_comments": 150,
+      "summary": "Financial Times'ın yazısı, proteinin beslenme ve gıda dünyasında nasıl öne çıktığını ele alıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50034008",
+      "article_url": "https://www.ft.com/content/e26574cf-94cc-40d9-921e-5c7417fc5dbd"
+    },
+    {
+      "rank": 6,
+      "title": "A new look at brains transformed by psychedelics",
+      "points": 15,
+      "num_comments": 3,
+      "summary": "Ars Technica, psikedeliklerle dönüşen beyinlerin dışarıdan kaotik görünse de altında bir düzen barındırdığını anlatıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50037024",
+      "article_url": "https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/"
+    },
+    {
+      "rank": 7,
+      "title": "Proposed U.S. census changes could be catastrophic for public health",
+      "points": 10,
+      "num_comments": 1,
+      "summary": "Bir Harvard epidemiyoloğu, 2030 ABD nüfus sayımı için önerilen üç değişikliğin nüfus sayımlarını küçültüp çarpıtacağını, böylece hastalık veya bakımda gerçek bir değişiklik olmadan sağlık oranlarının sıçramış gibi görüneceğini savunuyor. Bunun ırksal ve diğer sağlık eşitsizliklerini veriden sileceği ve federal fonları ile sağlık anketlerini zayıflatacağı uyarısı yapılıyor. Kamuoyu 2 Kasım'a kadar öneriye karşı görüş bildirmeye çağrılıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50035805",
+      "article_url": "https://www.statnews.com/2026/10/09/2030-census-public-health-data-equity-morbidity-mortality/"
+    },
+    {
+      "rank": 8,
+      "title": "1.7B-year-old fossils reveal a crucial clue to the rise of complex life",
+      "points": 7,
+      "num_comments": 0,
+      "summary": "Avustralya kaya karotlarını inceleyen araştırmacılar, 1,75 milyar yıla kadar uzanan, bilinen en eski ökaryotlardan 12.000'den fazla fosil buldu. Karmaşık hücreler yalnızca oksijenli ortamlarda görülürken oksijensiz ortamlarda sadece daha basit mikroplar bulundu. Bulgular, oksijenin karmaşık yaşamın erken evriminde temel olduğu görüşünü destekliyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50028441",
+      "article_url": "https://www.sciencedaily.com/releases/2026/09/260925005447.htm"
+    },
+    {
+      "rank": 9,
+      "title": "5-MeO-DMT sometimes cancels the Ebbinghaus illusion",
+      "points": 6,
+      "num_comments": 1,
+      "summary": "Qualia Research Institute inzivasındaki bir kendi kendine deneyde Sasha Putilin, dikkatini görüntünün merkezine verdiğinde 5-MeO-DMT altında Ebbinghaus yanılsamasının neredeyse tamamen ortadan kalktığını bildirdi. Etkiyi iradeyle kontrol edilebilir bulsa da daha yüksek dozlu sonraki deneyimde değişiklik olmadı. Daha büyük çalışmalar çağırıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50033770",
+      "article_url": "https://psychotechnology.substack.com/p/5-meo-dmt-sometimes-cancels-the-ebbinghaus"
+    },
+    {
+      "rank": 10,
+      "title": "Is AI Psychosis Real?",
+      "points": 5,
+      "num_comments": 6,
+      "summary": "Yazar, ürün planlamasında ve tartışma sorularında Claude'a güvenen ve yapay zekâyı kendinden üstün gören bir arkadaşını anlatarak bunun 'yapay zekâ psikozu' mu, ciddi bir düşünce kayması mı yoksa abartı mı olduğunu soruyor. Etiket ne olursa olsun yapay zekânın toplum üzerindeki etkisinin büyük olacağı sonucuna varıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50035011",
+      "article_url": "https://debarshibasak.github.io/readables/blogs/ai-psychosis-is-real"
+    },
+    {
+      "rank": 11,
+      "title": "'Like a drill going into my eye':The mystery over Havana syndrome refuses to die",
+      "points": 4,
+      "num_comments": 0,
+      "summary": "Guardian'ın interaktif haberi, Havana sendromu gizeminin neden sönmediğini ve CIA ile Rusya bağlantısı iddialarını inceliyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50035371",
+      "article_url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/10/havana-syndrome-mystery-cia-russia"
+    },
+    {
+      "rank": 12,
+      "title": "Recognising Type 5 Diabetes",
+      "points": 4,
+      "num_comments": 0,
+      "summary": "Lancet Global Health'te yer alan makale, 'Tip 5 diyabet'in tanınması konusunu ele alıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50035292",
+      "article_url": "https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(25)00474-7/fulltext"
+    },
+    {
+      "rank": 13,
+      "title": "Patient disputed $85,000 hospital bill, then an AI sweep added nearly $20k",
+      "points": 4,
+      "num_comments": 0,
+      "summary": "Bir hastanın 85.000 dolarlık hastane faturasına itiraz etmesi üzerine, hastanenin yapay zekâyla yaptığı yeniden inceleme sonucu yaklaşık 20.000 dolar ek ücret eklendiği ve toplamın 102.000 dolara çıktığı iddia ediliyor. İddialar bir sosyal hizmet uzmanının TikTok videosundan geliyor; yorumcular bunu faturaya itiraz edenleri caydırma girişimi olarak değerlendirdi.",
+      "hn_url": "https://news.ycombinator.com/item?id=50034272",
+      "article_url": "https://www.yahoo.com/news/us/articles/patient-disputed-85-000-hospital-032100813.html"
+    },
+    {
+      "rank": 14,
+      "title": "The gene-regulatory evolution of the human skeleton",
+      "points": 4,
+      "num_comments": 0,
+      "summary": "Nature'daki makale, insan iskeletinin gen düzenleyici evrimini inceliyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50027800",
+      "article_url": "https://www.nature.com/articles/s41586-026-11053-x"
+    },
+    {
+      "rank": 15,
+      "title": "Autism in boys, girls looks genetically similar but early, late diagnoses don't",
+      "points": 3,
+      "num_comments": 0,
+      "summary": "Behavior Genetics'te yayımlanan yeni bir çalışmaya göre otizmin genetik profili kız ve erkeklerde büyük oranda benzer; test edilen 68 özellikten yalnızca ikisi cinsiyete göre farklılaştı. Erken ve geç tanılı otizm arasındaki genetik örtüşme ise çok daha düşük; geç tanı depresyon, TSSB, DEHB ve yalnızlıkla ilişkili bulundu. Çalışma yalnızca Avrupa kökenli kişilerin verisini kullandı.",
+      "hn_url": "https://news.ycombinator.com/item?id=50032177",
+      "article_url": "https://www.psypost.org/autism-in-boys-and-girls-looks-genetically-similar-but-early-and-late-diagnoses-dont/"
+    }
+  ]
+}
