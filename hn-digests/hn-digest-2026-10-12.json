@@ -1,0 +1,225 @@
+{
+  "date": "2026-10-12",
+  "timestamp": "2026-10-12T04:58:36Z",
+  "summary_language": "tr",
+  "top_stories": [
+    {
+      "rank": 1,
+      "title": "Bot traffic from Yandex",
+      "points": 596,
+      "num_comments": 239,
+      "summary": "Cloudflare Radar'ın Yandex botlarına ait trafik sayfası, Yandex'e bağlı bot trafiğindeki değişimi gösteriyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50041619",
+      "article_url": "https://radar.cloudflare.com/bots/as13238?dateRange=7d"
+    },
+    {
+      "rank": 2,
+      "title": "3rd Yandex Cloud Data Center Was Hit",
+      "points": 562,
+      "num_comments": 686,
+      "summary": "Yandex Cloud'un durum sayfasındaki olay kaydı, üçüncü bir veri merkezinin vurulduğunu bildiriyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50040547",
+      "article_url": "https://status.yandex.cloud/en/incidents/2136"
+    },
+    {
+      "rank": 3,
+      "title": "Build your own decision model",
+      "points": 454,
+      "num_comments": 102,
+      "summary": "Nish Tahir, küçük bir dil modelini (Qwen3-1.7B) yalnızca A–E seçeneklerinden birini üretmeye zorlayarak tek geçişli bir 'Sistem 1' karar modeli kuruyor. Model CommonsenseQA üzerinde aşırı özgüvenli çıktığı için güven skorlarını gerçek doğrulukla hizalamak üzere sıcaklık ölçekleme (T ≈ 3,8) uyguluyor ve yöntemi denemek için bir GitHub deposu paylaşıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50037949",
+      "article_url": "https://nishtahir.com/build-your-own-decision-model/"
+    },
+    {
+      "rank": 4,
+      "title": "Nitter: Update Oct 10th seeking funding and legal help",
+      "points": 427,
+      "num_comments": 229,
+      "summary": "X Corp., Nitter'a Ağustos ve Eylül 2026'da iki ihtar mektubu göndererek tüm örneklerin ve deponun kalıcı olarak kapatılmasını talep etti. Geliştirici şu anda hukuki temsilcisi olmadığını belirtiyor ve bağışların önce hukuki masraflara, kalanın ise Nitter ya da halefi için kullanılacağını söylüyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50041682",
+      "article_url": "https://nitter.net"
+    },
+    {
+      "rank": 5,
+      "title": "Total Annihilation, rebuilt for modern computers",
+      "points": 425,
+      "num_comments": 180,
+      "summary": "Nanolathe, klasik strateji oyunu Total Annihilation'ı modern grafiklerle ve 'Classic' görüntü moduyla yeniden inşa eden, MIT lisanslı açık kaynaklı bir motor. Oyuna sahip olmadan üç görevlik tarayıcı demosu denenebiliyor; kendi oyun dosyalarınızla beta sürümü kampanya, çatışma ve çevrimiçi oyun sunuyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50045984",
+      "article_url": "https://nanolathe.gg"
+    },
+    {
+      "rank": 6,
+      "title": "LineageOS 24",
+      "points": 415,
+      "num_comments": 170,
+      "summary": "LineageOS 24 sürümünün değişiklik günlüğü yayımlandı. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50040276",
+      "article_url": "https://lineageos.org/Changelog-32/"
+    },
+    {
+      "rank": 7,
+      "title": "NYC's \"Click to Cancel\" rule is now in effect",
+      "points": 403,
+      "num_comments": 197,
+      "summary": "New York'un 'Click to Cancel' kuralı 1 Ekim 2026 itibarıyla yürürlükte; işletmelerin iptal sürecini kayıt olma yöntemi kadar kolay sunması gerekiyor ve ihlallerde cezalar 525 dolardan başlıyor. Sakinler zorlaştırılmış iptal durumlarını Tüketici ve İşçi Koruma Dairesi'ne çevrimiçi form, posta ya da faksla bildirebiliyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50045946",
+      "article_url": "https://www.nyc.gov/main/click-to-cancel"
+    },
+    {
+      "rank": 8,
+      "title": "Documents add to evidence in climate deception case against ExxonMobil",
+      "points": 393,
+      "num_comments": 213,
+      "summary": "Massachusetts'in 2019'da ExxonMobil'e açtığı davada yayımlanan yeni belgeler, şirketin iklim risklerini 1988 gibi erken bir tarihte bildiğini gösteriyor. Belgeler ayrıca Exxon'un kendi bilim insanlarının alg biyoyakıtı ve karbon yakalama konusundaki kamuya açık iddialardan şüphe duyduğunu ortaya koyuyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50043682",
+      "article_url": "https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/"
+    },
+    {
+      "rank": 9,
+      "title": "I paid people to try and follow my README",
+      "points": 379,
+      "num_comments": 190,
+      "summary": "Terence Eden, ActivityBot README'sini görüntülü görüşmede adım adım takip etmeleri için gönüllülere kişi başı yaklaşık 25 euro (toplam ~150 euro) ödedi. Seanslar kafa karıştırıcı şakaları, bozuk bağlantıları ve açıklanmamış terimleri ortaya çıkardı; Eden her seans sonrası README'yi güncelleyerek belgelerin gerçek insanlarla test edilmesini öneriyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50042219",
+      "article_url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/"
+    },
+    {
+      "rank": 10,
+      "title": "IRCv3",
+      "points": 368,
+      "num_comments": 309,
+      "summary": "IRCv3 Çalışma Grubu, IRC protokolü için eski istemci ve sunucularla uyumlu uzantılar geliştirip test ediyor. Mevcut özellikler arasında SASL girişi, uzakta bildirimleri, sunucu zaman damgaları ve mesaj etiketleri var; hesap kaydı, sohbet geçmişi ve Unicode takma adlar üzerinde çalışılıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50041540",
+      "article_url": "https://ircv3.net/"
+    }
+  ],
+  "health_stories": [
+    {
+      "rank": 1,
+      "title": "Scandinavia's first farmers slaughtered hunter-gatherer population, DNA suggests",
+      "points": 69,
+      "num_comments": 92,
+      "summary": "Danimarka'da bulunan iskelet ve dişlerden elde edilen DNA, yaklaşık 5.900 yıl önce gelen çiftçilerin avcı-toplayıcıları birkaç kuşak içinde, muhtemelen şiddet ve hayvanlardan bulaşan patojenlerle yok ettiğini öne sürüyor. Yaklaşık 4.850 yıl önce Yamnaya kökenli insanlarla ikinci bir nüfus değişimi yaşandığı bulgusu Nature'da yayımlandı.",
+      "hn_url": "https://news.ycombinator.com/item?id=50042370",
+      "article_url": "https://phys.org/news/2024-02-scandinavia-farmers-slaughtered-hunter-population.html"
+    },
+    {
+      "rank": 2,
+      "title": "We're unlocking the biggest mysteries of the clitoris",
+      "points": 66,
+      "num_comments": 18,
+      "summary": "Klitoris, birden fazla tıp dalına yayıldığı ve araştırma dünyası ağırlıklı olarak erkeklerden oluştuğu için uzun süre ihmal edildi. On binden fazla sinir ucunun sayıldığı ve ayrıntılı bir 3B sinir haritasının çıkarıldığı yeni çalışmalar yapısını ortaya koyuyor; ancak fizyolojisi ve üreme ile ağrı giderme rolleri hâlâ belirsiz.",
+      "hn_url": "https://news.ycombinator.com/item?id=50045895",
+      "article_url": "https://www.sciencefocus.com/the-human-body/were-finally-unlocking-the-biggest-mysteries-of-the-clitoris-2"
+    },
+    {
+      "rank": 3,
+      "title": "A plastic once thought harmless may be fueling fatty liver disease",
+      "points": 47,
+      "num_comments": 25,
+      "summary": "Texas A&M araştırmacıları, gıda ambalajlarında yaygın kullanılan polietilen plastiğin yağlı karaciğer hastalığına katkıda bulunabileceğini ve yağ, früktoz ve kolesterol açısından zengin bir beslenmenin etkisini artırdığını buldu. PPAR-alfa proteini ve ANXA2 geni olası etkenler olarak belirlendi; ancak laboratuvar bulgularının günlük insan maruziyetine uygulanması için daha fazla çalışma gerekiyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50039062",
+      "article_url": "https://www.sciencedaily.com/releases/2026/10/261008102718.htm"
+    },
+    {
+      "rank": 4,
+      "title": "Terrence Tao does not understand cancer medicine",
+      "points": 29,
+      "num_comments": 20,
+      "summary": "Vinay Prasad, Terence Tao'nun yapay zekâyla bulunan bir kanser tedavisini hastaların bir insan uzmanın onayıyla isteyeceği yönündeki görüşünü eleştiriyor. Birçok yaygın kanser ilacının mekanizmasının tam anlaşılmadığını, faz 3 çalışmasından geçen bir tedavinin nasıl çalıştığı bilinmese de benimseneceğini savunuyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50039331",
+      "article_url": "https://www.drvinayprasad.com/p/terrence-tao-does-not-understand"
+    },
+    {
+      "rank": 5,
+      "title": "Vegetables are half as nutritious as they were in the 1960s",
+      "points": 18,
+      "num_comments": 17,
+      "summary": "Haber, sebzelerin besin değerinin 1960'lardan bu yana yaklaşık yarıya düştüğünü ileri sürüyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50039715",
+      "article_url": "https://www.telegraph.co.uk/business/2026/10/07/vegetable-nutrition-halved-since-60s/"
+    },
+    {
+      "rank": 6,
+      "title": "California Did Little to Punish a Raw Milk Farm After Two Girls Got Sick",
+      "points": 9,
+      "num_comments": 4,
+      "summary": "Kaliforniya'da lisanssız bir çiftlikten alınan pastörize edilmemiş keçi sütünü içen 17 aylık bir kız çocuğu E. coli nedeniyle ölümden döndü, aynı sütü içen 6 yaşındaki bir çocuk da ağır hastalandı. Yetkililer çiftliğin lisanssız süt sattığını tespit etti, ancak sütü evcil hayvan maması olarak etiketlemeye başlayınca ceza vermedi ve kovuşturma için sevk etmedi.",
+      "hn_url": "https://news.ycombinator.com/item?id=50037740",
+      "article_url": "https://www.propublica.org/article/california-raw-milk-regulation-emily-marris-moonlight-ridge-farm"
+    },
+    {
+      "rank": 7,
+      "title": "Eye Cells May Have Been Rejuvenated for the First Time in People",
+      "points": 8,
+      "num_comments": 1,
+      "summary": "Glokomlu üç kişiye, yaşlanan retina gangliyon hücrelerini kısmen yeniden programlayan deneysel bir Life Biosciences tedavisi uygulandı. Erken sonuçlarda tedavi güvenli göründü ve üç kişiden ikisinde görmede erken iyileşme belirtileri görüldü; araştırmacılar daha yüksek dozu test etmeyi planlıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50038222",
+      "article_url": "https://time.com/article/2026/10/08/eye-cells-rejuvenated-for-the-first-time-in-people/"
+    },
+    {
+      "rank": 8,
+      "title": "Running in highly cushioned shoes increases leg stiffness andimpact loading (2018)",
+      "points": 7,
+      "num_comments": 1,
+      "summary": "Yüksek tabanlı koşu ayakkabılarının bacak sertliğini ve darbe yüklenmesini artırdığı üzerine bir bilimsel çalışma (2018). Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50044618",
+      "article_url": "https://www.nature.com/articles/s41598-018-35980-6"
+    },
+    {
+      "rank": 9,
+      "title": "Why demand for the shingles vaccine is soaring",
+      "points": 6,
+      "num_comments": 1,
+      "summary": "Zona aşısına olan talebin neden hızla arttığını ve aşının demansla olası ilişkisini ele alan bir haber. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50047754",
+      "article_url": "https://www.theguardian.com/society/2026/oct/11/dementia-demand-for-shingles-vaccine-is-soaring"
+    },
+    {
+      "rank": 10,
+      "title": "The clitoris is getting the attention it deserves",
+      "points": 6,
+      "num_comments": 2,
+      "summary": "Klitorisin hak ettiği ilgiyi görmeye başlamasını ele alan bir görüş yazısı. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50046591",
+      "article_url": "https://www.theguardian.com/society/commentisfree/2026/apr/01/finally-clitoris-getting-attention-it-deserves"
+    },
+    {
+      "rank": 11,
+      "title": "The Placenta Is More Powerful–and More Mysterious–Than You Think",
+      "points": 6,
+      "num_comments": 0,
+      "summary": "Plasenta kalpten önce oluşur ve akciğer, bağırsak, karaciğer ve böbreklerin işini üstlenerek fetüsün birincil bakıcısı olur; ayrıca annenin vücudunu ayarlayan hormonlar salgılar. Plasentayı incelemek preeklampsiyi anlamaya yardımcı oldu ve hızlı bölünme ile bağışıklıktan kaçma gibi stratejileri kanser hücreleriyle paylaştığı için kansere dair ipuçları da veriyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50043386",
+      "article_url": "https://nautil.us/the-placenta-is-more-powerful-and-more-mysterious-than-you-think-1285683"
+    },
+    {
+      "rank": 12,
+      "title": "Sexually transmitted diarrhea: The infection that's becoming more drug resistant",
+      "points": 4,
+      "num_comments": 3,
+      "summary": "Giderek ilaç direnci kazanan, cinsel yolla bulaşan ishal enfeksiyonu (şigelloz) hakkında bilinmesi gerekenleri anlatan bir haber. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50037483",
+      "article_url": "https://www.kcra.com/article/sexually-transmitted-diarrhea-shingellosis-what-to-know/74092950"
+    },
+    {
+      "rank": 13,
+      "title": "We're still figuring out the side effects of GLP-1 weight-loss drugs",
+      "points": 3,
+      "num_comments": 2,
+      "summary": "GLP-1 kilo verme ilaçlarının fazla kilolu veya diyabetli kişilerde biyolojik yaşlanmayı yavaşlatabileceği ilaç üreticisi araştırmalarında öne sürülüyor, ancak yan etkiler hâlâ haritalanıyor. Bilinen riskler bulantı, pankreatit ve safra taşı; saç dökülmesi, tırnak sorunları ve nadir bir görme hastalığıyla bağlantılar inceleniyor; DSÖ 10 yaş altı çocuklar için ilaç tedavisini önermiyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50040470",
+      "article_url": "https://www.technologyreview.com/2026/10/09/1146094/were-still-figuring-out-the-side-effects-of-glp-1-weight-loss-drugs/"
+    },
+    {
+      "rank": 14,
+      "title": "Will We Ever Understand Dementia?",
+      "points": 4,
+      "num_comments": 1,
+      "summary": "Demansı bir gün anlayıp anlayamayacağımızı sorgulayan bir bilim yazısı. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50038382",
+      "article_url": "https://www.nytimes.com/2026/10/10/science/will-we-ever-understand-dementia.html"
+    }
+  ]
+}
