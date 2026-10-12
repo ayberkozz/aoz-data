@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-12",
+  "timestamp": "2026-10-12T09:00:00Z",
+  "papers": [
+    {
+      "title": "SOAR: Source-Aware Reinforcement Learning with Precise Credit Assignment for Search Agents",
+      "pdf_url": "https://arxiv.org/pdf/2610.13157",
+      "summary": "Addresses RL-trained search agents that skip external retrieval and fall back on unreliable internal knowledge. SOAR splits external and internal knowledge into parallel observable streams (Source-Aware Workflow) and adds a Source-Consistent Reward for finer credit assignment. It beats baselines by 7.3% (3B) and 5.4% (7B) and cuts evidence fabrication by 74.8%.",
+      "page_count": 17
+    },
+    {
+      "title": "Safety in Self-Evolving Agents: A Survey",
+      "pdf_url": "https://arxiv.org/pdf/2610.00093",
+      "summary": "Surveys safety for LLM agents that keep updating memories, tools, skills and workflows after deployment. Introduces the SAVER transition-centered framework (Substrate, Adaptation, Violation, Exposure, Response). Finds weak evidence on repairing descendant states and calls for longitudinal evaluation of unsafe influence.",
+      "page_count": 80
+    }
+  ]
+}
