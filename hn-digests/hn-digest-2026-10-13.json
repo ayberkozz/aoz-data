@@ -1,0 +1,180 @@
+{
+  "date": "2026-10-13",
+  "timestamp": "2026-10-13T04:57:46Z",
+  "summary_language": "tr",
+  "top_stories": [
+    {
+      "rank": 1,
+      "title": "Fingerprints are the new cookies",
+      "points": 706,
+      "num_comments": 351,
+      "summary": "Yazı, tarayıcı parmak izinin çerezlerin yerini aldığını savunuyor; Google'ın üçüncü taraf çerezleri bırakma sözünden cihaz parmak izini reklam ürünlerinde kabul etmeye geçtiğini belirtiyor. GPU davranışı, ses işleme, yüklü yazı tipleri ve saat dilimi gibi özelliklerin birleşerek neredeyse benzersiz bir kimlik oluşturduğunu anlatıyor. Yazar, gizlilik eklentilerinin kullanıcıyı daha ayırt edilebilir yaptığını söyleyip Brave, Tor veya Mullvad gibi motor seviyesinde koruma sunan tarayıcıları öneriyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50048642",
+      "article_url": "https://royfish.dev/fingerprints-are-the-new-cookies"
+    },
+    {
+      "rank": 2,
+      "title": "Deloitte falsified documents to evade tax on Abramovich's wealth",
+      "points": 594,
+      "num_comments": 198,
+      "summary": "Haber, Deloitte'un Abramovich'in servetine ilişkin vergiden kaçınmak için belgeleri sahteleştirdiği iddiasını ele alıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50054207",
+      "article_url": "https://www.bbc.com/news/articles/c64g1l5389kvo"
+    },
+    {
+      "rank": 3,
+      "title": "Muse Wonder",
+      "points": 574,
+      "num_comments": 313,
+      "summary": "Meta, kişisel ve profesyonel ajan görevleri için en yetenekli modelleri olarak Muse Wonder ve Muse Wonder Full'u tanıttı. Modeller Aktif Bellek ve Aktif Odak özellikleri sunuyor ve Meta Model API ile Muse Code üzerinden erişilebiliyor; Full sürümü yalnızca Muse Code abonalarına açık. Meta, Muse Wonder'ı bugüne kadarki en uyumlu modeli olarak nitelendiriyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50059115",
+      "article_url": "https://research.meta.ai/blog/muse-wonder"
+    },
+    {
+      "rank": 4,
+      "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
+      "points": 522,
+      "num_comments": 710,
+      "summary": "Avrupa'daki süpermarketlerde bir siber saldırı soğutma sistemlerini bozarak otomatik buz çözme işlemini tetikledi ve haber bunu 'benzeri görülmemiş' olarak niteliyor. Saldırının teslimat ve mağaza içi fiyatlandırmayı da etkilediği bildiriliyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50055304",
+      "article_url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident"
+    },
+    {
+      "rank": 5,
+      "title": "Codex CLI installs a persistent, self-updating background daemon by default",
+      "points": 502,
+      "num_comments": 255,
+      "summary": "OpenAI Codex deposundaki bu konu, 'daemon_auto_start' ayarının varsayılan olarak kapalı olmasını ya da en azından kullanıcıya sorulmasını istiyor. v0.157.0'dan beri etkileşimli bir oturum açmak, paketi kopyalayan, saatlik kendini güncelleyen kalıcı bir arka plan servisi başlatıyor. Bildirimi yapan kişi 'daemon stop' komutunun güncelleme döngüsünü durdurmadığını da bulmuş; yorumcular seçeneğin isteğe bağlı olmasını destekliyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50060694",
+      "article_url": "https://github.com/openai/codex/issues/48195"
+    },
+    {
+      "rank": 6,
+      "title": "GLM-Legal",
+      "points": 488,
+      "num_comments": 280,
+      "summary": "GLM-Legal, hukuk alanına yönelik bir yapay zeka modeli duyurusu gibi görünüyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50058507",
+      "article_url": "https://z.ai/blog/glm-legal"
+    },
+    {
+      "rank": 7,
+      "title": "A Modern Web App in C",
+      "points": 457,
+      "num_comments": 182,
+      "summary": "Yazar Corey Prophitt, kullanıcı hesapları, Stripe ödemeleri ve e-posta gönderimi olan ticari bir web ürününü OpenBSD üzerinde CGI ile sunulan tek bir C ikili dosyası ve SQLite ile geliştirmiş. CGI'ın gerilemesinin artık geçerli olmadığını; az bağımlılık, kolay hata ayıklama ve düşük işletme yükü sunduğunu savunuyor. En büyük dezavantaj olarak CGI'ın hazır özellik sunmamasını gösterip kendi yardımcı başlık dosyasını yazdığını belirtiyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50058528",
+      "article_url": "https://prophitt.me/writing/a-modern-web-app-in-c"
+    },
+    {
+      "rank": 8,
+      "title": "Google told to halt work on datacentres in Finland over environmental concerns",
+      "points": 446,
+      "num_comments": 170,
+      "summary": "Haber, Google'a Finlandiya'daki veri merkezi inşaatlarına çevresel gerekçelerle ara vermesinin söylendiğini bildiriyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50048638",
+      "article_url": "https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment"
+    },
+    {
+      "rank": 9,
+      "title": "QGIS enacts moratorium on AI contributions",
+      "points": 370,
+      "num_comments": 398,
+      "summary": "QGIS, önceki yapay zeka politikasının yerini alan 'Yapay zeka katkısı yok' teklifini (QEP428) kabul etti; qgis/qgis deposunda LLM veya ajan destekli kod katkılarına izin verilmiyor. Teklif sahibi bunu bakımcıların yükünü azaltmak ve insan katkı topluluğunu korumak için geçici, kısıtlayıcı bir başlangıç olarak sundu. Eleştirmenler ifadeyi fazla geniş bulsa da teklif oylamadan geçti.",
+      "hn_url": "https://news.ycombinator.com/item?id=50054751",
+      "article_url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387"
+    },
+    {
+      "rank": 10,
+      "title": "AI coding agents generate more code, but not more software",
+      "points": 321,
+      "num_comments": 276,
+      "summary": "Ars Technica'daki haber, yapay zeka kodlama ajanlarının daha fazla kod ürettiğini ama daha fazla yazılım ortaya çıkarmadığını öne sürüyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50059523",
+      "article_url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/"
+    }
+  ],
+  "health_stories": [
+    {
+      "rank": 1,
+      "title": "Do dentists know what they're doing?",
+      "points": 15,
+      "num_comments": 4,
+      "summary": "Yazar, 17 ile 33 yaşları arasında gittiği diş hekimlerinin aynı çene, kapanış ve diş eti sorunları için çelişkili teşhis ve tedavi planları sunduğunu anlatıyor. Bazı önerilerin kâr amaçlı görünen pahalı tedavi satışlarına ve sonradan belirsiz çıkan çürük sayılarına dayandığını söylüyor. Sonunda diş hekimlerinin neyin doğru olduğu konusunda anlaşıp anlaşmadığını sorguluyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50050553",
+      "article_url": "https://mapwriting.substack.com/p/dentists"
+    },
+    {
+      "rank": 2,
+      "title": "Eye Cells May Have Been Rejuvenated for the First Time in People",
+      "points": 12,
+      "num_comments": 1,
+      "summary": "Life Biosciences, glokomlu üç kişide denenen deneysel bir Faz 1 tedavisinin güvenli göründüğünü bildirdi; bu, hücre yeniden programlamanın insanlardaki ilk testi. Üç kişiden ikisinde sekiz hafta sonra görmede erken iyileşme belirtileri görüldü. David Sinclair'in araştırmalarına dayanan yöntem, hasarlı göz hücrelerinin genç işlevini geri kazanmasını hedefliyor; araştırmacılar daha yüksek doz test etmeyi planlıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50050310",
+      "article_url": "https://time.com/article/2026/10/08/eye-cells-rejuvenated-for-the-first-time-in-people/"
+    },
+    {
+      "rank": 3,
+      "title": "Outrage grows as CDC reportedly poised to fund \"unethical\" vaccine trial",
+      "points": 10,
+      "num_comments": 2,
+      "summary": "Haber, CDC'nin 'etik dışı' olarak eleştirilen bir aşı denemesini finanse etmeye hazırlandığı ve bebekleri ölümcül bir virüse maruz bırakabilecek bu denemeye tepkilerin arttığı konusunda. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50055810",
+      "article_url": "https://arstechnica.com/health/2026/10/rfk-jr-still-eager-to-fund-vaccine-trial-that-would-expose-babies-to-deadly-virus/"
+    },
+    {
+      "rank": 4,
+      "title": "American Academy of Pediatrics renews call for ban on raw milk",
+      "points": 10,
+      "num_comments": 0,
+      "summary": "Amerikan Pediatri Akademisi, çocuklar, hamileler ve bağışıklığı baskılanmış kişiler için ciddi riskler taşıyan çiğ süt ve süt ürünlerinin satışına ve dağıtımına ulusal yasak çağrısını yineledi. Güncelleme, Salmonella ve E. coli salgınları ile kuş gribinin pastörize edilmemiş sütü bulaştırabileceği endişelerinin ardından geldi. Uzmanların çoğu çiğ sütün pastörize süte göre kanıtlanmış bir besin avantajı olmadığını, gıda kaynaklı hastalık riskinin ise çok daha yüksek olduğunu belirtiyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50050322",
+      "article_url": "https://www.cspi.org/cspi-news/american-academy-pediatrics-renews-call-ban-raw-milk"
+    },
+    {
+      "rank": 5,
+      "title": "Whey up: Protein powder prices soar as global demand grows",
+      "points": 8,
+      "num_comments": 0,
+      "summary": "Haber, küresel talep arttıkça protein tozu fiyatlarının yükseldiğini anlatıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50049739",
+      "article_url": "https://www.cbc.ca/news/business/whey-up-protein-powder-prices-soar-as-global-demand-grows-9.7369910"
+    },
+    {
+      "rank": 6,
+      "title": "Bone Stress Injuries in Runners Using Carbon Fiber Plate Footwear",
+      "points": 6,
+      "num_comments": 0,
+      "summary": "Bu derleme makalesi, karbon fiber plakalı koşu ayakkabıları giyen beş elit koşucuda gelişen navikülar kemik stres yaralanmalarını anlatıyor. Yazarlar, ayakkabıların ayak ve ayak bileği mekaniğini değiştirerek yaralanma riskini artırabileceğini düşünüyor ve alışılmış ayakkabıdan karbon plakalı ayakkabıya yavaş ve kademeli geçiş öneriyor. Çalışma geriye dönük bir vaka serisi olduğundan nedensellik kanıtlanamıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50049692",
+      "article_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10356879/"
+    },
+    {
+      "rank": 7,
+      "title": "Diet drinks work as well as water for weight loss, major trial finds",
+      "points": 5,
+      "num_comments": 2,
+      "summary": "493 fazla kilolu veya obez yetişkinle yapılan iki yıllık bir çalışma, aspartam, asesülfam-K veya sukraloz ile tatlandırılmış diyet içeceklerin su ile yaklaşık aynı kilo kaybını sağladığını buldu. Her iki grupta da bel çevresi, vücut kompozisyonu ve bazı metabolik göstergeler iyileşti; iştah artışı veya metabolik zarar görülmedi. Çalışma British Journal of Nutrition'da yayımlandı ve kısmen Amerikan İçecek Birliği tarafından finanse edildi.",
+      "hn_url": "https://news.ycombinator.com/item?id=50056365",
+      "article_url": "https://www.sciencedaily.com/releases/2026/10/261002080017.htm"
+    },
+    {
+      "rank": 8,
+      "title": "How much a flu vaccine may lower your dementia risk",
+      "points": 4,
+      "num_comments": 0,
+      "summary": "Haber, grip aşısının bunama riskini ne kadar düşürebileceğini ele alıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50061186",
+      "article_url": "https://www.washingtonpost.com/wellness/2026/10/12/heres-how-much-flu-vaccine-may-lower-your-dementia-risk/"
+    },
+    {
+      "rank": 9,
+      "title": "Can your brain grow new neurons?",
+      "points": 4,
+      "num_comments": 0,
+      "summary": "Nature'daki yazı, beynin yeni nöronlar üretip üretemeyeceği sorusunu ele alıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50060928",
+      "article_url": "https://www.nature.com/articles/d41586-026-03132-w"
+    }
+  ]
+}
