@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-13",
+  "timestamp": "2026-10-13T09:00:00Z",
+  "papers": [
+    {
+      "title": "What Should SFT Learn? Conditional Information Gain for Generalizable Post-Training",
+      "pdf_url": "https://arxiv.org/pdf/2610.12995",
+      "summary": "Proposes CIG-SFT, which weights each demonstrated token by how much the task input reduces a frozen reference model's uncertainty about it, rather than by model compatibility. This yields an equivalent scalar-weighted SFT objective that needs no extra data or online rollouts. It outperforms standard and adaptive SFT baselines on math reasoning and code generation, especially out of distribution.",
+      "page_count": 17
+    },
+    {
+      "title": "Meta-Reflective Evolution Effectively Improves Production AI Systems",
+      "pdf_url": "https://arxiv.org/pdf/2610.12794",
+      "summary": "Introduces CoCoEvolve, an evolutionary optimizer whose agentic mutator retrieves evidence from the whole evolutionary history and probes the live system before proposing mutations (meta-reflection). It tops the DABStep leaderboard at 92.8% held-out hard accuracy versus 78.4% for Meta-Harness and 30.4% for GEPA. It also improves LLM data pipelines and data-engineering workflows, with ablations showing each component contributes.",
+      "page_count": 93
+    }
+  ]
+}
