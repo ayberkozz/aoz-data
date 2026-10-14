@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-14",
+  "timestamp": "2026-10-14T09:00:00Z",
+  "papers": [
+    {
+      "title": "SEEDS: Preview-Guided Evidence Admission for Search Agents",
+      "pdf_url": "https://arxiv.org/pdf/2610.12932",
+      "summary": "Lets LLM search agents preview retrieved candidates and decide which ones are admitted into their reasoning context, instead of appending everything retrieved. This targets context pollution and noisy evidence in agentic retrieval and multi-step search.",
+      "page_count": 20
+    },
+    {
+      "title": "Agentic4PDM: Host-Governed Evidence Admissibility for Industrial Fault Diagnosis",
+      "pdf_url": "https://arxiv.org/pdf/2610.17786",
+      "summary": "Separates adaptive LLM-agent investigation from control over evidence use: agents compare sensor signals with labeled class references and propose follow-up tool measurements, while a deterministic host enforces contract-checked gated adjudication that assigns evidence roles. It supports training-free diagnosis and improves aggregate macro F1 over diagnostic and agentic baselines on bearing/motor benchmarks and an industrial test set.",
+      "page_count": 67
+    }
+  ]
+}
