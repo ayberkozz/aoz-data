@@ -1,0 +1,153 @@
+{
+  "date": "2026-10-14",
+  "timestamp": "2026-10-14T04:57:33Z",
+  "summary_language": "tr",
+  "top_stories": [
+    {
+      "rank": 1,
+      "title": "Gemini 4 Argon",
+      "points": 1137,
+      "num_comments": 821,
+      "summary": "Google DeepMind, bilim, matematik, robotik, yazılım mühendisliği ve siber savunma gibi zor problemlere yönelik öncü modeli Gemini 4 Argon'u tanıttı. Sayfada kıyaslama sonuçları, ortak görüşleri ve kötüye kullanıma karşı alınan güvenlik önlemleri yer alıyor. Model şu anda Google AI Pro ve Ultra abonelerine açık.",
+      "hn_url": "https://news.ycombinator.com/item?id=50073879",
+      "article_url": "https://deepmind.google/models/gemini/"
+    },
+    {
+      "rank": 2,
+      "title": "Apple HomeView",
+      "points": 700,
+      "num_comments": 831,
+      "summary": "Apple HomeView, Siri yapay zekâsı, Center Stage kamerası ve Uzamsal Ses destekli hoparlörlere sahip 7 inçlik bir akıllı ev ekranı. Altı haneye kadar kişiyi tanıyarak herkese kişisel içerik sunuyor ve A18 çipindeki Secure Exclaves sayesinde yüz ve ses verilerini işletim sisteminden gizli tutuyor. Ön siparişe açık olup 13 Kasım'da çıkacak.",
+      "hn_url": "https://news.ycombinator.com/item?id=50071017",
+      "article_url": "https://www.apple.com/apple-homeview/"
+    },
+    {
+      "rank": 3,
+      "title": "11 year old unsoundness bugs found in Rust borrow checker",
+      "points": 696,
+      "num_comments": 386,
+      "summary": "Rust deposunda, bir yapının ömür sınırlarının kovaryant alan ataması yoluyla aşılabildiği ve kısa ömürlü bir referansın 'static gibi kullanılabildiği bir güvenlik (soundness) açığı bildirildi. Örnek program derleniyor ve AddressSanitizer altında çöküyor. Hata, en az 1.85.0'a kadar kararlı sürümleri etkiliyor ve istismar için kötü niyetli bir Drop uygulaması gerekiyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50069499",
+      "article_url": "https://github.com/rust-lang/rust/issues/164250"
+    },
+    {
+      "rank": 4,
+      "title": "Firefox Enterprise",
+      "points": 685,
+      "num_comments": 276,
+      "summary": "Mozilla'nın Firefox Enterprise çözümü, kurumların tarayıcı politikalarını, verilerini ve yönetimini kendi altyapılarında kontrol etmesine olanak veriyor. Veri kaybı önleme, yapay zekâ araç kontrolleri, SIEM entegrasyonu ve eklenti yönetimi gibi özellikler sunuyor. Profesyonel destek dahil; Thunderbird Enterprise ise yakında geliyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50070302",
+      "article_url": "https://www.firefox.com/en-US/enterprise/"
+    },
+    {
+      "rank": 5,
+      "title": "AI is a tool and using it well takes skill",
+      "points": 656,
+      "num_comments": 526,
+      "summary": "Yazı, Rich Hickey'nin LLM'lerin araç değil otomasyon olduğu argümanına yanıt veriyor. Yazar, yetenekli bir kişinin LLM'leri yine de araç olarak kullanabileceğini, kontrolü zor olmasının bir şeyi araç olmaktan çıkarmadığını savunuyor. Asıl ayrımın, becerili kullanım ile anlamadan ve denetlemeden yapılan devir arasında olduğunu belirtiyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50063427",
+      "article_url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/"
+    },
+    {
+      "rank": 6,
+      "title": "Redesigning source control at Anthropic",
+      "points": 635,
+      "num_comments": 609,
+      "summary": "Anthropic, birleştirme hacminin on kattan fazla artması nedeniyle git'in başlıca darboğaz haline geldiğini anlatıyor. Ekip, her zaman çevrimiçi yapay zekâ ajanları için Scion adlı bir sürüm kontrol sistemi geliştirdi ve monorepo'yu beş ayda git'ten taşıdı. Sunucu tarafı tasarım, kademeli önbellek ve seyrek checkout altyapı ihtiyacını büyük ölçüde azalttı.",
+      "hn_url": "https://news.ycombinator.com/item?id=50073633",
+      "article_url": "https://www.anthropic.com/engineering/redesigning-source-control"
+    },
+    {
+      "rank": 7,
+      "title": "OpenAI engineer arrested in bugging of executive conference room",
+      "points": 486,
+      "num_comments": 419,
+      "summary": "Federal savcılar, 35 yaşındaki OpenAI mühendisi Abdulrahman Alfozan'ı San Francisco'daki bir yönetici toplantı odasına ses kaydedici gizlediği iddiasıyla suçladı. Unutulan bir çantada ikinci bir kaydedici bulundu ve sohbet botuna bu tür cihazları nasıl yapıp saklayacağını sorduğu istemler şikâyette gösterildi. Mahkûm olursa en fazla beş yıl hapis cezası alabilir; tutukluluk duruşması 19 Ekim'de.",
+      "hn_url": "https://news.ycombinator.com/item?id=50078141",
+      "article_url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/"
+    },
+    {
+      "rank": 8,
+      "title": "CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades",
+      "points": 443,
+      "num_comments": 247,
+      "summary": "Haber, CFTC personeline İran'la ilgili şüpheli petrol işlemlerine dair analizi geri çekmelerinin söylendiğini öne süren bir Bloomberg incelemesi. Konu, piyasa gözetimi ve olası içeriden bilgi kullanımı tartışmalarıyla ilgili. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50069329",
+      "article_url": "https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran"
+    },
+    {
+      "rank": 9,
+      "title": "We turned EmbeddingGemma 2 into a speech-to-text model",
+      "points": 409,
+      "num_comments": 86,
+      "summary": "Embedding Gemma Transcribe, Google'ın EmbeddingGemma 2 modelini, sesi modelin kelime uzayına eşleyen küçük bir okuyucu eğiterek konuşmayı yazıya çeviren ücretsiz bir Mac uygulamasına dönüştürüyor. Tamamen cihaz üzerinde çalışıyor ve temel bir M3 MacBook Air'de bir saatlik sesi yaklaşık 13 saniyede yazıya döküyor. Yaklaşık %5 kelime hata oranı, önde gelen modellerin %2-3'ünün gerisinde kalıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50069971",
+      "article_url": "https://eg2.haku.sh/"
+    },
+    {
+      "rank": 10,
+      "title": "Thunderbird for iOS",
+      "points": 383,
+      "num_comments": 168,
+      "summary": "Thunderbird, iOS uygulamasını sıfırdan yerel olarak geliştiriyor; hız, güvenilirlik ve modern tasarım öncelikli. Planlanan özellikler arasında basit oturum açma, pil dostu arka plan senkronizasyonu ve sade bir gelen kutusu ile editör var. Ekip, topluluk testi için ilk sürümü birkaç ay içinde çıkarmayı hedefliyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50072913",
+      "article_url": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/"
+    }
+  ],
+  "health_stories": [
+    {
+      "rank": 1,
+      "title": "Blood cells from 80-year-old donor become stem cells with molecular age under 20",
+      "points": 174,
+      "num_comments": 126,
+      "summary": "Bir hücre yaşlanması araştırması, 80 yaşındaki bir donörün kan hücrelerinin kök hücrelere dönüştürüldüğünü ve moleküler yaşlarının 20'nin altına indiğini bildiriyor. Bu, yeniden programlamanın yaşlanma izlerini geri alabileceğini düşündürüyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50064536",
+      "article_url": "https://doi.org/10.1111/acel.70751"
+    },
+    {
+      "rank": 2,
+      "title": "Palantir CTO:Some AI researchers taking up smoking;they expect AI to cure cancer",
+      "points": 11,
+      "num_comments": 11,
+      "summary": "Palantir CTO'sunun, bazı yapay zekâ araştırmacılarının yapay zekânın kanseri tedavi edeceğini beklediği için sigaraya başladığını söylediği bildiriliyor. Haber, sigara ve kanser riski bağlamında dikkat çekici bir iddia olarak ele alınıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50073279",
+      "article_url": "https://www.businessinsider.com/ai-researchers-smoking-ai-cure-cancer-palantir-cto-2026-10"
+    },
+    {
+      "rank": 3,
+      "title": "A New Anti-Aging Drug Looks to Turn Back the Clock on Skin Age",
+      "points": 9,
+      "num_comments": 2,
+      "summary": "Wired'ın haberi, cilt yaşını geri çevirmeyi hedefleyen yeni bir yaşlanma karşıtı ilacın klinik denemesini ele alıyor. Haber, cilt yaşlanmasını tersine çevirme iddiasını ve denemenin kapsamını inceliyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50068403",
+      "article_url": "https://www.wired.com/story/new-anti-aging-drug-trial-for-skin/"
+    },
+    {
+      "rank": 4,
+      "title": "Loneliness can rewire the brain to drive alcohol consumption",
+      "points": 7,
+      "num_comments": 1,
+      "summary": "Northwestern Üniversitesi ve Salk Enstitüsü'nün farelerde yaptığı çalışma, sosyal izolasyonda aşırı aktifleşen ve erkek farelerde alkol tüketimini artıran bir beyin devresini (bazolateral amigdala ve medial prefrontal korteks) belirledi. Dişilerde izolasyon içmeyi azalttı. Devre izole olmayan erkeklerde etkinleştirilince alkol tepkisi izole hayvanlarınki gibi oldu; izole erkeklerde susturulunca tüketim düştü.",
+      "hn_url": "https://news.ycombinator.com/item?id=50077312",
+      "article_url": "https://news.northwestern.edu/stories/2026/08-2/loneliness-rewires-the-brain-to-drive-alcohol-consumption-mouse-study-finds"
+    },
+    {
+      "rank": 5,
+      "title": "The Rising Counterculture of Silicon Valley Smokers",
+      "points": 5,
+      "num_comments": 0,
+      "summary": "Business Insider'ın haberi, Silikon Vadisi'nde sigara içmenin bir karşı kültür olarak yükselişini anlatıyor. Konu, halk sağlığı ve tütün kullanımı açısından dikkat çekiyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50074524",
+      "article_url": "https://www.businessinsider.com/smoking-cigarettes-silicon-valley-counterculture-2026-9"
+    },
+    {
+      "rank": 6,
+      "title": "How to stop your brain from rotting",
+      "points": 4,
+      "num_comments": 0,
+      "summary": "Yazar, algoritmaların duygusal içeriğe yönelttiği kısa video kaydırma alışkanlığının dikkat ve eleştirel düşünmeyi zayıflattığını, yani 'beyin çürümesi'ne yol açtığını savunuyor. İradeye güvenmek yerine zararlı uygulama ve sitelere erişimi kaldırmanın daha etkili olduğunu söylüyor. Bu amaçla, kategori listeleri ve engel kaldırma gecikmesi olan açık kaynaklı Walden adlı site engelleyiciyi geliştirdi.",
+      "hn_url": "https://news.ycombinator.com/item?id=50066954",
+      "article_url": "https://scotto.me/blog/2026-10-12-how-to-stop-your-brain-from-rotting/"
+    }
+  ]
+}
