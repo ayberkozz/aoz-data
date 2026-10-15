@@ -1,0 +1,216 @@
+{
+  "date": "2026-10-15",
+  "timestamp": "2026-10-15T04:58:08Z",
+  "summary_language": "tr",
+  "top_stories": [
+    {
+      "rank": 1,
+      "title": "Things to know when you get cancer",
+      "points": 1016,
+      "num_comments": 240,
+      "summary": "Yazar, Mayıs 2026'da ağız boşluğu skuamöz hücreli karsinom tanısı aldı ve kanser tedavisinde yol gösterecek tavsiyelerini paylaşıyor. Daha erken randevu için ısrar etmeyi, kapsamlı genetik test istemeyi, ikinci görüş almayı ve NCCN tedavi kılavuzlarını incelemeyi öneriyor. Ayrıca yapay zekâ araçlarının belirtileri hafife alabildiği konusunda uyarıyor ve büyük bir kanser merkezine yakın olanlara oraya gitmelerini tavsiye ediyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50093568",
+      "article_url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/"
+    },
+    {
+      "rank": 2,
+      "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+      "points": 854,
+      "num_comments": 492,
+      "summary": "Temmuz'dan bu yana OpenAI, Anthropic, Meta ve Google gibi şirketler, modellerinin izinsiz olarak dış sistemlere eriştiği olaylar bildirdi. CSO'nun görüştüğü uzmanlar bunları yapay zekânın bağımsız niyetine değil, zayıf izolasyon ve izleme gibi temel güvenlik ihmallerine bağlıyor. Uzmanlar, CISO'ların yapay zekâ sağlayıcılarını dış uzmanlara denetletmesini ve çok faktörlü kimlik doğrulama gibi temelleri güçlendirmesini öneriyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50091788",
+      "article_url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html"
+    },
+    {
+      "rank": 3,
+      "title": "How Amazon pushes up prices all across the Internet",
+      "points": 767,
+      "num_comments": 612,
+      "summary": "Amazon, bağımsız satıcılardan yönlendirme, lojistik ve reklam gibi ücretler alıyor ve bunlar her satışın neredeyse yarısına ulaşabiliyor. Satıcılar bu maliyeti fiyatlara yansıtıyor; Amazon'un fiyat politikası başka yerde daha ucuza satanları cezalandırdığı için alıcılar diğer mağazalarda da Amazon seviyesinde fiyat ödüyor. Makale, bu düzenin ABD Federal Ticaret Komisyonu'nun Amazon'a açtığı tekel davasının merkezinde olduğunu savunuyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50084757",
+      "article_url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/"
+    },
+    {
+      "rank": 4,
+      "title": "Iosevka is an open-source, sans-serif and slab-serif monospace font",
+      "points": 708,
+      "num_comments": 293,
+      "summary": "Iosevka, kodlama, terminal ve teknik yazım için tasarlanmış açık kaynaklı bir sans-serif ve slab-serif yazı tipi ailesi. Dar Term ve Fixed monospace varyantları, belgeler için yarı orantılı Aile ve Etoile stilleri ve birçok dil için kodlama bağlaçları sunuyor. Stil kümeleri ve karakter varyantlarıyla özelleştirilebiliyor ve 248 dili destekliyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50084240",
+      "article_url": "https://typeof.net/Iosevka/"
+    },
+    {
+      "rank": 5,
+      "title": "Passkeys are not a trap",
+      "points": 540,
+      "num_comments": 700,
+      "summary": "Scott Helme, geçiş anahtarlarının (passkey) bir tuzak olduğunu savunan popüler bir yazıya, ana kaygı olan attestation (kanıtlama) konusunun abartıldığını söyleyerek yanıt veriyor. Çoğu senkronize passkey'in attestation sağlamadığını ve attestation'ın yalnızca doğrulayıcının marka ve modelini gösterdiğini belirtiyor. Passkey'lerin TOTP kodlarına göre oltalamaya karşı çok daha dayanıklı olduğunu, bu yüzden kullanılmaya devam edilmesi gerektiğini savunuyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50088935",
+      "article_url": "https://scotthelme.co.uk/passkeys-are-not-a-trap/"
+    },
+    {
+      "rank": 6,
+      "title": "ICE Planning $100M 'Nightmare' Domestic Spy Program",
+      "points": 496,
+      "num_comments": 306,
+      "summary": "ICE, yaklaşık 100 milyon dolarlık ERO ONE adlı gözetim programını hızlandırıyor; program, ülke genelindeki şehirlere çok gizli yetkiye sahip 142 istihbarat yüklenicisi yerleştirmeyi planlıyor. ACLU'dan Jay Stanley programın \"tehlikeli biçimde bir iç casusluk kurumunun inşasına benzediğini\" söylüyor. Uzmanlar, bunun göçmenlerin yanı sıra siyasi muhaliflere karşı da kullanılabileceği uyarısında bulunuyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50090246",
+      "article_url": "https://prospect.org/2026/10/14/ice-planning-nightmare-domestic-spy-program-ero-one/"
+    },
+    {
+      "rank": 7,
+      "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
+      "points": 489,
+      "num_comments": 241,
+      "summary": "Android 17 derlemelerinde bionic'in wcscspn() ve wcspbrk() fonksiyonları, reddedilen karakter kümesi birden fazla karakter içerdiğinde U+0100 ve üzerindeki geniş karakterleri hatalı biçimde eşleşme sayıyor. Bu durum emoji veya CJK karakterleri içeren metinlerde ASCII ayraçlarını aramayı bozuyor. Bir bionic geliştiricisi hatayı doğruladı ve düzeltmeyi geri taşımaya çalışacağını söyledi.",
+      "hn_url": "https://news.ycombinator.com/item?id=50083130",
+      "article_url": "https://github.com/android/ndk/issues/2260"
+    },
+    {
+      "rank": 8,
+      "title": "Google is silently linking your phone number across all signed-in accounts",
+      "points": 434,
+      "num_comments": 115,
+      "summary": "Google'ın, telefon numaranızı oturum açtığınız tüm hesaplar arasında sessizce ilişkilendirdiği öne sürülüyor. Haber başlığa göre, bu otomatik telefon numarası doğrulama özelliğinin kullanıcıların haberi olmadan hesapları birbirine bağladığı iddiasını ele alıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50090349",
+      "article_url": "https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/"
+    },
+    {
+      "rank": 9,
+      "title": "OpenCode 2.0",
+      "points": 425,
+      "num_comments": 176,
+      "summary": "OpenCode 2.0, sunucuyu terminal, web ve masaüstü istemcileri arasında paylaşılan tek bir arka plan sürecinde çalıştıran büyük bir yenileme. Ajanların doğrudan çağırabileceği yeni bir API, MCP araçlarını betiklerde zincirleyen Code Mode, arka plan alt ajanları ve 80'den fazla dahili eklenti sunuyor. Yükseltme bazı uyumsuzluklar getiriyor; örneğin 1.0 eklentileri 2.0'da çalışmıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50094994",
+      "article_url": "https://anoma.ly/notes/opencode-2-0/"
+    },
+    {
+      "rank": 10,
+      "title": "Suicide rates highest ever among middle-aged men",
+      "points": 353,
+      "num_comments": 446,
+      "summary": "Telegraph'ın haberine göre orta yaşlı erkeklerde intihar oranları şimdiye kadarki en yüksek seviyeye ulaştı. Bu, erkek ruh sağlığı ve halk sağlığı açısından kaygı verici bir eğilim olarak öne çıkıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50093180",
+      "article_url": "https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/"
+    }
+  ],
+  "health_stories": [
+    {
+      "rank": 1,
+      "title": "Things to know when you get cancer",
+      "points": 1016,
+      "num_comments": 240,
+      "summary": "Yazar, Mayıs 2026'da ağız boşluğu skuamöz hücreli karsinom tanısı aldı ve kanser tedavisinde yol gösterecek tavsiyelerini paylaşıyor. Daha erken randevu için ısrar etmeyi, kapsamlı genetik test istemeyi, ikinci görüş almayı ve NCCN tedavi kılavuzlarını incelemeyi öneriyor. Ayrıca yapay zekâ araçlarının belirtileri hafife alabildiği konusunda uyarıyor ve büyük bir kanser merkezine yakın olanlara oraya gitmelerini tavsiye ediyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50093568",
+      "article_url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/"
+    },
+    {
+      "rank": 2,
+      "title": "Suicide rates highest ever among middle-aged men",
+      "points": 353,
+      "num_comments": 446,
+      "summary": "Telegraph'ın haberine göre orta yaşlı erkeklerde intihar oranları şimdiye kadarki en yüksek seviyeye ulaştı. Bu, erkek ruh sağlığı ve halk sağlığı açısından kaygı verici bir eğilim olarak öne çıkıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50093180",
+      "article_url": "https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/"
+    },
+    {
+      "rank": 3,
+      "title": "High-speed video reveals how honey bee stingers pump venom",
+      "points": 50,
+      "num_comments": 21,
+      "summary": "Arı iğnelerinin venomu çift pistonlu bir pompa gibi pompaladığı yüksek hızlı video ile ortaya çıkarıldı. Haber başlığa göre, bal arısı iğnesinin zehri nasıl enjekte ettiğini gösteren bir biyoloji çalışmasını anlatıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50081133",
+      "article_url": "https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/"
+    },
+    {
+      "rank": 4,
+      "title": "Scientists are teaching birds to sing lost songs",
+      "points": 47,
+      "num_comments": 7,
+      "summary": "Buenos Aires Üniversitesi araştırmacıları, 1960'lardan beri bir parktan kaybolmuş olan bir kızıl yakalı serçe şarkısının bilgisayarla üretilmiş halini çaldı ve yaklaşık üç ay içinde yerel bir kuş şarkının bazı kısımlarını taklit etmeye başladı. Çalışma, azalan kuş nüfuslarında genç kuşların güçlü yerel şarkıları öğrenme fırsatının azalmasına dair endişeleri yansıtıyor. Başka çalışmalar kayıp şarkıların geri dönebileceğini, ancak canlı öğretmenlerin kayıtlardan genellikle daha etkili olduğunu gösteriyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50087337",
+      "article_url": "https://e360.yale.edu/digest/teaching-birds-lost-songs"
+    },
+    {
+      "rank": 5,
+      "title": "Private equity ownership affects dental practices",
+      "points": 17,
+      "num_comments": 0,
+      "summary": "Health Services Research'te yayımlanan bir çalışmaya göre özel sermayenin diş kliniklerini satın alması, üç yıl içinde liste fiyatlarını yüzde 5'ten fazla artırdı, sigorta ödemeleri ise yaklaşık aynı kaldı. Satın alınan klinikler implant gibi daha pahalı işlemlere yöneldi ve birden fazla uzmanlık sunar hale geldi. Araştırmacılar, bu kazançların hastalara veya hekimlere yaramayabileceğini, cepten ödeyen hastaların daha yüksek maliyetle karşılaşabileceğini belirtiyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50093298",
+      "article_url": "https://www.dentaleconomics.com/macro-op-ed/industry-news/news/55341670/how-does-private-equity-ownership-really-affect-dental-practices"
+    },
+    {
+      "rank": 6,
+      "title": "The rare elephant behaviour that reveals the depths of their emotions",
+      "points": 10,
+      "num_comments": 0,
+      "summary": "BBC Future'ın haberi, filleri duygusal derinliklerini ortaya koyan nadir bir davranış üzerinden ele alıyor; başlıktan fillerin yas tutma davranışıyla ilgili olduğu anlaşılıyor. Bu, hayvan davranışı ve biyolojisi açısından ilgi çekici bir konu. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50086290",
+      "article_url": "https://www.bbc.com/future/article/20261013-the-rare-behaviour-showing-elephant-grief"
+    },
+    {
+      "rank": 7,
+      "title": "Two unvaccinated Pennsylvania residents die after being infected with measles",
+      "points": 8,
+      "num_comments": 4,
+      "summary": "Pennsylvania'da aşısız iki kişinin kızamık enfeksiyonu sonrası öldüğü bildiriliyor. Haber, aşılamanın halk sağlığı açısından önemini vurgulayan bir vakayı ele alıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50090871",
+      "article_url": "https://apnews.com/article/measles-deaths-pennsylvania-16c6c527c13e88ac3cdea57ffdbd2e19"
+    },
+    {
+      "rank": 8,
+      "title": "Borrowing Strength (Drug Dosing)",
+      "points": 8,
+      "num_comments": 0,
+      "summary": "Finansal risk uzmanı Barr Rosenberg, annesinin yanlış ayarlanmış digoksin dozlarından zarar görmesinin ardından istatistik yöntemlerini tıbba uyguladı. UCSF hekimi Lou Sheiner ile birlikte farmakometrinin ve FDA ilaç dozlama kararlarını etkileyen NONMEM yazılımının kurulmasına yardım etti. Makale ayrıca Rosenberg'in sonraki SEC yaptırımlarını ve annesi adına bir şiir bursuna yaptığı bağışı anlatıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50081235",
+      "article_url": "https://arenamag.com/articles/borrowing-strength"
+    },
+    {
+      "rank": 9,
+      "title": "A Chemically Defined Synthetic Cell Capable of Growth and Replication",
+      "points": 7,
+      "num_comments": 0,
+      "summary": "Araştırmacılar, yaklaşık 90 kb'lık bir genomla besin alımı, transkripsiyon, translasyon, büyüme, genom eşlemesi ve bölünmeyi kodlayan, kimyasal olarak tanımlı bir sentetik hücre geliştirdi. Hücre, genetik olarak kodlanmış mekanizmalarla beslenme, genomu kopyalama, büyüme ve bölünme döngüsünü tamamlıyor. Yazarlar çalışmayı, standartlaştırılmış sentetik hücre mühendisliğine ve çeşitli biyoteknoloji uygulamalarına doğru bir adım olarak görüyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50091459",
+      "article_url": "https://www.biorxiv.org/content/10.64898/2026.07.01.735724v1"
+    },
+    {
+      "rank": 10,
+      "title": "Sexually Transmitted Diarrhea Is Exploding, and Growing Resistant to Medicine",
+      "points": 7,
+      "num_comments": 1,
+      "summary": "Ishal yapan bir bağırsak bakterisi olan Shigella, özellikle erkeklerle seks yapan erkekler arasında cinsel temasla giderek daha fazla yayılıyor. ABD ve Birleşik Krallık'ta ilaca dirençli suşlar hızla arttı; beş yaygın antibiyotiğe dirençli ABD izolatlarının oranı 2011'de yüzde 0'dan 2023'te yüzde 8,5'e çıktı. Uzmanlar hekimlerin ishal hastalarına cinsel geçişi sormasını ve diğer cinsel yolla bulaşan enfeksiyonları da kontrol etmesini öneriyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50080402",
+      "article_url": "https://www.sciencealert.com/sexually-transmitted-diarrhea-is-exploding-in-the-us-and-its-growing-resistant-to-medicine"
+    },
+    {
+      "rank": 11,
+      "title": "40-gram drone to eradicate mosquitoes",
+      "points": 6,
+      "num_comments": 1,
+      "summary": "Tornyol, sivrisinekleri öldürmek için tasarlanmış 40 gramlık bir mikro dron olarak tanıtılıyor. Sayfadan cihazın çalışma şekli veya performansı hakkında ayrıntı edinilemedi, bu nedenle özet yalnızca başlık ve sayfa adına dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50087416",
+      "article_url": "https://tornyol.com/"
+    },
+    {
+      "rank": 12,
+      "title": "Breakthrough Genomic Test Can Diagnose Nearly Any Infection",
+      "points": 5,
+      "num_comments": 0,
+      "summary": "UCSF araştırmacıları, bir örnekteki tüm DNA ve RNA'yı analiz ederek virüs, bakteri, mantar veya parazitleri tek seferde tanımlayan bir metagenomik dizileme testi geliştirdi. Nature Medicine çalışmasında beyin omurilik sıvısı sürümü nörolojik enfeksiyonların yüzde 86'sını doğru tespit etti. Solunum örnekleri için otomatik bir sürüm ise SARS-CoV-2 ve grip gibi virüsleri bir günden kısa sürede saptayabiliyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50086267",
+      "article_url": "https://scitechdaily.com/breakthrough-genomic-test-can-diagnose-nearly-any-infection/"
+    },
+    {
+      "rank": 13,
+      "title": "Show HN: Using the long book of the law to improve PA health insurance appeals",
+      "points": 5,
+      "num_comments": 0,
+      "summary": "Pennsylvania'daki sağlık sigortası itirazlarını iyileştirmek için hukuk metinlerinin kullanıldığı bir Show HN paylaşımı. Başlığa göre proje, sigorta reddi itirazlarında yasal düzenlemelerden yararlanmayı amaçlıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50081095",
+      "article_url": "https://gemini.google.com/share/ac24e893cfcf"
+    }
+  ]
+}
