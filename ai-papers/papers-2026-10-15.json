@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-15",
+  "timestamp": "2026-10-15T09:00:00Z",
+  "papers": [
+    {
+      "title": "Latent Compaction with Test-Time Training",
+      "pdf_url": "https://arxiv.org/pdf/2610.20582",
+      "summary": "Learns compact, document-specific KV caches through test-time training so that retrieval accuracy is preserved under heavy cache compression. This targets the memory cost of long-context LLM inference.",
+      "page_count": 19
+    },
+    {
+      "title": "Mechanics of Long-Context Hybrid Models Part 1.1: From Hybrid Attention to Hybrid Position",
+      "pdf_url": "https://arxiv.org/pdf/2610.10114",
+      "summary": "Explains why hybrid attention LLMs differ in context extension versus length extrapolation, shifting the focus from hybrid attention to hybrid position handling. Proposes Sliding-Window Linear Attention based on this analysis, backed by extensive experiments.",
+      "page_count": 60
+    }
+  ]
+}
