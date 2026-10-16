@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-16",
+  "timestamp": "2026-10-16T09:00:00Z",
+  "papers": [
+    {
+      "title": "CoTranslator: Reverse to Forward Chain-of-Thought Translator for Reasoning Distillation",
+      "pdf_url": "https://arxiv.org/pdf/2610.20828",
+      "summary": "Trains a translator that converts cheap answer-conditioned (reverse) chain-of-thought data into the student's answer-free (forward) distribution for reasoning distillation. Across six students and six math benchmarks it beats semantic suppression by up to 5.82 points, and keeps 95% of rejection-sampling accuracy at about 36% of the compute.",
+      "page_count": 18
+    },
+    {
+      "title": "Interpreting Language Model Parameters",
+      "pdf_url": "https://arxiv.org/pdf/2610.20748",
+      "summary": "Introduces adVersarial Parameter Decomposition (VPD), which splits a language model's parameters into sparse, interpretable subcomponents that preserve behavior even under adversarial ablation. It enables a new kind of circuit analysis of how parameter-level interactions produce model outputs.",
+      "page_count": 124
+    }
+  ]
+}
