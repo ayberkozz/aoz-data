@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-17",
+  "timestamp": "2026-10-17T09:00:00Z",
+  "papers": [
+    {
+      "title": "Priming Base Models for Agentic Post-Training: An Open Midtraining Recipe",
+      "pdf_url": "https://arxiv.org/pdf/2610.22019",
+      "summary": "Presents an open midtraining stage between pretraining and post-training that prepares base models for agentic software-engineering tasks, using 256K-context training on repositories, pull requests, commit histories, build logs and a small share of agentic traces. After identical SFT it improves two Nemotron models on SWE-bench Verified, Multilingual and Pro, and proposes short fixed-SFT runs as a more reliable evaluation than base-model proxy metrics.",
+      "page_count": 19
+    },
+    {
+      "title": "Stochastic Gradient Descent: A Nonlinear Time Series Perspective",
+      "pdf_url": "https://arxiv.org/pdf/2610.20894",
+      "summary": "Treats constant-step-size SGD as an iterated random function and proves geometric moment contraction, yielding central limit theorems, invariance principles and alpha-stable limits for averaged SGD. It also analyzes step-size sensitivity, proposes an improved Richardson-Romberg extrapolation for bias reduction, and introduces online inference methods with confidence intervals approaching nominal coverage (accepted to JRSSB).",
+      "page_count": 87
+    }
+  ]
+}
