@@ -1,0 +1,234 @@
+{
+  "date": "2026-10-18",
+  "timestamp": "2026-10-18T04:57:41Z",
+  "summary_language": "tr",
+  "top_stories": [
+    {
+      "rank": 1,
+      "title": "OpenCode Hacked: User credentials leaked",
+      "points": 820,
+      "num_comments": 152,
+      "summary": "OpenCode kullanıcılarının kimlik bilgilerinin sızdırıldığı duyuruldu; olay platformun resmi hesabı üzerinden paylaşıldı. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50133401",
+      "article_url": "https://twitter.com/opencode/status/2111516673953935833"
+    },
+    {
+      "rank": 2,
+      "title": "DeepSeek-v4.1-Flash-1017",
+      "points": 768,
+      "num_comments": 614,
+      "summary": "DeepSeek-V4.1-Flash-1017, V4.1-Flash modelinin küçük bir güncellemesi; akıl yürütme, kodlama, ajan ve görüntü kıyaslamalarında iyileşme sağlıyor. Model MIT lisanslı ve 1 milyon token bağlam penceresine sahip.",
+      "hn_url": "https://news.ycombinator.com/item?id=50129045",
+      "article_url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
+    },
+    {
+      "rank": 3,
+      "title": "Solar surpasses nuclear power globally for first time",
+      "points": 528,
+      "num_comments": 328,
+      "summary": "Dünya Nükleer Endüstri Durum Raporu 2026'ya göre güneş enerjisi üretimi 2025'te küresel olarak nükleeri geride bıraktı. Rapor, nükleerin geri kalmasını sabit kapasite ve uzun inşaat gecikmelerine bağlıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50131256",
+      "article_url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/"
+    },
+    {
+      "rank": 4,
+      "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+      "points": 513,
+      "num_comments": 5,
+      "summary": "Bu sayfa, DeepSeek v4.1 Flash 1017 modelinin OpenRouter üzerinden Chat Completions API ile nasıl çağrılacağını anlatıyor. İstek örnekleri, akış (streaming) ve yaygın hata kodlarını da kapsıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50129121",
+      "article_url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017"
+    },
+    {
+      "rank": 5,
+      "title": "Bleached corals thrive within days when touching healthy neighbour",
+      "points": 385,
+      "num_comments": 82,
+      "summary": "Ağartılmış mercanların sağlıklı komşularına temas ettiklerinde günler içinde toparlandığı bildiriliyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50126253",
+      "article_url": "https://www.nature.com/articles/d41586-026-03266-x"
+    },
+    {
+      "rank": 6,
+      "title": "Butlerian Jihad",
+      "points": 360,
+      "num_comments": 250,
+      "summary": "Butlerian Jihad, Dune evreninde düşünen makinelere karşı yapılan büyük isyanı anlatan kurgusal tarihsel olaydır. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50127274",
+      "article_url": "https://dune.fandom.com/wiki/Butlerian_Jihad"
+    },
+    {
+      "rank": 7,
+      "title": "Pele – Mermaid diagrams as themeable SVG",
+      "points": 324,
+      "num_comments": 29,
+      "summary": "Pele, Mermaid diyagramlarını CSS değişkenleriyle temalandırılabilir SVG olarak üreten, MIT lisanslı hafif bir kütüphane. Bağımlılığı yok ve Mermaid.js'ten çok daha küçük ve hızlı.",
+      "hn_url": "https://news.ycombinator.com/item?id=50132193",
+      "article_url": "https://pele.run/"
+    },
+    {
+      "rank": 8,
+      "title": "MapQuest will now show you where Flock cameras are in your neighborhood",
+      "points": 288,
+      "num_comments": 53,
+      "summary": "MapQuest uygulaması artık Flock gibi dış mekan gözetim kameralarını ve plaka okuyucuları gösteren isteğe bağlı bir katman sunuyor. Katman bölgedeki kameraların yaygınlığını gösteriyor ancak günlük rotalarda kaçınmaya pek yardımcı olmayabilir.",
+      "hn_url": "https://news.ycombinator.com/item?id=50129947",
+      "article_url": "https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/"
+    },
+    {
+      "rank": 9,
+      "title": "Gold is now the top U.S. export",
+      "points": 286,
+      "num_comments": 149,
+      "summary": "Ekim 2025'ten bu yana altın, çoğu ayda ABD'nin en büyük ihraç ürünü oldu ve petrolü, ilaçları ve uçakları geride bıraktı. Yazar, altının İsviçreli rafineriler üzerinden Çin'e aktığını tahmin ediyor ancak bunu kanıtlayamadığını belirtiyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50132870",
+      "article_url": "https://www.numismaticnews.net/gold-now-top-u-s-export"
+    },
+    {
+      "rank": 10,
+      "title": "Making chicken transparent using Dorito dust",
+      "points": 279,
+      "num_comments": 69,
+      "summary": "Yazar, canlı doku şeffaflaştıran 2024 çalışmasını kısmen tekrarlamak için tavuk göğsünü Doritos'taki sarı boya tartrazinde bekletti. Tavukta yalnızca hafif bir yarı saydamlık oluştu; yazar bunu boyanın suyun kırılma indisini artırıp ışık saçılmasını azaltmasıyla açıklıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50131213",
+      "article_url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using"
+    }
+  ],
+  "health_stories": [
+    {
+      "rank": 1,
+      "title": "Bleached corals thrive within days when touching healthy neighbour",
+      "points": 385,
+      "num_comments": 82,
+      "summary": "Ağartılmış mercanların sağlıklı komşularına temas ettiklerinde günler içinde toparlandığı bildiriliyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50126253",
+      "article_url": "https://www.nature.com/articles/d41586-026-03266-x"
+    },
+    {
+      "rank": 2,
+      "title": "GLP-1 may slow biological aging",
+      "points": 172,
+      "num_comments": 166,
+      "summary": "108 yetişkin HIV hastasıyla yapılan randomize, plasebo kontrollü bir çalışmada semaglutidin 32 hafta içinde epigenetik yaşlanma göstergelerini yavaşlattığı, DunedinPACE saatinde %9 daha yavaş bir hız görüldüğü bildirildi. Araştırmacılar ilacın yaşlanmayı tersine çevirmediğini vurguluyor ve sonuçların doğrulanması için daha büyük çalışmalar gerektiğini söylüyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50132328",
+      "article_url": "https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging"
+    },
+    {
+      "rank": 3,
+      "title": "Implant can restore sight for patients with macular degeneration",
+      "points": 9,
+      "num_comments": 1,
+      "summary": "PRIMA sistemi, kamera takılı gözlüklerle eşleşen bir retina implantı ile ileri evre yaşa bağlı makula dejenerasyonu olan kişilerde görmeyi geri kazandırıyor. Eğitimden sonra alıcıların %80'inden fazlası okuyabildi ve telefon kullanabildi; sistem Avrupa'da onaylı, ABD'de FDA onayı bekliyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50132935",
+      "article_url": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/"
+    },
+    {
+      "rank": 4,
+      "title": "The world epidemic of sleep disorders is linked to Vitamin D deficiency (2012)",
+      "points": 6,
+      "num_comments": 0,
+      "summary": "2012 tarihli bu çalışma, dünya genelindeki uyku bozukluklarının D vitamini eksikliğiyle ilişkili olabileceğini ileri sürüyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50128125",
+      "article_url": "https://pubmed.ncbi.nlm.nih.gov/22583560/"
+    },
+    {
+      "rank": 5,
+      "title": "Having insurance doesn't mean you can get a mental health appointment",
+      "points": 5,
+      "num_comments": 0,
+      "summary": "Ohio State araştırmacıları, beş eyalette sigorta rehberlerinde yer alan 5.822 ruh sağlığı uzmanını hasta gibi arayarak randevu almanın çoğunlukla zor veya imkânsız olduğunu buldu. Bir kişiye ulaşılan aramaların yalnızca yaklaşık dörtte biri randevuyla sonuçlandı; nedenler yanlış rehberler, hasta almayan uzmanlar ve ortalama üç haftalık bekleme.",
+      "hn_url": "https://news.ycombinator.com/item?id=50134063",
+      "article_url": "https://news.osu.edu/having-insurance-doesnt-mean-you-can-get-a-mental-health-appointment/"
+    },
+    {
+      "rank": 6,
+      "title": "Why people who have never smoked are getting hooked on vapes",
+      "points": 5,
+      "num_comments": 1,
+      "summary": "Hiç sigara içmemiş kişilerin neden elektronik sigaraya bağımlı hale geldiğini ele alan bir BBC haberi. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50133280",
+      "article_url": "https://www.bbc.com/news/articles/ck62y33489zqo"
+    },
+    {
+      "rank": 7,
+      "title": "Palantir patient data tech rejected by many NHS trusts in England",
+      "points": 5,
+      "num_comments": 0,
+      "summary": "Palantır'ın hasta verisi teknolojisinin İngiltere'deki birçok NHS kuruluşu tarafından reddedildiği bildiriliyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50128880",
+      "article_url": "https://www.theguardian.com/technology/2026/oct/17/palantir-patient-data-tech-rejected-by-many-nhs-trusts-in-england"
+    },
+    {
+      "rank": 8,
+      "title": "Dramatic Cuts in New NIH Research Funding Across the Board",
+      "points": 4,
+      "num_comments": 0,
+      "summary": "Matt Carey'nin NIH verilerine dayanan analizine göre 2026 mali yılında yeni NIH hibeleri keskin biçimde düştü; yeni fonlama önceki yönetimin yaklaşık %25'i düzeyinde. Ulusal Ruh Sağlığı Enstitüsü hibeleri yarıdan fazla, azınlık sağlığı enstitüsü hibeleri ise yaklaşık %90 azaldı.",
+      "hn_url": "https://news.ycombinator.com/item?id=50134904",
+      "article_url": "https://leftbrainrightbrain.co.uk/2026/06/12/dramatic-cuts-in-new-nih-research-funding-across-the-board/"
+    },
+    {
+      "rank": 9,
+      "title": "MyChart and a major hospital said I could opt out of sharing my health data",
+      "points": 4,
+      "num_comments": 0,
+      "summary": "The Markup'ın soruşturmasına göre MyChart ve Ohio'daki University Hospitals sağlık verisi paylaşımından çıkma imkânı sunuyor, ancak süreç onlarca menü, noter onaylı form ve yanlış bilgi veren personel gerektiriyor. Uzmanlar, düzenleme olmadan bu tür engellerin vazgeçme hakkını anlamsız kıldığını söylüyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50132458",
+      "article_url": "https://themarkup.org/privacy/2026/10/15/mychart-health-data-opt-out-epic-notary-hipaa"
+    },
+    {
+      "rank": 10,
+      "title": "The idea that temperature sets when we sleep",
+      "points": 4,
+      "num_comments": 0,
+      "summary": "Sıcaklığın uykuya ne zaman daldığımızı belirlediği fikrini inceleyen bir BBC Future makalesi. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50132288",
+      "article_url": "https://www.bbc.com/future/article/20261007-how-does-temperature-affect-your-sleep"
+    },
+    {
+      "rank": 11,
+      "title": "China is second only to the U.S. in healthcare costs as a percentage of income",
+      "points": 4,
+      "num_comments": 0,
+      "summary": "Çin'in, gelire oranla sağlık harcamalarında ABD'den sonra ikinci sırada olduğunu bildiren bir CNBC haberi. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50127167",
+      "article_url": "https://www.cnbc.com/2026/10/15/chinese-spending-nearly-as-much-of-income-as-americans-on-healthcare.html"
+    },
+    {
+      "rank": 12,
+      "title": "Scientists Reveal How Pancreatic Cancer Evolves to Evade Treatment",
+      "points": 3,
+      "num_comments": 0,
+      "summary": "UC San Diego Moores Kanser Merkezi ve NYU araştırmacıları, 62 pankreas tümöründen yaklaşık 443.000 tek hücreyi analiz etti. Kanser hücrelerinin genetik yapılarını sürekli yeniden şekillendirdiği ve farklı klonların tedaviye direnç gösterip yayılabildiği bulundu.",
+      "hn_url": "https://news.ycombinator.com/item?id=50131253",
+      "article_url": "https://today.ucsd.edu/story/scientists-reveal-how-pancreatic-cancer-evolves-to-evade-treatment"
+    },
+    {
+      "rank": 13,
+      "title": "Ask HN: Why people do not want to believe weight loss is possible without GLPs?",
+      "points": 3,
+      "num_comments": 16,
+      "summary": "Yazar, Hacker News'ün GLP-1 ilaçları olmadan kilo vermenin mümkün olduğuna inanmakta neden direndiğini soruyor ve kendi uygulamasının Show HN'de işaretlendiğinden yakınıyor. Yanıtların çoğu gönderiyi kendini tanıtma olarak görüyor ve GLP-1 ilaçlarının güçlü bir araştırma temeli olduğunu belirtiyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50131233",
+      "article_url": "https://news.ycombinator.com/item?id=50131233"
+    },
+    {
+      "rank": 14,
+      "title": "Molecular 'scissors' open path to new therapies",
+      "points": 3,
+      "num_comments": 0,
+      "summary": "UW Medicine Protein Tasarım Enstitüsü, hastalıkla ilişkili proteinleri seçilen noktalardan kesen sentetik proteaz enzimleri tasarladı; testler Alzheimer ve ALS ile ilişkili dizileri ve canlı insan hücrelerini kapsıyor. Bu enzimler yeniden kullanılabildiği için daha düşük dozlarda çalışabilir ve mevcut ilaçların ulaşamadığı proteinleri hedefleyebilir.",
+      "hn_url": "https://news.ycombinator.com/item?id=50130602",
+      "article_url": "https://newsroom.uw.edu/news-releases/molecular-scissors-open-path-to-new-therapies"
+    },
+    {
+      "rank": 15,
+      "title": "Social media bans are not the answer to protect young people's mental health",
+      "points": 3,
+      "num_comments": 2,
+      "summary": "Ari Lightman, gençler için sosyal medya yasaklarının gençlerin ruh sağlığı krizini çözmesinin olası olmadığını savunuyor; çocuklar yaş denetimlerini kolayca aşıyor. Bunun yerine varsayılan olarak güvenlik kuralları, dijital okuryazarlık ve ekransız zaman öneriyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50129284",
+      "article_url": "https://theconversation.com/can-social-media-bans-protect-young-peoples-mental-health-early-research-suggests-that-bans-arent-the-answer-291629"
+    }
+  ]
+}
