@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-18",
+  "timestamp": "2026-10-18T04:46:33Z",
+  "papers": [
+    {
+      "title": "Retrieved but Not Read: Understanding Why Search-Augmented LLMs Fail to Use Available Evidence",
+      "pdf_url": "https://arxiv.org/pdf/2610.21731",
+      "summary": "Studies why search-augmented LLMs give outdated answers even when current evidence is retrieved, using temporal facts that changed after training cutoffs across one proprietary and six open-weight setups. Finds models often answer from search snippets without opening source pages, which correlates with outdated answers and unfaithful citations. Layer-wise analysis shows retrieved evidence influences internal predictions yet final answers can still favor stale parametric knowledge.",
+      "page_count": 14
+    },
+    {
+      "title": "Articulation Upper Bounds for Language Models",
+      "pdf_url": "https://arxiv.org/pdf/2610.19721",
+      "summary": "Measures the limits of what can be conveyed in language by testing how well 1.2k concepts transmit between LLMs as capability scales, introducing a prompt optimization algorithm that beats existing methods by up to 14% and a transmission measure that correlates with human label error. Using observational scaling laws, it separates concepts that are fully articulable, those likely articulable by stronger models, and those facing articulability limits tied to identity and social-group awareness. Irrecoverable concepts cannot be transmitted even with examples, suggesting a need for novel learning mechanisms.",
+      "page_count": 70
+    }
+  ]
+}
