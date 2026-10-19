@@ -1,0 +1,234 @@
+{
+  "date": "2026-10-19",
+  "timestamp": "2026-10-19T04:58:21Z",
+  "summary_language": "tr",
+  "top_stories": [
+    {
+      "rank": 1,
+      "title": "Zuckerberg's Meta Takes Down No Kings Instagram During Protest Day",
+      "points": 573,
+      "num_comments": 390,
+      "summary": "Meta'nın, ülke çapındaki büyük protesto gününde 'No Kings' Instagram hesabını kaldırdığı iddia ediliyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50136881",
+      "article_url": "https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day"
+    },
+    {
+      "rank": 2,
+      "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+      "points": 561,
+      "num_comments": 263,
+      "summary": "DeepSeek'in Arama API'si bir sorgu için yapılandırılmış web sonuçları döndürüyor, Fetch API'si ise tek bir web sayfasını Markdown olarak getiriyor. Her iki hizmet de başarılı istek başına 1000 istekte 0,75 dolar ücretlendiriliyor ve saniyede 5 istekle sınırlı.",
+      "hn_url": "https://news.ycombinator.com/item?id=50138531",
+      "article_url": "https://api-docs.deepseek.com/guides/search/"
+    },
+    {
+      "rank": 3,
+      "title": "Namecheap just seized and disabled all my domains",
+      "points": 507,
+      "num_comments": 255,
+      "summary": "Bir sistem yöneticisi, Namecheap'in tüm alan adlarına el koyup devre dışı bıraktığını anlatıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50142866",
+      "article_url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/"
+    },
+    {
+      "rank": 4,
+      "title": "NY announces game ownership bill requiring ownership rather than licensing",
+      "points": 431,
+      "num_comments": 203,
+      "summary": "New York'tan bir milletvekili, tüketicilerin oyunlar için yalnızca lisans değil gerçek mülkiyet sahibi olmasını zorunlu kılacak bir yasa tasarısı duyurdu. Tasarı ayrıca yayıncıların destek sona erdikten sonra da oyunları çalışır durumda tutmasını şart koşuyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50136536",
+      "article_url": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends"
+    },
+    {
+      "rank": 5,
+      "title": "The Elizabeth Holmes documentary “You Can See Everything” is deceiving",
+      "points": 373,
+      "num_comments": 538,
+      "summary": "İnceleme, Elizabeth Holmes belgeseli 'You Can See Everything'in kamera açıları, kurgu ve bilgilerin sunuluş sırasıyla izleyiciyi yönlendirdiğini savunuyor. Yazar, Holmes'un hastaları dolandırmaya ilişkin suçlamalardan beraat ettiğini, yatırımcıları yanıltmaktan ise mahkûm olduğunu hatırlatıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50137620",
+      "article_url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything"
+    },
+    {
+      "rank": 6,
+      "title": "Someone behind the software",
+      "points": 369,
+      "num_comments": 146,
+      "summary": "Karri Saarinen, harika ürünlerin yapımcılarının deneyimini, değerlerini ve muhakemesini taşıdığını savunuyor. Yapay zeka ajanlarının ve bağımsız eklemelerin ürünleri ortalama, tek bir bakış açısından yoksun hale getirmesinden endişe ediyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50142573",
+      "article_url": "https://karrisaarinen.com/posts/someone-behind-the-software/"
+    },
+    {
+      "rank": 7,
+      "title": "RepRapMicron",
+      "points": 353,
+      "num_comments": 56,
+      "summary": "RepRapMicron wiki'si, OpenFlexure mikroskop platformlarına dayanan, mikron ölçeğinde üretim yapan µRepRap 3B yazıcısını belgeliyor. Önerilen PIKA V0.02 tasarımı yaklaşık 1 µm tekrarlanabilirlik sağlıyor ve 4 µm'ye kadar UV reçine damlacıkları bırakabiliyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50141076",
+      "article_url": "https://github.com/VikOlliver/RepRapMicron/wiki"
+    },
+    {
+      "rank": 8,
+      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+      "points": 286,
+      "num_comments": 157,
+      "summary": "Makale, tek bir üretim süreci içinde gizli (latent) akıl yürütme ile metin tabanlı araç kullanımı arasında geçiş yapan Hybrid Reasoning Agents'ı tanıtıyor. Yazarlar 11 kıyaslamada ortalama %10,4 performans artışı, %35,5-54,7 daha az token ve 1,8-2,6 kat hızlı çıkarım bildiriyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50145337",
+      "article_url": "https://arxiv.org/abs/2610.18861"
+    },
+    {
+      "rank": 9,
+      "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
+      "points": 252,
+      "num_comments": 288,
+      "summary": "3Blue1Brown'un videosu, matematiğe girmek için şimdiye kadarki en iyi zamanlardan birinin yaşandığını tartışıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50136150",
+      "article_url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc"
+    },
+    {
+      "rank": 10,
+      "title": "macOS 15.8.2 Breaks OpenGL",
+      "points": 242,
+      "num_comments": 258,
+      "summary": "Apple geliştirici forumundaki bir konu, macOS 15.8.2 güncellemesinin OpenGL'i bozduğunu bildiriyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50141909",
+      "article_url": "https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550"
+    }
+  ],
+  "health_stories": [
+    {
+      "rank": 1,
+      "title": "Palantir patient data tech rejected by many NHS trusts in England",
+      "points": 13,
+      "num_comments": 1,
+      "summary": "Palantir'in hasta verisi teknolojisinin İngiltere'deki birçok NHS kurumu tarafından reddedildiği bildiriliyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50140650",
+      "article_url": "https://www.theguardian.com/technology/2026/oct/17/palantir-patient-data-tech-rejected-by-many-nhs-trusts-in-england"
+    },
+    {
+      "rank": 2,
+      "title": "Study shows cannabis is not associated with better sleep quality",
+      "points": 10,
+      "num_comments": 10,
+      "summary": "Cannabis'in uykuyu iyileştirdiği düşüncesine karşı bir çalışma, cannabis kullanımının daha iyi uyku kalitesiyle ilişkili olmadığını gösteriyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50141822",
+      "article_url": "https://news.northwestern.edu/stories/2026/10/think-cannabis-helps-you-sleep-better-think-again"
+    },
+    {
+      "rank": 3,
+      "title": "Association between handgrip strength and incident depression",
+      "points": 10,
+      "num_comments": 5,
+      "summary": "Bir araştırma, el kavrama gücü ile sonradan ortaya çıkan depresyon arasındaki ilişkiyi inceliyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50137931",
+      "article_url": "https://www.sciencedirect.com/science/article/pii/S0022395626000968"
+    },
+    {
+      "rank": 4,
+      "title": "A self-disinfecting fabric eliminates bacteria, fungi and viruses",
+      "points": 8,
+      "num_comments": 0,
+      "summary": "Valencia Politeknik Üniversitesi araştırmacıları, görünür ışıkta bakteri, mantar ve virüsleri yok eden reaktif oksijen üreten kendi kendini dezenfekte eden bir pamuklu kumaş geliştirdi. La Fe Hastanesi'nde 12 hasta odasında yapılan 48 saatlik denemede, ışığa maruz kalan kumaş geleneksel pamuğa göre %75 daha az mikroorganizma topladı.",
+      "hn_url": "https://news.ycombinator.com/item?id=50140505",
+      "article_url": "https://www.upv.es/noticias-upv/noticia-16087-un-tejido-auto-en.html"
+    },
+    {
+      "rank": 5,
+      "title": "It's time to admit that genes are not the blueprint for life",
+      "points": 7,
+      "num_comments": 0,
+      "summary": "Nature'daki bu yazı, genlerin yaşamın planı (blueprint) olduğu görüşünün artık terk edilmesi gerektiğini savunuyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50145072",
+      "article_url": "https://www.nature.com/articles/d41586-024-00327-x"
+    },
+    {
+      "rank": 6,
+      "title": "LLM analyzed 150k Reddit posts to identify side effects of unapproved new GLP-1",
+      "points": 7,
+      "num_comments": 0,
+      "summary": "Penn mühendisleri, henüz onaylanmamış yeni bir GLP-1 ilacının olası yan etkilerini belirlemek için yapay zekayla yaklaşık 150 bin Reddit gönderisini analiz etti. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50142726",
+      "article_url": "https://www.engineering.upenn.edu/stories/penn-engineers-use-ai-reddit-to-identify-potential-side-effects-of-unapproved-new-glp-1/"
+    },
+    {
+      "rank": 7,
+      "title": "EPA backtracks on claims US has phased out toxic PFAS compounds",
+      "points": 7,
+      "num_comments": 0,
+      "summary": "Guardian'a göre ABD Çevre Koruma Ajansı (EPA), toksik PFAS bileşiklerinin aşamalı olarak kaldırıldığı yönündeki iddialarından geri adım attı. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50143166",
+      "article_url": "https://www.theguardian.com/environment/2026/oct/18/epa-pfas-compounds-toxins"
+    },
+    {
+      "rank": 8,
+      "title": "The ovary doesn't retire after menopause",
+      "points": 5,
+      "num_comments": 0,
+      "summary": "Northwestern'ün haberine göre yumurtalık menopozdan sonra 'emekli' olmuyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50137754",
+      "article_url": "https://news.northwestern.edu/stories/2026/10/the-ovary-doesnt-retire-after-menopause?fj=1&utm_source=join1440&utm_medium=email&utm_placement=newsletter&user_id=66c4bf745d78644b3aa57b08"
+    },
+    {
+      "rank": 9,
+      "title": "Why big dogs age faster",
+      "points": 5,
+      "num_comments": 1,
+      "summary": "Dog Aging Project kapsamında 864 köpek üzerinde yapılan ve Science'ta yayımlanan çalışma, büyük ırkların 'sıçrayan genler' olan LINE1'ler üzerindeki epigenetik kontrolü daha hızlı kaybettiği için daha çabuk yaşlandığını öne sürüyor. Dev ırklar yılda küçük ırklara göre yaklaşık %35 daha fazla LINE1 metilasyonu kaybediyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50141532",
+      "article_url": "https://news.asu.edu/20261008-health-and-medicine-why-big-dogs-age-faster"
+    },
+    {
+      "rank": 10,
+      "title": "Novel brain activity under anesthesia challenges what we know re: consciousness",
+      "points": 4,
+      "num_comments": 0,
+      "summary": "Baylor araştırmacıları, genel anestezi altındaki epilepsi hastalarında hipokampus aktivitesini kaydetti. Beyin, bilinçsizken bile alışılmadık sesleri ayırt etti ve kelimeleri türlerine göre sıraladı; bu durum bilinç araştırmaları için yeni sorular doğuruyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50136595",
+      "article_url": "https://www.sciencedaily.com/releases/2026/10/261015003440.htm"
+    },
+    {
+      "rank": 11,
+      "title": "Can predictive tools tell us who will benefit from antidepressants?",
+      "points": 4,
+      "num_comments": 1,
+      "summary": "Science'ın haberi, öngörücü araçların antidepresanlardan kimlerin gerçekten yarar göreceğini söyleyip söyleyemeyeceğini soruyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50135661",
+      "article_url": "https://www.science.org/content/article/can-predictive-tools-tell-us-who-really-needs-antidepressants"
+    },
+    {
+      "rank": 12,
+      "title": "Brown Fat Can Be Beneficial and Blood Pressure Meds Could Activate It",
+      "points": 3,
+      "num_comments": 0,
+      "summary": "Yapay zekayla 101 bini aşkın kişinin tıbbi kaydını tarayan araştırmacılar, tespit edilebilir kahverengi yağı olanlarda tip 2 diyabet, kalp hastalığı, kaygı ve depresyonun daha az görüldüğünü buldu. Tansiyon ilacı losartan alanlarda kahverengi yağ daha sık görüldü; ancak katılımcılar kanser hastasıydı ve bağlantı nedensellik kanıtlamıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50142689",
+      "article_url": "https://www.sciencealert.com/brown-fat-can-be-beneficial-for-the-body-and-a-blood-pressure-drug-could-turn-it-on"
+    },
+    {
+      "rank": 13,
+      "title": "Restoration of Retinal Regenerative Potential",
+      "points": 3,
+      "num_comments": 0,
+      "summary": "Nature Communications'taki bu çalışma, retinanın yenilenme potansiyelinin yeniden kazandırılmasını konu alıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50140111",
+      "article_url": "https://www.nature.com/articles/s41467-025-58290-8"
+    },
+    {
+      "rank": 14,
+      "title": "What an adult ADHD diagnosis taught me",
+      "points": 3,
+      "num_comments": 0,
+      "summary": "Yazar, hayatının çoğunu odaklanma sorunlarını tembelliğe bağlayarak geçirdiğini, yetişkinlikte konan DEHB tanısının ise rahatlama getirdiğini anlatıyor. İlaç beyni bir gecede değiştirmese de aksaklıklara tepkisini değiştirdi; artık düşen işleri araçlarla yakalayıp düzeltiyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50139676",
+      "article_url": "https://blog.raed.dev/posts/adhd/"
+    },
+    {
+      "rank": 15,
+      "title": "Mini organs launching to space may help future astronauts stay healthy",
+      "points": 3,
+      "num_comments": 0,
+      "summary": "Mount Sinai, NASA ve Space Tango araştırmacıları, uzay yolculuğunun organları nasıl etkilediğini ve yaşlanmayı hızlandırıp hızlandırmadığını incelemek için minyatür kalp ve beyin dokularını (miBrain) Uluslararası Uzay İstasyonu'na gönderdi. Bulguların astronotları korumasına ve Parkinson ile Alzheimer tedavilerine katkı sağlaması umuluyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50137158",
+      "article_url": "https://abcnews.com/Health/mini-organs-launching-space-future-astronauts-humans-earth/story?id=137203416"
+    }
+  ]
+}
