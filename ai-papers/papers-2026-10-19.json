@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-19",
+  "timestamp": "2026-10-19T05:00:00Z",
+  "papers": [
+    {
+      "title": "Can LLMs predict the outcomes of machine learning experiments?",
+      "pdf_url": "https://arxiv.org/pdf/2610.22599",
+      "summary": "Evaluates how well frontier LLMs can predict the results of machine learning experiments, including ones they propose themselves. The best model reaches an R² of about 0.49, showing meaningful but limited ability to forecast experimental outcomes, with implications for automated research agents.",
+      "page_count": 15
+    },
+    {
+      "title": "Flat Loss, Evolving Features: Grokking in Modular Addition",
+      "pdf_url": "https://arxiv.org/pdf/2610.22593",
+      "summary": "Studies grokking on modular addition and shows that generalization can emerge while the training loss stays nearly flat, because internal features keep evolving. Includes a detailed mechanistic analysis plus a one-block transformer experiment.",
+      "page_count": 97
+    }
+  ]
+}
