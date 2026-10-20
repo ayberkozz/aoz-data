@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-20",
+  "timestamp": "2026-10-20T05:00:00Z",
+  "papers": [
+    {
+      "title": "Same Simulation, Different Evidence: Where Retrieved Tool Output Costs LLM Agents Accuracy",
+      "pdf_url": "https://arxiv.org/pdf/2610.26836",
+      "summary": "Studies agent harnesses that keep long tool outputs out of context and let the agent retrieve them on demand, using the PHREEQC geochemistry simulator. GPT models lose up to 11 points of accuracy because they substitute their own higher-precision output files for the authoritative report, while Claude models show no detectable cost. Naming the authoritative output recovers 6-8 points.",
+      "page_count": 15
+    },
+    {
+      "title": "MemT-1.0: Towards Memory-Native Evolution",
+      "pdf_url": "https://arxiv.org/pdf/2610.26825",
+      "summary": "Introduces a memory foundation model architecture that internalizes memory as part of model computation, using Gated DeltaNet-2 token-level updates and a Mixture-of-Storage design, trained with continued pre-training and post-training on 34B tokens. The Nano and Flash models beat parametric memory baselines and stay competitive with RAG, with about 1.86x inference speedup and 66x less persistent storage than a full KV cache at 128K tokens.",
+      "page_count": 66
+    }
+  ]
+}
