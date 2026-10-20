@@ -1,0 +1,180 @@
+{
+  "date": "2026-10-20",
+  "timestamp": "2026-10-20T04:57:08Z",
+  "summary_language": "tr",
+  "top_stories": [
+    {
+      "rank": 1,
+      "title": "Ousted Savannah police officer gave ICE agent husband access to Flock system",
+      "points": 631,
+      "num_comments": 362,
+      "summary": "Savannah'da görevden alınan bir polis memuru, ICE ajanı olan eşinin Flock plaka okuma sistemine erişmesine izin verdi. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50150750",
+      "article_url": "https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816"
+    },
+    {
+      "rank": 2,
+      "title": "Linux 7.3",
+      "points": 595,
+      "num_comments": 278,
+      "summary": "Linus Torvalds 18 Ekim 2026'da Linux 7.3'ü yayımladı ve ertesi gün 7.4 birleştirme penceresini açtı. 3.021 geliştiricinin 18.765 commit'iyle rekor bir sürüm; 807 kişi ilk kez çekirdeğe katkı verdi. Yenilikler arasında failfs dosya sistemi, fchroot() sistem çağrısı ve tamamlanan sched_ext alt zamanlayıcı desteği var.",
+      "hn_url": "https://news.ycombinator.com/item?id=50149392",
+      "article_url": "https://lwn.net/Articles/1101143/"
+    },
+    {
+      "rank": 3,
+      "title": "Timestral: Mistral's time-series foundation models",
+      "points": 566,
+      "num_comments": 105,
+      "summary": "Mistral, zaman serisi tahminleri için ilk model ailesi Timestral'ı tanıttı; modeller 5M ile 209M parametre arasında değişiyor. En büyük model üç büyük açık kıyaslamada birinci olurken öncekinden yaklaşık üçte iki daha az parametre kullanıyor. Olasılıksal çok değişkenli tahmin üreten modeller CPU'da çalışıyor ve yerinde ya da izole ortamlarda kullanılabiliyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50150434",
+      "article_url": "https://mistral.ai/news/timestral/"
+    },
+    {
+      "rank": 4,
+      "title": "Wine ported to OpenBSD",
+      "points": 532,
+      "num_comments": 177,
+      "summary": "Thomas Frohwein, OpenBSD için yeni bir Wine portu önerdi ve test edilmesini istedi. Onlarca 64 bit Windows programı çoğunlukla çalıştı; ancak 32 bit yazılımlar desteklenmiyor ve yerleşik testler kapalı. Riskli olduğu için ayrı, yetkisiz bir kullanıcıyla çalıştırılması öneriliyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50152307",
+      "article_url": "https://marc.info/?l=openbsd-ports&m=179236125692175"
+    },
+    {
+      "rank": 5,
+      "title": "I built a drone with only one motor [video]",
+      "points": 457,
+      "num_comments": 99,
+      "summary": "Bu video, yalnızca tek motorla uçan bir drone yapımını anlatıyor. Sayfa içeriği okunamadığı için ayrıntılar bilinmiyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50150089",
+      "article_url": "https://www.youtube.com/watch?v=Ndftcft6XhU"
+    },
+    {
+      "rank": 6,
+      "title": "I no longer care to work on any Ruby gems so I've archived all my repositories",
+      "points": 441,
+      "num_comments": 425,
+      "summary": "Paul Battley, Ruby gem'lerini arşivleyerek bakımını bıraktığını duyurdu. Ruby ve Rails'e katkı verme isteğini kaybettiğini, bunların giderek LLM ajanlarıyla geliştirildiğini ve açık kaynak ortak alanın yapay zekâ eğitimi için sömürüldüğünü düşündüğünü söylüyor. Rails'in yaratıcısının çerçeve üzerindeki kontrolünü de eleştiriyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50154518",
+      "article_url": "https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository"
+    },
+    {
+      "rank": 7,
+      "title": "MiniMax M3.1 Flash",
+      "points": 419,
+      "num_comments": 179,
+      "summary": "MiniMax, ajan görevlerinde, kodlamada ve siber güvenlikte iyileşme getiren M3.1 Flash modelini duyurdu. Çevrimiçi çıkarım hızını yaklaşık üç katına çıkarırken maliyeti yaklaşık %70 düşürdüğünü, milyon token başına 0,15 dolar girdi ve 0,60 dolar çıktı fiyatı sunduğunu belirtiyor. Model ağırlıklarının daha sonra yayımlanması planlanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50154540",
+      "article_url": "https://www.minimax.io/blog/minimax-m31f"
+    },
+    {
+      "rank": 8,
+      "title": "Starcraft: Ashfall",
+      "points": 379,
+      "num_comments": 116,
+      "summary": "StarCraft: Ashfall, Ji tarafından geliştirilen resmî olmayan bir hayran oyununun erken prototipi. Oyuncular Terran birlikleriyle bir köprüyü Zerg sürülerine karşı savunuyor ve Komutan Raynor'un yeteneklerini kullanabiliyor. Oyun dikey ekran için tasarlanmış ve skor tablosu içeriyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50147233",
+      "article_url": "https://starcraft-shooter-2026.pages.dev/"
+    },
+    {
+      "rank": 9,
+      "title": "Alternatives to animal testing are finally taking off",
+      "points": 332,
+      "num_comments": 99,
+      "summary": "Organ-çip sistemleri gibi hayvan deneylerine alternatif yöntemler (NAM) ABD'de 2022 tarihli bir yasayla klinik öncesi ilaç çalışmalarında kullanılabilir hale geldi ve düzenleyici destek kazanıyor. Yine de benimsenmeleri yavaş; çünkü hayvan çalışmalarına karşı pahalı doğrulama, standart yöntemler ve özel verilere erişim gerekiyor. Hayvan verisi beklentisi gibi köklü alışkanlıklar da engel oluşturuyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50150927",
+      "article_url": "https://spectrum.ieee.org/alternatives-to-animal-testing"
+    },
+    {
+      "rank": 10,
+      "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+      "points": 330,
+      "num_comments": 477,
+      "summary": "Bir Meta mühendisinin yazısından yola çıkan bu tartışmada, tam olarak anlaşılmayan yapay zekâ kodunun nasıl yayına alınacağı soruluyor. Yorumcuların çoğu tasarımı insanın yapıp uygulamayı modele bırakmasını savunuyor; bazıları ise testlerin ve gelişen modellere güvenin yeterli olduğunu söylüyor. Teknik borç ve anlayışın zayıflaması endişeleri öne çıkıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50151036",
+      "article_url": "https://news.ycombinator.com/item?id=50151036"
+    }
+  ],
+  "health_stories": [
+    {
+      "rank": 1,
+      "title": "Alternatives to animal testing are finally taking off",
+      "points": 332,
+      "num_comments": 99,
+      "summary": "Organ-çip sistemleri gibi hayvan deneylerine alternatif yöntemler (NAM) ABD'de 2022 tarihli bir yasayla klinik öncesi ilaç çalışmalarında kullanılabilir hale geldi ve düzenleyici destek kazanıyor. Yine de benimsenmeleri yavaş; çünkü hayvan çalışmalarına karşı pahalı doğrulama, standart yöntemler ve özel verilere erişim gerekiyor. Hayvan verisi beklentisi gibi köklü alışkanlıklar da engel oluşturuyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50150927",
+      "article_url": "https://spectrum.ieee.org/alternatives-to-animal-testing"
+    },
+    {
+      "rank": 2,
+      "title": "Raw Chicken, Malnutrition and Fear: Pregnancy in ICE Detention Camps",
+      "points": 31,
+      "num_comments": 6,
+      "summary": "Başlığa göre haber, Teksas'taki ICE gözaltı merkezlerinde hamile kadınların çiğ tavuk, yetersiz beslenme ve korku altında yaşadığı koşulları anlatıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50155643",
+      "article_url": "https://www.themarshallproject.org/2026/10/14/texas-ice-woman-pregnant-immigrant"
+    },
+    {
+      "rank": 3,
+      "title": "My Year of O.C.D.",
+      "points": 6,
+      "num_comments": 1,
+      "summary": "The New Yorker'da yayımlanan bu deneme, yazarın obsesif-kompulsif bozuklukla (OKB) geçirdiği bir yılı anlatıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50153388",
+      "article_url": "https://www.newyorker.com/culture/the-weekend-essay/my-year-of-ocd"
+    },
+    {
+      "rank": 4,
+      "title": "A paralyzed musician is using a brain implant to create music",
+      "points": 5,
+      "num_comments": 0,
+      "summary": "Felçli bir müzisyen, beyin implantı sayesinde yalnızca düşünce gücüyle müzik üretiyor. Haberin ayrıntılarına ulaşılamadı. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50157469",
+      "article_url": "https://www.techspot.com/news/111910-brain-implants-paralyzed-man-make-music-thoughts.html"
+    },
+    {
+      "rank": 5,
+      "title": "Efficacy of Ibuprofen versus Acetaminophen for Acute Fever in Febrile Children",
+      "points": 5,
+      "num_comments": 5,
+      "summary": "Çalışma, ateşli çocuklarda akut ateşin tedavisinde ibuprofen ile asetaminofenin etkinliğini karşılaştırıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50156851",
+      "article_url": "https://link.springer.com/article/10.1007/s40272-026-00773-2"
+    },
+    {
+      "rank": 6,
+      "title": "The immortal jellyfish can beat ageing",
+      "points": 5,
+      "num_comments": 0,
+      "summary": "BBC'nin haberi, ölümsüz denizanasının yaşlanmayı yenebilme yeteneğini ve gençleşme sırlarını ele alıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50153265",
+      "article_url": "https://www.bbc.com/future/article/20261016-the-rejuvenating-secrets-of-the-immortal-jellyfish"
+    },
+    {
+      "rank": 7,
+      "title": "Scientists discover that male and female skin play by different rules",
+      "points": 4,
+      "num_comments": 0,
+      "summary": "ULB ve Cambridge Üniversitesi araştırmacıları, farelerde cilt kök hücrelerini beş ay boyunca izledi. Dişi hücreler birbiriyle yakın koordinasyonla hareket ederken erkek hücreler daha bağımsız davranıyor; farkı cinsiyet hormonları yaratıyor. Bu durum dişi farelerin yaraları daha hızlı iyileştirmesini açıklayabilir, ancak bulguların insan derisinde doğrulanması gerekiyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50151688",
+      "article_url": "https://www.sciencedaily.com/releases/2026/10/261017230020.htm"
+    },
+    {
+      "rank": 8,
+      "title": "Fine particles from aircraft exhaust become more harmful over time",
+      "points": 4,
+      "num_comments": 1,
+      "summary": "Basel Üniversitesi'nden haber, uçak egzozundan çıkan ince parçacıkların zamanla daha zararlı hale geldiğini bildiriyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50150150",
+      "article_url": "https://www.unibas.ch/en/News-Events/News/Uni-Research/aircraft-exhaust-fine-particles-toxicity-aging.html"
+    },
+    {
+      "rank": 9,
+      "title": "Don't sit on the toilet for more than 10 minutes, doctors warn (2024)",
+      "points": 4,
+      "num_comments": 2,
+      "summary": "Doktorlar, tuvalette 10 dakikadan fazla oturmamak gerektiği konusunda uyarıyor; haber telefonla tuvalette vakit geçirmenin sağlık etkilerini ele alıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50146215",
+      "article_url": "https://www.cnn.com/2024/11/12/health/phones-on-toilet-wellness"
+    }
+  ]
+}
