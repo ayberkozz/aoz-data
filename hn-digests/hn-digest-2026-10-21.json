@@ -1,0 +1,189 @@
+{
+  "date": "2026-10-21",
+  "timestamp": "2026-10-21T04:57:37Z",
+  "summary_language": "tr",
+  "top_stories": [
+    {
+      "rank": 1,
+      "title": "DeepInfer: High-performance inference framework for DeepSeek models",
+      "points": 2186,
+      "num_comments": 848,
+      "summary": "DeepSeek'in açık kaynaklı DeepInfer çıkarım çerçevesi, ağırlıklı olarak vLLM üzerine kurulu ve DeepSeek modellerini büyük ölçekte çalıştırmak için tasarlanmış. Şu an DeepSeek-V4.1-Flash'ı destekliyor; paralellik, spekülatif kod çözme ve yapılandırılmış çıktı gibi özellikler sunuyor, ancak KV önbellek sistemi içermiyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50163277",
+      "article_url": "https://github.com/deepseek-ai/DeepInfer"
+    },
+    {
+      "rank": 2,
+      "title": "eMudhra intermediate CA compromise",
+      "points": 766,
+      "num_comments": 359,
+      "summary": "eMudhra'nın sekiz ara sertifika otoritesinin özel anahtarları hatalı üretildiği için sertifikaların kendisinden geri elde edilebiliyor ve bu da saldırganların herhangi bir siteyi taklit etmesine olanak veriyor. Tarayıcılar ve büyük platformlar bu sertifikaları engelledi; ancak iptal kontrolü yapmayan istemciler için yazılımların güncellenmesi öneriliyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50166579",
+      "article_url": "https://emudhra.we-have-a-problem.com/"
+    },
+    {
+      "rank": 3,
+      "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+      "points": 720,
+      "num_comments": 208,
+      "summary": "Redact, WhatsApp yardım sayfalarında kullanıcıların göremediği gizli metinler buldu; bu metinler destek sohbet botuna hesap silinemediğinde veri koruma kurumuna başvurmayı önermemesini ve avukat gündeme geldiğinde GDPR gibi yasalara atıf yapmamasını söylüyordu. WhatsApp notları 18 Ekim'e kadar kaldırdı ve bunların bir hata nedeniyle görünen bot talimatları olduğunu söyledi.",
+      "hn_url": "https://news.ycombinator.com/item?id=50159341",
+      "article_url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions"
+    },
+    {
+      "rank": 4,
+      "title": "Show HN: SimCity, but with Permits",
+      "points": 660,
+      "num_comments": 343,
+      "summary": "Permit Pending, tarayıcıda çalışan ücretsiz bir şehir kurma oyunu; seçilmiş bir belediye başkanı olarak konut, ulaşım ve sanayi projelerini toplantılar, mahalle itirazları ve seçimlerle mücadele ederek hayata geçiriyorsunuz. Dört farklı başlangıç senaryosu sunuyor, hesap gerektirmiyor ve ilk ziyaretten sonra çevrimdışı çalışıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50170593",
+      "article_url": "https://permit.petercai.com/"
+    },
+    {
+      "rank": 5,
+      "title": "Voxtral 3",
+      "points": 570,
+      "num_comments": 147,
+      "summary": "Voxtral 3, Mistral'in dinleme, akıl yürütme, araç çağırma ve konuşmayı tek bir gerçek zamanlı akışta birleştiren yeni konuşma modeli ailesi ve sesli ajan SDK'sı. 50'den fazla dil için transkripsiyon, 35'ten fazla dil için duygusal olarak uyum sağlayan ses sentezi sunuyor ve AB'de barındırılan ya da kendi altyapınızda çalışan dağıtım seçenekleri var.",
+      "hn_url": "https://news.ycombinator.com/item?id=50168396",
+      "article_url": "https://mistral.ai/news/voxtral-3/"
+    },
+    {
+      "rank": 6,
+      "title": "Apple broke an essential presentation feature of iPads",
+      "points": 522,
+      "num_comments": 266,
+      "summary": "iPadOS 27'de AirPlay ile yansıtılan iPad, sunucu sunum uygulaması dışında başka bir uygulamaya dokunduğunda tüm ekranını, özel notlar ve anket sonuçları dahil, gösteriyor. Sunumlarda bu özelliğe güvenen bir profesör bunu 'yıkıcı bir gerileme' olarak nitelendiriyor, güncellemeden kaçınılmasını öneriyor ve Apple'a geri bildirim gönderdi.",
+      "hn_url": "https://news.ycombinator.com/item?id=50165208",
+      "article_url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/"
+    },
+    {
+      "rank": 7,
+      "title": "OpenBSD 8.0",
+      "points": 471,
+      "num_comments": 155,
+      "summary": "61. OpenBSD sürümü olan OpenBSD 8.0, 20 Ekim 2026'da yayımlandı; amd64'te daha büyük çekirdek sanal adres alanı, arm64 hazırda bekletme desteği ve VMM konuklarında 64 sanal işlemciye kadar destek getiriyor. Ayrıca pf, bgpd, relayd ve smtpd gibi bileşenlerde güvenlik sertleştirmeleri ile LibreSSL 4.4.0 ve OpenSSH 10.6 güncellemeleri içeriyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50160494",
+      "article_url": "https://www.openbsd.org/80.html"
+    },
+    {
+      "rank": 8,
+      "title": "Facebook Pages require paid subscription to post more than two links per month",
+      "points": 428,
+      "num_comments": 385,
+      "summary": "Oyun geliştiricisi Ashley Gullen, Facebook Sayfaları'nın ayda ikiden fazla bağlantı paylaşmak için ücretli abonelik istemeye başladığını duyuruyor ve bunu platformun 'kalitesizleşmesinde' yeni bir seviye olarak eleştiriyor. Paylaşımın tamamına erişilemediği için bu özet kısmen yalnızca başlığa ve kısa alıntıya dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50167536",
+      "article_url": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919"
+    },
+    {
+      "rank": 9,
+      "title": "An ad-free Android TV",
+      "points": 399,
+      "num_comments": 171,
+      "summary": "Yazar, Google TV ana ekranını Projectivy Launcher ile değiştirerek, resmi YouTube uygulamasını SmartTube ile ve Jellyfin istemcisi olarak Wholphin ile reklamsız bir Android TV kurulumu anlatıyor. Yapılandırma ADB üzerinden uygulanıyor; uzaktan kumanda Button Mapper ile yeniden eşleniyor ve isteğe bağlı olarak Pi-hole ya da Özel DNS ağ genelinde reklamları engelliyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50158942",
+      "article_url": "https://cretezy.com/2026/ad-free-android-tv"
+    },
+    {
+      "rank": 10,
+      "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
+      "points": 392,
+      "num_comments": 111,
+      "summary": "microG GmsCore, Google Play Hizmetleri'nin açık kaynaklı bir alternatifi olup Google'ın kapalı API'lerine dayanan uygulamaların LineageOS gibi AOSP tabanlı sistemlerde çalışmasını sağlıyor. Cihazda imza taklidi (signature spoofing) desteği gerektiriyor ve tam bir kurulum için microG Companion gibi bir Play Store alternatifi gerekiyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50162177",
+      "article_url": "https://github.com/microg/GmsCore/wiki"
+    }
+  ],
+  "health_stories": [
+    {
+      "rank": 1,
+      "title": "Claude designed protein binders against scorpion neurotoxins",
+      "points": 101,
+      "num_comments": 64,
+      "summary": "Anthropic'in dahili araştırma modeli, Citrini Research ile birlikte yaklaşık 64 saatte akrep nörotoksinlerine karşı mini proteinler tasarladı. Ortak laboratuvarların test ettiği 211 tasarımdan 17'si dört tehlikeli toksinden birine sıkıca bağlandı, ancak hiçbiri hücre ya da hayvan üzerinde zehri etkisizleştirme açısından denenmedi; tüm tasarımlar araştırmacılara açık kaynak olarak yayımlandı.",
+      "hn_url": "https://news.ycombinator.com/item?id=50170021",
+      "article_url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design"
+    },
+    {
+      "rank": 2,
+      "title": "Novo Nordisk, Eli Lilly Report GLP-1 Signals of Slowed Biological Aging at ARDD",
+      "points": 67,
+      "num_comments": 80,
+      "summary": "Novo Nordisk ve Eli Lilly, ARDD konferansında GLP-1 ilaçları semaglutid ve tirzepatidin biyolojik yaşlanma göstergelerini yavaşlatabileceğine dair ön veriler sundu. Novo'nun 10.052 kişilik proteomik çalışması yaklaşık iki üç yıllık fark bildirirken, Lilly'nin küçük SURMOUNT-5 alt çalışmasında 15 epigenetik saatin tamamı beklenenden az yaşlanma gösterdi; bağımsız uzmanlar sonuçların randomize çalışmalarla doğrulanması gerektiğini söylüyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50160289",
+      "article_url": "https://trial.medpath.com/news/novo-nordisk-and-eli-lilly-report-glp-1-signals-of-slowed-biological-aging-at-ardd"
+    },
+    {
+      "rank": 3,
+      "title": "Nurses Are in High Demand–But They're Quitting in Droves",
+      "points": 13,
+      "num_comments": 6,
+      "summary": "Hemşirelere yönelik talebin yüksek olmasına rağmen çok sayıda hemşirenin işi bırakmasını ele alan bir WSJ haberi. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50168948",
+      "article_url": "https://www.wsj.com/health/healthcare/nurses-are-in-high-demandbut-theyre-quitting-in-droves-d8ead94f"
+    },
+    {
+      "rank": 4,
+      "title": "Mary Helen Branswell, Reporter Who Saw Covid Coming, Has Died",
+      "points": 12,
+      "num_comments": 1,
+      "summary": "COVID-19'u erkenden gören gazeteci Helen Branswell'in hayatını kaybettiği haberi paylaşıldı; Branswell salgın hastalıklar ve halk sağlığı muhabirliğiyle tanınıyordu. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50164241",
+      "article_url": "https://www.nytimes.com/2026/10/17/health/helen-branswell-dead.html"
+    },
+    {
+      "rank": 5,
+      "title": "Pennsylvania issues alert on congenital measles–something unseen for decades",
+      "points": 6,
+      "num_comments": 0,
+      "summary": "Pennsylvania'da yıllardır görülmeyen bir durum olan doğuştan (konjenital) kızamık vakası için sağlık uyarısı yayımlandığı bildiriliyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50165140",
+      "article_url": "https://arstechnica.com/health/2026/10/pennsylvania-issues-alert-on-congenital-measles-something-us-hasnt-seen-for-decades/"
+    },
+    {
+      "rank": 6,
+      "title": "Dysregulated cholesterol drives neurodegeneration in Parkinson's disease",
+      "points": 6,
+      "num_comments": 0,
+      "summary": "Parkinson hastalığında düzensizleşen kolesterol metabolizmasının nörodejenerasyonu tetiklediğini öne süren bir Nature Neuroscience makalesi. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50170226",
+      "article_url": "https://www.nature.com/articles/s41593-026-02487-7"
+    },
+    {
+      "rank": 7,
+      "title": "Chronic Fatigue Syndrome Linked to the Brain's Clearing System",
+      "points": 5,
+      "num_comments": 0,
+      "summary": "Griffith Üniversitesi araştırmacıları, kronik yorgunluk sendromlu (ME/CFS) 31 kişi ile 27 sağlıklı kontrolde MR ile beynin atık temizleme sistemi olan glenfatik işlevi inceledi. Yalnızca sağ yarımkürede azalmış işlev bulundu ve uyku sorunları ile beyin sisi daha fazla olan hastalarda bozulma daha belirgindi; çalışma küçük ve ön aşamada, ancak yazarlar bunun hastalığın önemli bir itici gücüne işaret edebileceğini düşünüyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50171909",
+      "article_url": "https://www.sciencealert.com/scientists-discover-a-potential-driver-of-chronic-fatigue-syndrome-hiding-deep-in-the-brain"
+    },
+    {
+      "rank": 8,
+      "title": "Gene editing is coming for common diseases. Are we ready?",
+      "points": 5,
+      "num_comments": 1,
+      "summary": "Michigan Üniversitesi'nin sağlık laboratuvarından, gen düzenlemenin yaygın hastalıklara da uygulanmaya başlamasının ne anlama geldiğini ve toplumun buna hazır olup olmadığını soran bir yazı. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50168924",
+      "article_url": "https://medresearch.umich.edu/health-lab/gene-editing-coming-common-diseases-are-we-ready"
+    },
+    {
+      "rank": 9,
+      "title": "New AI tool can predict cancer survival by a single patient selfie",
+      "points": 4,
+      "num_comments": 0,
+      "summary": "Guardian'a göre yeni bir yapay zekâ aracı, hastanın tek bir selfie fotoğrafından kanser sağkalımını tahmin edebiliyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50160395",
+      "article_url": "https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie"
+    },
+    {
+      "rank": 10,
+      "title": "The Remarkable Secrets of Olive Oil",
+      "points": 5,
+      "num_comments": 0,
+      "summary": "Yazı, zeytinyağının binlerce yıldır şifa olarak kullanıldığını ve Akdeniz diyetinde sızma zeytinyağının daha az kalp krizi, felç ve diyabetle ilişkilendirildiğini anlatıyor. Faydaların taze ve gerçek yağa bağlı olduğunu, rafine edilince önemli bileşiklerin kaybolduğunu ve etiketinde sızma yazan birçok şişenin bayat ya da sahte olabileceğini vurguluyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50159630",
+      "article_url": "https://www.midwesterndoctor.com/p/the-remarkable-secrets-of-olive-oil"
+    }
+  ]
+}
