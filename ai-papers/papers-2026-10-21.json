@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-21",
+  "timestamp": "2026-10-21T05:00:00Z",
+  "papers": [
+    {
+      "title": "Capable Teacher, Myopic Scorer: Reward-Free Teacher Repair for Agentic On-Policy Distillation",
+      "pdf_url": "https://arxiv.org/pdf/2610.28586",
+      "summary": "Argues that agentic on-policy distillation fails because token-level teacher scoring is myopic and does not penalize safe but delaying moves, a mismatch called the rollout-scorer gap. Proposes R2S, which repairs the teacher using reward-free takeover rollouts from high-disagreement states before distillation. It beats three recent agentic distillation methods in all twelve configurations, by 12.8 success points on average over the strongest baseline.",
+      "page_count": 17
+    },
+    {
+      "title": "Representational Control over Self-Report & Behavior Coherence in LLM Risk-Taking",
+      "pdf_url": "https://arxiv.org/pdf/2610.04125",
+      "summary": "Uses activation steering with nine vector-extraction methods across four open-weight LLMs to test whether self-reported and enacted risk-taking share internal representations. Trait-based directions shift self-report but not behavior, and choice-based directions shift behavior but not self-report. Only task-specific directives affect both, and only weakly, so representational checks should complement behavioral evaluation.",
+      "page_count": 62
+    }
+  ]
+}
