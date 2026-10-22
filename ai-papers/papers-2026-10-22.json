@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-22",
+  "timestamp": "2026-10-22T05:00:00Z",
+  "papers": [
+    {
+      "title": "Scan or Index? large Evidence Coverage, Answer Quality, and Cost in Long-Document RAG",
+      "pdf_url": "https://arxiv.org/pdf/2610.28957",
+      "summary": "Compares 11 retrieval configurations (lexical, dense, hybrid reranking, and full-document scanning) for long-document RAG on QASPER and textbook questions. Higher evidence coverage does not consistently yield better answers, and reusable dense retrieval is cheaper than paid decision-based methods as query volume grows. The authors argue evidence retention, answer quality, and reuse cost should be treated as complementary selection criteria.",
+      "page_count": 15
+    },
+    {
+      "title": "Retrieval Augmented Generation Compositionality",
+      "pdf_url": "https://arxiv.org/pdf/2610.29722",
+      "summary": "Introduces LASAGNA, an open-source framework for controlled RAG evaluation, and tests 450 pipeline configurations across eight benchmarks with corpora from 5K to 200K documents. Strong techniques do not reliably combine (a predicted +47% gain delivered only +17%), retrieval and faithfulness gains stack differently, and the best configuration changes with corpus size. Concludes that new RAG techniques should be evaluated within the full pipeline.",
+      "page_count": 103
+    }
+  ]
+}
