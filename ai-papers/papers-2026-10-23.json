@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-23",
+  "timestamp": "2026-10-23T09:00:00Z",
+  "papers": [
+    {
+      "title": "ReflectPO: Reflection-Guided Policy Optimization for Long-Horizon LLM Agents",
+      "pdf_url": "https://arxiv.org/pdf/2610.30933",
+      "summary": "ReflectPO is an RL framework that helps LLM agents recover from early errors in long-horizon tasks. It combines Reflection-Guided Sampling, which turns branch differences in trajectories into recovery hints, with Tree-Structured Credit Assignment for action-level credit. It achieves the best average performance across two long-horizon tool-use benchmarks.",
+      "page_count": 24
+    },
+    {
+      "title": "Is Complex Agentic Memory Always Needed? Naive RAG Is Stronger Than We Thought",
+      "pdf_url": "https://arxiv.org/pdf/2610.30755",
+      "summary": "Shows that a naive RAG baseline (Raw-RAG: dense retrieval plus reranking over raw conversation history) ranks first among compared memory systems in six of seven settings on LoCoMo, LongMemEval, MEME and MemoryAgentBench. Evidence analysis explains why: higher coverage of necessary evidence offsets lower utilization, and preserving raw information matters. Establishes naive RAG as an essential baseline for agentic memory.",
+      "page_count": 62
+    }
+  ]
+}
