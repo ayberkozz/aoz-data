@@ -1,0 +1,234 @@
+{
+  "date": "2026-10-23",
+  "timestamp": "2026-10-23T04:58:25Z",
+  "summary_language": "tr",
+  "top_stories": [
+    {
+      "rank": 1,
+      "title": "Quad9 (DNS Resolver) to Exit France",
+      "points": 1072,
+      "num_comments": 383,
+      "summary": "Quad9, bir Fransız mahkemesinin beIN davasında bazı alan adlarının engellenmesine hükmetmesi üzerine 24 Kasım 2026'dan itibaren Fransa'daki kullanıcılara ücretsiz DNS hizmetini durduracak. Kuruluş, kullanıcı konumunu takip etmediği için kararı ancak dünya genelinde engelleme yaparak veya gizlilik taahhütlerinden ödün vererek uygulayabileceğini söylüyor. Quad9 karara itiraz ediyor ve bu alan adlarını engellemeyeceğini belirtiyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50195959",
+      "article_url": "https://quad9.net/news/blog/au-revoir-france/"
+    },
+    {
+      "rank": 2,
+      "title": "eMudhra to exit global SSL/TLS certificate business",
+      "points": 986,
+      "num_comments": 658,
+      "summary": "eMudhra, artan uyumluluk maliyetleri ve büyük sağlayıcıların ücretsiz sertifikaları nedeniyle küresel SSL/TLS sertifika işinden gönüllü olarak çekildiğini duyurdu. Bu iş, şirketin küresel gelirinin yaklaşık yüzde 1'ini oluşturuyor; mevcut sertifikalar ve iptal hizmetleri geçiş tamamlanana kadar çalışmaya devam edecek. Dijital imza, eSign ve kurumsal PKI gibi diğer işler etkilenmeyecek.",
+      "hn_url": "https://news.ycombinator.com/item?id=50195110",
+      "article_url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business"
+    },
+    {
+      "rank": 3,
+      "title": "Jailbreaking the Switch 2",
+      "points": 757,
+      "num_comments": 265,
+      "summary": "Bir blog yazısı, Switch 2'nin 23.0.1 yazılımında çalışan, yalnızca yazılım tabanlı ve bağlı (tethered) bir jailbreak olan ns2jb'yi tanıtıyor. Zincir, bir Switch 1 oyunundaki tamsayı taşmasıyla başlıyor, ardından yükleyicinin kullandığı dosya sistemi değiştirilerek keyfi kod çalıştırılıyor. Yazar jailbreak'i Mario Kart World'ü modlamak için kullanmış.",
+      "hn_url": "https://news.ycombinator.com/item?id=50192536",
+      "article_url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/"
+    },
+    {
+      "rank": 4,
+      "title": "Woman charged with computer fraud due to scam CashApp account being in her name",
+      "points": 596,
+      "num_comments": 591,
+      "summary": "Hiç CashApp kullanmamış olan Pennsylvania'lı Amanda Smith, bir dolandırıcının onun kimlik bilgileriyle hesap açması üzerine Arkansas'tan gelen bir bilgisayar dolandırıcılığı emriyle tutuklandı ve üç gece hapis yattı. Altı ay sonra masumiyetini kanıtlamaya çalışıyor, ancak CashApp hesabın sahibi olduğunu kanıtlayamadığı için hesap bilgilerini paylaşmıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50194833",
+      "article_url": "https://www.404media.co/amanda-smith-opened-a-cashapp-in-her-name-she-faces-years-in-prison-cashapp-fraud/"
+    },
+    {
+      "rank": 5,
+      "title": "Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.",
+      "points": 450,
+      "num_comments": 186,
+      "summary": "Bir kullanıcı, farkında olmadan PHP uzaktan kod çalıştırma açığı için konulan gizlilik anlaşmasını (embargo) bozduğunu anlatıp özür diliyor. Gönderinin bağlantısı olmadığı için özet yalnızca başlığa ve bağlama dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50193416",
+      "article_url": "https://news.ycombinator.com/item?id=50193416"
+    },
+    {
+      "rank": 6,
+      "title": "Run full iOS 16.5 firmware on Android Devices",
+      "points": 361,
+      "num_comments": 133,
+      "summary": "HackiOS, Apple'ın açık kaynaklı XNU çekirdeğinin iOS 16.5 sürümünü POCO X5 Pro gibi Android telefon donanımında başlatıp değiştirilmemiş iOS 16.5 kullanıcı alanını üzerinde çalıştıran bağımsız bir araştırma projesi. QEMU ile Linux'ta da çalışabiliyor. Proje kendini bir ROM değil araştırma tezgâhı olarak tanımlıyor ve depoda Apple dosyası bulunmuyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50196718",
+      "article_url": "https://github.com/oosexgang/hackios-xnu-kernel"
+    },
+    {
+      "rank": 7,
+      "title": "What’s getting pwned right now",
+      "points": 356,
+      "num_comments": 163,
+      "summary": "pwn.watch, güncel güvenlik olaylarını canlı olarak listeleyen bir sayfa; 23 Ekim itibarıyla 41 aktif olay, bunların 19'u kritik olarak görünüyor. En ciddi olanlar arasında PHP çekirdeğinde (PHP2Shell) ve GitLab'da kimlik doğrulamasız uzaktan kod çalıştırma açıkları ve LiteLLM tedarik zinciri ihlali var. Bazı olaylar için henüz yama yok.",
+      "hn_url": "https://news.ycombinator.com/item?id=50195543",
+      "article_url": "https://pwn.watch/"
+    },
+    {
+      "rank": 8,
+      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+      "points": 341,
+      "num_comments": 181,
+      "summary": "OpenShell, NVIDIA'nın Apache-2.0 lisanslı, otonom yapay zekâ ajanlarını izole eden bir çalışma ortamı. Her ajanın izinli eylemleri bir politikayla tanımlanıyor ve dosya erişimi, sistem çağrıları ile ağ bağlantıları çekirdek düzeyinde denetleniyor. Politika değişiklikleri uygulanmadan önce biçimsel doğrulama riskli yeni izinleri insan incelemesi için işaretliyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50198675",
+      "article_url": "https://github.com/NVIDIA/OpenShell"
+    },
+    {
+      "rank": 9,
+      "title": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
+      "points": 332,
+      "num_comments": 120,
+      "summary": "Başlığa göre CVE-2026-111943, ele geçirilmiş bir ara sertifika otoritesiyle ilgili bir güvenlik açığı kaydı. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50192900",
+      "article_url": "https://nvd.nist.gov/vuln/detail/cve-2026-111943"
+    },
+    {
+      "rank": 10,
+      "title": "Google cleared 300 hectares of Finnish forest",
+      "points": 320,
+      "num_comments": 233,
+      "summary": "Google'ın planlanan veri merkezi için, tam çevre incelemesi tamamlanmadan yaklaşık 300 hektar Fin ormanını temizlediği bildiriliyor. Finlandiya Ruhsat ve Denetim Kurumu Google'ın yerel birimi Tuike Finland'dan açıklama istedi, bir koruma grubu ise inşaatın durdurulmasını talep ediyor. Google, sahayı önceden incelediğini ve Fin yasalarına uyduğunu söylüyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50196837",
+      "article_url": "https://www.techspot.com/news/114100-google-cleared-300-hectares-finnish-forest-data-center.html"
+    }
+  ],
+  "health_stories": [
+    {
+      "rank": 1,
+      "title": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
+      "points": 81,
+      "num_comments": 41,
+      "summary": "Biograph kliniği, Caristo Diagnostics'in yapay zekâ tabanlı CaRi-Heart teknolojisini belirtisiz, düşük riskli yetişkinlerde ilk kez ABD'de inceledi. Katılımcıların %42,9'unda koroner iltihap bulundu; plak saptanmayanların yaklaşık %47'sinde de iltihap vardı. Standart kan belirteçleri ve risk hesaplayıcısı bu kişileri ayırt edemedi; yazarlar bulguların doğrulanması için daha fazla araştırma gerektiğini belirtiyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50198940",
+      "article_url": "https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients"
+    },
+    {
+      "rank": 2,
+      "title": "Mini brain organoids ‘reading’ Braille key step towards biohybrid computing",
+      "points": 37,
+      "num_comments": 47,
+      "summary": "Bristol'daki araştırmacılar, bir dokunsal sensörden gelen Braille harflerini kodlayan elektrik sinyallerini küçük beyin organoidlerine gönderdi ve basit bir sınıflandırıcı yanıtlardan harfleri tanıyabildi. Tek organoid yaklaşık %61, üç organoidlik grup ise yaklaşık %83 doğrulukla çözülebilen sinyaller üretti. Çalışma, enerji verimli biyohibrit bilgi işleme yolunda erken bir adım olarak sunuluyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50197450",
+      "article_url": "https://www.frontiersin.org/news/2026/10/16/mini-brain-organoids-reading-braille-biohybrid-computing-frontiers-artificial-intelligence"
+    },
+    {
+      "rank": 3,
+      "title": "France reports first human case of livestock virus Shamonda after patient dies",
+      "points": 15,
+      "num_comments": 0,
+      "summary": "Fransa'da hayvancılıkla ilişkili Shamonda virüsünün ilk insan vakası bildirildi ve hasta hayatını kaybetti. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50198713",
+      "article_url": "https://www.reuters.com/business/healthcare-pharmaceuticals/france-reports-first-human-shamonda-virus-case-2026-10-22/"
+    },
+    {
+      "rank": 4,
+      "title": "Quest Diagnostics Reports Unauthorized Access of Patient Records",
+      "points": 14,
+      "num_comments": 2,
+      "summary": "Quest Diagnostics, SEC'e yaptığı bildirimde saldırganların bazı hasta kayıtlarına muhtemelen eriştiğini açıkladı; ihlalin kapsamı hâlâ inceleniyor. Olay, müşterilerin test siparişi verip sonuçları gördüğü Quanum Lab Services Manager sistemini içeriyor. Quest, olayın yakın zamanda açıklanan PHP açıklarıyla ilgisi olmadığını söylüyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50198653",
+      "article_url": "https://gizmodo.com/quest-diagnostics-reports-unauthorized-access-of-patient-records-2000829419"
+    },
+    {
+      "rank": 5,
+      "title": "In-Vivo CRISPR/Base-Editing \"One-Shot\" Therapies Targeting PCSK9",
+      "points": 9,
+      "num_comments": 0,
+      "summary": "PCSK9'u hedefleyen vücut içi (in vivo) CRISPR/baz düzenleme 'tek doz' tedavilerini ele alan bir bilimsel makale. Kolesterolle ilişkili kalp-damar hastalıkları için gen düzenleme yaklaşımları konusu işleniyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50195831",
+      "article_url": "https://link.springer.com/article/10.1007/s11883-026-01470-8"
+    },
+    {
+      "rank": 6,
+      "title": "GLP-1 drugs fail to help some people lose weight – scientists look for answers",
+      "points": 6,
+      "num_comments": 0,
+      "summary": "Nature haberine göre GLP-1 ilaçları bazı kişilerde kilo vermeye yardımcı olmuyor ve bilim insanları bunun nedenlerini araştırıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50196667",
+      "article_url": "https://www.nature.com/articles/d41586-026-03020-3"
+    },
+    {
+      "rank": 7,
+      "title": "As Politicians Argue About China, US Patients Find Cutting-Edge Treatment There",
+      "points": 5,
+      "num_comments": 0,
+      "summary": "Nadir akciğer kanseri olan hastalar gibi ABD'li kanser hastaları ABD'de henüz onaylanmamış sunvozertinib gibi ilaçlar için Çin'e gidiyor. Çin, 2025'te dünyada test edilen yeni ilaçların %46'sına kadarını yürütüyor. ABD'de yönetim FDA onaylarını hızlandırmak isterken bazı kongre üyeleri Çinli ilaç anlaşmalarını kısıtlamak istiyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50199998",
+      "article_url": "https://kffhealthnews.org/health-industry/china-cancer-drugs-foreign-travel-pharma-biotech-fda-regulation-clinical-trials/"
+    },
+    {
+      "rank": 8,
+      "title": "Controversial US-backed vaccine trial in African newborns halted",
+      "points": 5,
+      "num_comments": 0,
+      "summary": "Guardian'a göre Afrika'daki yenidoğanlarda yürütülen, ABD destekli tartışmalı bir hepatit B aşısı çalışması durduruldu. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50195144",
+      "article_url": "https://www.theguardian.com/world/2026/oct/21/us-vaccine-trial-african-newborns-hepatitis-b"
+    },
+    {
+      "rank": 9,
+      "title": "Scientists reverse 60 years of aging in human cells",
+      "points": 5,
+      "num_comments": 0,
+      "summary": "Bonn Üniversitesi araştırmacıları, 80 yaşındaki bir kişinin kan hücrelerini moleküler yaşı 20'nin altında olan sinir kök hücrelerine dönüştürdü (Aging Cell). Olağan ara kök hücre aşaması atlandığı için gençleşme 100 günden uzun sürede kademeli olarak gerçekleşti. Çalışma henüz bir yaşlanma tedavisi sunmuyor ama Alzheimer gibi yaşa bağlı hastalıkları anlamaya yardımcı olabilir.",
+      "hn_url": "https://news.ycombinator.com/item?id=50191639",
+      "article_url": "https://www.sciencedaily.com/releases/2026/10/261020085013.htm"
+    },
+    {
+      "rank": 10,
+      "title": "Moderna Crashes 20% on Reportedly Leaked Cancer Vaccine Data",
+      "points": 4,
+      "num_comments": 0,
+      "summary": "Moderna'nın hisseleri, sızdırıldığı bildirilen kanser aşısı verileri üzerine yaklaşık %20 düştü. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50199721",
+      "article_url": "https://www.investors.com/news/technology/moderna-stock-merck-stock-cancer-vaccine-data/"
+    },
+    {
+      "rank": 11,
+      "title": "They Want Your Blood",
+      "points": 4,
+      "num_comments": 0,
+      "summary": "The Verge'ün köşe yazısı, kan testleri ve ömür/ölüm saati gibi longevity (uzun yaşam) uygulamalarını ve sağlık teknolojisi eğilimini ele alıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50192200",
+      "article_url": "https://www.theverge.com/column/1015563/blood-death-clock-longevity-apps-health-tech"
+    },
+    {
+      "rank": 12,
+      "title": "Carbon-X: the best open DNA model",
+      "points": 4,
+      "num_comments": 0,
+      "summary": "Carbon-X, Hugging Face Bio ve ortaklarının ham DNA'yı sohbet istemlerinde alıp İngilizce yanıt veren açık 14,8 milyar parametreli bir dil modeli. Varyant etkisi tahmini, dizi sınıflandırma ve sonraki baz tahmini yapabiliyor; beş DNA kıyaslamasında ortalama %66,7 başarı elde ediyor. Geliştiriciler modelin klinik olarak doğrulanmadığını ve tıbbi kararlar için kullanılmaması gerektiğini belirtiyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50193646",
+      "article_url": "https://huggingface.co/HuggingFaceBio/Carbon-X"
+    },
+    {
+      "rank": 13,
+      "title": "Experimental mRNA vaccine cuts risk melanoma returns by 42%",
+      "points": 3,
+      "num_comments": 0,
+      "summary": "CNN'e göre deneysel bir mRNA aşısı melanomun geri dönme riskini %42 azaltıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50200854",
+      "article_url": "https://www.cnn.com/2026/10/22/health/mnra-cancer-vaccine-moderna"
+    },
+    {
+      "rank": 14,
+      "title": "OpenEvidence is changing how American doctors treat patients",
+      "points": 3,
+      "num_comments": 1,
+      "summary": "Financial Times'a göre OpenEvidence, Amerikalı doktorların hastaları nasıl tedavi ettiğini değiştiriyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50194746",
+      "article_url": "https://www.ft.com/content/0ed17b79-47dd-4ad8-8dca-44eb35617edc"
+    },
+    {
+      "rank": 15,
+      "title": "Breakthrough hepatitis B drug offers 'functional cure' for first time",
+      "points": 3,
+      "num_comments": 0,
+      "summary": "FDA, bazı kronik hepatit B hastalarının uzun süreli antiviral tedaviyi bırakmasını sağlayabilen GSK'nın Hibsago (bepirovirsen) enjeksiyonunu onayladı. Faz III çalışmalarında uygun yetişkinlerin %19'u tedaviyi tamamen bıraktıktan sonra 'fonksiyonel iyileşmeye' ulaştı; standart bakımda bu oran %1'in altındaydı. Hastalarda siroz bulunmamalı ve en az altı aydır antiviral kullanılıyor olmalı.",
+      "hn_url": "https://news.ycombinator.com/item?id=50194360",
+      "article_url": "https://newatlas.com/disease/breakthrough-hepatitis-b-drug-fda/"
+    }
+  ]
+}
