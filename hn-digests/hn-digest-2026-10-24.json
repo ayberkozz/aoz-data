@@ -1,0 +1,180 @@
+{
+  "date": "2026-10-24",
+  "timestamp": "2026-10-24T04:57:45Z",
+  "summary_language": "tr",
+  "top_stories": [
+    {
+      "rank": 1,
+      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+      "points": 1312,
+      "num_comments": 228,
+      "summary": "Local Wikipedia, bir kasaba, simge yapı, posta kodu ya da kullanıcının konumuna yaklaşık yarım saatlik yürüme mesafesindeki yerlerle ilgili Wikipedia maddelerini gösteren bağımsız bir site. Yakında az madde varsa en yakın 25 maddeyi (yaklaşık 10 km) gösteriyor; konum bilgisi paylaşılan bağlantılarda değil, yalnızca tarayıcıda tutuluyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50202285",
+      "article_url": "https://edjefferson.com/localwiki/"
+    },
+    {
+      "rank": 2,
+      "title": "Docker is weird",
+      "points": 831,
+      "num_comments": 353,
+      "summary": "Yazar kendi konteyner çalışma ortamını yazarken Docker'ın aslında namespace ve cgroup gibi çekirdek özelliklerle kısıtlanmış sıradan Linux süreçleri olduğunu, imajların ise kök dizin olarak kullanılan klasörler olduğunu fark etmiş. Ayrıca runc'ın Go'da fork olmaması nedeniyle bir C modülü gerektirdiğini ve Docker'ın geleneksel olarak root yetkisiyle çalıştığını anlatıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50202681",
+      "article_url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird"
+    },
+    {
+      "rank": 3,
+      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+      "points": 801,
+      "num_comments": 484,
+      "summary": "Kimi K3.1 Pro, Moonshot AI'ın şimdiye kadarki en büyük açık ağırlıklı modeli; 1 milyon token bağlam penceresi sunuyor ve kodlama, 3D modelleme, finans ve ajan görevlerinde ilerleme kaydediyor. Kimi uygulamaları ve API üzerinden kullanılabiliyor, daha hızlı bir \"Highspeed\" sürümü var ve ağırlıkların 4 Kasım'a kadar yayımlanacağı belirtiliyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50212065",
+      "article_url": "https://www.kimi.ai/blog/kimi-k3-1-pro"
+    },
+    {
+      "rank": 4,
+      "title": "Today, we hacked what we'd set out to hack: the iPhone",
+      "points": 794,
+      "num_comments": 526,
+      "summary": "Calif ekibi Paris'teki Hexacon'da iPhone'u hackledikleri duyurdu; Signal'e tek tıklamayla saldırı ve bir iMessage açığı gösteren demolar paylaştı. Ayrıntılar \"zamanı geldiğinde\" yayımlanacak; yorumcular durumu büyük bir endişeyle karşıladı.",
+      "hn_url": "https://news.ycombinator.com/item?id=50211474",
+      "article_url": "https://blog.calif.io/p/iphone"
+    },
+    {
+      "rank": 5,
+      "title": "Apple Music 404 Not Found",
+      "points": 665,
+      "num_comments": 211,
+      "summary": "Apple Music'in var olmayan bir adresine giden bağlantı 404 Not Found hatası veriyor ve bu durum Hacker News'ta ilgi gördü. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50207910",
+      "article_url": "https://music.apple.com/this-url-doesnt-exist"
+    },
+    {
+      "rank": 6,
+      "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
+      "points": 602,
+      "num_comments": 672,
+      "summary": "Bu Ask HN başlığında OpenAI ve Anthropic'in neden kendi yapay zekâ girişimlerini kurmak yerine model erişimi sattığı soruluyor. Yorumcular çoğunlukla \"kazma küreği satmanın\" daha güvenli olduğunu, şirketlerin ham zekânın ötesinde icra, ilişki ve hesap verebilirlik gerektirdiğini savunuyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50200997",
+      "article_url": "https://news.ycombinator.com/item?id=50200997"
+    },
+    {
+      "rank": 7,
+      "title": "Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions",
+      "points": 528,
+      "num_comments": 221,
+      "summary": "Vanity Fair'in haberine göre Jared Kushner'ın hacklenen telefonu gizli müzakereleri ve milyonlarca dolarlık işlemleri ortaya çıkardı. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50201259",
+      "article_url": "https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations"
+    },
+    {
+      "rank": 8,
+      "title": "Investor-owned utilities charge 23% more for electricity than public providers",
+      "points": 527,
+      "num_comments": 384,
+      "summary": "2025'te hanelerin yatırımcı sahipli elektrik şirketlerinde kilovatsaat başına yaklaşık 17,8 sent ödediği, bunun kamu şirketlerindeki 14,5 sentten yaklaşık %23 yüksek olduğu bildiriliyor. Yatırımcı sahipli şirketlerde fiyatlar 2020'den bu yana %34 artarken kamu şirketlerinde %19, enflasyon ise %24 arttı.",
+      "hn_url": "https://news.ycombinator.com/item?id=50208837",
+      "article_url": "https://www.kadoa.com/energy-prices/insights/investor-owned-utilities"
+    },
+    {
+      "rank": 9,
+      "title": "Your Phone Is About to Stop Being Yours: 70 Days Until Lockdown",
+      "points": 487,
+      "num_comments": 337,
+      "summary": "Bu kampanya sitesi, Google'ın tüm Android geliştiricilerinin merkezi kayıt, ücret ve kimlik belgesi vermesini, aksi halde uygulamalarının sertifikalı cihazlarda 2027'den itibaren engellenmesini öngören planına karşı çıkıyor. Kullanıcıları F-Droid kurmaya, düzenleyicilerle iletişime geçmeye ve dilekçeleri imzalamaya çağırıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50208558",
+      "article_url": "https://keepandroidopen.org/?"
+    },
+    {
+      "rank": 10,
+      "title": "LLMs are making formal software verification feasible at a much larger scale",
+      "points": 442,
+      "num_comments": 287,
+      "summary": "Anthropic ve Theorem, Claude ile 123 açık kaynaklı kütüphanedeki 239 fuzz-test giriş noktasının belirli varsayımlar altında 64 MB'ın altındaki girdilerde çökmeyeceğine dair biçimsel kanıtlar yazdı. Çalışma uzun süredir saklı kalmış hataları da ortaya çıkardı ve LLM'lerin biçimsel doğrulamayı çok daha geniş yazılımlara taşıyabileceğini gösteriyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50202217",
+      "article_url": "https://www.anthropic.com/research/formal-verification"
+    }
+  ],
+  "health_stories": [
+    {
+      "rank": 1,
+      "title": "Job loss and cortisone mania",
+      "points": 172,
+      "num_comments": 120,
+      "summary": "Yazar şirket yeniden yapılanmasında işini kaybetmiş, ardından olası bir Covid enfeksiyonuyla otoimmün bir alevlenme yaşamış ve kortizonla tedavi edilmiş. İlaç ona enerji ve düzenleme isteği verirken huzursuzluk, yüzde şişlik, diz rahatsızlığı ve uyku bozukluğuna da yol açmış; ilacı azalttıkça bunların geçmesini bekliyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50206840",
+      "article_url": "https://tilschuenemann.de/job-loss-cortisone-mania"
+    },
+    {
+      "rank": 2,
+      "title": "New AI Is More Than Twice as Good at Diagnosing Diseases as Doctors",
+      "points": 47,
+      "num_comments": 40,
+      "summary": "Microsoft'un MAI-DxO sistemi, karmaşık New England Journal of Medicine vakalarında %83,2 doğruluk elde ederken, kaynak kullanabilen genel pratisyen hekimler %36,1'de kaldı; çalışma Science dergisinde yayımlandı. Microsoft Boston'daki Beth Israel Deaconess Tıp Merkezi'nde klinik testler planlıyor, uzmanlar ise bu araçların hekimlerin yerini almak yerine onlara yardımcı olması gerektiğini vurguluyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50214185",
+      "article_url": "https://gizmodo.com/microsoft-says-its-new-ai-is-more-than-twice-as-good-at-diagnosing-diseases-as-doctors-2000829562"
+    },
+    {
+      "rank": 3,
+      "title": "The lifelong orgasm gap: exploring age's impact on orgasm rates",
+      "points": 25,
+      "num_comments": 9,
+      "summary": "Yaklaşık 25.000 bekâr Amerikalı yetişkinle yapılan bir çalışma, yaşın cinsel ilişki sırasındaki orgazm sıklığıyla yalnızca ihmal edilebilir düzeyde ilişkili olduğunu buldu. Cinsiyetler arası fark her yaş grubunda sürdü: erkeklerde oran yaklaşık %70–85, kadınlarda %46–58 civarındaydı.",
+      "hn_url": "https://news.ycombinator.com/item?id=50209477",
+      "article_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11217024/"
+    },
+    {
+      "rank": 4,
+      "title": "Dental implants can hijack your immune system, scientists discover",
+      "points": 19,
+      "num_comments": 4,
+      "summary": "Rutgers araştırmacıları, titanyum diş implantlarını aşındıran bakterilerin makrofajları bozan küçük parçacıklar saldığını, bunun zararlı iltihaplanmaya ve çene kemiği kaybına yol açtığını buldu. Makrofajlarında TRPC1 kalsiyum kanalı bulunmayan fareler hastalıktan korundu; bu da olası yeni bir ilaç hedefine işaret ediyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50213701",
+      "article_url": "https://www.sciencedaily.com/releases/2026/10/261022081314.htm"
+    },
+    {
+      "rank": 5,
+      "title": "We're addicted to social media. How do we get sober?",
+      "points": 9,
+      "num_comments": 10,
+      "summary": "Bilim insanları ve klinisyenler, özellikle gençlerde zorlayıcı sosyal medya kullanımını ciddi bir davranışsal sorun olarak ele almaya başlıyor; yasa koyucular ve mahkemeler de harekete geçiyor. Toparlanma yöntemleri arasında 12 adım grupları, diyalektik davranış terapisi, telefonu yatak odasından çıkarmak gibi alışkanlık değişiklikleri ve çevrimdışı yaşamı zenginleştirmek var.",
+      "hn_url": "https://news.ycombinator.com/item?id=50204438",
+      "article_url": "https://www.scientificamerican.com/article/were-addicted-to-social-media-how-do-we-get-sober/"
+    },
+    {
+      "rank": 6,
+      "title": "MDMA and Psilocybin Regulates Anxiety in a Rat Model",
+      "points": 8,
+      "num_comments": 0,
+      "summary": "Bu çalışma MDMA ve psilosibinin bir sıçan modelinde kaygıyı düzenlediğini bildiriyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50214092",
+      "article_url": "https://linkinghub.elsevier.com/retrieve/pii/S0006322326000521"
+    },
+    {
+      "rank": 7,
+      "title": "First personalised cancer vaccine cuts risk of disease returning in major trial",
+      "points": 6,
+      "num_comments": 0,
+      "summary": "İlk kişiselleştirilmiş kanser aşısının büyük bir klinik denemede hastalığın geri dönme riskini azalttığı bildiriliyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50205835",
+      "article_url": "https://www.bbc.com/news/articles/cq0ld9g9e913o"
+    },
+    {
+      "rank": 8,
+      "title": "Bird Flu Raging on US Mink Farm Could Spark Human Pandemic. Officials Won't Act",
+      "points": 5,
+      "num_comments": 3,
+      "summary": "ProPublica soruşturmasına göre Utah'taki bir vizon çiftliğinde kuş gribi iki aydan uzun süredir kontrolsüz yayılıyor ve uzmanlar vizonların solunum yollarının insanlara benzemesi nedeniyle virüsün insan pandemisine dönüşebileceğinden endişeli. Yetkililer vizonların itlafını emretmedi, çalışanları test etmedi ve salgını kamuoyundan gizli tuttu; uzmanlar bunu \"sorumsuzca\" buluyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50208385",
+      "article_url": "https://www.propublica.org/article/bird-flu-mink-farm-utah-human-risk"
+    },
+    {
+      "rank": 9,
+      "title": "Can AI predict cancer survival better than a doctor? I have my doubts",
+      "points": 3,
+      "num_comments": 0,
+      "summary": "Guardian'daki bu yorum yazısı, yapay zekânın kanser sağkalımını bir doktordan daha iyi tahmin edip edemeyeceği konusundaki şüpheleri tartışıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50206162",
+      "article_url": "https://www.theguardian.com/commentisfree/2026/oct/23/ai-cancer-survival-doctor-selfie-health-research"
+    }
+  ]
+}
