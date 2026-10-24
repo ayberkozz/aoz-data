@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-24",
+  "timestamp": "2026-10-24T04:46:37Z",
+  "papers": [
+    {
+      "title": "CiteAnchor: Source-Aware Grounding for Hallucinated Citation Detection and Resolution",
+      "pdf_url": "https://arxiv.org/pdf/2610.30355",
+      "summary": "Introduces CiteResolve, a benchmark of 423 real-world hallucinated citations, and CiteAnchor, a source-aware grounding framework that adapts retrieval and field-level verification to each source type. It separately decides citation validity and whether a unique source can be recovered, beating web-search baselines by 16-65 points on end-to-end success.",
+      "page_count": 18
+    },
+    {
+      "title": "The Llama 3 Herd of Models",
+      "pdf_url": "https://arxiv.org/pdf/2407.21783",
+      "summary": "Meta's detailed report on the Llama 3 foundation models (up to 405B parameters), covering data curation, pre-training at scale, post-training with SFT/DPO, safety, and infrastructure. It also describes multimodal extensions and is a deep reference for how frontier open LLMs are built and aligned.",
+      "page_count": 92
+    }
+  ]
+}
