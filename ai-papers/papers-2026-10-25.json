@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-25",
+  "timestamp": "2026-10-25T08:00:00Z",
+  "papers": [
+    {
+      "title": "A Reality Check of Inference-Time Context Augmentation Methods",
+      "pdf_url": "https://arxiv.org/pdf/2610.30983",
+      "summary": "Evaluates five inference-time context augmentation methods across seven LLMs and three datasets, going beyond raw accuracy. Finds that apparent gains often come from flipping predictions both correctly and incorrectly near the decision boundary rather than real improvement. Argues that accuracy gains should be checked for reliability before adoption.",
+      "page_count": 19
+    },
+    {
+      "title": "A Survey of Context Engineering for Large Language Models",
+      "pdf_url": "https://arxiv.org/pdf/2507.13334",
+      "summary": "Formalizes context engineering as a discipline beyond prompt design, covering context retrieval, generation, processing, and management. Surveys over 1,400 papers across RAG, memory, tool-integrated reasoning, and multi-agent systems. Identifies an asymmetry: models understand complex context well but struggle to generate equally sophisticated long-form output.",
+      "page_count": 166
+    }
+  ]
+}
