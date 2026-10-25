@@ -7,6 +7,7 @@ Scheduled Claude routines write daily JSON files into the folders below. Each ne
 | Folder | Contents | File name |
 | --- | --- | --- |
 | [`ai-papers/`](ai-papers) | Curated AI/ML research papers with short summaries | `papers-YYYY-MM-DD.json`, `papers-YYYY-MM-DD-runN.json` |
+| [`opportunities/`](opportunities) | Weekly report (Saturday): solo ideas, startup ideas and future-technology signals | `opportunities-YYYY-MM-DD.json`, `opportunities-YYYY-MM-DD-runN.json` |
 | [`hn-digests/`](hn-digests) | Hacker News digests: health-related stories and other popular stories | `hn-digest-YYYY-MM-DD.json`, `hn-digest-YYYY-MM-DD-vN.json` |
 
 When a routine runs more than once on the same day, it adds a `-runN` / `-vN` suffix instead of overwriting the earlier file.
@@ -54,6 +55,37 @@ When a routine runs more than once on the same day, it adds a `-runN` / `-vN` su
 
 Older digests use `other_stories` instead of `top_stories`, and may leave out `rank`, `num_comments` and `summary_language`. Clients should treat those as optional.
 
+### `opportunities/`
+
+```json
+{
+  "date": "2026-10-31",
+  "timestamp": "2026-10-31T06:00:00Z",
+  "summary": "2-3 sentences on what stood out",
+  "solo": [
+    {
+      "title": "…", "problem": "…",
+      "evidence": [ { "title": "…", "url": "https://…" } ],
+      "competitors": "…", "first_version": "…", "effort": "…",
+      "monetization": "…", "risks": "…",
+      "score": 7, "score_reason": "…", "confidence": "high | medium | low"
+    }
+  ],
+  "startup": [ /* same shape as solo */ ],
+  "future_signals": [
+    {
+      "technology": "…", "stage": "emerging | rising | mainstream",
+      "why_now": "…", "could_enable": "…",
+      "signals": [ { "title": "…", "url": "https://…" } ],
+      "confidence": "high | medium | low"
+    }
+  ],
+  "limitations": "what could not be checked"
+}
+```
+
+Only `date`, `timestamp` and the titles are required; the app treats everything else as optional.
+
 ## Notifications
 
-On every push to `main` that adds a JSON file under `ai-papers/` or `hn-digests/`, the workflow sends an APNs alert to the AOZ app that includes the folder, the date and the item count. It needs the `APNS_KEY_P8`, `APNS_KEY_ID` and `APNS_DEVICE_TOKEN` secrets. The optional `APNS_HOST` variable defaults to the sandbox host.
+On every push to `main` that adds a JSON file under `ai-papers/`, `hn-digests/` or `opportunities/`, the workflow sends an APNs alert to the AOZ app that includes the folder, the date and the item count. It needs the `APNS_KEY_P8`, `APNS_KEY_ID` and `APNS_DEVICE_TOKEN` secrets. The optional `APNS_HOST` variable defaults to the sandbox host.

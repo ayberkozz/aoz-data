@@ -6,6 +6,7 @@ on:
     paths:
       - "ai-papers/**.json"
       - "hn-digests/**.json"
+      - "opportunities/**.json"
 
 jobs:
   notify:
@@ -37,13 +38,16 @@ jobs:
 
           if [ "$BEFORE" = "0000000000000000000000000000000000000000" ]; then BEFORE="$AFTER~1"; fi
 
-          git diff --name-only --diff-filter=A "$BEFORE" "$AFTER" -- 'ai-papers/*.json' 'hn-digests/*.json' |
+          git diff --name-only --diff-filter=A "$BEFORE" "$AFTER" -- 'ai-papers/*.json' 'hn-digests/*.json' 'opportunities/*.json' |
           while read -r file; do
             folder=$(dirname "$file")
             date=$(jq -r '.date' "$file")
             if [ "$folder" = "ai-papers" ]; then
               title="New AI Papers Digest"
               body="$(jq '.papers | length' "$file") papers picked for $date"
+            elif [ "$folder" = "opportunities" ]; then
+              title="New Opportunities Report"
+              body="$(jq '(.solo // []) | length' "$file") solo ideas, $(jq '(.startup // []) | length' "$file") startup ideas, $(jq '(.future_signals // []) | length' "$file") future signals"
             else
               title="New HN Digest"
               body="$(jq '.health_stories | length' "$file") health stories, $(jq '(.other_stories // .top_stories // []) | length' "$file") other popular stories"
