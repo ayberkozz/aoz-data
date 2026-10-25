@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-25",
+  "timestamp": "2026-10-25T09:00:00Z",
+  "summary": "Agent safety and cost control dominated the week: a second LiteLLM supply-chain compromise, a reported runaway-agent bill and several new credential-isolating sandboxes. Reading signals in the repo (RAG evidence handling, agent memory, time-series models, clinical AI) point to a verification layer for clinical RAG as the strongest bigger idea. Reddit, app-store and revenue-post sources were not reachable this run, so solo ideas rest mainly on Hacker News demand and are scored cautiously.",
+  "solo": [
+    {
+      "title": "Hard-cap LLM spend breaker with phone alerts",
+      "problem": "Solo developers running coding agents and API keys have no simple hard stop when an agent loops or a key leaks.",
+      "evidence": [
+        { "title": "HN: OpenAI Codex agents reportedly consumed USD 78,000 (84 pts)", "url": "https://news.ycombinator.com/item?id=49861047" },
+        { "title": "HN: Compromised LiteLLM 1.107.0 on PyPI steals credentials", "url": "https://news.ycombinator.com/item?id=50181114" },
+        { "title": "HN: Anthropic Console reportedly overcharged a card 100x (91 pts)", "url": "https://news.ycombinator.com/item?id=50121562" }
+      ],
+      "competitors": "LiteLLM (just compromised twice per commenters), Langfuse and similar observability tools, and DIY gateways in Go/Rust that commenters mention. Observability tools show cost but, per the threads, do not clearly offer a hard stop. Many solutions are self-built, so a polished small product is thin.",
+      "first_version": "A tiny proxy (Cloudflare Worker or single binary) holding the real provider key, enforcing per-key daily and monthly hard caps and a request-rate breaker, with push alerts to a SwiftUI companion app and a kill switch.",
+      "effort": "3-4 weeks",
+      "monetization": "Free self-host core; paid hosted tier with alerts and team keys, roughly 9-19 USD per month (my estimate, untested).",
+      "risks": "Crowded gateway space; trust barrier of holding customers' keys; providers may ship native hard caps. Evidence is HN anecdotes, and the 78k story is a single unverified claim disputed by some commenters.",
+      "score": 7,
+      "score_reason": "Fresh, repeated pain and low running cost, but demand beyond HN anecdotes is unproven.",
+      "confidence": "medium"
+    },
+    {
+      "title": "Shop-ready woodworking plans from a prompt",
+      "problem": "Hobby woodworkers want AI-assisted designs that output cut lists, joinery and assembly order that match real plywood thickness and tool sizes.",
+      "evidence": [
+        { "title": "Ask HN: CAD for woodworking with LLM support? (128 pts)", "url": "https://news.ycombinator.com/item?id=50067325" },
+        { "title": "Show HN: SolidCraft, open-source parametric CAD in Rust with MCP", "url": "https://news.ycombinator.com/item?id=50064840" }
+      ],
+      "competitors": "ShopSpec, Sawdust.diy, FreeCAD plus MCP and cut-list optimizers, all named by commenters. Per the thread, users say outputs lack shop drawings, joinery detail and tolerance handling, and one commenter says the tools are weak at some geometry.",
+      "first_version": "Parametric templates for 5-10 furniture types (shelves, benches), user enters measured material thickness, app outputs a cut list, sheet layout and step-by-step PDF. LLM only fills parameters.",
+      "effort": "3-4 weeks",
+      "monetization": "One-time purchase or small subscription; per-plan credit packs.",
+      "risks": "Hobby audience may not pay; commenters doubt software helps hobbyists; existing tools are active. Only one demand thread found.",
+      "score": 5,
+      "score_reason": "Real gap named in the thread, but a single data point and a small paying audience.",
+      "confidence": "low"
+    },
+    {
+      "title": "Native Swift singing pitch trainer",
+      "problem": "A popular free singing-feedback app is macOS-only and built on a webview, and commenters ask for other platforms and instruments.",
+      "evidence": [
+        { "title": "Show HN: OnKey, shows where you are off-key (229 pts)", "url": "https://news.ycombinator.com/item?id=50195488" },
+        { "title": "OnKey GitHub repository (MIT)", "url": "https://github.com/dsmurrell/onkey" }
+      ],
+      "competitors": "OnKey (free, macOS Apple Silicon only), Nightingale (needs exported song library), and an unnamed paid app one commenter used before. The thread notes phones cannot listen to other apps, which limits a mobile port.",
+      "first_version": "iOS app with the user's own imported audio or built-in practice exercises, live pitch tracking against a target melody, scoring and progress history.",
+      "effort": "3-4 weeks",
+      "monetization": "Freemium subscription or one-time unlock for song packs and history.",
+      "risks": "Music licensing, iOS audio-capture limits, a free open-source rival, no willingness-to-pay data in the thread. The singing-app category already has big names.",
+      "score": 4,
+      "score_reason": "Feasible for one iOS developer but demand and pricing evidence is weak.",
+      "confidence": "low"
+    }
+  ],
+  "startup": [
+    {
+      "title": "Evidence-verification layer for clinical RAG answers",
+      "problem": "Clinical AI answers cite sources, but recent research shows models often fail to use retrieved evidence and cite wrongly, which blocks trust from clinicians.",
+      "evidence": [
+        { "title": "arXiv: Retrieved but Not Read, search-augmented LLMs fail to use evidence", "url": "https://arxiv.org/abs/2610.21731" },
+        { "title": "arXiv: CiteAnchor, hallucinated citation detection and resolution", "url": "https://arxiv.org/abs/2610.30355" },
+        { "title": "HN: OpenEvidence is changing how American doctors treat patients (FT)", "url": "https://news.ycombinator.com/item?id=50194746" }
+      ],
+      "competitors": "OpenEvidence (clinician Q&A, per the FT headline) and general RAG-evaluation tools. They answer questions; a verification layer that other clinical products plug in for per-claim source checks is a different product, though I have not confirmed none exists.",
+      "first_version": "API that takes an answer plus retrieved passages and returns per-claim support, citation anchors and an unsupported-claim flag, tuned and validated on a small clinical guideline corpus. Reuses RAG and retrieval work the team already built.",
+      "effort": "3-4 people, 4-6 months including clinical validation",
+      "monetization": "Per-call API pricing plus enterprise licences for digital-health vendors.",
+      "risks": "Regulatory and liability questions; needs clinician-labelled data; large players may build it in; academic metrics may not transfer to production.",
+      "score": 7,
+      "score_reason": "Strong research tailwind and reuse of existing work, but a crowded clinical-AI market and a long validation path.",
+      "confidence": "medium"
+    },
+    {
+      "title": "Forecasting and anomaly layer for wearable data",
+      "problem": "Wearable streams are noisy time series, and teams typically train bespoke models per metric; small open foundation models may remove that step.",
+      "evidence": [
+        { "title": "Mistral: Timestral time-series foundation models (5M-209M parameters)", "url": "https://mistral.ai/news/timestral/" },
+        { "title": "HN: Timestral discussion (566 pts)", "url": "https://news.ycombinator.com/item?id=50150434" },
+        { "title": "HN: Quest Diagnostics reports unauthorized access of patient records", "url": "https://news.ycombinator.com/item?id=50198653" }
+      ],
+      "competitors": "Not researched in depth: wearable platforms and health-data aggregators already offer trend and anomaly features. The Timestral post does not mention health data, so applicability to wearables is my inference.",
+      "first_version": "Pilot that runs an open time-series model on-device or in a privacy-preserving backend over resting heart rate and sleep series, flags deviations, and is benchmarked against a simple baseline.",
+      "effort": "3-4 people, 3-6 months for a validated pilot",
+      "monetization": "B2B licence to clinics or digital-health programs for remote monitoring; per-patient monthly fee.",
+      "risks": "Unproven on wearable data; medical-device regulation for alerts; privacy; a simple baseline may match the model.",
+      "score": 5,
+      "score_reason": "Timely model release, but health fit is unvalidated and competitors were not examined.",
+      "confidence": "low"
+    }
+  ],
+  "future_signals": [
+    {
+      "technology": "Credential-isolating sandboxes for autonomous agents",
+      "stage": "rising",
+      "why_now": "Repeated agent-tool compromises appeared in the digests (OpenCode credentials leaked, LiteLLM compromised) while NVIDIA released a 0.1.x runtime that keeps real credentials outside the agent.",
+      "could_enable": "Letting agents run unattended with real accounts without exposing keys, with policy changes needing human approval.",
+      "signals": [
+        { "title": "Repo: HN digest 2026-10-23 (OpenShell, 341 pts)", "url": "https://github.com/ayberkozz/aoz-data/blob/main/hn-digests/hn-digest-2026-10-23.json" },
+        { "title": "Repo: HN digest 2026-10-22 (LiteLLM compromise)", "url": "https://github.com/ayberkozz/aoz-data/blob/main/hn-digests/hn-digest-2026-10-22.json" },
+        { "title": "NVIDIA OpenShell on GitHub", "url": "https://github.com/NVIDIA/OpenShell" }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "technology": "Open time-series foundation models",
+      "stage": "emerging",
+      "why_now": "Mistral released small open-licence forecasting models (5M-209M parameters), and the topic reached 566 points on HN.",
+      "could_enable": "Zero-shot forecasting and anomaly flagging of sensor streams on small devices without training a model per signal, plausibly including wearable data (my inference).",
+      "signals": [
+        { "title": "Repo: HN digest 2026-10-20 (Timestral)", "url": "https://github.com/ayberkozz/aoz-data/blob/main/hn-digests/hn-digest-2026-10-20.json" },
+        { "title": "Mistral Timestral announcement", "url": "https://mistral.ai/news/timestral/" }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "technology": "Raw-evidence retrieval and evidence admission for LLM agents",
+      "stage": "rising",
+      "why_now": "Multiple papers this month converge: models fail to read retrieved evidence, and a paper reports naive RAG over raw history beating complex agentic memory systems in most tested settings.",
+      "could_enable": "Simpler, auditable agent memory built on raw sources, with a gate that checks evidence before an answer is allowed.",
+      "signals": [
+        { "title": "Repo: papers 2026-10-23 (Is Complex Agentic Memory Always Needed?)", "url": "https://github.com/ayberkozz/aoz-data/blob/main/ai-papers/papers-2026-10-23.json" },
+        { "title": "Repo: papers 2026-10-18 (Retrieved but Not Read)", "url": "https://github.com/ayberkozz/aoz-data/blob/main/ai-papers/papers-2026-10-18.json" },
+        { "title": "arXiv abstract: Is Complex Agentic Memory Always Needed?", "url": "https://arxiv.org/abs/2610.30755" }
+      ],
+      "confidence": "high"
+    },
+    {
+      "technology": "LLM-assisted formal verification at scale",
+      "stage": "emerging",
+      "why_now": "Anthropic published research on using LLMs for larger-scale formal verification, and a 619-point Ask HN thread shows developers searching for ways to trust AI-written code.",
+      "could_enable": "Machine-checked guarantees for AI-generated code instead of relying on review and tests alone.",
+      "signals": [
+        { "title": "Repo: HN digest 2026-10-24 (formal verification, 442 pts)", "url": "https://github.com/ayberkozz/aoz-data/blob/main/hn-digests/hn-digest-2026-10-24.json" },
+        { "title": "HN: Ask HN on shipping AI-written code you don't understand", "url": "https://news.ycombinator.com/item?id=50151036" }
+      ],
+      "confidence": "low"
+    },
+    {
+      "technology": "LLM mining of patient forums for drug side effects",
+      "stage": "emerging",
+      "why_now": "A university group reportedly analysed 150k Reddit posts to find side effects of unapproved GLP-1 drugs, while GLP-1 stories recur in the health digests.",
+      "could_enable": "Early pharmacovigilance signals from patient-reported text, months ahead of formal reporting systems.",
+      "signals": [
+        { "title": "Repo: HN digest 2026-10-19 (Penn GLP-1 Reddit study)", "url": "https://github.com/ayberkozz/aoz-data/blob/main/hn-digests/hn-digest-2026-10-19.json" },
+        { "title": "Penn Engineering story on the study", "url": "https://www.engineering.upenn.edu/stories/penn-engineers-use-ai-reddit" }
+      ],
+      "confidence": "low"
+    }
+  ],
+  "limitations": "Reddit, Product Hunt, app store charts, Chrome Web Store, G2 and Capterra pages were not reachable or returned nothing useful, so no 1-2 star review or revenue-post evidence was gathered; web search returned only aggregator pages for most queries. Evidence is mainly Hacker News threads read via the public HN API, so demand is biased toward developer audiences. The Penn story page returned HTTP 503 and the Anthropic formal-verification page was not opened; both are known only from the repo digests. The 78k agent-bill story is a single unverified claim. No earlier opportunities files existed, so no repeat check was needed. Competitor research for the wearable idea was not done."
+}
