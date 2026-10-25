@@ -1,0 +1,216 @@
+{
+  "date": "2026-10-25",
+  "timestamp": "2026-10-25T04:57:47Z",
+  "summary_language": "tr",
+  "top_stories": [
+    {
+      "rank": 1,
+      "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
+      "points": 631,
+      "num_comments": 298,
+      "summary": "Birkaç bankacılık uygulamasının GrapheneOS üzerinde çalışmasına özel olarak izin vermeye başladığı bildiriliyor. Bu, gizlilik odaklı Android sürümü kullananlar için önemli bir uyumluluk adımı olarak görülüyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50217495",
+      "article_url": "https://grapheneos.social/@GrapheneOS/117492375462459244"
+    },
+    {
+      "rank": 2,
+      "title": "No signs of AI payoff outside the tech sector",
+      "points": 516,
+      "num_comments": 532,
+      "summary": "Apollo'nun baş ekonomisti Torsten Slok, yapay zekanın teknoloji sektörü dışındaki şirketlerde çalışan başına gelir, kâr marjı veya verimlilikte henüz bir artış sağlamadığını savunuyor. Ona göre yapay zeka hikâyesinin sonucunu S&P 500'ün geri kalan 493 şirketi belirleyecek ve şimdilik olumlu bir kanıt yok.",
+      "hn_url": "https://news.ycombinator.com/item?id=50224463",
+      "article_url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector"
+    },
+    {
+      "rank": 3,
+      "title": "Root shell on Samsung TV",
+      "points": 496,
+      "num_comments": 205,
+      "summary": "Bir Samsung televizyonda root kabuğu (root shell) elde edildiğini gösteren bir paylaşım. Güvenlik açığının ayrıntıları başlıktan öteye doğrulanamadı. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50218633",
+      "article_url": "https://twitter.com/log4j/status/2113014142600953868?s=46"
+    },
+    {
+      "rank": 4,
+      "title": "OBS Studio 33",
+      "points": 446,
+      "num_comments": 161,
+      "summary": "OBS Studio 33.0.0, tarayıcı kaynakları ve panelleri için büyük bir Chromium Embedded Framework yükseltmesi getiriyor. Ayrıca eklenti yükleme sistemi yenilendi, Arm64'te NVENC etkinleştirildi ve Ubuntu 24.04 desteği sonlandırıldı.",
+      "hn_url": "https://news.ycombinator.com/item?id=50218430",
+      "article_url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0"
+    },
+    {
+      "rank": 5,
+      "title": "Show HN: Steal My Bitcoin",
+      "points": 440,
+      "num_comments": 264,
+      "summary": "\"Show HN: Steal My Bitcoin\" başlıklı bu proje, bir Bitcoin ile ilgili meydan okuma veya güvenlik denemesi sunuyor gibi görünüyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50224916",
+      "article_url": "https://stealmybitcoin.com/"
+    },
+    {
+      "rank": 6,
+      "title": "Elon Musk Just Gave Europe a Reason to Replace American Technology",
+      "points": 426,
+      "num_comments": 459,
+      "summary": "Steve Blank, ABD'nin Ukrayna için Starshield erişimini kesmesinin Avrupa'ya Amerikan teknolojisinin tek taraflı kapatılabileceğini gösterdiğini savunuyor. Yapay zeka sayesinde egemen alternatiflerin daha ucuza üretilebileceğini, bunun da Amerikan şirketlerine gelir ve iş kaybettirebileceğini belirtiyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50220913",
+      "article_url": "https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/"
+    },
+    {
+      "rank": 7,
+      "title": "Twelve years of distributed SQLite",
+      "points": 370,
+      "num_comments": 63,
+      "summary": "Philip O'Toole, 2014'te rqlite ile başlayan \"dağıtık SQLite\" kategorisinin dqlite, Litestream, LiteFS, Turso ve Cloudflare D1 gibi halefleriyle gelişimini anlatıyor. Fikri ticarileştirenlerin onu ücretli barındırma hizmetine dönüştürenler olduğunu, rqlite'ın ise açık kaynak kaldığını söylüyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50217500",
+      "article_url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/"
+    },
+    {
+      "rank": 8,
+      "title": "The Goose Programming Language",
+      "points": 305,
+      "num_comments": 187,
+      "summary": "Goose, C'ye derlenen, bellek güvenli yeni bir sistem programlama dili; heap, çöp toplayıcı veya ömür (lifetime) notasyonu kullanmıyor. Dinamik değerleri derleyicinin yönettiği veri yığınlarında tutuyor ve kıyaslamalarda C++ ile güvenli Rust'tan daha iyi sonuçlar bildiriyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50224100",
+      "article_url": "https://aardappel.github.io/goose/"
+    },
+    {
+      "rank": 9,
+      "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+      "points": 294,
+      "num_comments": 140,
+      "summary": "CVE-2026-111497 (Node2Shell/HTTP2Shell), Google'ın Brotli çözücüsündeki kritik bir bellek bozulması açığı ve uzaktan, kimlik doğrulamasız saldırıya izin veriyor. Node.js ve Python paketleri dahil birçok HTTP kütüphanesini etkiliyor; çözüm Brotli 1.2.1'e yükseltmek veya Brotli çözmeyi kapatmak.",
+      "hn_url": "https://news.ycombinator.com/item?id=50219177",
+      "article_url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497"
+    },
+    {
+      "rank": 10,
+      "title": "I don't understand quantum physics (2018)",
+      "points": 291,
+      "num_comments": 235,
+      "summary": "Douglas Ross'un \"I Don't Understand Quantum Physics\" kitabının içindekiler sayfası; dalga-parçacık ikiliği, belirsizlik ilkesi, dalga fonksiyonu ve süperpozisyon gibi konuları ayrı bölümlerde sunuyor. Tam PDF, sözlük ve kaynakça da bağlantı olarak veriliyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50219666",
+      "article_url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html"
+    }
+  ],
+  "health_stories": [
+    {
+      "rank": 1,
+      "title": "Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques",
+      "points": 136,
+      "num_comments": 26,
+      "summary": "Kentucky Üniversitesi araştırmacıları, amiloid plaklara aşırı tepki veren mikroglia hücrelerinin Alzheimer'lı farelerde uyku kaybına yol açtığını buldu. Bu hücrelerin çoğunu geçici olarak azaltmak, plakları temizlemeden günde iki saatten fazla uykuyu geri getirdi; yöntem henüz insanlarda denenmedi.",
+      "hn_url": "https://news.ycombinator.com/item?id=50217683",
+      "article_url": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm"
+    },
+    {
+      "rank": 2,
+      "title": "Glymphatic clearance to alleviate brain edema and Alzheimer's pathology in mice",
+      "points": 44,
+      "num_comments": 10,
+      "summary": "Alzheimer modelindeki farelerde beyin ödemini ve Alzheimer patolojisini azaltmak için glimfatik temizlenmenin kullanıldığı bir araştırma. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50223752",
+      "article_url": "https://www.science.org/doi/10.1126/sciadv.aeh8870"
+    },
+    {
+      "rank": 3,
+      "title": "Will a macaque eat a grape sitting on a pile of poo? A study on germophobia",
+      "points": 16,
+      "num_comments": 3,
+      "summary": "Bir makak maymununun dışkı yığınının üzerindeki üzümü yiyip yemeyeceğini inceleyen, mikrop korkusunu (germofobi) ele alan bir çalışma. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50221218",
+      "article_url": "https://www.npr.org/2026/10/23/nx-s1-6009527/monkey-macaque-germs-virus-outbreak"
+    },
+    {
+      "rank": 4,
+      "title": "An ancient virus in chimpanzee DNA switches off a gene that is active in humans",
+      "points": 7,
+      "num_comments": 1,
+      "summary": "Lund Üniversitesi araştırmacıları, eski bir viral kalıntı olan PTERV1'in şempanze beyin organoidlerinde LINC00662 genini sessizleştirdiğini, insanlarda ise bu genin aktif olduğunu buldu. CRISPR ile viral DNA'nın silinmesi geni yeniden etkinleştirdi; geni susturmak insan organoidlerinde sinir hücresi gelişimiyle ilgili genleri azalttı.",
+      "hn_url": "https://news.ycombinator.com/item?id=50222764",
+      "article_url": "https://phys.org/news/2026-10-ancient-virus-chimpanzee-dna-gene.html"
+    },
+    {
+      "rank": 5,
+      "title": "AI gets more diagnoses right than generalist doctors in medical challenge",
+      "points": 6,
+      "num_comments": 0,
+      "summary": "Microsoft'un uzman paneli simüle eden Diagnostic Orchestrator sistemi, Science'ta yayımlanan bir testte karmaşık vakaların %83,2'sini doğru teşhis etti; genel hekimlerde bu oran %36,1 idi. Araştırmacılar, testin idealize koşullarda yapıldığını ve sonuçların gerçek hayatta yapay zekanın hekimlerden iyi olduğunu göstermediğini vurguluyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50220694",
+      "article_url": "https://medicalxpress.com/news/2026-10-ai-generalist-doctors-medical.html"
+    },
+    {
+      "rank": 6,
+      "title": "Birdwatching rewires the brain and slows cognitive decline",
+      "points": 6,
+      "num_comments": 2,
+      "summary": "Kuş gözlemciliğinin beyni yeniden şekillendirdiği ve bilişsel gerilemeyi yavaşlattığı öne sürülüyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50215997",
+      "article_url": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline"
+    },
+    {
+      "rank": 7,
+      "title": "Why are Americans obese? Junk food prices shouldn't get all the blame",
+      "points": 4,
+      "num_comments": 3,
+      "summary": "Amerikalılar neden obez? Başlık, obezitede abur cubur fiyatlarının tek suçlu olmadığını, sebze fiyatları gibi başka etkenlerin de rol oynadığını öne süren bir çalışmaya işaret ediyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50224552",
+      "article_url": "https://www.washingtonpost.com/food/2026/05/01/american-obesity-junk-food-prices-vegetables-study/"
+    },
+    {
+      "rank": 8,
+      "title": "The Human Brain Owes Its Existence to a Prehistoric Pandemic",
+      "points": 4,
+      "num_comments": 2,
+      "summary": "Psychology Today'deki yazı, Science Advances'taki bir çalışmaya göre insanlarda bulunmayan eski bir retroviral DNA parçası PTERV1'in insana özgü bir RNA'yı sessizleştirdiğini anlatıyor. Araştırmacılar, 5-7 milyon yıl önceki bu enfeksiyonun insan ve şempanze beyni evrimini birbirinden ayırmış olabileceğini düşünüyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50221539",
+      "article_url": "https://www.psychologytoday.com/us/blog/the-new-brain/202610/the-human-brain-owes-its-existence-to-a-prehistoric-pandemic"
+    },
+    {
+      "rank": 9,
+      "title": "Dynamic force sensing by bone delays aging and extends lifespan – ScienceDirect",
+      "points": 4,
+      "num_comments": 0,
+      "summary": "Kemiğin dinamik kuvvet algılamasının yaşlanmayı geciktirdiği ve yaşam süresini uzattığı iddia ediliyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50220805",
+      "article_url": "https://www.sciencedirect.com/science/article/pii/S155041312600433X"
+    },
+    {
+      "rank": 10,
+      "title": "UK to invest £100M in 'world first' AI Biosecurity Lab",
+      "points": 4,
+      "num_comments": 0,
+      "summary": "Birleşik Krallık'ın \"dünyada bir ilk\" olarak nitelendirilen 100 milyon sterlinlik bir Yapay Zeka Biyogüvenlik Laboratuvarı'na yatırım yapacağı bildiriliyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50219343",
+      "article_url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo"
+    },
+    {
+      "rank": 11,
+      "title": "Retroviral insertions contributed to divergence of human and chimpanzee brains",
+      "points": 4,
+      "num_comments": 0,
+      "summary": "Retroviral eklentilerin insan ve şempanze beyinlerinin birbirinden ayrışmasına katkıda bulunduğunu öne süren bir çalışma. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50218802",
+      "article_url": "https://www.science.org/doi/10.1126/sciadv.aeg5791"
+    },
+    {
+      "rank": 12,
+      "title": "An Ancient Virus Explains Why the Human Brain Is Special",
+      "points": 3,
+      "num_comments": 0,
+      "summary": "Lund Üniversitesi araştırması, 5-7 milyon yıl önce Afrika maymunlarının atalarını enfekte eden PTERV1 retrovirüsünün şempanze, bonobo ve goriller'de bulunduğunu ama insanlarda olmadığını gösteriyor. Şempanze organoidlerinde bu eklentiler, insan beyin gelişiminde aktif olan LINC00662 genini susturuyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50223189",
+      "article_url": "https://www.404media.co/an-ancient-virus-explains-why-the-human-brain-is-special/"
+    },
+    {
+      "rank": 13,
+      "title": "In the biotech world, you can't see everything",
+      "points": 3,
+      "num_comments": 0,
+      "summary": "Jessica Hamzelou, Theranos kurucusu Elizabeth Holmes hakkındaki belgeseli değerlendirirken ikna edici bir anlatının deneyimli gazetecileri bile nasıl yanıltabildiğini anlatıyor. Hakem değerlendirmesinin kusurlu olduğunu ve bulguların giderek ön baskılar ve basın bültenleriyle kamuya ulaştığını, bu yüzden iddiaların sorgulanması gerektiğini savunuyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50218987",
+      "article_url": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/"
+    }
+  ]
+}
