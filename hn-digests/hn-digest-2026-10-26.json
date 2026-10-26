@@ -1,0 +1,153 @@
+{
+  "date": "2026-10-26",
+  "timestamp": "2026-10-26T04:56:31Z",
+  "summary_language": "tr",
+  "top_stories": [
+    {
+      "rank": 1,
+      "title": "We should be more ambitious with the software we build",
+      "points": 767,
+      "num_comments": 699,
+      "summary": "Dan Luu, yapay zekâ kodlama araçları sayesinde küçük ekiplerin ve bireylerin artık Postgres'i yeniden yazmak gibi iddialı projelere girişebildiğini savunuyor. Sağlam test ve kıyaslama ile \"benim için çalışıyor\" kalitesine ulaşılabileceğini, ancak yapay zekâ üretimi projelerin çoğunun düşük kaliteli olduğunu belirtiyor. Yazıda Yossi Kreinin'in, bu sistemlerin doğrulanmasının ve bakımının zor olduğu için çoğu kişinin hırsını dizginlemesi gerektiği yönündeki karşı görüşü de yer alıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50225695",
+      "article_url": "https://danluu.com/ambitious/"
+    },
+    {
+      "rank": 2,
+      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+      "points": 514,
+      "num_comments": 551,
+      "summary": "ABD'de yaratıcı sektörler dört yılda 200 binden fazla iş kaybetti; en çok etkilenen alanlar film ve ses kayıt endüstrileri. Yazar, bu düşüşün yapay zekânın yükselişiyle zamanlamasının örtüştüğünü ama payını konsolidasyon, yurt dışına kaydırma ve sosyal medya içerik üreticilerinin rekabetinden ayırmanın zor olduğunu söylüyor. Yapay zekânın etkisi, internetin müzik ve yayıncılığı dönüştürmesiyle karşılaştırılıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50226419",
+      "article_url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class"
+    },
+    {
+      "rank": 3,
+      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "points": 494,
+      "num_comments": 224,
+      "summary": "Bir dermatolog, iki öncü büyük dil modelini ve ince ayarlı bir Inception v3 CNN modelini biyopsiyle kanıtlanmış 200 cilt lezyonunda test etti. CNN ilk tanıyı lezyonların %62'sinde doğru koyarken, dil modelleri %42'de kaldı; CNN daha fazla melanom ve çok daha fazla iyi huylu lezyonu doğru tanıdı. Yazar örneklemin küçük olduğunu not ediyor ancak özelleşmiş ağın daha isabetli olduğu sonucuna varıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50233779",
+      "article_url": "https://lynchlab.net/llm-skin-cancer"
+    },
+    {
+      "rank": 4,
+      "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
+      "points": 473,
+      "num_comments": 328,
+      "summary": "Sleeping Giants Brasil ve CTRL+Z, Meta'nın WhatsApp ve Instagram arama araçlarının ve Meta AI asistanının Lula ile Flávio Bolsonaro'ya eşit davranmadığını öne süren yeni kanıtları Brezilya Yüksek Seçim Mahkemesi'ne sundu. Gruplar, düzeltmelerin 24 saat içinde yapılmasını ve mahkemenin belirlediği günlük cezanın uygulanmasını istiyor. Meta ise belirli bir adayı kayırdığını reddediyor ve önceki sorunları teknik arızalara bağlıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50229587",
+      "article_url": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order"
+    },
+    {
+      "rank": 5,
+      "title": "Dolly Parton's Imagination Library",
+      "points": 464,
+      "num_comments": 85,
+      "summary": "Dolly Parton'ın Imagination Library programı, doğumdan beş yaşına kadar çocuklara ücretsiz ve yaşa uygun kitaplar gönderiyor; program Dolly Parton ve yerel ortaklarca finanse ediliyor. 1995'te babasının okuma yazma bilmemesinden esinlenerek Doğu Tennessee'de başladı ve bugün ABD, Kanada, Birleşik Krallık, Avustralya ve İrlanda'da sürüyor. Sitede bağış ve yerel program başlatma imkânları da sunuluyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50234474",
+      "article_url": "https://imaginationlibrary.com/"
+    },
+    {
+      "rank": 6,
+      "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+      "points": 438,
+      "num_comments": 118,
+      "summary": "Oregon'daki bağımsız haber kuruluşu Double Sided Media, bir polis memuruna ilişkin kayıtları talep etti ve şehir aramanın yaklaşık 2,5 milyon dolara mal olacağını bildirdi. Yazar, bu ücretin talebi bırakmaya zorlayan bir yıldırma yöntemi olduğunu savunuyor. Kuruluş karara itiraz ediyor; yazı ücret üst sınırları ve gazeteciler için kamu yararı muafiyetleri çağrısı yapıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50234232",
+      "article_url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/"
+    },
+    {
+      "rank": 7,
+      "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+      "points": 430,
+      "num_comments": 207,
+      "summary": "Bogomil Shopov, 30-31 Ocak 2027'de Brüksel'de yapılacak FOSDEM'deki \"Digital Dissident\" geliştirici odasına katılım çağrısı yapıyor. Oda, sansür ve gözetim altındaki insanlara yardım eden araçların tamamını — aşmadan güvenli mesajlaşmaya, yayıncılıktan cihaz güvenliğine — ele alıyor. Konuşma başvuruları 30 Kasım 2026'ya kadar yapılabiliyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50233929",
+      "article_url": "https://talkweb.eu/openweb/4558/"
+    },
+    {
+      "rank": 8,
+      "title": "Cerebras Deploys Trillion-Parameter AI Models",
+      "points": 354,
+      "num_comments": 131,
+      "summary": "Cerebras, yaklaşık 3 trilyon parametreli Kimi K3 gibi çok büyük modelleri, katmanları çok sayıda WSE-3T yongasına bölerek nasıl çalıştırdığını anlatıyor. Örnekte yoğun katmanlar yonga başına bir, doğrusal dikkat katmanları ise iki yongaya yerleştirilerek toplam 59 yonga kullanılıyor. Yongalar arasında yalnızca aktivasyonlar taşınıyor ve çok sayıda istek aşamalar boyunca eşzamanlı işleniyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50227356",
+      "article_url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras"
+    },
+    {
+      "rank": 9,
+      "title": "Samsung running a TensorFlow lite model on 960x540 image to track you",
+      "points": 287,
+      "num_comments": 1,
+      "summary": "Bu paylaşım, Samsung'un bir cihazında 960x540 çözünürlüklü görüntü üzerinde TensorFlow Lite modeli çalıştırarak kullanıcıyı takip ettiğini iddia ediyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50230181",
+      "article_url": "https://twitter.com/mike64_t/status/2114150399406202896"
+    },
+    {
+      "rank": 10,
+      "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+      "points": 210,
+      "num_comments": 306,
+      "summary": "Fields Madalyalı UC Berkeley matematik profesörü Richard Borcherds, öğrencilerin ödevlerini artık doğruluğa göre değil yalnızca tamamlanmaya göre notluyor. Sürekli yüksek not alan öğrencilerde yaygın yapay zekâ kullanımı gördüğünü söylüyor ve sistemin \"çok iyi olmadığını\" kabul ediyor. Üniversite yapay zekâ politikasını öğretim üyelerine bırakıyor ve mevcut tespit araçlarını yeterince güvenilir bulmuyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50233304",
+      "article_url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html"
+    }
+  ],
+  "health_stories": [
+    {
+      "rank": 1,
+      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "points": 494,
+      "num_comments": 224,
+      "summary": "Bir dermatolog, iki öncü büyük dil modelini ve ince ayarlı bir Inception v3 CNN modelini biyopsiyle kanıtlanmış 200 cilt lezyonunda test etti. CNN ilk tanıyı lezyonların %62'sinde doğru koyarken, dil modelleri %42'de kaldı; CNN daha fazla melanom ve çok daha fazla iyi huylu lezyonu doğru tanıdı. Yazar örneklemin küçük olduğunu not ediyor ancak özelleşmiş ağın daha isabetli olduğu sonucuna varıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50233779",
+      "article_url": "https://lynchlab.net/llm-skin-cancer"
+    },
+    {
+      "rank": 2,
+      "title": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%",
+      "points": 178,
+      "num_comments": 40,
+      "summary": "Moderna ve Merck, kişiselleştirilmiş mRNA kanser aşısının melanomda ölüm ve nüks riskini %42 azalttığını duyurdu. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50235217",
+      "article_url": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/"
+    },
+    {
+      "rank": 3,
+      "title": "Doctors' offices are charging patients 10 times more by claiming to be hospitals",
+      "points": 20,
+      "num_comments": 5,
+      "summary": "Washington Post haberine göre muayenehaneler, kendilerini hastane olarak sınıflandırarak hastalardan on kata kadar daha fazla ücret alıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50225485",
+      "article_url": "https://www.washingtonpost.com/business/2026/10/24/doctors-offices-are-charging-patients-10-times-more-by-claiming-be-hospitals/"
+    },
+    {
+      "rank": 4,
+      "title": "Weight-loss drug reduces sleep apnea in two late-stage trials",
+      "points": 10,
+      "num_comments": 4,
+      "summary": "New England Journal of Medicine'da yayımlanan iki geç evre çalışmada, haftada bir uygulanan deneysel ilaç retatrutid, obezitesi ve orta-ağır uyku apnesi olan yetişkinlerde nefes kesintilerini azalttı. 80 hafta sonunda yüksek dozdaki katılımcıların %39-52'sinde apne yok veya hafifti; plasebo grubunda bu oran yaklaşık %13'tü. İlaç henüz onaylanmış değil.",
+      "hn_url": "https://news.ycombinator.com/item?id=50228311",
+      "article_url": "https://medicalxpress.com/news/2026-10-triple-action-weekly-weight-loss.html"
+    },
+    {
+      "rank": 5,
+      "title": "Vaccine generates immune response to KRAS mutations in pancreatic cancer study",
+      "points": 9,
+      "num_comments": 0,
+      "summary": "Mayo Clinic'in pankreas kanseri çalışmasında deneysel bir aşının KRAS mutasyonlarına karşı bağışıklık yanıtı oluşturduğu bildiriliyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50225522",
+      "article_url": "https://newsnetwork.mayoclinic.org/discussion/investigational-vaccine-generates-immune-response-to-kras-mutations-in-pancreatic-cancer-study/"
+    },
+    {
+      "rank": 6,
+      "title": "Talking with strangers is surprisingly informative",
+      "points": 16,
+      "num_comments": 0,
+      "summary": "Bu PubMed kaydı, yabancılarla konuşmanın şaşırtıcı derecede bilgilendirici olduğunu ele alan bir çalışmayı işaret ediyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50227550",
+      "article_url": "https://pubmed.ncbi.nlm.nih.gov/35972959/"
+    }
+  ]
+}
