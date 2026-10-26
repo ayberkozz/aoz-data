@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-26",
+  "timestamp": "2026-10-26T08:00:00Z",
+  "papers": [
+    {
+      "title": "The Window Is in the Reasoning: When LLM Agents Decide to Follow Prompt Injections",
+      "pdf_url": "https://arxiv.org/pdf/2610.24048",
+      "summary": "Uses branching rollouts to measure how much of an LLM agent's decision to follow a prompt injection is already fixed when it reads the untrusted content. For a Qwen3 agent, enabling thinking cuts that share from 0.91 to 0.62, showing the decision forms gradually during reasoning, which challenges runtime monitors and single-run benchmarks.",
+      "page_count": 11
+    },
+    {
+      "title": "A Survey of Large Language Models",
+      "pdf_url": "https://arxiv.org/pdf/2303.18223",
+      "summary": "A comprehensive survey of LLMs covering pre-training, adaptation tuning, utilization (prompting, in-context learning, planning), and capacity evaluation. A deep-study reference for the fundamentals behind fine-tuning, RAG, and agents.",
+      "page_count": 144
+    }
+  ]
+}
