@@ -1,0 +1,153 @@
+{
+  "date": "2026-10-27",
+  "timestamp": "2026-10-27T04:58:07Z",
+  "summary_language": "tr",
+  "top_stories": [
+    {
+      "rank": 1,
+      "title": "Anthropic S-1",
+      "points": 1535,
+      "num_comments": 1491,
+      "summary": "Anthropic'in halka arz için ABD Menkul Kıymetler ve Borsa Komisyonu'na (SEC) sunduğu S-1 belgesi yayımlandı. Belge, şirketin finansallarını ve risk faktörlerini kamuoyuyla paylaşıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50242939",
+      "article_url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm"
+    },
+    {
+      "rank": 2,
+      "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
+      "points": 840,
+      "num_comments": 764,
+      "summary": "Microsoft'un çalışanlarının yaklaşık dörtte birine gönüllü ayrılma (buyout) teklifi sunduğu bildirildi. Haber, şirketin işgücünü küçültme planını ele alıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50245524",
+      "article_url": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/"
+    },
+    {
+      "rank": 3,
+      "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+      "points": 620,
+      "num_comments": 87,
+      "summary": "Sebastian Raschka, sıfırdan akıl yürütme modelleri geliştirmeyi anlatan yaklaşık 11 saatlik sekiz videoluk bir kurs yayımladı. Kurs, önceden eğitilmiş Qwen3 0.6B modelinden başlayarak değerlendirme, çıkarım zamanı ölçekleme, doğrulanabilir ödüllerle pekiştirmeli öğrenme (RLVR) ve damıtma konularını işliyor. Kurs, yazarın 'Build a Reasoning Model (From Scratch)' kitabına eşlik ediyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50245138",
+      "article_url": "https://magazine.sebastianraschka.com/p/building-reasoning-models"
+    },
+    {
+      "rank": 4,
+      "title": "GPT-6.1 Terra",
+      "points": 553,
+      "num_comments": 345,
+      "summary": "OpenAI'ın GPT-6.1 Terra modelini tanıttığı duyuruldu. Haber, yeni modelin sunumunu konu alıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50248124",
+      "article_url": "https://openai.com/index/introducing-gpt-6-1-terra/"
+    },
+    {
+      "rank": 5,
+      "title": "Lula wins election after final votes tallied",
+      "points": 505,
+      "num_comments": 620,
+      "summary": "Brezilya'daki ikinci tur seçimde Lula'nın, oylar tamamen sayıldıktan sonra kazandığı bildirildi. Haber, seçim sonucunu ve Bolsonaro cephesinin tepkisini konu alıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50237485",
+      "article_url": "https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/"
+    },
+    {
+      "rank": 6,
+      "title": "Switzerland. Block by block. At 1:1 scale",
+      "points": 465,
+      "num_comments": 214,
+      "summary": "Blocks, İsviçre'yi Minecraft Java'da metre başına bir blok olacak şekilde 1:1 ölçekte yeniden yaratan, resmi olmayan erken erişim bir proje. Swisstopo'nun açık verilerini kullanıyor; Jungfrau-Aletsch bölgesi ücretsiz, tüm ülke ise 15 CHF'den başlıyor ve yalnızca İsviçre'de yaşayanlarla sınırlı. Tam dünya için 16 GB RAM'li güçlü bir bilgisayar ve 24 GB indirme gerekiyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50240922",
+      "article_url": "https://blocks.manifold3d.ch/"
+    },
+    {
+      "rank": 7,
+      "title": "IBM CEO says open weight models are now good and cheap on-prem",
+      "points": 417,
+      "num_comments": 327,
+      "summary": "IBM CEO'su Arvind Krishna, üçüncü çeyrek görüşmesinde açık ağırlıklı modellerin kurum içi (on-prem) yapay zekâ için artık yeterince iyi ve ucuz olduğunu söyledi. Ona göre kapalı modellerle fark 2024'ten beri ciddi biçimde azaldı; açık modeller token başına yaklaşık %10-25 maliyetle etkinliğin yaklaşık %90'ını sunuyor. Krishna ayrıca çoğu şirketin iki üç rafta işe yarar altyapı kurabileceğini ancak mühendis eksikliği yaşadığını belirtti.",
+      "hn_url": "https://news.ycombinator.com/item?id=50238088",
+      "article_url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640"
+    },
+    {
+      "rank": 8,
+      "title": "CSS-Tricks has a new owner",
+      "points": 411,
+      "num_comments": 94,
+      "summary": "CSS-Tricks, DigitalOcean'ın 2022'de kurucu Chris Coyier'den satın almasının ardından Geoff Graham'ın sahipliğinde yeniden bağımsız oldu. Graham siteyi reklam, üyelik, mağaza ve başlangıç düzeyi bir HTML/CSS kursuyla finanse etmeyi ve bülteni geri getirmeyi planlıyor. Haftada bir veya iki makale yayımlanacak ve konuk yazar formu yeniden açılacak.",
+      "hn_url": "https://news.ycombinator.com/item?id=50245831",
+      "article_url": "https://css-tricks.com/css-tricks-has-a-new-owner/"
+    },
+    {
+      "rank": 9,
+      "title": "Show HN: TitleArt – Make text like it's 1997",
+      "points": 390,
+      "num_comments": 76,
+      "summary": "TitleArt, metinleri 1997 estetiğinde göstermeyi vaat eden bir araç olarak paylaşıldı. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50238708",
+      "article_url": "https://titleart.dvy.io/"
+    },
+    {
+      "rank": 10,
+      "title": "Oldest GUI application that still runs on Windows 11",
+      "points": 348,
+      "num_comments": 208,
+      "summary": "Yazar, Windows 11'de değiştirilmeden çalışan en eski GUI uygulamasını araştırdı. En iyi yerel aday 1993 tarihli FREECELL.EXE (Win32s ile), erken NT 3.1 derlemelerinden 1992 tarihli CDPLAYER.EXE de çalışıyor. 64 bit Windows'ta NTVDM olmadığı için 1985 tarihli 16 bit REVERSI.EXE yalnızca üçüncü taraf otvdm aracıyla çalıştırılabildi.",
+      "hn_url": "https://news.ycombinator.com/item?id=50248055",
+      "article_url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/"
+    }
+  ],
+  "health_stories": [
+    {
+      "rank": 1,
+      "title": "Europe's summer heat wave killed more han 50k people in urban areas",
+      "points": 47,
+      "num_comments": 29,
+      "summary": "Avrupa'daki yaz sıcak hava dalgasının kentsel alanlarda 50 binden fazla kişinin ölümüne yol açtığı bildirildi. Haber, bilimsel bir çalışmanın aşırı sıcakların halk sağlığı üzerindeki etkisini ele aldığını düşündürüyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50236455",
+      "article_url": "https://www.science.org/content/article/europe-s-summer-heat-wave-killed-more-50-000-people-urban-areas"
+    },
+    {
+      "rank": 2,
+      "title": "Peta releases video showing experiments on infant monkeys at Univ of Washington",
+      "points": 25,
+      "num_comments": 35,
+      "summary": "PETA'nın, Washington Üniversitesi'nde yavru maymunlar üzerinde yapılan deneyleri gösteren bir video yayımladığı bildirildi. Haber, hayvan deneylerine ilişkin tartışmayı konu alıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50244744",
+      "article_url": "https://www.theguardian.com/us-news/2026/oct/26/peta-monkey-experiment-video"
+    },
+    {
+      "rank": 3,
+      "title": "U.S. birth rate drops to record low, but older women are having more babies",
+      "points": 24,
+      "num_comments": 10,
+      "summary": "ABD'de doğum oranının rekor düşük seviyeye gerilediği, buna karşın daha yaşlı kadınların daha fazla bebek sahibi olduğu bildirildi. Haber, CDC verilerine dayanan nüfus eğilimlerini konu alıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50238242",
+      "article_url": "https://www.npr.org/2026/10/24/nx-s1-6012804/birth-rate-population-cdc"
+    },
+    {
+      "rank": 4,
+      "title": "Forget the plague, this is the disease that will kill us all",
+      "points": 13,
+      "num_comments": 3,
+      "summary": "Makale, yanlış katlanmış proteinlerin beyinde zincirleme tepkime başlattığı ölümcül ve tedavisiz prion hastalıklarını (deli dana, geyiklerde kronik zayıflama hastalığı, Creutzfeldt-Jakob) anlatıyor. Yazar, mühendislikle üretilmiş prionların gelecekte biyogüvenlik tehdidi olabileceğini savunuyor ve daha iyi patojen taraması, araştırma materyallerine sıkı denetim ve uluslararası anlaşmalar çağrısı yapıyor. Broad Enstitüsü'nden bir ekibin hastalığı yavaşlatabilecek bir tedaviyle insan denemelerine başladığı da belirtiliyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50236729",
+      "article_url": "https://mapwriting.substack.com/p/forget-the-plague-this-is-the-disease"
+    },
+    {
+      "rank": 5,
+      "title": "Handwriting but not typewriting leads to widespread brain connectivity (2024)",
+      "points": 6,
+      "num_comments": 0,
+      "summary": "Frontiers in Psychology'de yayımlanan 2024 tarihli çalışmada 36 üniversite öğrencisinin el yazısı ve klavye ile yazma sırasındaki beyin aktivitesi 256 kanallı EEG ile ölçüldü. El yazısı, bellek ve öğrenmeyle ilişkilendirilen teta ve alfa bağlantısını parietal ve merkezi bölgelerde çok daha yaygın biçimde artırdı. Yazarlar, çocukların okulda el yazısı pratiğini sürdürmesi gerektiğini ve araç seçiminin göreve göre yapılması gerektiğini belirtiyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50241673",
+      "article_url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1219945/full"
+    },
+    {
+      "rank": 6,
+      "title": "Scientists were unsure of how microplastics harmed the body – until now",
+      "points": 4,
+      "num_comments": 0,
+      "summary": "Mikroplastiklerin vücuda nasıl zarar verdiği konusunda bilim insanlarının daha önce belirsizliği vardı; haberde suyla karıştığında tehlikeli kimyasallar oluşturdukları öne sürülüyor. Haber, mikroplastiklerin sağlık etkilerine dair yeni bir araştırmayı konu alıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50242512",
+      "article_url": "https://www.washingtonpost.com/climate-environment/2026/10/25/microplastics-create-dangerous-chemicals-when-mixed-with-water-researchers-find/"
+    }
+  ]
+}
