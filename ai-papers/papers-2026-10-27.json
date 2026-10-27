@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-27",
+  "timestamp": "2026-10-27T08:00:00Z",
+  "papers": [
+    {
+      "title": "Logic Hijacking of RAG: Single-Document Poisoning via Local Optimization",
+      "pdf_url": "https://arxiv.org/pdf/2610.34829",
+      "summary": "Proposes MONOLOGUE, a black-box single-document poisoning attack on RAG that concedes the ground truth as a historical baseline and then presents the counterfactual as a dated record correction, avoiding the explicit contradictions aligned LLMs reject. Payloads are refined offline with gated optimization combining text-quality audits and surrogate behavioral checks, and it achieves the strongest overall efficacy across three benchmarks, three retrievers and four generators.",
+      "page_count": 22
+    },
+    {
+      "title": "Rethinking Verification in Agent Harnesses",
+      "pdf_url": "https://arxiv.org/pdf/2610.34577",
+      "summary": "Frames verification in LLM agent harnesses as test-time scaling across four layers (initial instructions, mid-turn reminders, completion gates, independent review) and compares 17 designs on seven frontier coding models using Terminal-Bench, SWE-bench Verified and the new VisualBench. Independent critic review gives the best accuracy-cost tradeoff, adding 5.9-9.5 points on Terminal-Bench and 3.9-6.6 on SWE-bench Verified.",
+      "page_count": 65
+    }
+  ]
+}
