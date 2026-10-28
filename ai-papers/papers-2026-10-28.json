@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-28",
+  "timestamp": "2026-10-28T04:46:08Z",
+  "papers": [
+    {
+      "title": "Spine: Compiling Subtask Trees into Structured Context for Long-Horizon Coding Agents",
+      "pdf_url": "https://arxiv.org/pdf/2610.37224",
+      "summary": "Introduces Spine, an interface and runtime where coding agents declare explicit subtask scopes and a persistent SpineTree is compiled just-in-time into model context, keeping unfinished subtasks' details while collapsing completed ones to their results. Integrated into Codex, it improves SWE-Milestone Score by 11.8% while cutting cost by 32.4%, and matches recursive subagents at 73.7% lower cost.",
+      "page_count": 22
+    },
+    {
+      "title": "When Should We Intervene at Test Time?",
+      "pdf_url": "https://arxiv.org/pdf/2610.37658",
+      "summary": "Presents PORTAL, a controller for test-time adaptation that decides when to deploy an intervention, which inputs to label, and when to stop querying, by evaluating all candidate prediction rules on each acquired label. It turns interventions that lose accuracy overall into useful choices on selected batches, with theory linking required feedback to accuracy gaps and shared mistakes.",
+      "page_count": 79
+    }
+  ]
+}
