@@ -1,0 +1,207 @@
+{
+  "date": "2026-10-28",
+  "timestamp": "2026-10-28T04:57:28Z",
+  "summary_language": "tr",
+  "top_stories": [
+    {
+      "rank": 1,
+      "title": "Three new discoveries in mathematics, computer science, and physics",
+      "points": 1133,
+      "num_comments": 661,
+      "summary": "OpenAI'nin matematik, bilgisayar bilimi ve fizikte üç yeni keşfi akademik topluluklarla birlikte duyurduğu bir yazı olduğu anlaşılıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50251344",
+      "article_url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/"
+    },
+    {
+      "rank": 2,
+      "title": "Ghostty 1.4",
+      "points": 867,
+      "num_comments": 271,
+      "summary": "Ghostty 1.4.0 sürümü; kaydırma geçmişi sıkıştırma, daha hızlı terminal ayrıştırma ve tamamlanmış Kitty grafik desteği gibi önemli performans ve bellek iyileştirmeleri getiriyor. Ayrıca Kitty pano protokolü, `ghostty +ssh` sarmalayıcısı ve GTK'de sürükle-bırak ile bölme düzenleme ekleniyor. Sürüm bazı güvenlik düzeltmeleri ve uyumsuzluk yaratan değişiklikler de içeriyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50261998",
+      "article_url": "https://ghostty.org/docs/install/release-notes/1-4-0"
+    },
+    {
+      "rank": 3,
+      "title": "US Government is hiding a secret court ruling about how it spies on Americans",
+      "points": 860,
+      "num_comments": 308,
+      "summary": "ABD hükümetinin Amerikalıları nasıl gözetlediğine dair gizli bir mahkeme kararını sakladığı iddia ediliyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50259604",
+      "article_url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/"
+    },
+    {
+      "rank": 4,
+      "title": "Genie 4",
+      "points": 801,
+      "num_comments": 488,
+      "summary": "Google DeepMind, daha gerçekçi, doğal sesli ve metin komutlarıyla yönlendirilebilen gerçek zamanlı bir dünya modeli olan Genie 4'ü duyurdu. Gemini modelleri simülasyonun tutarlı kalmasına yardımcı oluyor. Model şimdilik güvenilir test kullanıcılarına açık bir araştırma önizlemesi olarak sunuluyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50261319",
+      "article_url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/"
+    },
+    {
+      "rank": 5,
+      "title": "The Exponential Time Hypothesis Is False [pdf]",
+      "points": 778,
+      "num_comments": 287,
+      "summary": "OpenAI'nin deposunda 'Üstel Zaman Hipotezi yanlıştır' başlıklı, 25 Ekim 2026 tarihli bir ön baskı yer alıyor. Sayfadan yalnızca başlık ve dosya bilgisi okunabildi; makalenin sonuçları doğrulanamadı.",
+      "hn_url": "https://news.ycombinator.com/item?id=50251661",
+      "article_url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf"
+    },
+    {
+      "rank": 6,
+      "title": "AI promised less work. I've never worked more",
+      "points": 626,
+      "num_comments": 620,
+      "summary": "Yazar Orestis Ioannou, yapay zekâ ajanlarının kendisine zaman kazandırması gerekirken 2026'da hiç olmadığı kadar çok çalıştığını anlatıyor. GitHub verileri, en yoğun dönemlerine yakın ve yorucu çalışma patlamaları gösteriyor. Bunu, uygulamanın ucuzlaması nedeniyle çok daha fazla işin üstlenilmesine bağlıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50257325",
+      "article_url": "https://oioannou.com/blog/ai-promised-less-work/"
+    },
+    {
+      "rank": 7,
+      "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+      "points": 496,
+      "num_comments": 269,
+      "summary": "Stanford Daily, Anthropic'in 10'dan fazla Stanford profesörünün kitaplarını korsan yoldan edinerek Claude'u eğittiği iddiasını haberleştiriyor. Profesörler Tobias Wolff ve Chang-rae Lee, 1,5 milyar dolarlık uzlaşmadan çıkarak ayrı bir dava açtı. Dava, ihlal edilen eser başına 150.000 dolara kadar tazminat talep ediyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50260814",
+      "article_url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/"
+    },
+    {
+      "rank": 8,
+      "title": "Python's experimental JIT to be removed",
+      "points": 467,
+      "num_comments": 253,
+      "summary": "Python'un 3.13 ile eklenen deneysel JIT derleyicisi kaldırılıyor. Yönlendirme konseyi bakım, güvenlik ve uyumluluğu kapsayan bir PEP istedikten sonra yazarlar PEP 836'yı geri çekti. JIT'in büyük olasılıkla Python 3.16 geliştirme döngüsünün başında ana daldan çıkarılması bekleniyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50257419",
+      "article_url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/"
+    },
+    {
+      "rank": 9,
+      "title": "Wikipedia's Cleanup of AI-Generated Content",
+      "points": 466,
+      "num_comments": 213,
+      "summary": "IEEE Spectrum, gönüllü WikiProject AI Cleanup ekibinin Wikipedia'daki yapay zekâ üretimi metinleri nasıl temizlediğini anlatıyor. Bir tespit aracı, 2026 başında yeni makale ve taslakların yaklaşık yüzde 15-16'sını işaretledi; bu oran 2025 sonunda yüzde 20 civarındaydı. Ekip, Wikipedia'nın insan yazımı ansiklopedi kimliğinin giderek daha değerli olduğunu düşünüyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50257326",
+      "article_url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup"
+    },
+    {
+      "rank": 10,
+      "title": "Roblox downloaded 145GB models from us (including adult content) without asking",
+      "points": 462,
+      "num_comments": 268,
+      "summary": "Open3DLab, SFMLab ve SmutBase, Roblox'a ait olduğunu belirten bir tarayıcının robots.txt ve lisansları yok sayarak 712 projeden 145,5 GB'lık 1.027 dosya indirdiğini iddia ediyor. Sitelere göre veriler muhtemelen Roblox'un 3 boyutlu temel modelini eğitmek için kullanıldı, ancak bunu kanıtlayamıyorlar. Roblox e-postalara henüz yanıt vermedi.",
+      "hn_url": "https://news.ycombinator.com/item?id=50256985",
+      "article_url": "https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/"
+    }
+  ],
+  "health_stories": [
+    {
+      "rank": 1,
+      "title": "Early progress on accelerating drug development with Claude",
+      "points": 178,
+      "num_comments": 159,
+      "summary": "Anthropic'in yaşam bilimleri ekibi, altı ilaç geliştiricisiyle birlikte Claude'u molekül tasarımından düzenleyici evraklara ve klinik deney planlamasına kadar ilaç geliştirme sürecinde kullanıyor. Bildirilen sonuçlar arasında laboratuvar testlerinde daha iyi performans gösteren bir CAR T-hücre tasarımı ve üretim belgesi inceleme süresinde yüzde 89 azalma var. Çalışmalar henüz ağırlıklı olarak klinik öncesi aşamada.",
+      "hn_url": "https://news.ycombinator.com/item?id=50265609",
+      "article_url": "https://www.anthropic.com/research/early-progress-drug-development"
+    },
+    {
+      "rank": 2,
+      "title": "Just imagining a workout can make you stronger (2016)",
+      "points": 60,
+      "num_comments": 33,
+      "summary": "Bir hareketi hayal etmek, onu gerçekten yapmakla benzer beyin ve beden sistemlerini harekete geçiriyor. Çalışmalarda zihinsel pratik, hayali golf vuruşlarında yaklaşık yüzde 30, parmak egzersizlerinde yüzde 22 gelişme sağladı. Yazıya göre zihinsel pratik fiziksel antrenmanın yerini tutmuyor, yalnızca onu tamamlıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50252457",
+      "article_url": "https://nautil.us/just-imagining-a-workout-can-make-you-stronger-236068"
+    },
+    {
+      "rank": 3,
+      "title": "Radio-tagged Monarch butterflies",
+      "points": 40,
+      "num_comments": 15,
+      "summary": "Virginia Tech araştırmacıları, 35 monark kelebeğine hafif Bluetooth etiketleri takarak Meksika'ya göçlerini izliyor. Etiketlerin sinyallerini akıllı telefonlar, araçlar ve baz istasyonları alıp konumu neredeyse gerçek zamanlı iletiyor. Veriler, arazi yönetimi ve kelebeklerin ihtiyaç duyduğu bitkilerin dikimine yol gösterecek.",
+      "hn_url": "https://news.ycombinator.com/item?id=50262982",
+      "article_url": "https://news.vt.edu/articles/2026/10/cmi-monarchs.html"
+    },
+    {
+      "rank": 4,
+      "title": "Cancer vaccines are finally here. How do we get them to patients?",
+      "points": 29,
+      "num_comments": 1,
+      "summary": "Kişiselleştirilmiş kanser aşısı intismeran autogene, yapılan bir Faz 3 çalışmasında tek başına Keytruda'ya göre nüks veya ölüm riskini yüzde 42 azalttı. Yazarlar asıl zorluğun bu aşıları hastalara ulaştırmak olduğunu belirtiyor. Bireysel tedavilere uygun düzenlemeler, entegre bakım ve daha hızlı kılavuz güncellemeleri istiyorlar.",
+      "hn_url": "https://news.ycombinator.com/item?id=50259271",
+      "article_url": "https://www.statnews.com/2026/10/27/cancer-vaccines-intismeran-autogene-esmo-results-delivery-access/"
+    },
+    {
+      "rank": 5,
+      "title": "Industry Knew for Decades That Microplastics Could Infiltrate Human Bodies",
+      "points": 26,
+      "num_comments": 2,
+      "summary": "Los Angeles Times soruşturmasına göre kimya sektörü bilim insanları, yutulan mikroplastik parçacıklarının önemli organlara ulaşabileceğini onlarca yıldır biliyordu. 1974 tarihli bir çalışma, PVC parçacıklarının hayvanlarda saatler içinde karaciğer, beyin ve akciğerlere ulaştığını göstermişti. Amerikan Kimya Konseyi suçlamaları reddederken mikroplastiklerin sağlık etkileri hâlâ araştırılıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50258614",
+      "article_url": "https://e360.yale.edu/digest/chemical-industry-microplastics"
+    },
+    {
+      "rank": 6,
+      "title": "She Worried About Cutting Her Medication Dose. ChatGPT Told Her to Push On",
+      "points": 24,
+      "num_comments": 9,
+      "summary": "İlaç dozunu azaltmaktan endişe eden bir kadına ChatGPT'nin devam etmesini söylediği ve kadının epilepsi nedeniyle öldüğü bildiriliyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50263012",
+      "article_url": "https://www.nytimes.com/2026/10/27/well/ai-chatgpt-medication-epilepsy-death.html"
+    },
+    {
+      "rank": 7,
+      "title": "The real-life Scottish surgeon who inspired Sherlock Holmes",
+      "points": 15,
+      "num_comments": 0,
+      "summary": "Sherlock Holmes'a ilham veren gerçek İskoç cerrahı anlatan bir Ars Technica yazısı. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50252650",
+      "article_url": "https://arstechnica.com/science/2026/10/meet-the-real-life-scottish-surgeon-who-inspired-sherlock-holmes/"
+    },
+    {
+      "rank": 8,
+      "title": "Woman with epilepsy dies after taking ChatGPT medical advice",
+      "points": 6,
+      "num_comments": 2,
+      "summary": "Sosyal Medya Mağdurları Hukuk Merkezi, epilepsili 31 yaşındaki bir kadının ölümü nedeniyle OpenAI ve CEO'su aleyhine haksız ölüm davası açtı. Şikâyete göre ChatGPT ruhsatsız tıbbi tavsiye verdi, nöbet ilacının sıfıra indirilmesi için bir program hazırladı ve kadını doktorlarının önerilerinden caydırdı. İddialar henüz mahkemede kanıtlanmadı.",
+      "hn_url": "https://news.ycombinator.com/item?id=50263863",
+      "article_url": "https://finance.yahoo.com/healthcare/articles/social-media-victims-law-center-170100749.html"
+    },
+    {
+      "rank": 9,
+      "title": "Researchers Unearth Fossil Evidence of First Marine Amphibian",
+      "points": 4,
+      "num_comments": 0,
+      "summary": "UC Davis ve ortakları, yaklaşık 237 milyon yıl öncesine ait, bilinen ilk tamamen denizde yaşayan amfibi Gerrothorax maritimus'un fosillerini bildirdi. Zırhlı ve dipte yaşayan bu canlı, muhtemelen emerek beslenip avını pusuya düşürüyordu. Zırhı sayesinde deniz suyu içip tuzu solungaçlarıyla süzmüş olabilir.",
+      "hn_url": "https://news.ycombinator.com/item?id=50260906",
+      "article_url": "https://www.ucdavis.edu/curiosity/news/researchers-unearth-fossil-evidence-first-fully-marine-amphibian"
+    },
+    {
+      "rank": 10,
+      "title": "The importance of taking effective microbreaks at work",
+      "points": 4,
+      "num_comments": 1,
+      "summary": "Queensland Üniversitesi'nin 91 katılımcılı çalışması, kısa molaların planlama veya hedef belirleme ile birleştirildiğinde en etkili olduğunu gösterdi; ancak bu yaklaşım analiz edilen çalışma saatlerinin yalnızca yüzde 6'sında görüldü. Araştırmacılar ayrıca saatlik yürüyüş gibi hareket molalarının tip 2 diyabet gibi metabolik hastalıkları önlemeye yardımcı olabileceğini söylüyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50264916",
+      "article_url": "https://www.rnz.co.nz/life/wellbeing/the-importance-of-taking-effective-microbreaks-at-work"
+    },
+    {
+      "rank": 11,
+      "title": "Worms mate in man's eyes, get plucked out right before larvae burst out",
+      "points": 3,
+      "num_comments": 1,
+      "summary": "Ars Technica'da göz içinde çiftleşen solucanlarla ilgili bir sağlık haberi yer alıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50252642",
+      "article_url": "https://arstechnica.com/health/2026/10/whats-worse-than-having-eye-worms-having-eye-worms-with-babies/"
+    },
+    {
+      "rank": 12,
+      "title": "Ruliobiology and the theoretical foundations of biological form",
+      "points": 3,
+      "num_comments": 0,
+      "summary": "Stephen Wolfram, hücresel otomatları canlıların yerine koyarak 'ruliobiyoloji' adlı bir çerçeve öneriyor. Biyolojideki çeşitli biçimlerin hesaplamalı indirgenemezlikten doğduğunu ve doğal seçilimin bunları elediğini savunuyor. Bunu biyoloji ve astrobiyoloji için olası bir kuramsal temel olarak sunuyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50252134",
+      "article_url": "https://writings.stephenwolfram.com/2026/10/endless-forms-most-beautiful-and-most-wonderful-ruliobiology-and-the-theoretical-foundations-of-biological-form/"
+    }
+  ]
+}
