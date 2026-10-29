@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-29",
+  "timestamp": "2026-10-29T04:46:55Z",
+  "papers": [
+    {
+      "title": "Do We Need an LLM to Know Why Sources Conflict? Decision Models for Knowledge-Conflict Typing in RAG",
+      "pdf_url": "https://arxiv.org/pdf/2610.36915",
+      "summary": "Tests whether 'decision models' that output probabilities over fixed options in one forward pass can classify the type of conflict between retrieved RAG sources (stale, contested, false, multiple valid answers). On the CONFLICTS benchmark, 10 of 11 models match or beat Gemini 2.5 Flash, and a confidence-based cascade to a stronger LLM matches its accuracy at 25-37% of the cost.",
+      "page_count": 15
+    },
+    {
+      "title": "Does LLM Pre-Training Typically Occur at the Edge of Stability?",
+      "pdf_url": "https://arxiv.org/pdf/2610.36778",
+      "summary": "Examines where quadratic approximations of loss landscapes break down during LLM pre-training, identifying a learning-rate-independent failure mode and a generalized Edge of Stability. A deep, theory-and-experiment study of optimization dynamics at LLM scale.",
+      "page_count": 90
+    }
+  ]
+}
