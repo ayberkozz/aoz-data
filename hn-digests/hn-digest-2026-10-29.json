@@ -1,0 +1,171 @@
+{
+  "date": "2026-10-29",
+  "timestamp": "2026-10-29T04:57:07Z",
+  "summary_language": "tr",
+  "top_stories": [
+    {
+      "rank": 1,
+      "title": "Evidence of a spying operation by ICE against left-wing social movements",
+      "points": 1117,
+      "num_comments": 928,
+      "summary": "Wired'da yayımlanan habere göre ICE'ın sol eğilimli toplumsal hareketlere yönelik geniş çaplı bir gözetim operasyonu yürüttüğüne dair kanıtlar ortaya çıktı. Haber, ABD'deki gözetim uygulamalarını gündeme taşıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50272749",
+      "article_url": "https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/"
+    },
+    {
+      "rank": 2,
+      "title": "Apple's git still trusts the compromised eMudhra certificates",
+      "points": 1080,
+      "num_comments": 385,
+      "summary": "Apple, 17 Ekim'de bilgilendirilmesine rağmen 28 Ekim itibarıyla macOS geliştirici araçları (git, curl, python3) ele geçirilmiş eMudhra sertifikalarına güvenmeye devam ediyor. macOS 27.2 güncellemesi kullanıcıların elle uyguladığı çözümleri de geri aldı. Apple düzeltme yayımlayana kadar geliştiricilerin araçlarını kontrol etmesi ve her güncellemeden sonra çözümü yeniden uygulaması öneriliyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50271640",
+      "article_url": "https://emudhra.we-have-a-problem.com/apple.html"
+    },
+    {
+      "rank": 3,
+      "title": "Why is this fingerprinting script creating bioweapons?",
+      "points": 964,
+      "num_comments": 201,
+      "summary": "Bir araştırmacı, yaklaşık 10.000 siteyi tarayarak servicepipe.tech'e ait bir parmak izi betiği buldu; betik, yapay zekâ güvenlik önlemlerini yanıltmak için sahte bir \"sistem geçersiz kılma\" istemi ve yanıltıcı fonksiyon adları içeriyor. Toplanan tarayıcı sinyalleri standart bot karşıtı kontroller. Yazar, en endişe verici içeriğin gerçek bir tehditten çok \"LLM karşıtı karartma\" olduğu sonucuna varıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50276998",
+      "article_url": "https://nullpt.rs/fingerprinting-bioweapons"
+    },
+    {
+      "rank": 4,
+      "title": "Gemini 4 Carbon",
+      "points": 854,
+      "num_comments": 707,
+      "summary": "Google, siber güvenlik ve uzun süren ajan görevlerinde belirgin gelişmeler sunan en güçlü modeli Gemini 4 Carbon'ı duyurdu. Model, Artificial Analysis Intelligence Index v5.0'da birinci sırada yer alıyor. Erişim önce küçük bir siber savunmacı ve güvenilir ortak grubuna açılıyor, daha geniş kullanım sonraya bırakıldı.",
+      "hn_url": "https://news.ycombinator.com/item?id=50276792",
+      "article_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
+    },
+    {
+      "rank": 5,
+      "title": "MacBook Pro with PROLED XDR Display and Touch",
+      "points": 528,
+      "num_comments": 914,
+      "summary": "Apple, M5 Pro veya M5 Max çipli yeni 14 ve 16 inç MacBook Pro'yu PROLED XDR ekranla tanıttı; ekran 2000 nit tepe parlaklığa ve dokunmatik özelliğe sahip. Cihazda Dynamic Island, geliştirilmiş hoparlörler ve 24 saate kadar pil ömrü var. Ön siparişler başladı, satış 6 Kasım'da başlıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50276940",
+      "article_url": "https://www.apple.com/macbook-pro/proled-xdr-display/"
+    },
+    {
+      "rank": 6,
+      "title": "Emacs Turns 50",
+      "points": 456,
+      "num_comments": 190,
+      "summary": "1976'dan beri MIT Yapay Zekâ Laboratuvarı'nda Richard Stallman ve diğerleri tarafından geliştirilen metin editörü Emacs 50 yaşına giriyor. TECO için yazılmış Control-R eklentisine dayanan Emacs, kullanıcıları etkileyen kullanışlılığıyla öne çıktı. Paylaşımcı topluluğu, özgür yazılım hareketinin ve GNU Projesi'nin doğuşuna katkıda bulundu.",
+      "hn_url": "https://news.ycombinator.com/item?id=50273171",
+      "article_url": "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/"
+    },
+    {
+      "rank": 7,
+      "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
+      "points": 446,
+      "num_comments": 492,
+      "summary": "Kentucky'de bir adamın, yapay zekâ kullanımından dini muafiyet alan ilk hümanist olduğu bildiriliyor. Haber, inanç ve yapay zekâ kullanımının kesiştiği yeni bir hukuki örneğe işaret ediyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50273396",
+      "article_url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/"
+    },
+    {
+      "rank": 8,
+      "title": "CNC Stone Carving",
+      "points": 438,
+      "num_comments": 122,
+      "summary": "Carmelite rahipleri, Gotik süslemeleri (yapraklar, heykeller, kuleler) elle yontmaya kıyasla çok daha kısa sürede üretmek için CNC makineleri kullanıyor. Süreç 3 boyutlu modellemeden takım yolu oluşturmaya ve makinelerin işletilmesine kadar dijital bir iş akışı izliyor. Rahipler, bunun otantik Gotik detayı yeniden uygun fiyatlı kıldığını savunuyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50274409",
+      "article_url": "https://carmelitegothic.com/cnc-stone-carving/"
+    },
+    {
+      "rank": 9,
+      "title": "Git for the US Code",
+      "points": 434,
+      "num_comments": 262,
+      "summary": "Lexifina, hangi kanunun ABD Kanunu'nun hangi hükmünü ne zaman değiştirdiğini gösteren, \"US Code için git\" benzeri bir sürüm geçmişi öneriyor. Yazarlar, dil modelleri dahil mevcut hukuki araştırma araçlarının sık sık eski mevzuat metnini kullandığını savunuyor. Test edilen 365 değişikliğin 361'i resmi bir sonraki sürümle birebir örtüştü.",
+      "hn_url": "https://news.ycombinator.com/item?id=50268380",
+      "article_url": "https://lexifina.com/blog/git-for-the-us-code"
+    },
+    {
+      "rank": 10,
+      "title": "Wealth Inequality in America drawn to scale",
+      "points": 330,
+      "num_comments": 411,
+      "summary": "Sayfa, ABD hanehalkı servetini ölçekli bir grafikle gösteriyor: medyan hanenin 100 dolarlık banknot yığını yaklaşık 23 cm, en zengin %1'in ortalama yığını ise yaklaşık 44 metre yüksekliğinde. Etkileşimli grafik yüklenemedi ancak sayfada yazdırılabilir PDF, video ve kaynaklar yer alıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50270764",
+      "article_url": "https://dreamagainusa.org/"
+    }
+  ],
+  "health_stories": [
+    {
+      "rank": 1,
+      "title": "Rising rates of colorectal cancer found in nearly all age groups",
+      "points": 55,
+      "num_comments": 94,
+      "summary": "UChicago Medicine'in NEJM Evidence'ta yayımlanan çalışması, kolorektal kanser görülme sıklığının onlarca yıllık düşüşün ardından hemen her yaş grubunda arttığını gösterdi. En keskin artış 45-49 yaş grubunda görüldü ve bu durum esas olarak taramaya başlama yaşının düşürülmesine bağlanıyor. Risk faktörleri netleşene kadar tarama erken teşhis için en iyi yöntem.",
+      "hn_url": "https://news.ycombinator.com/item?id=50279308",
+      "article_url": "https://www.uchicagomedicine.org/forefront/cancer-articles/rising-rates-of-colorectal-cancer"
+    },
+    {
+      "rank": 2,
+      "title": "New Records Obtained by EFF Expose More Problems with Medicare's AI Experiment",
+      "points": 19,
+      "num_comments": 2,
+      "summary": "EFF'nin edindiği 800'den fazla sayfalık belgeler, yapay zekâyla ön yetkilendirme taleplerini değerlendiren Medicare'in WISeR programının acele bir başlangıç yaptığını, gecikmeler ve hatalı retler yaşandığını gösteriyor. CMS, altı satıcıdan en az dördüne düzeltici talepler gönderdi. EFF, Kongre'den otomatik karar vermeye daha güçlü yasal sınırlar getirmesini istiyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50266764",
+      "article_url": "https://www.eff.org/deeplinks/2026/10/new-records-obtained-eff-expose-more-problems-medicares-ai-experiment"
+    },
+    {
+      "rank": 3,
+      "title": "Millions Use Antidepressants. We Still Don't Understand How They Work",
+      "points": 9,
+      "num_comments": 9,
+      "summary": "New York Times'ın haberi, milyonlarca insanın kullandığı antidepresanların nasıl etki ettiğinin hâlâ tam olarak anlaşılmadığını ele alıyor. Haber, SSRI ilaçlarının işleyişine dair bilimsel belirsizliği tartışıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50268305",
+      "article_url": "https://www.nytimes.com/2026/10/27/science/how-antidepressants-ssri-work.html"
+    },
+    {
+      "rank": 4,
+      "title": "New AI-powered mosquito trap could help curb dengue outbreaks",
+      "points": 4,
+      "num_comments": 0,
+      "summary": "USF girişimi Digitomy, laboratuvar testlerinde %98'in üzerinde doğrulukla sivrisinek türünü belirleyen yapay zekâlı bir tuzak geliştirdi. Tuzak türü, cinsiyeti ve kan emip emediğini saptıyor ve verileri bir harita panosuyla sağlık yetkililerine sunuyor. Florida yaklaşık yüzyılın en kötü dang salgınlarından biriyle karşı karşıya.",
+      "hn_url": "https://news.ycombinator.com/item?id=50268012",
+      "article_url": "https://www.usf.edu/news/2026/new-ai-powered-mosquito-trap-could-help-curb-dengue-outbreaks.aspx"
+    },
+    {
+      "rank": 5,
+      "title": "Toad Venom Nose Spray Quickly Eases Depression for Weeks in Clinical Trial",
+      "points": 4,
+      "num_comments": 1,
+      "summary": "JAMA'da yayımlanan faz 2b çalışmasında, Sonora Çölü kurbağası zehrinde bulunan mebufotenin içeren tek dozluk burun spreyi, majör depresyonlu 193 kişide denendi. 8 mg ve 12 mg dozlar en az sekiz hafta süren fayda sağladı ve 8 mg doz faz 3'e geçecek. Uzmanlar etkinin kısmi olduğunu (yaklaşık %30 iyileşme) ve intihar eğilimi olanların dışlandığını belirtiyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50267938",
+      "article_url": "https://www.sciencealert.com/scientists-tested-a-toad-venom-psychedelic-on-treatment-resistant-depression-heres-what-happened"
+    },
+    {
+      "rank": 6,
+      "title": "Vaccines for Cancer",
+      "points": 4,
+      "num_comments": 0,
+      "summary": "JAMA'daki bu derleme, tümör immünolojisi ve aşı teknolojisindeki ilerlemelerin kanser aşılarına ilgiyi yeniden canlandırdığını anlatıyor. Aşıların melanom, prostat ve mesane kanseri gibi türlerde tedavi edici olabildiği, yan etkilerin ise genellikle hafif olduğu belirtiliyor. Aşılar ayrıca nüksü ve birincil kanseri önlemek için test ediliyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50267191",
+      "article_url": "https://jamanetwork.com/journals/jama/fullarticle/2854262?guestAccessKey=a0997df4-192d-410d-8c20-1ae3418a415d&utm_medium=email&utm_source=postup_jn&utm_campaign=article_alert-jama&utm_content=etoc-tfl_&utm_term=102726"
+    },
+    {
+      "rank": 7,
+      "title": "Young adults with cancer report getting dismissed by doctors",
+      "points": 4,
+      "num_comments": 0,
+      "summary": "University at Buffalo'nun 20-39 yaş arası 30 kanser hastasıyla yaptığı çalışma, birçok genç hastanın belirtileri strese bağlayarak doktora gitmeyi geciktirdiğini ve doktorların uyarı işaretlerine rağmen şikâyetleri sıklıkla önemsemediğini gösterdi. Araştırmacı, farkındalık kampanyaları ve hekimler için iletişim eğitimi öneriyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50266777",
+      "article_url": "https://www.futurity.org/young-adults-cancer-3350622-2/"
+    },
+    {
+      "rank": 8,
+      "title": "Cancer rates rising more quickly among younger people, international research",
+      "points": 3,
+      "num_comments": 0,
+      "summary": "The Guardian'ın haberine göre uluslararası bir araştırma, kanser oranlarının genç insanlarda daha hızlı arttığını ortaya koydu. Haber, genç yaş grubundaki kanser eğilimlerine dikkat çekiyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50266411",
+      "article_url": "https://www.theguardian.com/society/2026/oct/06/cancer-rates-rising-more-quickly-among-younger-people-international-study-finds"
+    }
+  ]
+}
