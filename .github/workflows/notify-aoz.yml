@@ -7,6 +7,7 @@ on:
       - "ai-papers/**.json"
       - "hn-digests/**.json"
       - "opportunities/**.json"
+      - "medical-futurist/**.json"
 
 jobs:
   notify:
@@ -38,13 +39,17 @@ jobs:
 
           if [ "$BEFORE" = "0000000000000000000000000000000000000000" ]; then BEFORE="$AFTER~1"; fi
 
-          git diff --name-only --diff-filter=A "$BEFORE" "$AFTER" -- 'ai-papers/*.json' 'hn-digests/*.json' 'opportunities/*.json' |
+          git diff --name-only --diff-filter=A "$BEFORE" "$AFTER" -- 'ai-papers/*.json' 'hn-digests/*.json' 'opportunities/*.json' 'medical-futurist/*.json' |
           while read -r file; do
             folder=$(dirname "$file")
             date=$(jq -r '.date' "$file")
             if [ "$folder" = "ai-papers" ]; then
               title="New AI Papers Digest"
               body="$(jq '.papers | length' "$file") papers picked for $date"
+            elif [ "$folder" = "medical-futurist" ]; then
+              title="New Medical Futurist Article"
+              count=$(jq '.articles | length' "$file")
+              if [ "$count" = "1" ]; then body="$(jq -r '.articles[0].title' "$file")"; else body="$count new articles: $(jq -r '.articles[0].title' "$file")"; fi
             elif [ "$folder" = "opportunities" ]; then
               title="New Opportunities Report"
               body="$(jq '(.solo // []) | length' "$file") solo ideas, $(jq '(.startup // []) | length' "$file") startup ideas, $(jq '(.future_signals // []) | length' "$file") future signals"
