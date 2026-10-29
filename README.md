@@ -9,6 +9,7 @@ Scheduled Claude routines write daily JSON files into the folders below. Each ne
 | [`ai-papers/`](ai-papers) | Curated AI/ML research papers with short summaries | `papers-YYYY-MM-DD.json`, `papers-YYYY-MM-DD-runN.json` |
 | [`opportunities/`](opportunities) | Weekly report (Saturday): solo ideas, startup ideas and future-technology signals | `opportunities-YYYY-MM-DD.json`, `opportunities-YYYY-MM-DD-runN.json` |
 | [`hn-digests/`](hn-digests) | Hacker News digests: health-related stories and other popular stories | `hn-digest-YYYY-MM-DD.json`, `hn-digest-YYYY-MM-DD-vN.json` |
+| [`medical-futurist/`](medical-futurist) | New articles from The Medical Futurist with short summaries | `mf-YYYY-MM-DD.json`, `mf-YYYY-MM-DD-runN.json` |
 
 When a routine runs more than once on the same day, it adds a `-runN` / `-vN` suffix instead of overwriting the earlier file.
 
@@ -55,6 +56,23 @@ When a routine runs more than once on the same day, it adds a `-runN` / `-vN` su
 
 Older digests use `other_stories` instead of `top_stories`, and may leave out `rank`, `num_comments` and `summary_language`. Clients should treat those as optional.
 
+### `medical-futurist/`
+
+```json
+{
+  "date": "2026-10-29",
+  "timestamp": "2026-10-29T14:50:00Z",
+  "summary_language": "tr",
+  "articles": [
+    {
+      "title": "…",
+      "summary": "…",
+      "url": "https://…"
+    }
+  ]
+}
+```
+
 ### `opportunities/`
 
 ```json
@@ -88,4 +106,10 @@ Only `date`, `timestamp` and the titles are required; the app treats everything 
 
 ## Notifications
 
-On every push to `main` that adds a JSON file under `ai-papers/`, `hn-digests/` or `opportunities/`, the workflow sends an APNs alert to the AOZ app that includes the folder, the date and the item count. It needs the `APNS_KEY_P8`, `APNS_KEY_ID` and `APNS_DEVICE_TOKEN` secrets. The optional `APNS_HOST` variable defaults to the sandbox host.
+On every push to `main` that adds a JSON file under `ai-papers/`, `hn-digests/`, `medical-futurist/` or `opportunities/`, the workflow sends an APNs alert to the AOZ app that includes the folder, the date and the item count. It needs the `APNS_KEY_P8`, `APNS_KEY_ID` and `APNS_DEVICE_TOKEN` secrets. The optional `APNS_HOST` variable defaults to the sandbox host.
+
+## How the app uses these files
+
+In the AOZ app the four folders appear together under **Routines**. There is no refresh button: the app imports new files on launch, when it returns to the foreground, on a background refresh and when the push notification above arrives.
+
+Right after each import the app also syncs the data to the user's Obsidian vault (the **Second Brain** screen), writing `AOZ HN Digest.md`, `AOZ AI Papers.md`, `AOZ Medical Futurist.md` and `AOZ Opportunities.md`. Each file covers the most recent days or reports and is overwritten on every sync.
