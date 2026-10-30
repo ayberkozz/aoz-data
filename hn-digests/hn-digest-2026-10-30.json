@@ -1,0 +1,189 @@
+{
+  "date": "2026-10-30",
+  "timestamp": "2026-10-30T04:58:00Z",
+  "summary_language": "tr",
+  "top_stories": [
+    {
+      "rank": 1,
+      "title": "Patrick Stewart has died",
+      "points": 2620,
+      "num_comments": 555,
+      "summary": "Oyuncu Patrick Stewart'ın 86 yaşında hayatını kaybettiği duyuruldu. Star Trek'in Kaptan Picard'ı ve X-Men'in Profesör X'i olarak tanınan sanatçının ölümü toplulukta geniş yankı uyandırdı. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50294702",
+      "article_url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html"
+    },
+    {
+      "rank": 2,
+      "title": "We're releasing the weights of Mistral Large 4",
+      "points": 1279,
+      "num_comments": 358,
+      "summary": "Mistral, 1 trilyon parametreli çok kipli Mistral Large 4 modelinin ağırlıklarını açık olarak yayımladı. Şirket modeli kodlamada en iyi açık ağırlıklı model olarak tanıtıyor; üç farklı akıl yürütme kipi sunuyor ve değiştirilmiş bir MIT lisansıyla dağıtılıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50289418",
+      "article_url": "https://mistral.ai/news/mistral-large-4-oss/"
+    },
+    {
+      "rank": 3,
+      "title": "StackOverflow now gets fewer than 1000 questions a month",
+      "points": 776,
+      "num_comments": 695,
+      "summary": "StackOverflow'un artık ayda 1000'den az soru aldığı iddia ediliyor. Başlık, yapay zekâ sohbet araçlarının yükselişiyle platformdaki soru trafiğinin ciddi biçimde düştüğüne işaret ediyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50282454",
+      "article_url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1"
+    },
+    {
+      "rank": 4,
+      "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+      "points": 681,
+      "num_comments": 145,
+      "summary": "Qwenputer, Qwen 3.5 4B modelinin ağırlıklarına eğitim gerektirmeden doğrudan bir RISC-V işlemcisi derleyen bir proje. İşlemci, modelin Gated DeltaNet katmanlarını RAM gibi kullanarak aritmetik, C ve MicroPython kodunu harici araç olmadan çalıştırıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50282838",
+      "article_url": "https://divagr.com/blog/qwenputer"
+    },
+    {
+      "rank": 5,
+      "title": "Claude Code regularly sends each background agent’s transcript to its model",
+      "points": 563,
+      "num_comments": 228,
+      "summary": "Bir gist, Claude Code'un arka plan ajanlarının konuşma kayıtlarını yaklaşık 30 saniyede bir yeniden modele gönderdiğini ve bunun token kullanımının %15-20'sini oluşturduğunu savunuyor. Önerilen Bun betiği bu zamanlayıcıyı bastırıyor ancak güncellemelerden sonra bozulabiliyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50284255",
+      "article_url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce"
+    },
+    {
+      "rank": 6,
+      "title": "DoorDash to acquire Instacart",
+      "points": 452,
+      "num_comments": 623,
+      "summary": "DoorDash, Instacart'ı hisse başına 65 dolardan, yaklaşık 17 milyar dolarlık özkaynak değeriyle satın almayı kabul etti; bedelin en az %75'i nakit. Şirketler birleşmenin yerel mağazaların büyük çevrimiçi perakendecilerle rekabetine yardım edeceğini söylüyor; kapanışın 2027 sonu veya 2028 ilk yarısında olması bekleniyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50287919",
+      "article_url": "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart"
+    },
+    {
+      "rank": 7,
+      "title": "Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents",
+      "points": 419,
+      "num_comments": 262,
+      "summary": "Başlığa göre bir veri sızıntısı, bazıları gizli ICE ajanı olan yaklaşık 41.000 İç Güvenlik Bakanlığı çalışanının kimliğini ortaya çıkardı. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50280864",
+      "article_url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/"
+    },
+    {
+      "rank": 8,
+      "title": "‘You Are Done’: The letter sent to King by the F.B.I (2014)",
+      "points": 414,
+      "num_comments": 393,
+      "summary": "1964'te FBI'ın Martin Luther King'e gönderdiği ve 'İşin bitti' ifadesini içeren sansürsüz mektup, New York Times Magazine'in 2014 tarihli bir yazısında inceleniyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50288867",
+      "article_url": "https://www.nytimes.com/2014/11/16/magazine/what-an-uncensored-letter-to-mlk-reveals.html"
+    },
+    {
+      "rank": 9,
+      "title": "Google Search is now less than half of Alphabet’s revenue",
+      "points": 401,
+      "num_comments": 338,
+      "summary": "2026 Eylül çeyreğinde Google Arama, Alphabet'in 128 milyar dolarlık gelirinin 63,4 milyar dolarını yani %49,7'sini oluşturdu; arama ilk kez gelirin yarısının altına düştü. Arama geliri yıllık %12 artarken Google Cloud %103 büyüdü.",
+      "hn_url": "https://news.ycombinator.com/item?id=50291945",
+      "article_url": "https://www.kadoa.com/companies/insights/google-search-below-half"
+    },
+    {
+      "rank": 10,
+      "title": "LLM Voice",
+      "points": 388,
+      "num_comments": 207,
+      "summary": "Martin Fowler, bazı yazılarda görülen cansız 'LLM sesi'ni ve okurların buna verdiği insani tepkiyi anlatıyor. Yazarların metinlerini kendilerinin yazmasını öneriyor, çünkü yazmak düşünmeyle bağlantılı; yapay zekâyı yalnızca arama aracı olarak kullandığını söylüyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50290177",
+      "article_url": "https://martinfowler.com/bliki/LLM-Voice.html"
+    }
+  ],
+  "health_stories": [
+    {
+      "rank": 1,
+      "title": "A Health Update",
+      "points": 343,
+      "num_comments": 61,
+      "summary": "Craig Hockenberry, lenfoma tedavisinin son kemoterapisi sırasında hastane yatağından yazıyor. Omurilik sinir hasarı, hızlı kilo kaybı, zatürre ve atriyal fibrilasyon gibi yan etkileri anlatıyor; sinirlerinin iyileşmeye başladığını belirtiyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50280974",
+      "article_url": "https://furbo.org/2026/10/28/a-health-update/"
+    },
+    {
+      "rank": 2,
+      "title": "IgE disruptor for food allergy with Claude-enabled antibody design [pdf]",
+      "points": 44,
+      "num_comments": 33,
+      "summary": "Divergence Labs'in ön baskısı, Claude destekli antikor tasarımıyla gıda alerjisi için bir IgE bozucu geliştirildiğini öne sürüyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50294486",
+      "article_url": "https://divergencelabs.com/publications/ige-preprint.pdf"
+    },
+    {
+      "rank": 3,
+      "title": "Low cholesterol targets cut cardiovascular events by 33%",
+      "points": 20,
+      "num_comments": 16,
+      "summary": "Ez-PAVE adlı rastgele denemede, LDL kolesterolü 55 mg/dL altına hedefleyen kalp-damar hastalarında üç yılda olay oranı %6,6 olurken 70 altını hedefleyenlerde %9,7 oldu (%33 azalma). Fayda çoğunlukla kalp krizi ve girişimlerin azalmasından geldi ve yan etkilerde anlamlı fark bulunmadı.",
+      "hn_url": "https://news.ycombinator.com/item?id=50282504",
+      "article_url": "https://www.empirical.health/blog/lower-ldl-target-ez-pave-trial/"
+    },
+    {
+      "rank": 4,
+      "title": "Trump administration will allow pharmacies to make popular peptides",
+      "points": 6,
+      "num_comments": 0,
+      "summary": "ABD yönetiminin eczanelerin popüler peptitleri hazırlamasına izin vereceği bildiriliyor; NPR haberi peptit karışımlarına yönelik denetimin gevşetilmesini ele alıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50289017",
+      "article_url": "https://www.npr.org/2026/10/28/nx-s1-6021030/peptides-compounding-enforcement"
+    },
+    {
+      "rank": 5,
+      "title": "America waged war on drunk driving, now a new epidemic is taking hold",
+      "points": 5,
+      "num_comments": 1,
+      "summary": "San Francisco Chronicle'ın haberi, alkollü araç kullanımıyla yıllarca mücadele edilen ABD'de uyuşturucu etkisiyle araç kullanımının yeni bir salgına dönüştüğünü anlatıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50284080",
+      "article_url": "https://www.sfchronicle.com/projects/2026/drugged-driving-epidemic/"
+    },
+    {
+      "rank": 6,
+      "title": "AI recommends more expensive treatment than physicians, analysis suggests",
+      "points": 5,
+      "num_comments": 1,
+      "summary": "BMJ'de yayımlanan bir analize göre yapay zekâ, hekimlere kıyasla daha pahalı tedaviler öneriyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50287724",
+      "article_url": "https://www.bmj.com/content/395/bmj-2026-101271"
+    },
+    {
+      "rank": 7,
+      "title": "Congo's Ebola outbreak tops 10k cases as authorities race to slow the spread",
+      "points": 4,
+      "num_comments": 0,
+      "summary": "Kongo'daki Ebola salgını 10.000 vakayı aştı ve kayıtlardaki en hızlı büyüyen Ebola salgını oldu. Bundibugyo türü için onaylı aşı veya tedavi yok; salgın sekiz ilde 66 sağlık bölgesine yayıldı ve çatışmalar ile ödenmeyen maaşlar müdahaleyi zorlaştırıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50283182",
+      "article_url": "https://www.nbcnews.com/world/africa/congos-ebola-outbreak-tops-10000-cases-authorities-race-slow-spread-af-rcna605882"
+    },
+    {
+      "rank": 8,
+      "title": "The brain liquidates billions of mutant neurons around the time we're born",
+      "points": 4,
+      "num_comments": 0,
+      "summary": "Nature haberine göre beyin, doğum sırasında çevresinde milyarlarca mutant nöronu ortadan kaldırıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50285451",
+      "article_url": "https://www.nature.com/articles/d41586-026-03444-x"
+    },
+    {
+      "rank": 9,
+      "title": "Offshore workers turn to weight-loss jabs to meet helicopter weight rules",
+      "points": 4,
+      "num_comments": 0,
+      "summary": "BBC haberine göre açık deniz çalışanları, helikopter ağırlık sınırlarına uyabilmek için kilo verme iğnelerine yöneliyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50292263",
+      "article_url": "https://www.bbc.co.uk/news/articles/cmpqgx8w0537o"
+    },
+    {
+      "rank": 10,
+      "title": "Emotion regulation capacity lacks a shared neural signature",
+      "points": 4,
+      "num_comments": 1,
+      "summary": "Nature'da yayımlanan bir çalışma, duygu düzenleme kapasitesinin ortak bir nöral imzaya sahip olmadığını bildiriyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50291709",
+      "article_url": "https://www.nature.com/articles/s41586-026-11203-1"
+    }
+  ]
+}
