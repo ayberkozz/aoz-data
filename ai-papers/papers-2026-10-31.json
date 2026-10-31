@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-31",
+  "timestamp": "2026-10-31T05:00:00Z",
+  "papers": [
+    {
+      "title": "DeFT-RAG: Incrementally Decomposing Multi-Hop Questions into Self-Contained Sub-Questions with Reusable Answers",
+      "pdf_url": "https://arxiv.org/pdf/2610.37826",
+      "summary": "Proposes DeFT-RAG, a retrieval-augmented framework where the LLM generates one self-contained sub-question at a time while rule-based updates to a QA table and a small fine-tuned yes/no model handle bookkeeping. A cache reuses answers for semantically equivalent sub-questions, giving the best accuracy among thirteen baselines on MuSiQue, 2WikiMultiHopQA and HotpotQA with fewer input tokens.",
+      "page_count": 12
+    },
+    {
+      "title": "Prompt Lottery in LLM-as-a-Judge: Measuring and Mitigating Sensitivity to Syntactic Rephrasing",
+      "pdf_url": "https://arxiv.org/pdf/2610.38076",
+      "summary": "Measures how much LLM-as-a-judge verdicts change when the evaluation prompt is merely paraphrased syntactically, showing that judge outcomes depend heavily on the arbitrary prompt wording. It also proposes mitigation methods that make judge scores more robust to rephrasing.",
+      "page_count": 55
+    }
+  ]
+}
