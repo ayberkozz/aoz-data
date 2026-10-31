@@ -1,0 +1,223 @@
+{
+  "date": "2026-10-31",
+  "timestamp": "2026-10-31T09:00:00Z",
+  "summary": "Supply-chain attacks on AI developer tooling dominated again: a reported backdoor in Claude Code VS Code extension builds on the Cursor marketplace, a Northflank breach touching stored AI API keys, and Binance. Open-weight models (Mistral Large 4, IBM's on-prem comment) and RAG robustness papers point to privacy-first clinical AI as the bigger opportunity. Evidence is mostly Hacker News plus two web searches; Reddit, app stores and revenue posts were not checked.",
+  "solo": [
+    {
+      "title": "AI-key blast-radius checker after provider/host breaches",
+      "problem": "After a platform breach, developers must find every AI provider key they stored, rotate it and check for unauthorized usage, and there is no single checklist tool.",
+      "evidence": [
+        {
+          "title": "HN: Northflank Breached (394 pts)",
+          "url": "https://news.ycombinator.com/item?id=50305025"
+        },
+        {
+          "title": "HN: Compromised LiteLLM on PyPI steals credentials (earlier week)",
+          "url": "https://news.ycombinator.com/item?id=50181114"
+        }
+      ],
+      "competitors": "Generic secret scanners and each provider's own console. Inference: they handle one provider at a time and do not guide post-breach rotation across providers.",
+      "first_version": "Local-only app or CLI: user lists providers, it opens each rotation page, tracks rotation status, and can call provider usage endpoints where available to flag spikes. Keys never leave the device.",
+      "effort": "2-3 weeks",
+      "monetization": "Free CLI; paid app with reminders and team export (my estimate, untested).",
+      "risks": "Trust barrier for anything touching keys; providers may ship better tooling; one-off demand spikes after incidents. Overlaps conceptually with last week's spend-breaker idea, so build only one.",
+      "score": 5,
+      "score_reason": "Real recurring incidents but unclear willingness to pay.",
+      "confidence": "low"
+    },
+    {
+      "title": "Extension auditor for AI-coding editors",
+      "problem": "AI-editor marketplaces have had malicious or backdoored extension versions, and developers have no easy pre-install or post-incident check.",
+      "evidence": [
+        {
+          "title": "HN: Backdoor in Claude Code for VS Code extension on Cursor Marketplace (843 pts)",
+          "url": "https://news.ycombinator.com/item?id=50300683"
+        },
+        {
+          "title": "Cursor forum: malicious extension installed via namespace auto-transfer",
+          "url": "https://forum.cursor.com/t/flawed-extension-scanning-malicious-extension-from-vsx-got-installed-from-vscode-extension-auto-transfer/166473"
+        }
+      ],
+      "competitors": "ExtAudit (open-source static manifest check) and Guardrails/guardlens (proprietary CLI), per search results. Inference: no friendly GUI or version-diff alerting that tells you whether your installed versions are on a known-bad list.",
+      "first_version": "Mac menu-bar app that lists installed extensions across VS Code, Cursor and others, compares versions with public advisories (e.g. OSV), and alerts on matches.",
+      "effort": "3 weeks",
+      "monetization": "Free for personal use; paid for team policy and alerts.",
+      "risks": "Marketplaces or editors may add native checks; advisory coverage is patchy; developer-tool audience resists paying.",
+      "score": 6,
+      "score_reason": "Fresh and heavily upvoted pain with weak GUI-level supply, but a small payer base.",
+      "confidence": "medium"
+    },
+    {
+      "title": "Android developer-verification readiness checker",
+      "problem": "Indie Android developers and small teams face mandatory Google developer registration for installs on certified devices and are unsure how it affects their distribution.",
+      "evidence": [
+        {
+          "title": "HN: Your Phone Is About to Stop Being Yours (487 pts)",
+          "url": "https://news.ycombinator.com/item?id=50208558"
+        },
+        {
+          "title": "F-Droid: Open Letter Opposing Android Developer Verification",
+          "url": "https://f-droid.org/es/2026/02/24/open-letter-opposing-developer-verification.html"
+        }
+      ],
+      "competitors": "Mostly advocacy pages and forum threads. Inference: no practical tool that walks a developer through requirements and their app's distribution channels.",
+      "first_version": "Static web guide plus questionnaire that outputs a checklist by distribution channel and country, kept up to date from official sources.",
+      "effort": "2 weeks",
+      "monetization": "Ads or sponsorship, paid template pack; weak.",
+      "risks": "Rules and dates are disputed across sources (rollout countries and timing); content product with low willingness to pay; I did not verify Google's own documentation.",
+      "score": 3,
+      "score_reason": "Timely but thin monetization and unverified facts.",
+      "confidence": "low"
+    }
+  ],
+  "startup": [
+    {
+      "title": "Guideline-conflict detector for clinical RAG",
+      "problem": "Clinical RAG systems retrieve sources that disagree (guideline versions, trials) and models may silently pick one; a layer that types and surfaces the conflict is missing.",
+      "evidence": [
+        {
+          "title": "arXiv: Decision Models for Knowledge-Conflict Typing in RAG",
+          "url": "https://arxiv.org/abs/2610.36915"
+        },
+        {
+          "title": "arXiv: Logic Hijacking of RAG, single-document poisoning",
+          "url": "https://arxiv.org/abs/2610.34829"
+        },
+        {
+          "title": "Repo: AI papers digest 2026-10-29",
+          "url": "https://github.com/ayberkozz/aoz-data/blob/main/ai-papers/papers-2026-10-29.json"
+        }
+      ],
+      "competitors": "General RAG evaluation tools and clinician Q&A products. Inference: none appear to focus on guideline-version conflict surfacing for clinicians; not verified by market research.",
+      "first_version": "Conflict-typing service over a curated guideline corpus, showing the conflicting passages, their dates and sources next to each answer, with an API for existing RAG pipelines.",
+      "effort": "3-4 people (ML, clinical advisor, backend), 6-9 months incl. clinical validation",
+      "monetization": "B2B API per query or per seat to digital-health vendors.",
+      "risks": "Regulatory scrutiny, need clinical validation, papers are early research; builds on, and partly overlaps with, last week's evidence-verification idea. Reuses any existing RAG work the team already has.",
+      "score": 6,
+      "score_reason": "Plausible differentiated wedge, high validation cost.",
+      "confidence": "low"
+    },
+    {
+      "title": "On-prem open-weight LLM for small clinics",
+      "problem": "Small clinics cannot send patient data to cloud APIs but now have access to strong open-weight models; packaging and compliance are the gap.",
+      "evidence": [
+        {
+          "title": "HN: IBM CEO says open weight models are now good and cheap on-prem",
+          "url": "https://news.ycombinator.com/item?id=50238088"
+        },
+        {
+          "title": "HN: Mistral releases weights of Mistral Large 4",
+          "url": "https://news.ycombinator.com/item?id=50289418"
+        }
+      ],
+      "competitors": "Cloud scribe and assistant vendors, and DIY IT. Inference: weak on privacy-first, appliance-style offerings for small practices; not verified.",
+      "first_version": "Pre-configured box or container with a model, RAG over clinic documents, audit logs and role-based access, targeted at one specialty.",
+      "effort": "3-5 people, 9-12 months incl. security and compliance",
+      "monetization": "Annual license plus support.",
+      "risks": "Hardware cost for a trillion-parameter model, sales cycles, compliance burden, and the IBM claim is a CEO statement, not a benchmark.",
+      "score": 5,
+      "score_reason": "Real shift in model availability, unproven buyer demand.",
+      "confidence": "low"
+    }
+  ],
+  "future_signals": [
+    {
+      "technology": "Open-weight frontier models for on-prem use",
+      "stage": "rising",
+      "why_now": "A 1T-parameter multimodal open model and an enterprise CEO comment on cheap on-prem models appeared in the same week.",
+      "could_enable": "Privacy-sensitive sectors (health, legal) running near-frontier models without sending data to a vendor.",
+      "signals": [
+        {
+          "title": "Repo: HN digest 2026-10-30",
+          "url": "https://github.com/ayberkozz/aoz-data/blob/main/hn-digests/hn-digest-2026-10-30.json"
+        },
+        {
+          "title": "HN: Mistral Large 4 weights",
+          "url": "https://news.ycombinator.com/item?id=50289418"
+        },
+        {
+          "title": "HN: IBM CEO on open-weight models",
+          "url": "https://news.ycombinator.com/item?id=50238088"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "technology": "Agent and developer-tool supply-chain security",
+      "stage": "rising",
+      "why_now": "LiteLLM compromise, Claude Code extension backdoor and Northflank breach in two weeks; the 10-26 papers digest also covers agents following prompt injections.",
+      "could_enable": "Signed, sandboxed extensions and per-agent credential scoping as defaults rather than extras.",
+      "signals": [
+        {
+          "title": "Repo: HN digest 2026-10-31",
+          "url": "https://github.com/ayberkozz/aoz-data/blob/main/hn-digests/hn-digest-2026-10-31.json"
+        },
+        {
+          "title": "HN: Northflank Breached",
+          "url": "https://news.ycombinator.com/item?id=50305025"
+        },
+        {
+          "title": "Repo: AI papers digest 2026-10-26",
+          "url": "https://github.com/ayberkozz/aoz-data/blob/main/ai-papers/papers-2026-10-26.json"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "technology": "Knowledge-conflict handling and poisoning defenses in RAG",
+      "stage": "emerging",
+      "why_now": "Papers on conflict typing, poisoning, citation checking and decomposed retrieval appeared across consecutive days in the repo.",
+      "could_enable": "RAG that tells users when its sources disagree or look tampered with, instead of answering confidently.",
+      "signals": [
+        {
+          "title": "Repo: AI papers digest 2026-10-29",
+          "url": "https://github.com/ayberkozz/aoz-data/blob/main/ai-papers/papers-2026-10-29.json"
+        },
+        {
+          "title": "arXiv: Knowledge-Conflict Typing in RAG",
+          "url": "https://arxiv.org/abs/2610.36915"
+        },
+        {
+          "title": "Repo: AI papers digest 2026-10-27",
+          "url": "https://github.com/ayberkozz/aoz-data/blob/main/ai-papers/papers-2026-10-27.json"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "technology": "Compiling programs into transformer weights",
+      "stage": "emerging",
+      "why_now": "Qwenputer, per its HN summary, runs a deterministic RISC-V CPU inside a pretrained model's layers without training (561+ pts).",
+      "could_enable": "Models that execute exact computation internally instead of calling external tools; interpretability research. Practical use is unproven.",
+      "signals": [
+        {
+          "title": "Repo: HN digest 2026-10-30",
+          "url": "https://github.com/ayberkozz/aoz-data/blob/main/hn-digests/hn-digest-2026-10-30.json"
+        },
+        {
+          "title": "HN: Qwenputer",
+          "url": "https://news.ycombinator.com/item?id=50282838"
+        }
+      ],
+      "confidence": "low"
+    },
+    {
+      "technology": "Interactive real-time world models",
+      "stage": "emerging",
+      "why_now": "Google DeepMind announced Genie 4 as a research preview for trusted testers (801 pts).",
+      "could_enable": "Generated, steerable simulated environments for agent training and prototyping that today need hand-built engines.",
+      "signals": [
+        {
+          "title": "Repo: HN digest 2026-10-28",
+          "url": "https://github.com/ayberkozz/aoz-data/blob/main/hn-digests/hn-digest-2026-10-28.json"
+        },
+        {
+          "title": "HN: Genie 4",
+          "url": "https://news.ycombinator.com/item?id=50261319"
+        }
+      ],
+      "confidence": "low"
+    }
+  ],
+  "limitations": "Reddit, App Store/Google Play, Chrome Web Store, G2/Capterra, Product Hunt, Google Trends and revenue posts were not checked. Demand evidence is mostly HN digest summaries (written in Turkish, translated by me) plus two web searches whose sources were not all opened. Android verification dates and countries conflict across sources. Point counts come from the repo digests. No willingness-to-pay data was found for any idea."
+}
