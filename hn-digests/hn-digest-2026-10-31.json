@@ -1,0 +1,216 @@
+{
+  "date": "2026-10-31",
+  "timestamp": "2026-10-31T04:57:22Z",
+  "summary_language": "tr",
+  "top_stories": [
+    {
+      "rank": 1,
+      "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
+      "points": 1731,
+      "num_comments": 1222,
+      "summary": "Başlığa göre Binance'ten 5,6 milyar dolarlık varlığın çalındığı bir saldırı blok zinciri analiz sayfasında inceleniyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50296470",
+      "article_url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8"
+    },
+    {
+      "rank": 2,
+      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+      "points": 843,
+      "num_comments": 508,
+      "summary": "Phorion, Cursor Marketplace üzerinden dağıtılan Claude Code VS Code eklentisinin 2.1.312 ve 2.1.313 sürümlerinde macOS, Linux ve Windows'ta kalıcı SSH tüneli ve sistem keşif beacon'ı kuran bir arka kapı bulunduğunu bildiriyor. macOS'taki bir Uzak Giriş denetimi hatası, SSH'nin açık olmadığı makinelerde dışarıdan erişimi engelleyebilir; yine de etkilenen sistemlerin incelenip temizlenmesi öneriliyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50300683",
+      "article_url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/"
+    },
+    {
+      "rank": 3,
+      "title": "Backdoors in official Claude Code extensions",
+      "points": 654,
+      "num_comments": 17,
+      "summary": "Bu gönderi, Anthropic'in resmi Claude Code eklentilerindeki bir arka kapıyı duyuruyor. Sayfa içeriği kısıtlı olduğu için ayrıntılar yalnızca başlıktan çıkarılabiliyor, bu nedenle özet sınırlı.",
+      "hn_url": "https://news.ycombinator.com/item?id=50302334",
+      "article_url": "https://cyberplace.social/@GossiTheDog/117528831681803563"
+    },
+    {
+      "rank": 4,
+      "title": "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech",
+      "points": 630,
+      "num_comments": 483,
+      "summary": "ABD Temsilcileri Greg Casar ve Maxine Waters, yapay zekâ balonunun patlaması halinde büyük teknoloji şirketlerinin vergi mükellefi parasıyla kurtarılmasına karşı bir karar tasarısı sundu. Tasarı işçileri, emeklileri ve düşük gelirli aileleri desteklerken, iflas eden şirketlerin yöneticilerine verilen 'altın paraşütlere' karşı çıkıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50302814",
+      "article_url": "https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead"
+    },
+    {
+      "rank": 5,
+      "title": "elect.horse",
+      "points": 539,
+      "num_comments": 150,
+      "summary": "elect.horse, seçim bölgelerinin belirli bir sonuç lehine çizilmesi olan 'gerrymandering' konusunu işleyen günlük bir bulmaca sitesi. Sayfa içeriği kısa olduğu için işleyişi hakkında daha fazla ayrıntı yok.",
+      "hn_url": "https://news.ycombinator.com/item?id=50301462",
+      "article_url": "https://elect.horse/"
+    },
+    {
+      "rank": 6,
+      "title": "AI isn't replacing SREs, it's deskilling them",
+      "points": 538,
+      "num_comments": 404,
+      "summary": "Makale, yapay zekâ rutin olay müdahalelerini üstlendikçe SRE'lerin yeni ve alışılmadık kesintiler için gereken uygulamalı becerilerini kaybedebileceğini savunuyor. Havacılık ve tıptaki örnekleri ve 1983 tarihli Bainbridge araştırmasını anarak, bazı olayları bilinçli olarak insanlara bırakmayı öneriyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50305693",
+      "article_url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling"
+    },
+    {
+      "rank": 7,
+      "title": "We ran AI agent swarms in Minecraft and Mindustry",
+      "points": 400,
+      "num_comments": 164,
+      "summary": "Y Combinator ve Olam Labs, Minecraft'ta 50 yapay zekâ ajanıyla üç saatlik bir deney yaptı; ajanlar gayriresmî bir hiyerarşi, yiyecek karnesi sistemi ve balıkçılık düzeni kurdu. Ölümlerin çoğu ilk gece yaşandı, sonrasında koloni daha temkinli ve bürokratik hale geldi.",
+      "hn_url": "https://news.ycombinator.com/item?id=50296486",
+      "article_url": "https://labs.ycombinator.com/projects/games/index.html"
+    },
+    {
+      "rank": 8,
+      "title": "Claude Code VS Code extension with backdoor released on Cursor marketplace",
+      "points": 399,
+      "num_comments": 1,
+      "summary": "Başlığa göre Claude Code VS Code eklentisinin arka kapılı bir sürümü Cursor mağazasında yayımlandı ve Claude geliştiricilerinin dizüstü bilgisayarlarına uzaktan erişim truva atı bulaştırdı. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50301983",
+      "article_url": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2"
+    },
+    {
+      "rank": 9,
+      "title": "Northflank Breached",
+      "points": 394,
+      "num_comments": 292,
+      "summary": "Northflank, platformda saklanan yapay zekâ API anahtarlarının yetkisiz kullanıldığı bildirilen büyük çaplı bir güvenlik olayını inceliyor. Şirket tüm ortam değişkenlerinin ele geçirildiğini varsaymayı, tüm sırların yenilenmesini ve yapay zekâ sağlayıcı kullanımının kontrol edilmesini öneriyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50305025",
+      "article_url": "https://status.northflank.com"
+    },
+    {
+      "rank": 10,
+      "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
+      "points": 381,
+      "num_comments": 262,
+      "summary": "Başlığa göre 6,3 milyar dolarlık Binance saldırısı yalnızca 20 dakika içinde gerçekleştirildi ve Wired olayın nasıl yürütüldüğünü anlatıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50303172",
+      "article_url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/"
+    }
+  ],
+  "health_stories": [
+    {
+      "rank": 1,
+      "title": "Medicare Will Pay $50k for Your Heart Attack. It Should Pay $100 to Prevent It",
+      "points": 286,
+      "num_comments": 269,
+      "summary": "Başlığa göre yazı, Medicare'in kalp krizi tedavisi için 50 bin dolar öderken önleme için çok daha az ödemesini eleştiriyor ve önleyici bakımın daha iyi finanse edilmesini savunuyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50304419",
+      "article_url": "https://www.medpagetoday.com/opinion/second-opinions/123553?trw=no"
+    },
+    {
+      "rank": 2,
+      "title": "I didn't know I was lacking in Vitamin D until I collapsed at work",
+      "points": 79,
+      "num_comments": 92,
+      "summary": "Başlığa göre bir kişi D vitamini eksikliğinin farkında olmadan iş yerinde bayıldı ve eksikliğini bu olay sonrasında öğrendi. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50305436",
+      "article_url": "https://www.bbc.com/news/articles/cm78pxxe55v0o"
+    },
+    {
+      "rank": 3,
+      "title": "Should a medical diagnosis reshape the past? (2025)",
+      "points": 63,
+      "num_comments": 14,
+      "summary": "Yazar, demansı olan annesine bakarken annesinin geçmişteki soğukluğunun hastalıktan mı yoksa karakterinden mi kaynaklandığını sorguluyor. Babası her şeyi hastalıkla açıklasa da yazar, çocukken göremediği ilgiye duyduğu öfkeyi kabul etmeye varıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50296920",
+      "article_url": "https://chengela.substack.com/p/should-a-medical-diagnosis-reshape"
+    },
+    {
+      "rank": 4,
+      "title": "5-MeO-DMT sometimes cancels the Ebbinghaus illusion",
+      "points": 38,
+      "num_comments": 50,
+      "summary": "Yazar, kısa etkili psikedelik 5-MeO-DMT'nin etkisindeyken dikkatini görüntünün merkezine kaydırarak Ebbinghaus yanılsamasını neredeyse tamamen ortadan kaldırdığını, bazı katılımcıların da yanılsamanın zayıfladığını bildiriyor. Daha yüksek dozlu sonraki deneyimde etki görülmediği için daha büyük çalışmalar gerektiğini belirtiyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50303488",
+      "article_url": "https://psychotechnology.substack.com/p/5-meo-dmt-sometimes-cancels-the-ebbinghaus"
+    },
+    {
+      "rank": 5,
+      "title": "$300k for a personalized cancer vaccine",
+      "points": 20,
+      "num_comments": 6,
+      "summary": "PopVax'ın RNA Foundry birimi, Hindistan'ın Hyderabad kentinde kişiselleştirilmiş mRNA kanser aşıları için sözleşmeli Ar-Ge ve GMP üretimi sunuyor. Projeler tipik olarak yaklaşık 300 bin dolara mal oluyor ve 8-10 hafta sürüyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50305309",
+      "article_url": "https://rnafoundry.com"
+    },
+    {
+      "rank": 6,
+      "title": "Cold Triggers a Hidden Molecular Pathway That Extends Lifespan",
+      "points": 16,
+      "num_comments": 2,
+      "summary": "Nature'da yayımlanan bir çalışma, hafif soğuğun solucanlarda kas dokusunun BH2 adlı bir metabolit üretmesini tetiklediğini ve bunun diğer dokularda protein sağlığını koruduğunu buldu. Bu yolun güçlendirilmesi solucanlarda ömrü uzattı; ancak bulgular şimdilik yalnızca solucan ve hücre deneylerine dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50309294",
+      "article_url": "https://www.sciencealert.com/cold-triggers-a-hidden-molecular-pathway-that-extends-lifespan-study-finds"
+    },
+    {
+      "rank": 7,
+      "title": "Six popular sugar substitutes linked to faster brain aging",
+      "points": 8,
+      "num_comments": 6,
+      "summary": "Neurology dergisinde yayımlanan, yaklaşık 13 bin Brezilyalı yetişkini kapsayan bir çalışma, yüksek yapay tatlandırıcı tüketimini daha hızlı bellek ve düşünme gerilemesiyle ilişkilendirdi. Çalışma yalnızca bir ilişkiyi gösteriyor, nedensellik kanıtlamıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50298799",
+      "article_url": "https://www.sciencedaily.com/releases/2026/10/261028234238.htm"
+    },
+    {
+      "rank": 8,
+      "title": "34% of U.S. women under age 50 have iron deficiency under new guidelines",
+      "points": 8,
+      "num_comments": 2,
+      "summary": "2026 Amerikan Hematoloji Derneği kılavuzları demir eksikliği için ferritin eşiğini çoğu yetişkin için 30 ng/mL'ye yükseltiyor. Bu değişiklikle 19-49 yaş arası ABD'li kadınlarda tahmini demir eksikliği oranı %14'ten %34'e çıkıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50298677",
+      "article_url": "https://www.empirical.health/blog/ferritin-thresholds-iron-deficiency/"
+    },
+    {
+      "rank": 9,
+      "title": "New federal rule will require prescription drug middlemen to share payment data",
+      "points": 6,
+      "num_comments": 3,
+      "summary": "ABD yönetimi, eczane yardım yöneticilerinin (PBM) ilaç üreticilerinden aldıkları tüm ücret ve ödemeleri işverenlere açıklamasını zorunlu kılan bir kuralı kesinleştirdi; kural 1 Temmuz 2027'de başlıyor. Yetkililer kuralın yıllık 800 milyon doları aşan tasarruf sağlayacağını tahmin ediyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50298900",
+      "article_url": "https://www.statnews.com/2026/10/29/prescription-drug-price-reform-pbm-disclosure-rules-face-challenge/"
+    },
+    {
+      "rank": 10,
+      "title": "40-year mystery solved: Common gut virus infects bacteria, not human cells",
+      "points": 5,
+      "num_comments": 0,
+      "summary": "Washington Üniversitesi araştırmacıları, uzun süredir insan dokusunu enfekte ettiği sanılan yaygın bağırsak virüsü picobirnavirüslerin aslında bağırsak bakterilerini enfekte ettiğini buldu. Nature Microbiology'de yayımlanan keşif, bakterilere saldıran yalnızca üçüncü RNA virüs grubunu ortaya koyuyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50300687",
+      "article_url": "https://medicine.washu.edu/news/40-year-mystery-solved-common-gut-virus-infects-bacteria-not-human-cells/"
+    },
+    {
+      "rank": 11,
+      "title": "Agents repurposed anti-itch drugs to neutralize the Bundibugyo ebolavirus",
+      "points": 5,
+      "num_comments": 2,
+      "summary": "muni ve onepot, insanların ve yapay zekâ ajanlarının tasarladığı 140 molekülü 11 laboratuvar gününde sentezleyip Bundibugyo ebolavirüsüne karşı hücre deneylerinde test etti. %18,6 isabet oranı bildirildi; kaşıntı ilacı bamipin ve öksürük ilacı benproperin gibi yeniden kullanılan ilaçlar öne çıktı.",
+      "hn_url": "https://news.ycombinator.com/item?id=50309377",
+      "article_url": "https://muni.bio/research/hits-from-ebolathon"
+    },
+    {
+      "rank": 12,
+      "title": "GLP-1 Weight-Loss Drugs Will Be Covered for Fewer US Employees",
+      "points": 5,
+      "num_comments": 5,
+      "summary": "Başlığa göre sağlık sigortası kapsamında GLP-1 kilo verme ilaçlarından yararlanabilecek ABD'li çalışanların sayısı azalacak. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50309075",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-30/glp-1-weight-loss-drugs-will-be-covered-for-fewer-us-employees"
+    },
+    {
+      "rank": 13,
+      "title": "Babies Are Catching Measles in Utero for the First Time in Decades",
+      "points": 5,
+      "num_comments": 0,
+      "summary": "Başlığa göre bebekler onlarca yıl sonra ilk kez anne karnındayken kızamığa yakalanıyor; Atlantic bu doğuştan kızamık vakalarını ele alıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50302503",
+      "article_url": "https://www.theatlantic.com/health/2026/10/congenital-measles-birth-pennsylvania/689214/"
+    }
+  ]
+}
