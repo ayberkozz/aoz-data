@@ -187,7 +187,7 @@
     {
       "technology": "Compiling programs into transformer weights",
       "stage": "emerging",
-      "why_now": "Qwenputer, per its HN summary, runs a deterministic RISC-V CPU inside a pretrained model's layers without training (561+ pts).",
+      "why_now": "Qwenputer, per its HN summary, runs a deterministic RISC-V CPU inside a pretrained model's layers without training (681 pts).",
       "could_enable": "Models that execute exact computation internally instead of calling external tools; interpretability research. Practical use is unproven.",
       "signals": [
         {
