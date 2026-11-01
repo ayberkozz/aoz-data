@@ -1,0 +1,225 @@
+{
+  "date": "2026-11-01",
+  "timestamp": "2026-11-01T04:57:35Z",
+  "summary_language": "tr",
+  "top_stories": [
+    {
+      "rank": 1,
+      "title": "HackerTube: YouTube built from videos recommended by HN",
+      "points": 941,
+      "num_comments": 294,
+      "summary": "Andrej Karpathy, YouTube'un önerilerinden sıkıldıktan sonra HackerTube adlı YouTube benzeri bir site geliştirdi. Yaklaşık 40.000 Hacker News yorumunu süzerek 150 konuda yaklaşık 6.454 video önerisi çıkardı. Site hesap gerektirmiyor, klavye kısayolları sunuyor ve yaklaşık iki saatte yayına alındı.",
+      "hn_url": "https://news.ycombinator.com/item?id=50319510",
+      "article_url": "https://karpathy.bearblog.dev/hacker-tube/"
+    },
+    {
+      "rank": 2,
+      "title": "Serbia just elected the world's brainiest parliament",
+      "points": 841,
+      "num_comments": 479,
+      "summary": "Başlığa göre Sırbistan'daki seçimler, olağanüstü yüksek eğitimli ve bilimsel geçmişi güçlü milletvekillerinden oluşan bir parlamento ortaya çıkardı. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50314654",
+      "article_url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament"
+    },
+    {
+      "rank": 3,
+      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+      "points": 415,
+      "num_comments": 193,
+      "summary": "CVE-2026-98432, Linux'un IPv4 TCP el sıkışmasındaki kritik (CVSS 9.8) bir use-after-free açığı; kimlik doğrulaması olmayan uzak bir saldırgan tetikleyebiliyor ve 4.4 sonrası çekirdekleri etkiliyor. Yukarı akış düzeltmeleri Ekim 2026'da çıktı, ancak 31 Ekim itibarıyla Ubuntu ve RHEL'de düzeltilmiş çekirdek yoktu. Yama gelene kadar IPv4 seçenekli TCP paketlerini engellemek ve gerekmiyorsa multipath TCP'yi kapatmak öneriliyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50319143",
+      "article_url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf"
+    },
+    {
+      "rank": 4,
+      "title": "Tell HN: Scribd Breached",
+      "points": 337,
+      "num_comments": 121,
+      "summary": "Slideshare, Everand ve Fable'ın ana şirketi Scribd, yetkisiz bir tarafın kullanıcıların e-postalarına, kart bilgilerinin bir kısmına ve ödeme geçmişine eriştiği bir güvenlik ihlalini duyurdu. Bildirimler aşamalı gönderiliyor; yorumcular şirketin yavaş ve belirsiz tepkisini eleştiriyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50312756",
+      "article_url": "https://news.ycombinator.com/item?id=50312756"
+    },
+    {
+      "rank": 5,
+      "title": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
+      "points": 316,
+      "num_comments": 184,
+      "summary": "Yazı, Signal'in bir çatalı olan Molly'nin Temmuz 2025'ten beri güncellenmediğini ve ana Signal'in Ekim'de yamaladığı bir arama sesi hatasını içerdiğini belirtiyor. Yazar, Molly yeniden düzenli güncellenene kadar ana Signal'e geçilmesini öneriyor. Yorumlarda Molly'nin F-Droid ve UnifiedPush desteği gibi artıları tartışılıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50314666",
+      "article_url": "https://piefed.world/post/1503394"
+    },
+    {
+      "rank": 6,
+      "title": "Digital minimalism",
+      "points": 314,
+      "num_comments": 231,
+      "summary": "Vitalik Buterin, dijital teknolojiyi varsayılan olarak değil bilinçli kullanmayı savunan 'dijital minimalizm'i anlatıyor. X'in toksikliğinden sıkılınca Firefly adlı çok platformlu istemciyi kullanmaya başladığını ve algoritmik akış olmaması sayesinde kendini çok daha iyi hissettiğini söylüyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50313661",
+      "article_url": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html"
+    },
+    {
+      "rank": 7,
+      "title": "Do the math: How we took over ChatGPT accounts",
+      "points": 312,
+      "num_comments": 155,
+      "summary": "Bir araştırma ekibi, paylaşılan bir ChatGPT bağlantısını açan kurbanın oturumunda chatgpt.com olarak JavaScript çalıştırmaya izin veren bir zafiyet zinciri buldu. Bu açık özel konuşmaların okunmasına ve hesap işlemlerine imkân veriyordu; OpenAI 26 Ekim'de P1 olarak sınıflandırıp düzeltti.",
+      "hn_url": "https://news.ycombinator.com/item?id=50314699",
+      "article_url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai"
+    },
+    {
+      "rank": 8,
+      "title": "Anthropic blocks users for anything touching training larger models",
+      "points": 271,
+      "num_comments": 145,
+      "summary": "Başlığa göre Anthropic, daha büyük modellerin eğitimine dokunan her türlü kullanımı yapan kullanıcıları engelliyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50319358",
+      "article_url": "https://twitter.com/jiahaoshao1/status/2116475922190922088"
+    },
+    {
+      "rank": 9,
+      "title": "Malware uses LLMs to rank victims by how much they're worth",
+      "points": 238,
+      "num_comments": 130,
+      "summary": "Cisco Talos, çalınan kimlik bilgilerini, oturumları ve cüzdan verilerini bir LLM'ye göndererek kurbanın varlıklarını para kazandırma değerine göre sıralayan, kendini silen VOLTA-AUTODOXER adlı Windows bilgi hırsızını inceliyor. Kötü amaçlı yazılım çalınan oturumlarla ek bilgi topluyor ve özelleştirilebilir bir hizmet olarak satılıyor gibi görünüyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50316531",
+      "article_url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/"
+    },
+    {
+      "rank": 10,
+      "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
+      "points": 236,
+      "num_comments": 74,
+      "summary": "TNG Episodle, görsel ipuçlarından Star Trek: The Next Generation bölümünü tahmin etmeyi amaçlayan günlük bir oyun; altı hakkı ve her tahminde sezon geri bildirimi var. Sayfa günlük sınıra ulaşıldığını söylüyor ve tahminlerin yerel depolamada tutulduğunu belirtiyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50311686",
+      "article_url": "https://tng.episodle.com/"
+    }
+  ],
+  "health_stories": [
+    {
+      "rank": 1,
+      "title": "Neuroscientists reveal method to train people to have lucid dreams",
+      "points": 27,
+      "num_comments": 12,
+      "summary": "Başlığa göre sanal gerçeklik ve meditasyon içeren bir yöntem, insanlara lucid rüya görmeyi öğretmeye yardımcı olabilir. Küçük bir çalışmaya göre yaklaşık bir aylık sanal gerçeklik eğitimi bu konuda faydalı olabiliyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50314611",
+      "article_url": "https://www.livescience.com/health/neuroscience/neuroscientists-reveal-method-to-train-people-to-have-lucid-dreams-and-it-involves-virtual-reality-and-mediation"
+    },
+    {
+      "rank": 2,
+      "title": "A drop in US births due to smartphone use? These researchers say so",
+      "points": 13,
+      "num_comments": 7,
+      "summary": "Başlığa göre araştırmacılar, ABD'deki doğum sayısındaki düşüşün akıllı telefon kullanımıyla ilişkili olabileceğini öne sürüyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50314345",
+      "article_url": "https://www.detroitnews.com/story/tech/2026/06/13/birth-rates-decline-smartphones-iphone-study/90537400007/"
+    },
+    {
+      "rank": 3,
+      "title": "2.5 hrs of makeup: Japan teen struggles with social media beauty standards",
+      "points": 11,
+      "num_comments": 6,
+      "summary": "Başlığa göre Japonya'da bir genç, sosyal medyadaki güzellik standartlarıyla başa çıkmakta zorlanıyor ve makyaj için 2,5 saat harcıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50319053",
+      "article_url": "https://mainichi.jp/english/articles/20261029/p2a/00m/0na/004000c"
+    },
+    {
+      "rank": 4,
+      "title": "First patient undergoes pioneering stem-cell treatment for Parkinson's",
+      "points": 11,
+      "num_comments": 1,
+      "summary": "Sumitomo Pharma, iPS hücre tabanlı Parkinson tedavisinin ilk hastaya uygulandığını duyurdu; dopamin üreten öncü hücreler beyne nakledildi. Ameliyat Ekim'de Kyoto Üniversitesi Hastanesi'nde yapıldı. Önceki yedi hastalık denemede iki yılda ciddi yan etki görülmedi ve dört hastada belirtiler iyileşti.",
+      "hn_url": "https://news.ycombinator.com/item?id=50314645",
+      "article_url": "https://medicalxpress.com/news/2026-10-patient-stem-cell-treatment-parkinson.html"
+    },
+    {
+      "rank": 5,
+      "title": "Why Do I Sometimes Hate Myself",
+      "points": 10,
+      "num_comments": 2,
+      "summary": "Yazar, topluluğun öğren, yaz, konuş yönündeki sürekli beklentilerini karşılayamayan bir '9-17 geliştirici' olarak bazen kendinden nefret ettiğini anlatıyor. Üretken olmayan boş zamanı hayatın normal bir parçası olarak kabul etmenin, kendini eleştirmekten daha sağlıklı olduğunu savunuyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50313976",
+      "article_url": "https://tomaszdziurko.substack.com/p/why-do-i-sometimes-hate-myself"
+    },
+    {
+      "rank": 6,
+      "title": "Ejaculation frequency and prostate cancer (2022)",
+      "points": 8,
+      "num_comments": 4,
+      "summary": "Harvard Health'in 2022 tarihli yazısına göre ayda 21 veya daha fazla boşalan erkeklerde prostat kanseri riski, ayda 4-7 kez boşalanlara göre yaklaşık %31 daha düşük. Avustralya'da 2.338 erkekle yapılan benzer bir çalışma da özellikle genç yetişkinlikte koruyucu bir ilişki buldu. Makale bulguları kesin bir cevap değil, araştırmalar için bir başlangıç olarak sunuyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50317651",
+      "article_url": "https://www.health.harvard.edu/mens-health/ejaculation_frequency_and_prostate_cancer"
+    },
+    {
+      "rank": 7,
+      "title": "A Chemical Hunger (2021)",
+      "points": 8,
+      "num_comments": 1,
+      "summary": "'A Chemical Hunger' serisinin ilk yazısı obezite hakkındaki açıklanamayan bulmacaları sıralıyor: oranlar onlarca yıl sabitken 1980 civarında hızla yükseldi ve laboratuvar ile vahşi hayvanlarda da artıyor. Yazı ayrıca diyetlerin yalnızca sınırlı ve geçici kilo kaybı sağladığına dikkat çekiyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50319876",
+      "article_url": "https://slimemoldtimemold.com/2021/07/07/a-chemical-hunger-part-i-mysteries/"
+    },
+    {
+      "rank": 8,
+      "title": "The lithium hypothesis of obesity [video]",
+      "points": 6,
+      "num_comments": 1,
+      "summary": "Başlığa göre bu video, obezitenin nedenlerinden biri olarak lityum hipotezini tartışıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50319662",
+      "article_url": "https://www.youtube.com/watch?v=t5NklTNoKDI"
+    },
+    {
+      "rank": 9,
+      "title": "Alzheimer's disease may begin in the nose and may be caused by aluminosilicates (1986)",
+      "points": 6,
+      "num_comments": 3,
+      "summary": "Başlığa göre 1986 tarihli bu çalışma, Alzheimer hastalığının burunda başlayabileceğini ve alüminosilikatlardan kaynaklanabileceğini öne sürüyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50318562",
+      "article_url": "https://www.sciencedirect.com/science/article/abs/pii/0197458086901193?via%3Dihub"
+    },
+    {
+      "rank": 10,
+      "title": "Cold showers benefit the environment and your health",
+      "points": 5,
+      "num_comments": 1,
+      "summary": "Başlığa göre Basel Üniversitesi'nden bir haber, soğuk duşların hem çevreye hem de sağlığa fayda sağladığını belirtiyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50313615",
+      "article_url": "https://www.unibas.ch/en/News-Events/News/Uni-Research/cold-showers-health-environment.html"
+    },
+    {
+      "rank": 11,
+      "title": "The Mystery of Ben-Gay (2006)",
+      "points": 5,
+      "num_comments": 0,
+      "summary": "2006 tarihli bu yazıya göre Edinburgh Üniversitesi'nde yapılan bir çalışma, özellikle icilin gibi serinletici bileşiklerin sıçanlarda TRPM8 soğuk reseptörünü etkinleştirerek sinir kaynaklı ağrıyı azalttığını buldu. Araştırmacılar insanlarda topikal icilin denemeleri planlıyor, ancak bulguların ön aşamada olduğunu belirtiyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50318405",
+      "article_url": "https://www.technologyreview.com/2006/08/22/273714/the-mystery-of-bengay/"
+    },
+    {
+      "rank": 12,
+      "title": "Doctors in Ukraine Try Treating Infections Like Biological Warfare Attacks",
+      "points": 4,
+      "num_comments": 0,
+      "summary": "Başlığa göre Ukrayna'daki doktorlar enfeksiyonları biyolojik savaş saldırılarıymış gibi tedavi etmeyi deniyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50318088",
+      "article_url": "https://www.nytimes.com/2026/10/31/science/ukraine-soldiers-infection-treatment.html"
+    },
+    {
+      "rank": 13,
+      "title": "Can you reverse coronary plaque?",
+      "points": 3,
+      "num_comments": 1,
+      "summary": "2026'daki FLOWPROMOTE denemesi, yoğun kolesterol düşürmenin yeni teşhis edilmiş kalp hastalığı olan 104 hastada koroner plak hacmini küçülttüğünü gösterdi. Rosuvastatin ve ezetimib alan grupta LDL 43 mg/dL'ye indi ve plak %21 azaldı; atorvastatin grubunda bu oran %14 oldu. Kalsiyumlu plak ise her iki grupta artmaya devam etti.",
+      "hn_url": "https://news.ycombinator.com/item?id=50316946",
+      "article_url": "https://www.empirical.health/blog/can-you-reverse-coronary-plaque/"
+    },
+    {
+      "rank": 14,
+      "title": "The Parents Who Are Letting Their Kids Drink",
+      "points": 3,
+      "num_comments": 1,
+      "summary": "Başlığa göre ebeveynler, çocuklarının alkol almasına karşı daha esnek bir yaklaşım benimsiyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50318080",
+      "article_url": "https://www.wsj.com/lifestyle/relationships/the-parents-taking-a-more-lenient-approach-to-teen-drinking-1b77dd93"
+    }
+  ]
+}
