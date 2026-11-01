@@ -1,0 +1,113 @@
+{
+  "date": "2026-11-01",
+  "timestamp": "2026-11-01T23:30:00Z",
+  "summary": "Demand evidence this week is thinner than usual because Reddit, G2/Capterra, Google Trends and Indie Hackers could not be opened, so only two solo ideas and one startup idea passed the evidence bar. The strongest pattern is health self-tracking: a high-engagement Hacker News thread about abandoned illness-tracking systems lines up with recent 1-star reviews of the leading symptom apps (paywalls, trial billing, lost data). Future signals cluster around small specialist models beating frontier LLMs on narrow medical tasks, agents buying their own web and tool access, and independent-critic verification for agents.",
+  "solo": [
+    {
+      "title": "One-time-purchase voice-first symptom journal with doctor-ready export",
+      "problem": "People with ongoing symptoms quit trackers because logging is effortful, and the leading apps push subscriptions, paywall past entries or lose data.",
+      "evidence": [
+        { "title": "Ask HN: I've quit six systems for tracking my illness (HN thread, Aug 2026)", "url": "https://news.ycombinator.com/item?id=49313346" },
+        { "title": "Bearable App Store reviews feed (8 one-star in latest 50: paywalled history, data loss, one-way Apple Health sync)", "url": "https://itunes.apple.com/us/rss/customerreviews/id=1482581097/sortby=mostrecent/json" },
+        { "title": "Juno App Store reviews feed (17 one-star and 1 two-star in latest 50, mostly trial billing, cancellation, paywalls)", "url": "https://itunes.apple.com/us/rss/customerreviews/id=6749455368/sortby=mostrecent/json" },
+        { "title": "App Store search: chronic illness symptom tracker (Bearable 6,595 ratings, Juno 10,674 ratings, both free with subscriptions)", "url": "https://itunes.apple.com/search?term=chronic+illness+symptom+tracker&entity=software&country=us&limit=12" }
+      ],
+      "competitors": "Bearable, Juno, Visible, Guava, Human Health. Source says: recent 1-star reviews cite paywalled past entries, charges after trial, lost custom symptoms and one-way Apple Health sync. Inference: the market is crowded and well rated overall, so the opening is pricing model and capture friction, not a missing category. A one-time-purchase competitor (SymptomLog) appeared in search results but was not opened.",
+      "first_version": "SwiftUI app with one-tap custom symptom buttons, a hold-to-talk voice note parsed on-device into symptom and severity, Apple Health read and write, local-first storage with plain export (CSV/PDF), and a one-page summary for a doctor visit.",
+      "effort": "3-4 weeks for a first TestFlight version",
+      "monetization": "One-time unlock or low lifetime price with free core logging; optional paid export/report pack. Revenue amounts for this niche were not verified.",
+      "risks": "Crowded category with strong incumbents; health-data privacy and App Store health-claim rules; voice parsing accuracy; users who want trigger analysis may still expect a subscription-grade insights engine.",
+      "score": 6,
+      "score_reason": "Real demand plus fresh, specific complaints about incumbents, but a crowded category and no verified revenue figure.",
+      "confidence": "medium"
+    },
+    {
+      "title": "On-device dictation keyboard for iPhone, paid once",
+      "problem": "Users who want private, offline dictation find that popular tools are cloud-based, Mac-only or subscription-priced, and the iPhone keyboard experience is unreliable.",
+      "evidence": [
+        { "title": "HN: Anyone using a Wispr Flow alternative that is non-cloud? (Sep 2026)", "url": "https://news.ycombinator.com/item?id=49809670" },
+        { "title": "Willow dictation keyboard App Store reviews feed (12 of 50 are 1-2 star: bugs, per-app setup, weekly word limit)", "url": "https://itunes.apple.com/us/rss/customerreviews/id=6753057525/sortby=mostrecent/json" },
+        { "title": "App Store search: on-device dictation keyboard (Wispr Flow 18,580 ratings; on-device entrants have 0-3 ratings)", "url": "https://itunes.apple.com/search?term=on-device+dictation+keyboard+whisper&entity=software&country=us&limit=15" }
+      ],
+      "competitors": "Wispr Flow (cloud, subscription), Willow, Superwhisper (optional local models), VoiceInk and others (Mac-focused, per HN commenters; one HN commenter quotes $25 per device). Weak spot per sources: iPhone keyboard reliability and per-app setup; on-device iPhone entrants are new with almost no ratings.",
+      "first_version": "iOS custom keyboard plus host app using an on-device speech model, push-to-talk, custom dictionary and basic punctuation commands, no account, no network permission.",
+      "effort": "3-4 weeks, longer if keyboard-extension memory limits force a smaller model",
+      "monetization": "One-time purchase or lifetime license; HN commenters mention $25 one-time pricing for a Mac competitor. One third-party write-up of a dictation app reporting about $11k MRR was seen only in search results and is unverified.",
+      "risks": "Keyboard extensions have tight memory limits (my inference, not checked this run); Apple or Wispr could ship offline modes; crowded space with many Mac incumbents.",
+      "score": 5,
+      "score_reason": "Clear complaints and an iOS-native angle, but demand evidence is a single modest HN thread and platform limits are unverified.",
+      "confidence": "low"
+    }
+  ],
+  "startup": [
+    {
+      "title": "Between-visit symptom capture that becomes a clinician-ready brief",
+      "problem": "Patients cannot sustain symptom logging and clinicians receive anecdotes instead of structured trends, so a capture-to-summary workflow that both sides trust is missing.",
+      "evidence": [
+        { "title": "Ask HN: I've quit six systems for tracking my illness (HN thread)", "url": "https://news.ycombinator.com/item?id=49313346" },
+        { "title": "Juno App Store reviews feed (billing, paywall and accuracy complaints, e.g. blood pressure recorded wrongly)", "url": "https://itunes.apple.com/us/rss/customerreviews/id=6749455368/sortby=mostrecent/json" },
+        { "title": "Bearable App Store reviews feed (data loss, paywalled history)", "url": "https://itunes.apple.com/us/rss/customerreviews/id=1482581097/sortby=mostrecent/json" }
+      ],
+      "competitors": "Consumer trackers (Bearable, Juno, Visible) target patients, not clinics. Sources show consumer reliability and trust complaints; whether clinics pay for patient-generated summaries was not verified this run.",
+      "first_version": "Patient app with low-friction capture (voice and one-tap, passive wearable data) feeding a structured pre-visit summary for one specialty clinic, with clinician review before anything enters a record.",
+      "effort": "Small team (mobile, backend, clinical advisor) for 4-6 months to pilot with one clinic; privacy and regulatory review needed.",
+      "monetization": "Per-clinic or per-patient B2B subscription; no pricing evidence gathered.",
+      "risks": "Clinical and regulatory burden, EHR integration, unproven willingness of clinics to pay, overlap with existing remote-monitoring vendors that were not researched. May reuse existing wearable-ingestion or retrieval work if the team has it; this was not verified from the repo.",
+      "score": 5,
+      "score_reason": "Genuine pain on the patient side, but the buyer side is unverified.",
+      "confidence": "low"
+    }
+  ],
+  "future_signals": [
+    {
+      "technology": "Small specialist models beating frontier LLMs on narrow medical tasks",
+      "stage": "rising",
+      "why_now": "A dermatologist's test found a fine-tuned 2015-era CNN got 62% first-choice accuracy on 200 biopsy-proven lesions versus 42% for two frontier LLMs; the author notes small sample size and a trade-off in discharge rates.",
+      "could_enable": "Inference: clinical products where an LLM orchestrates and explains while a cheap, auditable specialist model makes the narrow call, running locally on a phone or clinic machine.",
+      "signals": [
+        { "title": "HN digest 2026-10-26 (CNN vs frontier LLMs for skin cancer)", "url": "https://github.com/ayberkozz/aoz-data/blob/main/hn-digests/hn-digest-2026-10-26.json" },
+        { "title": "Lynch Lab: LLMs vs CNN for skin cancer (source article)", "url": "https://lynchlab.net/llm-skin-cancer" },
+        { "title": "HN discussion", "url": "https://news.ycombinator.com/item?id=50233779" }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "technology": "Agent-native paid web and tool access",
+      "stage": "emerging",
+      "why_now": "DeepSeek prices search and page-fetch APIs at $0.75 per 1,000 successful requests, and a pay-per-call wallet for agents ranked in the Product Hunt top 10 the week of Oct 19.",
+      "could_enable": "Inference: agents that browse and call paid tools with a hard budget and no per-vendor accounts, plus a market for cost controls and audit of that spend.",
+      "signals": [
+        { "title": "HN digest 2026-10-19 (DeepSeek search and fetch pricing)", "url": "https://github.com/ayberkozz/aoz-data/blob/main/hn-digests/hn-digest-2026-10-19.json" },
+        { "title": "DeepSeek Search/Fetch API docs", "url": "https://api-docs.deepseek.com/guides/search/" },
+        { "title": "Product Hunt weekly leaderboard (Composio Instant listed)", "url": "https://www.producthunt.com/leaderboard/weekly/2026/43" }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "technology": "Independent critic review and multi-prompt judging for agents",
+      "stage": "rising",
+      "why_now": "One paper reports independent critic review gave the best accuracy-per-cost among verification layers (+5.9-9.5 points on Terminal-Bench); another shows LLM-judge verdicts shift under mere paraphrase, with aggregation across prompt variants helping.",
+      "could_enable": "Inference: drop-in verification and evaluation services for agent pipelines, and more trustworthy automated evals for domain products.",
+      "signals": [
+        { "title": "AI papers 2026-10-27 (Rethinking Verification in Agent Harnesses)", "url": "https://github.com/ayberkozz/aoz-data/blob/main/ai-papers/papers-2026-10-27.json" },
+        { "title": "AI papers 2026-10-31 (Prompt Lottery in LLM-as-a-Judge)", "url": "https://github.com/ayberkozz/aoz-data/blob/main/ai-papers/papers-2026-10-31.json" },
+        { "title": "arXiv 2610.34577", "url": "https://arxiv.org/abs/2610.34577" },
+        { "title": "arXiv 2610.38076", "url": "https://arxiv.org/abs/2610.38076" }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "technology": "Proactive agents with longitudinal event memory",
+      "stage": "emerging",
+      "why_now": "ProactMem organizes history into events, trajectories and verified regularities and reports 52.6% F1 on a new benchmark, a 21.4% relative gain over the strongest of five baselines; a proactive-agent product also appeared on Product Hunt's weekly top 10.",
+      "could_enable": "Inference: assistants that notice patterns in streams (wearable or app events) and speak up unprompted, which needs memory that is checked against source events.",
+      "signals": [
+        { "title": "AI papers 2026-10-30 (Proactive Memory for Event-Driven LLM Agents)", "url": "https://github.com/ayberkozz/aoz-data/blob/main/ai-papers/papers-2026-10-30.json" },
+        { "title": "arXiv 2610.36967", "url": "https://arxiv.org/abs/2610.36967" },
+        { "title": "Product Hunt weekly leaderboard (Claude Duet listed)", "url": "https://www.producthunt.com/leaderboard/weekly/2026/43" }
+      ],
+      "confidence": "low"
+    }
+  ],
+  "limitations": "Checked: Reddit (0 posts), HN Algolia (10), App Store API (about 60 apps across 7 searches, 4 review feeds), Google Play (1 search, 8 apps), Chrome Web Store (1 search, 10 extensions), G2/Capterra (0), Product Hunt (1 leaderboard, 1 search), Google Trends (blocked), Indie Hackers (0), RevenueCat (second-hand only).\nReddit: fetches of old.reddit.com and www.reddit.com were refused by the tool, and site: searches returned no usable r/ posts, so no Reddit demand evidence was gathered. G2/Capterra: site: searches returned no G2 or Capterra pages. Google Trends: fetch returned HTTP 429, no second-hand quote found. Indie Hackers: keet page returned 403 and site: searches returned no posts with revenue; revenue figures seen only in search snippets were not used as evidence. RevenueCat: only search-result snippets (2025/2026 report summaries), the report itself was not opened. Google Play: install counts are not shown on the search page; no listing pages were opened. Chrome Web Store: search page showed no user counts or dates. Stale-repo GitHub search for symptom trackers returned only unrelated or low-star projects. Several App Store and HN fetches were truncated after the first 100k characters. A Needle on-device model page now describes a newer version than the HN title, so it was not used. No revenue figure for the symptom-tracker or iOS-dictation niches was verified. Domain-expiry monitoring was researched and dropped as saturated; Local Wikipedia-style apps were researched and dropped because a well-reviewed incumbent exists and no commenter asked for an app."
+}
