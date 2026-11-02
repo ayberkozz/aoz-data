@@ -1,0 +1,189 @@
+{
+  "date": "2026-11-02",
+  "timestamp": "2026-11-02T04:56:30Z",
+  "summary_language": "tr",
+  "top_stories": [
+    {
+      "rank": 1,
+      "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+      "points": 1107,
+      "num_comments": 201,
+      "summary": "HackerBooks, Hacker News yorumlarında bahsedilen kitapları Open Library verileriyle listeleyen bağımsız bir site. Ziyaretçiler kitapları tüm zamanların en iyileri, en çok önerilenler ve yükselenler gibi sıralamalarla gezebiliyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50326821",
+      "article_url": "https://hackerbooks.org"
+    },
+    {
+      "rank": 2,
+      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+      "points": 787,
+      "num_comments": 203,
+      "summary": "İtalya'da Parma yakınlarındaki çiftçi Claudio Grossi, tavan arasında bulduğu bilinmeyen tohumları ekti ve yedi başaklı, çok dayanıklı bir buğday elde etti. Poulard buğdayı olarak tanımlanan bu tür gübre ve herbisit gerektirmiyor, kuraklığa dayanıyor ve modern buğdaydan daha fazla demir ve fosfor içeriyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50320963",
+      "article_url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/"
+    },
+    {
+      "rank": 3,
+      "title": "Restrooms along the Norwegian Scenic Routes",
+      "points": 680,
+      "num_comments": 399,
+      "summary": "Visit Norway sayfası, Norveç Milli Turist Yolları boyunca mimarlar tarafından tasarlanan ve manzaraya uyum sağlayan halka açık tuvaletleri tanıtıyor. Dalga biçimli, yosunla kamufle edilmiş ve güneş enerjili örnekler öne çıkıyor; ziyaretçilerden tesisleri temiz tutmaları isteniyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50324388",
+      "article_url": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/"
+    },
+    {
+      "rank": 4,
+      "title": "Police chief unplugs cameras after Flock ignores contract cancellation",
+      "points": 434,
+      "num_comments": 148,
+      "summary": "Plymouth kenti, bir Flock kamerasının yanlışlıkla bir kişiyi işaretleyip polis kontrolüne yol açmasının ardından Flock ile sözleşmesini iptal etti. Flock iptali dikkate almayıp ekipmanı kaldırmayınca polis şefi plaka okuyan kameraları fişten çekti.",
+      "hn_url": "https://news.ycombinator.com/item?id=50326118",
+      "article_url": "https://www.thedrive.com/news/my-city-canceled-flocks-contract-flock-ignored-it-so-the-police-chief-unplugged-the-cameras"
+    },
+    {
+      "rank": 5,
+      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+      "points": 434,
+      "num_comments": 209,
+      "summary": "Memdoor'un 'team-solve' iş akışı, dosyalar üzerinden çalışan beş küçük model rolüyle LiveCodeBench Hard problemlerini çözüyor. İlk on problemde ortalama 9,8/10 puan alarak orijinal yazarların 9,6'lık sonucunu geçti; yazar örneklemin küçük olduğunu ve eğitim verisi sızıntısının dışlanamadığını belirtiyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50320995",
+      "article_url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve"
+    },
+    {
+      "rank": 6,
+      "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
+      "points": 430,
+      "num_comments": 154,
+      "summary": "Lenovo'nun 'şifreli' parmak izi okuyuculu USB belleğinin aslında bir kutuya yerleştirilmiş şifresiz SD kart olduğu iddia ediliyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50326099",
+      "article_url": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/"
+    },
+    {
+      "rank": 7,
+      "title": "Patrick Stewart taught us what good men do with power",
+      "points": 403,
+      "num_comments": 289,
+      "summary": "Vox'ta Patrick Stewart'ın güç sahibi iyi insanların ne yapması gerektiğini nasıl gösterdiği ele alınıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50327650",
+      "article_url": "https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism"
+    },
+    {
+      "rank": 8,
+      "title": "The AI cost of JavaScript frameworks",
+      "points": 332,
+      "num_comments": 251,
+      "summary": "Nolan Lawson, yapay zekâ ajanlarına aynı Pokémon uygulamasını 12 farklı JavaScript çatısıyla yaptırıp maliyet, süre ve kod boyutunu ölçtü. Hono+htmx en ucuz ve en kısa kodlu seçenek oldu; çok sayfalı çatılar genelde tek sayfalı uygulamalardan daha iyi yükleme sonuçları verdi.",
+      "hn_url": "https://news.ycombinator.com/item?id=50323088",
+      "article_url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/"
+    },
+    {
+      "rank": 9,
+      "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+      "points": 319,
+      "num_comments": 203,
+      "summary": "Brezilya'da bir iş mahkemesi, dilekçeye beyaz üzerine beyaz gizli metin ekleyerek mahkemenin yapay zekâ aracını yönlendirmeye çalışan iki hukuk bürosuna dava değerinin yüzde 10'u kadar para cezası verdi. Makale bunu mahkeme yapay zekâsına yönelik istem enjeksiyonuna dair dünyadaki ilk karar olabileceğini söylüyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50322173",
+      "article_url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/"
+    },
+    {
+      "rank": 10,
+      "title": "Mathematics has changed. Let's act like it",
+      "points": 253,
+      "num_comments": 276,
+      "summary": "Terence Tao'nun blogunda Frank Calegari, yapay zekânın matematikteki hızlı ilerlemesine yas yerine iyimserlik ve uyum ile yaklaşılması gerektiğini savunuyor. Değerlendirme, işe alım, eğitim ve dergi süreçlerinde reform öneriyor; önemli problemleri belirlemenin ve anlayış üretmenin ispatlardan daha değerli olabileceğini söylüyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50328251",
+      "article_url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/"
+    }
+  ],
+  "health_stories": [
+    {
+      "rank": 1,
+      "title": "Nurses Sound Alarm as 'Uber for Nursing' Apps Push to Deregulate Healthcare",
+      "points": 170,
+      "num_comments": 157,
+      "summary": "'Hemşirelik için Uber' tarzı uygulamaların sağlık hizmetlerinde düzenlemelerin gevşetilmesini istediği ve hemşirelerin buna karşı alarm verdiği anlatılıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50328487",
+      "article_url": "https://nurse.org/news/uber-for-nursing-gig-apps-report/"
+    },
+    {
+      "rank": 2,
+      "title": "'No industry has been as criminal as the pharmaceutical industry'",
+      "points": 13,
+      "num_comments": 1,
+      "summary": "El País röportajında araştırmacı gazeteci Gardiner Harris, ilaç endüstrisini sert biçimde eleştiriyor ve 'hiçbir sektör ilaç endüstrisi kadar suç işlemedi' diyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50325774",
+      "article_url": "https://english.elpais.com/society/2026-11-01/gardiner-harris-investigative-journalist-no-industry-has-been-as-criminal-as-the-pharmaceutical-industry.html"
+    },
+    {
+      "rank": 3,
+      "title": "What a mother's 1834 letter about measles tells us about MAHA",
+      "points": 5,
+      "num_comments": 2,
+      "summary": "STAT'ta tarihçi Jim Downs, 1834'te bir annenin kızamık iyileşmelerini müshil haplarına bağlayan mektubundan yola çıkarak halkın tıbbi bilgiyi nasıl şekillendirdiğini anlatıyor. Bunu bugünkü kızamık salgını ve MAHA hareketiyle ilişkilendiriyor; aşıların o haplardan farklı olarak test edildiğini savunuyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50321974",
+      "article_url": "https://www.statnews.com/2026/10/30/maha-measles-letter-1834-pseudoscience-women/"
+    },
+    {
+      "rank": 4,
+      "title": "How the pandemic changed trust in science – in four charts",
+      "points": 5,
+      "num_comments": 0,
+      "summary": "Nature'ın dört grafikle anlattığı yazı, pandeminin bilime duyulan güveni nasıl etkilediğini inceliyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50327454",
+      "article_url": "https://www.nature.com/articles/d41586-026-03248-z"
+    },
+    {
+      "rank": 5,
+      "title": "FineDNA: Open data to train LLMs on DNA",
+      "points": 4,
+      "num_comments": 0,
+      "summary": "FineDNA, DNA'yı okumak üzere uyarlanmış Qwen3-14B tabanlı Carbon-X modelinin Apache 2.0 lisanslı eğitim veri kümesi. Yaklaşık 514 milyar tokenlık ön eğitim, 204 bin konuşmalık denetimli ince ayar ve 98 bin doğrulanabilir istemlik pekiştirmeli öğrenme verisi içeriyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50323353",
+      "article_url": "https://huggingface.co/datasets/HuggingFaceBio/FineDNA"
+    },
+    {
+      "rank": 6,
+      "title": "\"Theranos 2.0\" startup has patents, investors but no product",
+      "points": 3,
+      "num_comments": 1,
+      "summary": "Elizabeth Holmes'un partneri Billy Evans'ın yönettiği Haemanthus, lazerlerle kan, tükürük ve idrardan hastalık tespit ettiğini iddia ediyor. Şirketin 20 milyon dolara kadar yatırım aldığı bildiriliyor ancak herkese açık bir ürünü veya bağımsız doğrulanmış test verisi yok.",
+      "hn_url": "https://news.ycombinator.com/item?id=50329606",
+      "article_url": "https://fortune.com/2026/10/25/elizabeth-holmes-partner-billy-evans-haemanthus-blood-testing-startup-theranos/"
+    },
+    {
+      "rank": 7,
+      "title": "Psychedelic nasal spray reduced treatment-resistant depression for 8 weeks",
+      "points": 3,
+      "num_comments": 0,
+      "summary": "JAMA'da yayımlanan bir faz 2b çalışmasında, sentetik psikedelik mebufotenin burun spreyinin tek dozu tedaviye dirençli depresyon belirtilerini sekiz haftaya kadar azalttı. Çalışmayı geliştirici şirket finanse etti; bağımsız bir editöryal yanıt oranlarının ketamin ve ECT'nin gerisinde kaldığını belirtti.",
+      "hn_url": "https://news.ycombinator.com/item?id=50324355",
+      "article_url": "https://www.psypost.org/single-dose-of-psychedelic-nasal-spray-reduced-treatment-resistant-depression-symptoms-for-eight-weeks/"
+    },
+    {
+      "rank": 8,
+      "title": "Life with Down Syndrome",
+      "points": 3,
+      "num_comments": 1,
+      "summary": "Esquire'ın 'Down Sendromlu Yaşam' başlıklı yazısı, Down sendromuyla yaşamı konu alıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50327088",
+      "article_url": "https://www.esquire.com/news-politics/a74031571/life-with-down-syndrome/"
+    },
+    {
+      "rank": 9,
+      "title": "Treatments for age-related infertility are being developed at last",
+      "points": 3,
+      "num_comments": 0,
+      "summary": "The Economist, yaşa bağlı kısırlığa yönelik tedavilerin sonunda geliştirilmeye başlandığını bildiriyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50321579",
+      "article_url": "https://www.economist.com/science-and-technology/2026/10/26/treatments-for-age-related-infertility-are-being-developed-at-last"
+    },
+    {
+      "rank": 10,
+      "title": "The Evolution of Bone (1987)",
+      "points": 3,
+      "num_comments": 0,
+      "summary": "1987 tarihli makale, omurgalıların fosfat temelli iskeletinin, yoğun hareket sırasında oluşan laktik asidin kemiği çözmesi nedeniyle evrimleştiğini öne sürüyor. Kalsiyum karbonatın bu koşullarda çok daha kolay çözüneceğini, dolayısıyla kalsiyum fosfatın avantajlı olduğunu savunuyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50328301",
+      "article_url": "https://academic.oup.com/evolut/article/41/6/1187/6870730"
+    }
+  ]
+}
