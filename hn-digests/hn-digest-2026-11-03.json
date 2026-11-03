@@ -1,0 +1,225 @@
+{
+  "date": "2026-11-03",
+  "timestamp": "2026-11-03T04:56:48Z",
+  "summary_language": "tr",
+  "top_stories": [
+    {
+      "rank": 1,
+      "title": "Astra can read and write weights to improve Qwen",
+      "points": 2205,
+      "num_comments": 717,
+      "summary": "Yazı, genel amaçlı büyük dil modellerinin sinir ağı ağırlıklarını gradyan tabanlı eğitim yerine doğal dildeki hedeflere göre doğrudan okuyup yazdığı \"ağırlık uzayı programlama\" fikrini tanıtıyor. Qwen3.5-0.8B ağırlıklarının yalnızca yaklaşık %0,016'sını düzenlemek, modelin MATH-500 skorunu %7,9'dan %48,1'e çıkardı.",
+      "hn_url": "https://news.ycombinator.com/item?id=50341174",
+      "article_url": "https://rikiyat.github.io/blog/weight-space-programming/"
+    },
+    {
+      "rank": 2,
+      "title": "WTF Ubuntu?",
+      "points": 1393,
+      "num_comments": 595,
+      "summary": "Yazar, Debian yamayı çıkardıktan iki haftadan uzun süre sonra bile Ubuntu'nun Linux çekirdeğindeki kritik (CVSS 9.8) uzaktan root açığı CVE-2026-98432 için yama yayınlamamasına öfkeli. Güvenini kaybeden yazar Ubuntu sunucularını kapatıp başka dağıtımlara geçiyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50337608",
+      "article_url": "https://chalmovsky.com/posts/wtf-ubuntu"
+    },
+    {
+      "rank": 3,
+      "title": "Show HN: Subvocal – Talk to your computer without making noise",
+      "points": 606,
+      "num_comments": 319,
+      "summary": "Başlığa göre Subvocal, bilgisayarla ses çıkarmadan, sessizce konuşarak iletişim kurmayı sağlayan bir Show HN projesi. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50340088",
+      "article_url": "https://news.ycombinator.com/item?id=50340088"
+    },
+    {
+      "rank": 4,
+      "title": "OccupySaaS",
+      "points": 497,
+      "num_comments": 308,
+      "summary": "OccupySaaS, işten çıkarılan mühendislerin kamuya açık dokümantasyon ve yapay zekâyı kullanarak pahalı, kullanıcı başına ücretli SaaS ürünlerine açık kaynaklı ve kendi sunucunuzda çalıştırılabilir alternatifler geliştirdiği bir hareket. İlk iki projesi Auth0 uyumlu ZeroAuthy ve Salesforce uyumlu SalesCompel; ikisi de Apache-2.0 lisanslı.",
+      "hn_url": "https://news.ycombinator.com/item?id=50331402",
+      "article_url": "https://occupysaas.com/"
+    },
+    {
+      "rank": 5,
+      "title": "If you love a website, back it up",
+      "points": 450,
+      "num_comments": 100,
+      "summary": "Bir web arşivcisi, çok sevdiği hayran sitesinin kumar reklamlarına teslim olmasını anlatıp okuyucuları sevdikleri siteleri yedeklemeye çağırıyor. Yazı, tek sayfalar için ücretsiz ArchiveWeb.page'i, büyük siteler için ücretli Browsertrix'i öneriyor ve oluşan arşivlerin nasıl oynatılıp paylaşılacağını anlatıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50336518",
+      "article_url": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/"
+    },
+    {
+      "rank": 6,
+      "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
+      "points": 391,
+      "num_comments": 112,
+      "summary": "Ubuntu 22.04, 24.04 ve 26.04 LTS sürümleri için kritik CVE-2026-98432 (CVSS 9.8) açığına karşı yamalı çekirdekler henüz yayınlanmadı ve bir tarih de verilmedi. İnternete açık sistemlerin yöneticileri; mevcut çekirdekte kalmak, resmi olmayan çözümler uygulamak ya da iş yüklerini başka yere taşımak arasında seçim yapmak zorunda.",
+      "hn_url": "https://news.ycombinator.com/item?id=50341462",
+      "article_url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432"
+    },
+    {
+      "rank": 7,
+      "title": "Supermarket freezers across Europe hit by second suspected cyber-attack",
+      "points": 378,
+      "num_comments": 421,
+      "summary": "Başlığa göre Avrupa genelindeki süpermarket dondurucuları ikinci kez şüpheli bir siber saldırıya uğradı. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50335615",
+      "article_url": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack"
+    },
+    {
+      "rank": 8,
+      "title": "U.S. workers took home their smallest share of capital since at least 1947",
+      "points": 345,
+      "num_comments": 212,
+      "summary": "ABD'de çalışanlara giden ekonomik üretim payı 2026'nın ikinci çeyreğinde %52,8'e düşerek 1947'den beri tutulan kayıtların en düşük seviyesine indi; şirket kârları ise rekor seviyede. Ekonomistler bunun nedenleri arasında otomasyonu, yavaşlayan istihdam artışını ve işgücünü küçülten göçmenlik politikalarını gösteriyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50330939",
+      "article_url": "https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/"
+    },
+    {
+      "rank": 9,
+      "title": "Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN",
+      "points": 334,
+      "num_comments": 103,
+      "summary": "Başlığa göre Wikihack, Hacker News'te anılan Wikipedia maddelerini bir araya getiren, HackerTube'un Wikipedia sürümü gibi bir Show HN projesi. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50333339",
+      "article_url": "https://wikihack.netlify.app"
+    },
+    {
+      "rank": 10,
+      "title": "US boy names that became girl names and vice versa",
+      "points": 333,
+      "num_comments": 332,
+      "summary": "Başlığa göre yazı, ABD'de zaman içinde erkek isminden kız ismine (ve tersine) dönüşen isimleri inceliyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50339397",
+      "article_url": "https://namedaisy.com/blog/boy-names-that-became-girl-names"
+    }
+  ],
+  "health_stories": [
+    {
+      "rank": 1,
+      "title": "Bones may release proteins that slow aging and extend life span",
+      "points": 324,
+      "num_comments": 130,
+      "summary": "Başlığa göre kemiklerin yaşlanmayı yavaşlatabilecek ve ömrü uzatabilecek proteinler salgılıyor olabileceği bildiriliyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50331957",
+      "article_url": "https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span"
+    },
+    {
+      "rank": 2,
+      "title": "Last night an AI agent performed brain surgery on a mouse",
+      "points": 126,
+      "num_comments": 100,
+      "summary": "Başlığa göre bir yapay zekâ ajanı dün gece bir fare üzerinde beyin ameliyatı gerçekleştirdi. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50336138",
+      "article_url": "https://twitter.com/OcanaSantero/status/2115442964574908902"
+    },
+    {
+      "rank": 3,
+      "title": "GPT-Rosalind-6 System Card Addendum",
+      "points": 66,
+      "num_comments": 55,
+      "summary": "GPT-Rosalind-6, GPT-6 Astra ile ağırlıkları paylaşan bir biyoloji akıl yürütme modeli ve yalnızca denetlenmiş araştırmacılara, şirketlere ve devlet ortaklarına açık. İki amaçlı biyoloji sorularında daha az ret veriyor ancak biyolojik silahlaştırma taleplerini reddediyor; biyolojik ve kimyasal risk için \"Yüksek\" kapasiteli, \"Kritik\" eşiğin altında sınıflandırılmış.",
+      "hn_url": "https://news.ycombinator.com/item?id=50337503",
+      "article_url": "https://deploymentsafety.openai.com/gpt-rosalind-6"
+    },
+    {
+      "rank": 4,
+      "title": "Napping characteristics and incident dementia",
+      "points": 39,
+      "num_comments": 26,
+      "summary": "10 yıl süren ve 65 yaş üstü 995 ABD Medicare yararlanıcısını kapsayan çalışmada, sık ve istemsiz şekerleme yapmanın uyku faktörleri hesaba katılsa bile olası ya da muhtemel demans riskinin artmasıyla ilişkili olduğu bulundu. Çalışma gözlemsel ve şekerleme beyana dayalı olduğundan, yazarlar gün içi uykunun ancak nedensellik kanıtlanırsa değiştirilebilir bir risk faktörü olabileceğini belirtiyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50337635",
+      "article_url": "https://academic.oup.com/biomedgerontology/article/81/10/glag208/8769491?login=false"
+    },
+    {
+      "rank": 5,
+      "title": "Martian dust presents additional risks for future crewed missions to Mars",
+      "points": 14,
+      "num_comments": 19,
+      "summary": "Başlığa göre Mars toz bulutunun gelecekteki insanlı görevler için ek riskler oluşturduğu bildiriliyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50331340",
+      "article_url": "https://www.pnas.org/doi/10.1073/pnas.2620747123"
+    },
+    {
+      "rank": 6,
+      "title": "An unusual sexual bond between a bull and a male donkey",
+      "points": 8,
+      "num_comments": 3,
+      "summary": "Current Biology'de yayımlanan çalışma, Etiyopya platosunda bir boğa ile erkek bir eşek arasında, diğer olası partnerler yerine birbirlerini seçtikleri süregelen cinsel ve sosyal bir bağı anlatıyor. İki hafta içinde 51 üstüne çıkma kaydedildi; ancak çalışma bu etkileşimlerin işlevini belirleyemedi.",
+      "hn_url": "https://news.ycombinator.com/item?id=50342694",
+      "article_url": "https://phys.org/news/2026-10-unusual-sexual-bond-bull-male.html"
+    },
+    {
+      "rank": 7,
+      "title": "Nanoparticles for delivering personalized cancer vaccines",
+      "points": 7,
+      "num_comments": 0,
+      "summary": "MIT'li araştırmacılar, zararsız değiştirilmiş M13 bakteriyofajından, kanser antijenleriyle kontrollü yoğunlukta kaplanabilen özelleştirilebilir bir nanopartikül geliştirdi. Farelerde yüksek yoğunluklu sürüm kolon tümörlerinin gelişmesini önledi ve melanom riskini belirgin biçimde azalttı.",
+      "hn_url": "https://news.ycombinator.com/item?id=50337567",
+      "article_url": "https://news.mit.edu/2026/mit-engineers-create-nanoparticles-delivering-personalized-cancer-vaccines-1030"
+    },
+    {
+      "rank": 8,
+      "title": "Reframing the manosphere: a public health response to a commercial ecosystem",
+      "points": 7,
+      "num_comments": 6,
+      "summary": "Başlığa göre Lancet'te yayımlanan yazı, \"manosfer\" olarak adlandırılan ticari ekosisteme halk sağlığı perspektifiyle yaklaşılması gerektiğini savunuyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50336455",
+      "article_url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02027-1/fulltext"
+    },
+    {
+      "rank": 9,
+      "title": "A hidden brain rhythm challenges ideas about where consciousness comes from",
+      "points": 5,
+      "num_comments": 1,
+      "summary": "UC Berkeley'den Janis Hesse liderliğindeki araştırmacılar, makaklarda görsel baskılama görevi sırasında beyin aktivitesinin saniyede yaklaşık 15 kez görünür ve gizli görüntü arasında gidip geldiğini buldu. Yazarlar, bilinçli ve baskılanmış işlemeyi ayırt etmede aktivitenin zamanlamasının önemli olabileceğini savunuyor; ancak çalışma henüz hakem değerlendirmesinden geçmemiş bir ön baskı.",
+      "hn_url": "https://news.ycombinator.com/item?id=50332795",
+      "article_url": "https://medicalxpress.com/news/2026-10-hidden-brain-rhythm-ideas-consciousness.html"
+    },
+    {
+      "rank": 10,
+      "title": "AI models are enabling suicide",
+      "points": 4,
+      "num_comments": 3,
+      "summary": "Başlığa göre yapay zekâ modellerinin intiharı kolaylaştırdığı öne sürülüyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50341366",
+      "article_url": "https://twitter.com/Prosaic_int/status/2117318562880905678"
+    },
+    {
+      "rank": 11,
+      "title": "Modern Food Additives: Detergent Emulsifiers",
+      "points": 4,
+      "num_comments": 2,
+      "summary": "James Knochel, polisorbat, karragenan ve karboksimetil selüloz gibi sentetik emülgatörlerin bağırsak mukus tabakasına zarar vererek erken başlangıçlı kolorektal kanserin artışına katkıda bulunabileceğini savunuyor. Bunu kanıtlanmış bir bağlantı değil şüphe olarak sunuyor ve katkı maddelerinden kaçınmayı, yumurta sarısı veya lesitin gibi doğal alternatifleri tercih etmeyi öneriyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50330713",
+      "article_url": "https://www.jamesknochel.com/p/modern-food-additives-detergent-emulsifiers"
+    },
+    {
+      "rank": 12,
+      "title": "Show HN: ReadoutBench – forecast 653 clinical trials before they report",
+      "points": 3,
+      "num_comments": 3,
+      "summary": "ReadoutBench, yapay zekâ modellerinin ve insanların, şirketlerin yürüttüğü 653 faz 2 ve faz 3 klinik çalışmanın birincil sonlanım noktalarına ulaşıp ulaşmayacağını sonuçlar açıklanmadan tahmin ettiği bir kıyaslama projesi. Tahminler Brier skoruyla puanlanıyor; 1. tur başvuruları 15 Kasım 2026'da kapanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50343521",
+      "article_url": "https://readoutbench.com"
+    },
+    {
+      "rank": 13,
+      "title": "Anthropic acquires a one-person biotech that used Claude to coordinate 11 labs",
+      "points": 3,
+      "num_comments": 0,
+      "summary": "Anthropic, tek tam zamanlı kurucusu Cody Tranbarger'ın Claude ile yarı zamanlı danışmanları ve 11 dış laboratuvarı koordine ettiği Mithril Medicine adlı biyoteknoloji şirketini satın aldı. Anlaşma Anthropic'e nadir kas distrofilerini hedefleyen ilk kendi ilaç programlarını getiriyor; fare sonuçları umut verici ancak henüz hakem değerlendirmesinden geçmedi.",
+      "hn_url": "https://news.ycombinator.com/item?id=50339918",
+      "article_url": "https://www.rdworldonline.com/anthropic-acquires-mithril-medicine-one-person-biotech/"
+    },
+    {
+      "rank": 14,
+      "title": "Startup Claims to Use A.I.-Created Viruses to Treat a Patient",
+      "points": 3,
+      "num_comments": 0,
+      "summary": "Başlığa göre bir girişim, yapay zekâ ile oluşturulan virüsleri bir hastayı tedavi etmek için kullandığını iddia ediyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50337864",
+      "article_url": "https://www.nytimes.com/2026/10/20/science/ai-virus-bacteria-radical-numerics.html"
+    }
+  ]
+}
