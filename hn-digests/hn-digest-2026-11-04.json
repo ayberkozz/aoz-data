@@ -1,0 +1,234 @@
+{
+  "date": "2026-11-04",
+  "timestamp": "2026-11-04T05:10:00Z",
+  "summary_language": "tr",
+  "top_stories": [
+    {
+      "rank": 1,
+      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+      "points": 1126,
+      "num_comments": 366,
+      "summary": "Postman masaüstü uygulaması, mevcut kullanıcılara Codex ve Claude Code eklentilerini, bir CLI'yi ve bir başlangıç kancasını izinsiz kurdu; kurulum kendi kancasının güven kaydını da onaylamaya çalıştı. Şikâyet edenler açık onay (opt-in) ve tam kaldırma yolu istiyor; Postman ise daha net bir onay mekanizması ve kanca davranışının gözden geçirilmesi sözü verdi.",
+      "hn_url": "https://news.ycombinator.com/item?id=50354960",
+      "article_url": "https://github.com/postmanlabs/postman-app-support/issues/14370"
+    },
+    {
+      "rank": 2,
+      "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+      "points": 935,
+      "num_comments": 196,
+      "summary": "Matthew Honnibal, Qwen'in model ağırlıklarını okuyup yazarak kendini geliştirdiğini öne süren yazının yanıltıcı olduğunu savunuyor. Ona göre yalnızca üç küçük ağ deneyi ham ağırlıkları doğrudan okuyor, matematik sonucu ise Python koduna ve alıştırma sorularıyla modeli çalıştırmaya dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50351111",
+      "article_url": "https://honnibal.dev/blog/astra-read-write-misleading"
+    },
+    {
+      "rank": 3,
+      "title": "Google will turn off search for schools that reject AI",
+      "points": 583,
+      "num_comments": 420,
+      "summary": "Google'ın, üretken yapay zekâyı yasaklayan okullar için arama erişimini kapatacağı bildiriliyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50353192",
+      "article_url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html"
+    },
+    {
+      "rank": 4,
+      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "points": 538,
+      "num_comments": 170,
+      "summary": "Simon Willison, Qwen 3.8 27B modelini yerelde çalıştırıp yalnızca ham ağırlıklara bakarak bir ağın hangi oyunla eğitildiğini bulmasını istedi. Model Pong ve Breakout'u doğru tahmin etti, Freeway'i kaçırdı; her çalıştırma yaklaşık bir saat sürdü ve sonuç etkileyici ama kaynak kodu gereksiz kılmıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50355251",
+      "article_url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/"
+    },
+    {
+      "rank": 5,
+      "title": "Stringman, an $800 open-source room scale gripper robot",
+      "points": 468,
+      "num_comments": 162,
+      "summary": "Stringman, dört motor ve tavan köşelerine asılı bir tutucuyla odanın büyük bölümüne erişen, 795 dolarlık açık kaynaklı bir kablo robotu. Ortalama yaklaşık 1,9 kg taşıyabiliyor, yerel ağda çevrimdışı çalışabiliyor, ortalıktaki eşyaları toplayıp etiketli kutulara taşıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50354358",
+      "article_url": "https://neufangled.com/"
+    },
+    {
+      "rank": 6,
+      "title": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?",
+      "points": 464,
+      "num_comments": 228,
+      "summary": "Nicholas Carlini, 1995'in 200 MHz Pentium Pro işlemcisinde çalışan modern bir Stockfish uyarlamasının yaklaşık 3300 Elo ile Kasparov'u (yaklaşık 2800) yenebileceğini tahmin ediyor. Satranç motorlarındaki kazanımların çoğunu donanımdan çok yazılım iyileştirmelerine bağlıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50349276",
+      "article_url": "https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html"
+    },
+    {
+      "rank": 7,
+      "title": "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
+      "points": 459,
+      "num_comments": 450,
+      "summary": "Kalshi ve kurucularının Utah'ın kumar yasalarını ihlal ettiği gerekçesiyle ağır suçlamalarla karşı karşıya olduğu bildiriliyor; konu ayrıca federal yönetimin Utah'a açtığı davayla bağlantılı. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50353229",
+      "article_url": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/"
+    },
+    {
+      "rank": 8,
+      "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
+      "points": 454,
+      "num_comments": 142,
+      "summary": "Bir kullanıcı, OpenAI Codex'teki 'modeli herkes için geliştir' ayarının izinsiz yeniden açıldığını bildirdi; birkaç kişi aynı durumu yaşadığını söylerken bazıları ayarlarının değişmediğini belirtti. Tartışma, öncü yapay zekâ laboratuvarlarının veri uygulamalarına duyulan güvensizliğe ve sıfır veri saklama sözleşmeleri ya da kendi sunucuda çalıştırma önerilerine uzandı.",
+      "hn_url": "https://news.ycombinator.com/item?id=50352757",
+      "article_url": "https://news.ycombinator.com/item?id=50352757"
+    },
+    {
+      "rank": 9,
+      "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
+      "points": 452,
+      "num_comments": 145,
+      "summary": "Hacker Times, Hacker News haberlerinden derlenen, New York Times'tan esinlenen yapay zekâ editörlü bir ön sayfa. 3 Kasım 2026 sayısında Postman olayı, MIT CSAIL'in sinir ağı ağırlıklarını düzenleme iddiası ve Binance'ten 5,6 milyar dolarlık hırsızlık gibi başlıklar yer alıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50346981",
+      "article_url": "https://hackertimes.ca/"
+    },
+    {
+      "rank": 10,
+      "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
+      "points": 397,
+      "num_comments": 314,
+      "summary": "Matt Scherer, SEC'in Anthropic halka arzını, art arda iki çeyreği kapsayan denetlenmiş mali tablolar sunulana kadar durdurması gerektiğini savunuyor. Yaklaşık 900 milyar dolarlık harcama yükümlülüklerine ve yavaşlayan gelire dikkat çekerek bireysel yatırımcıların risk altında olduğunu söylüyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50344919",
+      "article_url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/"
+    }
+  ],
+  "health_stories": [
+    {
+      "rank": 1,
+      "title": "Study estimates 75% of NFL players who died over 15-year span had CTE",
+      "points": 256,
+      "num_comments": 223,
+      "summary": "JAMA Network Open'da yayımlanan bir çalışma, 2008-2023 arasında ölen eski NFL oyuncularının yaklaşık %75'inde kronik travmatik ensefalopati (KTE) bulunduğunu, yaklaşık %27'sinde demans olduğunu tahmin ediyor. Araştırmacılar bunların tahmin olduğunu, KTE'nin yalnızca otopsiyle doğrulanabildiğini belirtiyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50353335",
+      "article_url": "https://www.nbcnews.com/health/health-news/study-estimates-75-nfl-players-died-15-year-span-may-cte-rcna605975"
+    },
+    {
+      "rank": 2,
+      "title": "Snapchat Is Harming Children at an Industrial Scale (2025)",
+      "points": 69,
+      "num_comments": 11,
+      "summary": "Jon Haidt ve Zach Rausch, Snapchat'in çocukları uyuşturucu satışı, şantaj, yırtıcı iletişim, bağımlılık ve zorbalık gibi ciddi zararlara maruz bıraktığını savunuyor. Şirket içi belgelere ve mahkeme kayıtlarına dayanarak yalnızca içerik kaldırmanın değil tasarım değişikliklerinin gerektiğini söylüyorlar.",
+      "hn_url": "https://news.ycombinator.com/item?id=50354555",
+      "article_url": "https://www.afterbabel.com/p/industrial-scale-snapchat"
+    },
+    {
+      "rank": 3,
+      "title": "Another child dies of measles as CDC reportedly holds up health alert",
+      "points": 40,
+      "num_comments": 5,
+      "summary": "Bir çocuğun daha kızamıktan öldüğü ve CDC'nin bir sağlık uyarısını beklettiği bildiriliyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50357841",
+      "article_url": "https://arstechnica.com/health/2026/11/another-child-dies-of-measles-as-cdc-reportedly-holds-up-health-alert/"
+    },
+    {
+      "rank": 4,
+      "title": "Most of our measures of a key cognitive process don't agree",
+      "points": 13,
+      "num_comments": 0,
+      "summary": "Temel bir bilişsel sürecin farklı ölçüm yöntemlerinin çoğunun birbiriyle uyuşmadığı bildiriliyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50344844",
+      "article_url": "https://arstechnica.com/science/2026/11/most-of-our-measures-of-a-key-cognitive-process-dont-agree/"
+    },
+    {
+      "rank": 5,
+      "title": "Bold new treatment may have just cracked how to reverse Alzheimer's",
+      "points": 13,
+      "num_comments": 1,
+      "summary": "Derin servikal lenfatik-venöz anastomoz (dcLVA) adlı tartışmalı bir ameliyat, boyundaki lenf damarlarını yeniden yönlendirerek beyindeki atıkların atılmasını hızlandırmayı amaçlıyor ve Çin'de binlerce kez uygulandı. 139 hastalık en büyük çalışma bilişsel kazanç bildirse de kontrol grubu yok; uzmanlara göre kontrollü denemeler tamamlanana kadar etkisi kanıtlanmış değil.",
+      "hn_url": "https://news.ycombinator.com/item?id=50352461",
+      "article_url": "https://www.sciencefocus.com/news/new-treatment-reverse-alzheimers"
+    },
+    {
+      "rank": 6,
+      "title": "Show HN: Remene – Understand your MRI and prepare questions for your doctor",
+      "points": 11,
+      "num_comments": 0,
+      "summary": "Remene, yüklenen MRI görüntülerini analiz ederek her yapıyı görüntüdeki konumuyla açıklayan ve radyoloji raporunu sade bir dile çeviren bir web hizmeti. Soru-cevap asistanı, doktor onaylı olmayan isteğe bağlı yapay zekâ ikinci görüşü ve randevuya götürülebilecek PDF de sunuyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50351830",
+      "article_url": "https://remene.si"
+    },
+    {
+      "rank": 7,
+      "title": "Behavioral evidence for two-stage sleep in spiders",
+      "points": 5,
+      "num_comments": 0,
+      "summary": "PNAS'ta yayımlanan bir çalışma, örümceklerde iki aşamalı uykuya işaret eden davranışsal kanıtlar bildiriyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50349406",
+      "article_url": "https://www.pnas.org/doi/10.1073/pnas.2618030123"
+    },
+    {
+      "rank": 8,
+      "title": "Signatures in mineralized blood cells of a 115M-year-old dinosaur bone",
+      "points": 5,
+      "num_comments": 0,
+      "summary": "PNAS'ta yayımlanan çalışma, Brezilya'dan 115 milyon yıllık genç bir dinozorun kemiklerinde mineralleşmiş kırmızı kan hücreleri ve hem molekülü gibi biyomoleküller buldu. Hausmannit minerali bu yapıları koruyor gibi görünüyor; bu, bu moleküllerin milyonlarca yıl dayanamayacağı görüşüne meydan okuyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50351784",
+      "article_url": "https://www.pnas.org/doi/full/10.1073/pnas.2614248123"
+    },
+    {
+      "rank": 9,
+      "title": "Hand-Cranked Device Can Tell You Your Blood Type and Red Cell Levels in a Minute",
+      "points": 5,
+      "num_comments": 0,
+      "summary": "Ulusal Tayvan Üniversitesi liderliğindeki araştırmacılar, tek damla kandan bir dakika içinde kan grubunu ve alyuvar düzeyini belirleyen, elektriksiz çalışan el krankıyla işleyen taşınabilir bir cihaz geliştirdi. 21 örneklik küçük testte hastane cihazlarıyla yakın sonuç verdi; nadir kan grupları ve büyük saha çalışmaları için doğrulama gerekiyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50351572",
+      "article_url": "https://www.sciencealert.com/this-hand-cranked-device-can-tell-you-your-blood-type-and-red-cell-levels-in-a-minute"
+    },
+    {
+      "rank": 10,
+      "title": "The State of Longevity: The healthmaxxing economy is here",
+      "points": 5,
+      "num_comments": 6,
+      "summary": "a16z yazısı, Amerikalıların pandemi ve yapay zekâ araçlarının etkisiyle sağlıklarının sorumluluğunu daha çok üstlendiğini ve bütünleşik sağlık platformları, giyilebilir cihazlar, peptitler gibi alanlarda fırsatlar doğduğunu savunuyor. Yazarlar, tüketici heyecanının çoğu zaman kanıtların önüne geçtiği uyarısını yapıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50353465",
+      "article_url": "https://www.a16z.news/p/the-state-of-longevity"
+    },
+    {
+      "rank": 11,
+      "title": "Why dogs catch yawns from their owners but not other dogs",
+      "points": 4,
+      "num_comments": 0,
+      "summary": "Köpeklerin neden sahiplerinden esneme kaptığı ama diğer köpeklerden kapmadığı konusunu ele alan bir bilim yazısı. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50344554",
+      "article_url": "https://www.economist.com/science-and-technology/2026/10/28/why-dogs-catch-yawns-from-their-owners-but-not-other-dogs"
+    },
+    {
+      "rank": 12,
+      "title": "Seabirds racing home over the ocean can get jet-lagged",
+      "points": 4,
+      "num_comments": 1,
+      "summary": "Okyanus üzerinde eve doğru hızla uçan deniz kuşlarının jet lag yaşayabildiğini gösteren bir araştırma haberi. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50343732",
+      "article_url": "https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/"
+    },
+    {
+      "rank": 13,
+      "title": "A vasomechanic treatment to increase the efflux of human brain proteins",
+      "points": 4,
+      "num_comments": 0,
+      "summary": "İnsan beynindeki proteinlerin atılımını artırmayı hedefleyen 'vazomekanik' bir tedavi yaklaşımını anlatan bir Nature Communications makalesi. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50350339",
+      "article_url": "https://www.nature.com/articles/s41467-026-78894-y"
+    },
+    {
+      "rank": 14,
+      "title": "Dinosaur blood found in fossils for the first time",
+      "points": 4,
+      "num_comments": 1,
+      "summary": "Fosillerde ilk kez dinozor kanı bulunduğu bildiriliyor; bulgu, PNAS'ta yayımlanan 115 milyon yıllık dinozor kemiği çalışmasıyla ilgili. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50352666",
+      "article_url": "https://www.popsci.com/science/first-dinosaur-blood-fossil-discovery/"
+    },
+    {
+      "rank": 15,
+      "title": "The Brain Injury That Made Edward Freytag a Musical Genius",
+      "points": 4,
+      "num_comments": 0,
+      "summary": "Edward Freytag'ın geçirdiği beyin yaralanmasının onu müzikal bir dehaya ve mutlak kulağa dönüştürdüğünü anlatan bir dergi yazısı. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50351156",
+      "article_url": "https://www.nytimes.com/interactive/2026/11/02/magazine/brain-injury-music-perfect-pitch-edward-freytag.html"
+    }
+  ]
+}
