@@ -1,0 +1,225 @@
+{
+  "date": "2026-11-05",
+  "timestamp": "2026-11-05T04:56:58Z",
+  "summary_language": "tr",
+  "top_stories": [
+    {
+      "rank": 1,
+      "title": "AI is forcing us to pay off 40 years of technical debt",
+      "points": 1125,
+      "num_comments": 655,
+      "summary": "IEEE Spectrum'a göre PHP2Shell adlı kritik açık, 2024'te basit bir bellek hatası olarak bildirilip göz ardı edilmişken yapay zekâ araçlarıyla sunucuda kod çalıştırmaya dönüştürüldü. Uzmanlar, yapay zekânın onlarca yıllık eski yazılım zayıflıklarını ortaya çıkardığını ve açık kaynak bakımcılarının savunmada zorlandığını söylüyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50364336",
+      "article_url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability"
+    },
+    {
+      "rank": 2,
+      "title": "Residential proxies detected on White House network",
+      "points": 819,
+      "num_comments": 260,
+      "summary": "Beyaz Saray ağında konut tipi proxy trafiği tespit edildiği öne sürülüyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50371246",
+      "article_url": "https://layer3intel.com/blog/residential-proxies-white-house-network"
+    },
+    {
+      "rank": 3,
+      "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+      "points": 641,
+      "num_comments": 167,
+      "summary": "Gemini'nin, ücretli abonelerin kişisel hesaplarında bile sohbet geçmişiyle eğitildiği iddia ediliyor. Bu, bir Tell HN gönderisi olduğu için sayfaya erişilemediğinden özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50363461",
+      "article_url": "https://news.ycombinator.com/item?id=50363461"
+    },
+    {
+      "rank": 4,
+      "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+      "points": 595,
+      "num_comments": 275,
+      "summary": "MSI Prestige RTX Spark dizüstü bilgisayarda Linux'ta, yalnızca Windows'ta okunabilen şifreli güç denetleyici ayarları yüzünden GPU prize takılıyken yaklaşık 780 MHz'e düşüyor. Bu durum GPT-OSS-120B çıkarım hızını saniyede yaklaşık 65 token'dan 14'e indiriyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50362905",
+      "article_url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop"
+    },
+    {
+      "rank": 5,
+      "title": "North Korean fake job interview led to $6.3B Binance heist",
+      "points": 591,
+      "num_comments": 365,
+      "summary": "Kuzey Koreli hackerlar, sahte bir iş görüşmesi sırasında bir Binance mühendisine kötü amaçlı yazılım yükleterek 29 Ekim'de 6,3 milyar dolarlık rekor hırsızlığı gerçekleştirdi. Binance, saldırıyı çok aşamalı bir sosyal mühendislik kampanyası olarak tanımladı ve etkilenen cüzdan sistemini yeniden kurdu.",
+      "hn_url": "https://news.ycombinator.com/item?id=50365755",
+      "article_url": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398"
+    },
+    {
+      "rank": 6,
+      "title": "AMD expects to outsell Intel in Q4 for the first time in history",
+      "points": 511,
+      "num_comments": 187,
+      "summary": "AMD'nin 17 milyar dolarlık gelir beklentisiyle dördüncü çeyrekte tarihinde ilk kez Intel'den daha fazla satış yapmasını beklediği bildiriliyor. Sayfa kısmen okunabildiği için özet başlık ve girişe dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50367125",
+      "article_url": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections"
+    },
+    {
+      "rank": 7,
+      "title": "Jelly Sheet",
+      "points": 448,
+      "num_comments": 113,
+      "summary": "Codevember 2026 serisinin ilk çalışması olan \"Fold\", kumaş benzeri bir yüzeyle etkileşim sunan yaratıcı bir kodlama işi. Kullanıcı yüzeyi sürükleyebiliyor ve boşluk tuşuyla animasyonu durdurabiliyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50361268",
+      "article_url": "https://mrdoob.github.io/codevember-2026/01/"
+    },
+    {
+      "rank": 8,
+      "title": "Kimi K3.1 Pro model weights are out",
+      "points": 429,
+      "num_comments": 127,
+      "summary": "Moonshot AI, 2,8 trilyon parametreli (token başına 104 milyar aktif) ve 1 milyon token bağlam penceresine sahip çok modlu Kimi K3.1 Pro modelinin ağırlıklarını yayımladı. Model vLLM veya SGLang ile çalıştırılabiliyor ve kodlama ile ajan görevlerinde güçlü sonuçlar bildiriliyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50366999",
+      "article_url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
+    },
+    {
+      "rank": 9,
+      "title": "C++26 Disapproved",
+      "points": 406,
+      "num_comments": 345,
+      "summary": "C++26 taslak uluslararası standardı 23 Ekim'de ulusal kurullarca reddedildi; bu C++ tarihinde bir ilk ve temel neden Contracts özelliğinin hazır görülmemesi. Yazar, 16 Kasım toplantısında çıkmazın aşılmasını umuyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50360164",
+      "article_url": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/"
+    },
+    {
+      "rank": 10,
+      "title": "Kitty 0.50",
+      "points": 366,
+      "num_comments": 228,
+      "summary": "Kitty 0.50, bir pencerenin kenarına bağlanan pencereler, oturumu oturum kapatma sonrası geri yükleme seçeneği ve sekme tabanlı çalışma alanları getiriyor. Ayrıca Wayland dokunmatik ekran desteği ve yeni gölgelendiriciler ekleniyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50362980",
+      "article_url": "https://sw.kovidgoyal.net/kitty/changelog/#"
+    }
+  ],
+  "health_stories": [
+    {
+      "rank": 1,
+      "title": "Distinct cellular and genetic differences in colorectal cancer in young patients",
+      "points": 124,
+      "num_comments": 58,
+      "summary": "Dana-Farber, Mass General Brigham ve Broad Enstitüsü araştırmacıları 189 kolorektal tümörü analiz etti; genç hastaların tümörlerinde daha fazla bağ dokusu hücresi ve daha güçlü hücre sinyallemesi saptandı. Nature Medicine'de yayımlanan çalışma bunun daha agresif hastalığa yol açtığını kanıtlamıyor ancak erken başlangıçlı kolorektal kanser araştırmalarına temel oluşturuyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50361154",
+      "article_url": "https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients"
+    },
+    {
+      "rank": 2,
+      "title": "Hackers hit French national blood bank",
+      "points": 80,
+      "num_comments": 93,
+      "summary": "Fransa'nın ulusal kan bankasına yönelik bir siber saldırı yaşandığı bildiriliyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50364478",
+      "article_url": "https://www.telegraph.co.uk/world-news/2026/11/04/hackers-hit-french-blood-bank/"
+    },
+    {
+      "rank": 3,
+      "title": "From wild to mild: Friendly foxes show changes in brain region",
+      "points": 37,
+      "num_comments": 7,
+      "summary": "Cornell araştırmacıları evcil, agresif ve vahşi gümüş tilkilerin beyinlerini karşılaştırdı; evcil tilkilerde hipotalamusun agresyonla ilişkili bölgesinde östrojen reseptörlü nöronlar daha azdı. Current Biology'de yayımlanan çalışma, seçici üremenin birkaç nesilde beyin yapısını değiştirebildiğini gösteriyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50369527",
+      "article_url": "https://news.cornell.edu/stories/2026/11/wild-mild-friendly-foxes-show-changes-brain-region"
+    },
+    {
+      "rank": 4,
+      "title": "Rosalind Franklin figured out DNA's helical structure before Watson and Crick",
+      "points": 37,
+      "num_comments": 4,
+      "summary": "Bir çalışma, Rosalind Franklin'in DNA'nın sarmal yapısını Watson ve Crick'ten önce çözdüğünü öne sürüyor. Sayfa tam okunamadığı için özet başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50366977",
+      "article_url": "https://www.livescience.com/health/she-knew-she-had-something-really-important-on-her-hands-rosalind-franklin-figured-out-dnas-helical-structure-before-watson-and-crick-study-suggests"
+    },
+    {
+      "rank": 5,
+      "title": "An 80-Cent Plastic Pouch Is Saving Women from Dying in Childbirth",
+      "points": 21,
+      "num_comments": 2,
+      "summary": "New York Times'a göre Nijerya'da 80 sentlik plastik bir örtü, doğum sırasındaki kanamayı ölçerek kadınların ölümünü önlemeye yardımcı oluyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50361739",
+      "article_url": "https://www.nytimes.com/2026/11/03/health/maternal-drapes-nigeria-childbirth.html"
+    },
+    {
+      "rank": 6,
+      "title": "Brainstem Theory of Consciousness",
+      "points": 20,
+      "num_comments": 3,
+      "summary": "\"Beyin Sapı Bilinç Kuramı\" başlıklı makale, bilincin kökenini beyin sapıyla ilişkilendiren bir kuramı ele alıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50368579",
+      "article_url": "https://journals.sagepub.com/doi/10.1177/10738584261470362"
+    },
+    {
+      "rank": 7,
+      "title": "FBI Probes Autism Therapy Provider That Billed $30k a Day",
+      "points": 9,
+      "num_comments": 2,
+      "summary": "Wall Street Journal'a göre FBI, günde 30 bin dolar fatura kesen bir otizm terapisi sağlayıcısını soruşturuyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50360607",
+      "article_url": "https://www.wsj.com/us-news/law/fbi-probes-autism-therapy-provider-that-billed-30-000-a-day-cd1885ea"
+    },
+    {
+      "rank": 8,
+      "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+      "points": 8,
+      "num_comments": 0,
+      "summary": "WSJ'ye göre Silikon Vadisi yapay zekânın hastalıkları tedavi edeceğini vaat ederken ilaç şirketi CEO'ları bu görüşe şüpheyle yaklaşıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50361033",
+      "article_url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c"
+    },
+    {
+      "rank": 9,
+      "title": "New Pancreatic Cancer Vaccine Sparked Immune Responses in 99% of Patients",
+      "points": 7,
+      "num_comments": 0,
+      "summary": "Mayo Clinic'in 144 pankreas kanseri hastasıyla yaptığı faz 2 çalışmasında camupepimut aşısı, mutasyonlu KRAS'a karşı neredeyse tüm değerlendirilebilen hastalarda bağışıklık yanıtı oluşturdu. Ancak hastalıksız sağ kalımda anlamlı bir fark bulunmadı, bu yüzden nüksetmeye etkisi kanıtlanmış değil.",
+      "hn_url": "https://news.ycombinator.com/item?id=50371104",
+      "article_url": "https://www.sciencealert.com/new-pancreatic-cancer-vaccine-sparked-immune-responses-in-99-of-patients"
+    },
+    {
+      "rank": 10,
+      "title": "Cicada wings can kill bacteria on contact",
+      "points": 5,
+      "num_comments": 0,
+      "summary": "Sydney Morning Herald'a göre ağustosböceği kanatları temas ettiği bakterileri öldürebiliyor ve bu özellik ölümcül bir krize karşı çözüm olabilir. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50364797",
+      "article_url": "https://www.smh.com.au/national/nsw/summer-s-loudest-insect-is-coming-it-could-save-us-from-a-deadly-crisis-20261104-p61azz.html"
+    },
+    {
+      "rank": 11,
+      "title": "The Brain Injury That Made Edward Freytag a Musical Genius",
+      "points": 5,
+      "num_comments": 1,
+      "summary": "New York Times Magazine'e göre bir beyin yaralanması Edward Freytag'ı müzikal bir deha haline getirdi. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50360475",
+      "article_url": "https://www.nytimes.com/interactive/2026/11/02/magazine/brain-injury-music-perfect-pitch-edward-freytag.html"
+    },
+    {
+      "rank": 12,
+      "title": "The DEA banned a drug some opioid users called a miracle",
+      "points": 4,
+      "num_comments": 0,
+      "summary": "Wired'a göre DEA, bazı opioid kullanıcılarının mucize olarak nitelendirdiği bir ilacı yasakladı. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50367830",
+      "article_url": "https://www.wired.com/story/opioid-users-sr-17018-drug-to-help-them-quit-dea-ban/"
+    },
+    {
+      "rank": 13,
+      "title": "Why Your Shrink Should Prescribe Exercise",
+      "points": 4,
+      "num_comments": 1,
+      "summary": "Yeni bir görüş yazısı, doktorların egzersizi genel bir yaşam tarzı tavsiyesi yerine tür, sıklık ve süresi belirli bir ilaç gibi reçetelemesi gerektiğini savunuyor. Yazarlara göre haftada yaklaşık 75 dakika bile psikolojik iyi oluşu artırabiliyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50366533",
+      "article_url": "https://nautil.us/why-your-shrink-should-prescribe-exercise-1286325"
+    },
+    {
+      "rank": 14,
+      "title": "Study Reveals Concerning Trends in Global Mental Health",
+      "points": 4,
+      "num_comments": 0,
+      "summary": "92 ülkeden 50 bin kişiyle yapılan bir ankete göre küresel ruh sağlığı, özellikle gençlerde olmak üzere zengin ülkelerde de geriliyor. Columbia'dan Kai Ruggeri, iş güvenliği, tükenmişlik ve ruh sağlığı hizmetlerine erişim için somut adımlar çağrısı yapıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50363650",
+      "article_url": "https://www.publichealth.columbia.edu/news/study-reveals-concerning-trends-global-mental-health"
+    }
+  ]
+}
