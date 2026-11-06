@@ -1,0 +1,216 @@
+{
+  "date": "2026-11-06",
+  "timestamp": "2026-11-06T04:56:51Z",
+  "summary_language": "tr",
+  "top_stories": [
+    {
+      "rank": 1,
+      "title": "sshole",
+      "points": 2463,
+      "num_comments": 604,
+      "summary": "musl tabanlı Linux sistemlerinde (Alpine, OpenWrt) PAM olmadan derlenmiş OpenSSH, 257–1024 karakter uzunluğundaki herhangi bir parolayla anahtar tabanlı veya kilitli hesaplara girişe izin verebiliyor. Sayfa, OpenSSH 10.6p2 sürümüne geçilmesini veya o zamana kadar parola girişinin kapatılmasını öneriyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50378228",
+      "article_url": "https://sshhole.com"
+    },
+    {
+      "rank": 2,
+      "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
+      "points": 617,
+      "num_comments": 2,
+      "summary": "Alpine Linux'un güvenlik duyurusu, SSH portuna erişebilen bir saldırganın, parola alanı '*' olan hesaplara parolasız giriş yapabileceği bir openssh-server açığını anlatıyor. Çözüm olarak openssh paketinin güncellenip sshd'nin yeniden başlatılması, bu mümkün değilse parola doğrulamasının kapatılması öneriliyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50379704",
+      "article_url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/"
+    },
+    {
+      "rank": 3,
+      "title": "Search for everyone",
+      "points": 602,
+      "num_comments": 313,
+      "summary": "Kagi artık hesap açmadan da arama yapılmasına izin veriyor; yeni kullanıcılara 50 ücretsiz arama, kayıt olunca 100 arama daha veriliyor. Reklamsız çalışan şirket, büyümek için mevcut kullanıcılardan arkadaş ve ailelerine bahsetmelerini istiyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50383740",
+      "article_url": "https://kagi.com/changelog#11820"
+    },
+    {
+      "rank": 4,
+      "title": "Goodbye from Salon",
+      "points": 512,
+      "num_comments": 184,
+      "summary": "Salon, 5 Kasım 2026'da 31 yıllık yayın hayatının ardından yayını durdurduğunu duyurdu. Yayın modelinin sürdürülemez hale geldiğini belirten dergi, veda mesajında çalışanlarına, katkıda bulunanlara ve okurlarına teşekkür etti.",
+      "hn_url": "https://news.ycombinator.com/item?id=50383739",
+      "article_url": "https://www.salon.com/2026/11/05/goodbye-from-salon/"
+    },
+    {
+      "rank": 5,
+      "title": "A thousand fewer paths to root",
+      "points": 477,
+      "num_comments": 356,
+      "summary": "Bu yazı OpenAI'ın 'A thousand fewer paths to root' başlıklı paylaşımı; başlıktan yola çıkarak sistemlerde yetki yükseltme (root) yollarının azaltılmasıyla ilgili güvenlik odaklı bir çalışmayı anlattığı anlaşılıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50372929",
+      "article_url": "https://openai.com/index/a-thousand-fewer-paths-to-root/"
+    },
+    {
+      "rank": 6,
+      "title": "Motorola Signature 27 with GrapheneOS support",
+      "points": 426,
+      "num_comments": 317,
+      "summary": "Motorola'nın Signature 27 telefonunun GrapheneOS desteğiyle geldiğini duyuran bir haber olduğu anlaşılıyor; bu, güvenlik odaklı alternatif işletim sistemini resmi olarak destekleyen önemli bir adım olabilir. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50380810",
+      "article_url": "https://motorolanews.com/motorola-signature-27-2/"
+    },
+    {
+      "rank": 7,
+      "title": "Discord is ditching Electron and its new app uses less RAM",
+      "points": 412,
+      "num_comments": 355,
+      "summary": "The Verge'e göre Discord, Electron'u bırakıp yeni uygulamasında daha az RAM kullanan bir yapıya geçiyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50378625",
+      "article_url": "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app"
+    },
+    {
+      "rank": 8,
+      "title": "MS Paint Remote Code Execution Vulnerability",
+      "points": 393,
+      "num_comments": 145,
+      "summary": "CVE kaydı, MS Paint'te uzaktan kod çalıştırmaya izin veren bir güvenlik açığına (CVE-2026-83844) işaret ediyor. Sayfa yalnızca başlık içerdiği için bu özet büyük ölçüde başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50384233",
+      "article_url": "https://www.cve.org/CVERecord?id=CVE-2026-83844"
+    },
+    {
+      "rank": 9,
+      "title": "Lemmings CSS Animation",
+      "points": 392,
+      "num_comments": 77,
+      "summary": "Sayfa, yürüyen karakterlerin eklenip sürüklenebildiği, merdiven, platform ve çukurlardan geçtiği etkileşimli bir CSS animasyon oyun alanı. Pencere boyutu değiştirilince karakterler yüzeyle birlikte hareket ediyor ve hızlı yeniden boyutlandırma onları fırlatabiliyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50375354",
+      "article_url": "https://markblah.github.io/lemmings/"
+    },
+    {
+      "rank": 10,
+      "title": "Images 2.6",
+      "points": 376,
+      "num_comments": 233,
+      "summary": "OpenAI'ın 'Images 2.6' adlı yeni görsel üretim sürümünü tanıttığı anlaşılıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50372945",
+      "article_url": "https://openai.com/index/introducing-images-2-6/"
+    }
+  ],
+  "health_stories": [
+    {
+      "rank": 1,
+      "title": "My psychophysics as a bilateral cochlear implant user",
+      "points": 172,
+      "num_comments": 77,
+      "summary": "Bu gönderi, iki kulağında koklear implant kullanan bir kişinin psikofizik deneyimini anlatıyor gibi görünüyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50381033",
+      "article_url": "https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf"
+    },
+    {
+      "rank": 2,
+      "title": "Infant Bleeding Surged as Parents Rejected Vitamin K Shots, Studies Find",
+      "points": 40,
+      "num_comments": 21,
+      "summary": "Yenidoğanlarda K vitamini iğnesinin reddedilmesiyle bebeklerde kanama vakalarının arttığını gösteren çalışmaları ele alan bir haber. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50383440",
+      "article_url": "https://www.nytimes.com/2026/11/05/well/live/vitamin-k-shot-newborn-bleeding.html"
+    },
+    {
+      "rank": 3,
+      "title": "All 5 genetic letters of DNA and RNA discovered in 4.5B-year-old asteroid",
+      "points": 30,
+      "num_comments": 10,
+      "summary": "Japonya'nın Hayabusa2 görevinin getirdiği Ryugu asteroidi örneklerinde, DNA ve RNA'nın genetik kodunu oluşturan beş nükleobazın tamamı bulundu. Nature Astronomy'de yayımlanan bulgu, yaşamın yapı taşlarının erken Güneş Sistemi'nde yaygın olduğunu ve asteroitler yoluyla Dünya'ya ulaşmış olabileceğini düşündürüyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50378085",
+      "article_url": "https://www.sciencedaily.com/releases/2026/11/261102075903.htm"
+    },
+    {
+      "rank": 4,
+      "title": "Private equity is buying up more methadone clinics",
+      "points": 26,
+      "num_comments": 3,
+      "summary": "Özel sermaye şirketleri ABD'deki metadon kliniklerinin yaklaşık %35'ine sahip olsa da, araştırmacıya göre bu satın almalar ilaca erişimi artırmadı. Yazı, doktorların reçete yazmasına ve eczanelerin metadon dağıtmasına izin verecek bir yasa tasarısını ve klinik sektörünün buna karşı çıkışını anlatıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50379943",
+      "article_url": "https://theconversation.com/private-equity-is-buying-up-more-methadone-clinics-access-to-the-lifesaving-drug-isnt-getting-easier-286927"
+    },
+    {
+      "rank": 5,
+      "title": "Epileptic seizures nearly vanish after people receive experimental gene therapy",
+      "points": 24,
+      "num_comments": 4,
+      "summary": "Deneysel bir gen tedavisi sonrasında epilepsi nöbetlerinin neredeyse ortadan kalktığını bildiren bir Nature haberi. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50380487",
+      "article_url": "https://www.nature.com/articles/d41586-026-03566-2"
+    },
+    {
+      "rank": 6,
+      "title": "Vibrating mattress helps clear Alzheimer's protein from the brain",
+      "points": 20,
+      "num_comments": 0,
+      "summary": "Titreşimli bir yatağın beyindeki Alzheimer ile ilişkili proteinin temizlenmesine yardımcı olduğunu bildiren bir New Scientist haberi. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50375712",
+      "article_url": "https://www.newscientist.com/article/2597081-vibrating-mattress-helps-clear-alzheimers-protein-from-the-brain/"
+    },
+    {
+      "rank": 7,
+      "title": "Why Isn't Retatrutide Approved Yet?",
+      "points": 16,
+      "num_comments": 1,
+      "summary": "Eli Lilly, retatrutide adlı deneysel kilo verme ilacının biyolojik ürün sayılmasını istediği için henüz FDA'ya onay başvurusu yapmadı; FDA ise ilacın protein sayılmadığını savunuyor. Konu temyizde ve en kötü senaryoda onay 2029 civarına kayabilir.",
+      "hn_url": "https://news.ycombinator.com/item?id=50374791",
+      "article_url": "https://lettersfrombethlehem.substack.com/p/why-isnt-retatrutide-approved-yet"
+    },
+    {
+      "rank": 8,
+      "title": "Smiling can make you happier – unless someone forces you to do it",
+      "points": 15,
+      "num_comments": 2,
+      "summary": "Florida Üniversitesi'nin çalışmasına göre tek bir zoraki gülümseme ruh halini kısa süre iyileştirebiliyor, ancak özellikle para cezası gibi baskılarla tekrar tekrar gülmeye zorlanmak bu faydayı ortadan kaldırıyor. Yazarlar, çalışanlara gülümseme zorunluluğu getiren iş yeri kurallarının refahı düşürebileceğini belirtiyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50375066",
+      "article_url": "https://news.ufl.edu/2026/11/smiling-happiness/"
+    },
+    {
+      "rank": 9,
+      "title": "New York reports first measles death in more than 30 years",
+      "points": 10,
+      "num_comments": 1,
+      "summary": "New York'ta 30 yılı aşkın sürenin ardından ilk kızamık ölümü bildirildi; ölen, Lewis County'de yaşayan bir çocuk. Eyalette bu yıl 178 vaka görülürken komşu Pennsylvania'da son 30 yılın en kötü kızamık salgını yaşanıyor ve CDC destek için uzman gönderdi.",
+      "hn_url": "https://news.ycombinator.com/item?id=50371785",
+      "article_url": "https://www.nbcnews.com/health/health-news/new-york-measles-death-rcna607137"
+    },
+    {
+      "rank": 10,
+      "title": "Did the World Just Gain Hundreds of Millions of Alzheimer's Patients?",
+      "points": 6,
+      "num_comments": 0,
+      "summary": "The New Yorker'ın bu yazısı, dünyanın yüz milyonlarca yeni Alzheimer hastası kazanıp kazanmadığını sorguluyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50383656",
+      "article_url": "https://www.newyorker.com/magazine/2026/11/09/did-the-world-just-gain-hundreds-of-millions-of-alzheimers-patients"
+    },
+    {
+      "rank": 11,
+      "title": "Twelve-month all-cause mortality after initial Covid-19 vaccination",
+      "points": 5,
+      "num_comments": 2,
+      "summary": "Covid-19 aşısının ilk dozundan sonraki 12 aylık tüm nedenlere bağlı ölüm oranını inceleyen bir bilimsel makale gibi görünüyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50379922",
+      "article_url": "https://www.sciencedirect.com/science/article/pii/S2590113326000556"
+    },
+    {
+      "rank": 12,
+      "title": "Changing a patient social background changed LLM care recommendations",
+      "points": 4,
+      "num_comments": 1,
+      "summary": "MedWrite'ın yazısı, Dublin'deki bir yapay zeka sağlık etkinliğinde 49 katılımcının büyük dil modellerini gerçekçi bir hasta vakasında test ettiğini anlatıyor; konut ya da yaş gibi ayrıntılar değişince modellerin önerileri de değişti. Yazı, hastanelerin yerel kılavuzlar, otomatik kontroller ve klinisyen onayı eklemesi gerektiğini savunuyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50378462",
+      "article_url": "https://medwrite.ai/news/inside-the-dublink-llm-athon"
+    },
+    {
+      "rank": 13,
+      "title": "Lab-grown meat was supposed to save the world. What happened?",
+      "points": 4,
+      "num_comments": 3,
+      "summary": "The Guardian'ın uzun interaktif yazısı, dünyayı kurtarması beklenen laboratuvar üretimi etin neden beklentileri karşılamadığını sorguluyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50383369",
+      "article_url": "https://www.theguardian.com/news/ng-interactive/2026/nov/05/lab-grown-meat-save-the-world-food-revolution-climate-crisis-food-system"
+    }
+  ]
+}
