@@ -1,0 +1,162 @@
+{
+  "date": "2026-11-07",
+  "timestamp": "2026-11-07T04:58:00Z",
+  "summary_language": "tr",
+  "top_stories": [
+    {
+      "rank": 1,
+      "title": "Claude Code sends your email address to websites",
+      "points": 1561,
+      "num_comments": 497,
+      "summary": "Bir GitHub kaydı, Claude Code'un web aramaları gibi giden isteklerde kullanıcının e-posta adresini User-Agent başlığına eklediğini ve bunun spam e-postalara yol açtığını bildiriyor. Anthropic, bunu engelleyen bir gizlilik modülünü varsayılan olarak açtığını söyledi; ancak yorumcular modelin kendi oluşturduğu User-Agent içinde e-postanın veya proje adlarının yine sızabildiğini belirtti.",
+      "hn_url": "https://news.ycombinator.com/item?id=50385272",
+      "article_url": "https://github.com/anthropics/claude-code/issues/107757"
+    },
+    {
+      "rank": 2,
+      "title": "Tesla to wind down Cybertruck production",
+      "points": 919,
+      "num_comments": 1772,
+      "summary": "Tesla, Cybertruck üretimini Texas fabrikasında 2027 ortasında sonlandırmayı planlıyor ve kapasiteyi Cybercab robotaksisine ayıracak. Araç geçen yıl ABD'de yaklaşık 20 bin adet satarak 2024'e göre yaklaşık %48 geriledi. Üretimin başka bir tesise taşınıp taşınmayacağı belirsiz.",
+      "hn_url": "https://news.ycombinator.com/item?id=50391456",
+      "article_url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817"
+    },
+    {
+      "rank": 3,
+      "title": "Blender's UI and Runtime: Much Faster Than GPUI",
+      "points": 689,
+      "num_comments": 280,
+      "summary": "BUI, Blender'ın GPU hızlandırmalı arayüzünü Blender'dan ayırıp Python, Rust, JavaScript, C/C++ veya Dear ImGui ile kullanılabilen bir kütüphaneye dönüştüren GPL-3.0 lisanslı bir proje. Düşük CPU ve bellek kullanımı, hızlı açılış ve boştayken CPU kullanmayan hasar tabanlı bir çizim motoru vaat ediyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50389333",
+      "article_url": "https://github.com/ppmpreetham/BUI"
+    },
+    {
+      "rank": 4,
+      "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
+      "points": 626,
+      "num_comments": 410,
+      "summary": "Bir GitHub kaydı, ASN Bank Android uygulamasının GrapheneOS gibi alternatif işletim sistemlerinde çalışıp çalışmadığını takip ediyor. Kullanıcılar cihaz bütünlüğü kontrolleri nedeniyle giriş ve iDEAL | Wero ödeme hataları bildirirken, bir yorumcu Wero'nun böyle bir gereksinimi olmadığını savunuyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50390124",
+      "article_url": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105"
+    },
+    {
+      "rank": 5,
+      "title": "Britain to make salary disclosure in job ads mandatory",
+      "points": 570,
+      "num_comments": 431,
+      "summary": "Birleşik Krallık'ta iş ilanlarında maaş bilgisinin açıklanmasını zorunlu kılacak bir yasa hazırlanıyor. Haber Reuters'ta yayımlandı. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50389222",
+      "article_url": "https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/"
+    },
+    {
+      "rank": 6,
+      "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+      "points": 498,
+      "num_comments": 223,
+      "summary": "Mark Cuban, Meta'nın kendisinin yüzünü ve sesini taklit eden yapay zekâ ile sahte diyabet tedavisi reklamlarını bilerek yayınladığını söylüyor. Reuters'ın bildirdiği iç belgelere göre Meta, 2024 gelirinin yaklaşık %10'u olan 16 milyar dolarını dolandırıcılık ve yasaklı ürün reklamlarından bekliyordu; Meta bu rakamı kaba ve aşırı kapsayıcı bir tahmin olarak niteledi.",
+      "hn_url": "https://news.ycombinator.com/item?id=50385870",
+      "article_url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html"
+    },
+    {
+      "rank": 7,
+      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+      "points": 399,
+      "num_comments": 90,
+      "summary": "Hightouch, hızlı ve ucuz karar modellerinin kimlik eşleştirme çıktısını değerlendirip değerlendiremeyeceğini test etti. Güven skorları daha iyi kalibre edilmiş Jev modeli, belirsiz vakaları Claude Opus'a devrettiğinde kolay testte yaklaşık dörtte bir maliyetle Opus'a yakın doğruluk, zor testte ise eşit doğruluk elde etti.",
+      "hn_url": "https://news.ycombinator.com/item?id=50397429",
+      "article_url": "https://hightouch.com/blog/llm-judges-identity-resolution"
+    },
+    {
+      "rank": 8,
+      "title": "Deus Ex",
+      "points": 347,
+      "num_comments": 181,
+      "summary": "Jimmy Maher'in yazısı, 2000 yapımı Deus Ex'i Looking Glass'ın tasarım anlayışı ve Warren Spector'ın \"bulmaca değil, problem\" ilkesi üzerine kurulu bir sürükleyici simülasyon olarak inceliyor. Maher, oyunun hikâyesinin kehanetten çok komplo teorisi pastişi olduğunu ve öngörüsünün abartıldığını savunuyor; oynanışı ise övüyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50393758",
+      "article_url": "https://www.filfre.net/2026/11/deus-ex/"
+    },
+    {
+      "rank": 9,
+      "title": "Pwn.college",
+      "points": 310,
+      "num_comments": 53,
+      "summary": "pwn.college, Arizona Eyalet Üniversitesi tarafından işletilen, \"dojo\" ve kuşak sistemiyle ilerleyen ücretsiz bir siber güvenlik eğitim platformu. Zorlukları dünya genelinde üniversitelerde not vermek için de kullanıldığından çözümlerin yayımlanmaması isteniyor; altyapısı açık kaynak.",
+      "hn_url": "https://news.ycombinator.com/item?id=50387796",
+      "article_url": "https://pwn.college/"
+    },
+    {
+      "rank": 10,
+      "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
+      "points": 309,
+      "num_comments": 111,
+      "summary": "MIT Press Reader'da yayımlanan bir yazı, Linux'ten Vikipedi'ye uzanan gönüllü topluluklarının interneti nasıl inşa ettiğini ele alıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50388122",
+      "article_url": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/"
+    }
+  ],
+  "health_stories": [
+    {
+      "rank": 1,
+      "title": "Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)",
+      "points": 167,
+      "num_comments": 53,
+      "summary": "2016 tarihli bu bilimsel makale, devasa bir çukur tuzağa düşen orman karıncalarının hayatta kalma sınırlarının ötesinde yaşamasını inceliyor. Makale Journal of Hymenoptera Research'te yayımlandı; ancak sayfada yalnızca künye bilgisi bulunduğundan bulgular okunamadı. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50390525",
+      "article_url": "https://jhr.pensoft.net/articles.php?id=9096"
+    },
+    {
+      "rank": 2,
+      "title": "How octopuses squeeze through too small gaps",
+      "points": 60,
+      "num_comments": 17,
+      "summary": "Araştırmacılar genç ahtapotların, bazıları gözleri arasındaki mesafeden dar olan şeffaf kutu deliklerinden nasıl kaçtığını filme aldı. Yaygın ahtapotlar önce kollarını geçirip ardından itme-sürükleme hareketiyle gövdelerini çekerken, Maya ahtapotları dar deliği bırakıp daha geniş olanı seçti. Bulguların yumuşak gövdeli kurtarma robotlarına ilham vermesi umuluyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50392348",
+      "article_url": "https://journals.biologists.com/jeb/article/229/21/jeb253615/373332/How-octopuses-squeeze-through-too-small-gaps"
+    },
+    {
+      "rank": 3,
+      "title": "Ozempic-style drugs now in trials for heart failure, addiction and even aging",
+      "points": 58,
+      "num_comments": 25,
+      "summary": "En az 1.800 insan denemesinin analizine göre Ozempic ve Wegovy gibi GLP-1 ilaçlarının diyabet ve kilo dışındaki denemelerin oranı 15 yılda yaklaşık üç katına çıkarak 14'te 1'den 4'te 1'e ulaştı. Çalışmalar bağımlılık, kalp yetmezliği, böbrek ve karaciğer hastalıkları, kanser, Alzheimer ve yaşlanma gibi 15 alanı kapsıyor; ancak sonuçlar henüz bilinmiyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50393458",
+      "article_url": "https://maccus.fr/en/ozempic-drugs-trials-beyond-diabetes/"
+    },
+    {
+      "rank": 4,
+      "title": "One in eight cancers are likely caused by an infection worldwide",
+      "points": 34,
+      "num_comments": 3,
+      "summary": "Lancet Oncology'de yayımlanan DSÖ öncülüğündeki çalışma, 2024'te dünyadaki kanser vakalarının yaklaşık %12'sinin (yaklaşık 2,3 milyon) enfeksiyonlardan kaynaklandığını tahmin ediyor. Vakaların çoğu H. pylori, HPV, hepatit B, Epstein-Barr ve hepatit C kaynaklı; üçte ikisinden fazlası düşük ve orta gelirli ülkelerde görülüyor, bu nedenle aşı, tarama ve tedavinin genişletilmesi öneriliyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50386210",
+      "article_url": "https://theconversation.com/one-in-eight-cancers-are-likely-caused-by-an-infection-worldwide-new-study-292996"
+    },
+    {
+      "rank": 5,
+      "title": "Castration extends life span in mice",
+      "points": 17,
+      "num_comments": 28,
+      "summary": "Science'ta yayımlanan bir haber, farelerde kastrasyonun yaşam süresini uzattığını öne süren bir çalışmayı konu alıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50387470",
+      "article_url": "https://www.science.org/content/article/castration-extends-life-span-surprising-way-mouse-study-suggests"
+    },
+    {
+      "rank": 6,
+      "title": "Regulators approve generic HIV-prevention drug for low-income countries",
+      "points": 14,
+      "num_comments": 1,
+      "summary": "Düzenleyiciler, düşük gelirli ülkeler için HIV'den korunma amaçlı bir jenerik ilacı onayladı. Haber AP'de yayımlandı. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50387071",
+      "article_url": "https://apnews.com/article/generic-lenacapavir-gilead-who-prep-hiv-c3537796e84c54d60179eba3c56561e6"
+    },
+    {
+      "rank": 7,
+      "title": "Teeth from English cemetery link climate shocks and Industrial Rev. disease",
+      "points": 4,
+      "num_comments": 1,
+      "summary": "Araştırmacılar, kuzeydoğu İngiltere'deki Quaker mezarlığından 21 kişinin dişlerini inceledi ve Sanayi Devrimi döneminde çocukluk çağı D vitamini eksikliğine işaret eden kusurlar buldu. Doğum yılı tahmin edilen 109 kişiden 91'i büyük bir volkanik patlamadan sonraki 10 yıl içinde doğmuştu; bu, Küçük Buz Çağı'nda azalan güneş ışığının etkili olmuş olabileceğini düşündürüyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50396874",
+      "article_url": "https://phys.org/news/2026-11-centuries-cemetery-scientists-link-climate.html"
+    }
+  ]
+}
