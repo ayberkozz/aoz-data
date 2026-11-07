@@ -1,0 +1,86 @@
+{
+  "date": "2026-11-07",
+  "timestamp": "2026-11-07T06:30:00Z",
+  "summary": "Thin week for buildable ideas: the biggest demand signal (Claude Code leaking account email in outbound requests, 1.5k+ HN points) points to a category that already has roughly ten young open-source redaction proxies, so no solo or startup idea passed the demand-plus-weak-supply bar. The stronger material is in future signals: small local models beating frontier ones when given deterministic skills or multi-role workflows, early weight-space editing by agents, and silent-speech input.",
+  "solo": [],
+  "startup": [],
+  "future_signals": [
+    {
+      "technology": "Deterministic skill bundles and role-split workflows that let small local models match frontier models",
+      "stage": "emerging",
+      "why_now": "Two independent items this week report small open models (3B-8B, or five 27B roles) beating a frontier model on specific tasks once wrapped in verified tools or a multi-role workflow. Both are author-reported on small samples.",
+      "could_enable": "Inference: on-device or on-prem agents for privacy-sensitive domains (clinical, personal data) without a cloud frontier model, because correctness comes from tested code rather than model size.",
+      "signals": [
+        {
+          "title": "arXiv 2611.07652, Skillware (author claims 3B-8B models with bundles beat unequipped frontier models; opened)",
+          "url": "https://arxiv.org/abs/2611.07652"
+        },
+        {
+          "title": "Repo: AI papers 2026-11-07",
+          "url": "https://github.com/ayberkozz/aoz-data/blob/main/ai-papers/papers-2026-11-07.json"
+        },
+        {
+          "title": "Repo: HN digest 2026-11-02 (Memdoor, five Qwen roles vs frontier model on LiveCodeBench Hard; author notes small sample and leakage not excluded)",
+          "url": "https://github.com/ayberkozz/aoz-data/blob/main/hn-digests/hn-digest-2026-11-02.json"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "technology": "Agents that read and edit neural-network weights",
+      "stage": "emerging",
+      "why_now": "A post on an agent called Astra reports reading what small networks do from weights and editing 0.016% of Qwen3.5-0.8B weights to cut reasoning loops (MATH-500 7.9% to 48.1%, author-reported). A rebuttal says the language-model result used Python and practice batches, not raw weights alone. Total HN points across the two threads exceed 3,900.",
+      "could_enable": "Inference: cheap post-hoc repair of small models (loops, refusals) without retraining, and model auditing. Not demonstrated beyond sub-1B models and small samples.",
+      "signals": [
+        {
+          "title": "Astra weight-space programming post (opened)",
+          "url": "https://rikiyat.github.io/blog/weight-space-programming/"
+        },
+        {
+          "title": "Critique: Astra claim is misleading (opened)",
+          "url": "https://honnibal.dev/blog/astra-read-write-misleading"
+        },
+        {
+          "title": "Repo: HN digest 2026-11-03",
+          "url": "https://github.com/ayberkozz/aoz-data/blob/main/hn-digests/hn-digest-2026-11-03.json"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "technology": "Silent-speech input via RF/EMG wearables",
+      "stage": "emerging",
+      "why_now": "Show HN Subvocal (840 points) describes glasses decoding silently mouthed words; thread commenters cite lipreading accuracy ceilings and give accessibility and RSI use cases. The company site fetched as title only, so sensing claims rest on the thread.",
+      "could_enable": "Inference: private hands-free text input in public, and communication for intubated or voice-impaired patients (suggested by a commenter). Accuracy is unverified.",
+      "signals": [
+        {
+          "title": "HN thread for Show HN: Subvocal (opened via Algolia)",
+          "url": "https://news.ycombinator.com/item?id=50340088"
+        },
+        {
+          "title": "Repo: HN digest 2026-11-03",
+          "url": "https://github.com/ayberkozz/aoz-data/blob/main/hn-digests/hn-digest-2026-11-03.json"
+        }
+      ],
+      "confidence": "low"
+    },
+    {
+      "technology": "Coarse-to-fine retrieval with context management for deep-research agents",
+      "stage": "rising",
+      "why_now": "CORE (arXiv, Nov 5) returns one reranked snippet per long passage and suppresses repeats, reporting better accuracy and recall than two named harnesses on corpora up to 553M documents. Author-reported, v1 preprint.",
+      "could_enable": "Inference: long-running evidence search over large document sets with small context windows, relevant to citation-grounded clinical or legal RAG.",
+      "signals": [
+        {
+          "title": "arXiv 2611.07859, CORE (opened)",
+          "url": "https://arxiv.org/abs/2611.07859"
+        },
+        {
+          "title": "Repo: AI papers 2026-11-07",
+          "url": "https://github.com/ayberkozz/aoz-data/blob/main/ai-papers/papers-2026-11-07.json"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "limitations": "Checked: Reddit (0 posts), HN Algolia (11), App Store API (about 45 apps across 5 searches, 0 review feeds), Google Play (1 search, 9 apps), Chrome Web Store (1 search, 2 extensions), G2/Capterra (1 search, 0 usable), Product Hunt (1 search, snippets only), Google Trends (blocked), Indie Hackers (1 search, snippets only), RevenueCat (no).\nNo solo or startup idea is reported because none had both a demand source and a weak-supply source. Leading candidate dropped: a Mac app auditing coding-agent outbound requests, backed by the Claude Code email-in-User-Agent issue (github.com/anthropics/claude-code/issues/107757, opened) and an HN thread, but a GitHub search showed about ten recent PII-redaction proxies (e.g. PrivAiTe, 63 stars, pushed 2026-11-06) and G2/Play show active vendors, so supply is not weak. Other dropped candidates: web-archive diffing (WebWatch, 4.70 stars from 189 ratings, actively updated), Casio watch sync (official iOS app 4.70 from 21k ratings), UK pay-range tool (HN claim of a mandatory law; a search found only a consultation, not law), banking-app compatibility for GrapheneOS (an existing community repo covers it).\nReddit: www.reddit.com fetch refused by the tool; site: search returned only blogs and mirrors, so no Reddit demand evidence. Google Trends: HTTP 429, no second-hand quote sought. G2/Capterra: site: search returned two product listings and vendor articles, no complaints. Product Hunt and Indie Hackers: site: searches gave snippets only; I did not open the pages or use their revenue figures. Google Play: search page shows no install counts or dates. Chrome Web Store: search page showed no user counts or dates. GitHub stale-repo search: two queries returned 0 results (likely query syntax), a third returned only young repos; the GitHub repo API returned 403. RevenueCat: not searched. subvocal.company returned only a title. Hacker News point counts come from Algolia or repo digests and drift between sources. Only the issue page, HN threads via Algolia, and arXiv abstract pages were opened; full texts of the Astra and Skillware papers were not read."
+}
