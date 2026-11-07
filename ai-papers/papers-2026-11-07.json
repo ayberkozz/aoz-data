@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-07",
+  "timestamp": "2026-11-07T05:00:00Z",
+  "papers": [
+    {
+      "title": "CORE: Coarse-to-Fine Search with Context Management for Deep Research",
+      "pdf_url": "https://arxiv.org/pdf/2611.07859",
+      "summary": "Introduces CORE, a training-free search harness for deep research agents that retrieves long passages with a dense retriever, then uses token-level late-interaction reranking to return only the most relevant snippet from each. Context management lets the agent expand around known sources and suppresses repeated snippets, giving state-of-the-art accuracy and evidence recall over Tongyi DeepResearch and OpenResearcher harnesses on corpora up to 553M documents.",
+      "page_count": 24
+    },
+    {
+      "title": "Don't Prompt Your Agents. Equip Them: Skillware as a Modular Standard for Sovereign, Auditable, and Deterministic Capability Execution for Logical Systems",
+      "pdf_url": "https://arxiv.org/pdf/2611.07652",
+      "summary": "Presents Skillware, an open framework and registry that separates what an agent wants to do from how it is executed, packaging capabilities as versioned bundles with typed JSON contracts, deterministic code, and tests. Across 23 models and 368 conditions, small local 3B-8B models equipped with Skillware outperformed unequipped frontier models on multi-step workflows while cutting token usage and cost.",
+      "page_count": 51
+    }
+  ]
+}
