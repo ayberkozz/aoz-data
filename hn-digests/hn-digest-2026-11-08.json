@@ -1,0 +1,180 @@
+{
+  "date": "2026-11-08",
+  "timestamp": "2026-11-08T05:05:00Z",
+  "summary_language": "tr",
+  "top_stories": [
+    {
+      "rank": 1,
+      "title": "Libghostty 1.0",
+      "points": 1031,
+      "num_comments": 178,
+      "summary": "Ghostty terminalinden ayrıştırılan libghostty-vt kütüphanesi 1.0 sürümüyle kararlı hale geldi; anlamsal sürümleme ve sıkı ABI uyumluluğu sözü veriyor. Kütüphane şimdiden JetBrains IDE'leri dahil birçok araçta terminal olarak kullanılıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50399933",
+      "article_url": "https://mitchellh.com/writing/libghostty-1-0"
+    },
+    {
+      "rank": 2,
+      "title": "Need for Speed Underground 2 online in the browser",
+      "points": 867,
+      "num_comments": 238,
+      "summary": "Need for Speed Underground 2'nin yeniden derlenmiş PC kodu, Chrome ve Firefox'ta 120 fps'e kadar ve arkadaşlarla çevrimiçi yarış desteğiyle çalışıyor. Geliştirici projeyi ücretsiz sunuyor; bağışlar yalnızca Discord rolü sağlıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50403052",
+      "article_url": "https://nfsu2.xyz/"
+    },
+    {
+      "rank": 3,
+      "title": "Every Mac comes with an (undocumented) family member classifier",
+      "points": 650,
+      "num_comments": 362,
+      "summary": "Makale, macOS'in arka plandaki iki servis aracılığıyla cihaz üzerinde kişiler, ilişkiler, iletişim ve konumlardan oluşan bir kişisel bilgi grafiği oluşturduğunu anlatıyor. Silinen kayıtların ikincil bir tabloda kalabildiği uyarısını yapıyor ve kendi grafiğinizi incelemek için açık kaynak iKnow panosunu tanıtıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50403097",
+      "article_url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph"
+    },
+    {
+      "rank": 4,
+      "title": "What I run on my $10 USD OpenStick homelab",
+      "points": 449,
+      "num_comments": 96,
+      "summary": "Yazar, 10 dolarlık bir OpenStick 4G modemi Debian ile sessiz ve düşük enerjili bir ev laboratuvarına dönüştürmüş. Üzerinde AdGuard Home, Beszel, Gatus, Shiori ve Cloudflare Tunnel gibi hafif araçlar çalışıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50406670",
+      "article_url": "https://blog.bosscher.ch/posts/openstick/"
+    },
+    {
+      "rank": 5,
+      "title": "The end of Microsoft Research's AI Frontiers group",
+      "points": 426,
+      "num_comments": 252,
+      "summary": "John Langford, Microsoft Research'ün AI Frontiers grubunun sona erdiğini duyuruyor. Grubun Microsoft AI altında yeniden yapılandırıldığını, bu yapının araştırma yerine ölçeklemeye öncelik verdiğini söylüyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50406563",
+      "article_url": "https://hunch.net/?p=13764006"
+    },
+    {
+      "rank": 6,
+      "title": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
+      "points": 408,
+      "num_comments": 267,
+      "summary": "Guardian'ın haberi, Apple'ın iPhone klavyesinde yazım düzeltmesi yapmadığı kelime ve ifadelerin 'gri listesini' ele alıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50406111",
+      "article_url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you"
+    },
+    {
+      "rank": 7,
+      "title": "Asahi Linux Progress Linux 7.3",
+      "points": 347,
+      "num_comments": 298,
+      "summary": "Asahi Linux'un Linux 7.3 raporu, macaudio ve AVD sürücülerinin ana çekirdeğe alındığını ve M3 desteğinin genel kullanıma açıldığını bildiriyor. Ayrıca M5 için ön çalışmalar, M3 GPU'da ilk üçgen ve Thunderbolt çalışmaları duyuruluyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50401867",
+      "article_url": "https://asahilinux.org/2026/11/progress-report-7-3/"
+    },
+    {
+      "rank": 8,
+      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+      "points": 268,
+      "num_comments": 176,
+      "summary": "Apiiro'nun raporu, Claude Code'daki 'Bir daha sorma' seçeneğinin parolaları 1.122 herkese açık GitHub dosyasında açığa çıkardığını öne sürüyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50407882",
+      "article_url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again"
+    },
+    {
+      "rank": 9,
+      "title": "Upload Your RAM",
+      "points": 266,
+      "num_comments": 248,
+      "summary": "UploadYourRam.org, Sam Altman'ın kişisel bilgisayarlardaki RAM'in verimsiz olduğu yönündeki sözleriyle dalga geçen bir parodi site. Ziyaretçilerden 2, 4 veya 16 GB RAM 'bağışlamaları' isteniyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50403214",
+      "article_url": "https://uploadyourram.org"
+    },
+    {
+      "rank": 10,
+      "title": "Every Windows 11 app should kill Electron, and Discord just showed why",
+      "points": 260,
+      "num_comments": 231,
+      "summary": "Discord'un Electron yerine GPUI ile Rust'ta yazılan yeni masaüstü istemcisi, yan yana testte mevcut uygulamadan önce açıldı ve yaklaşık 290 MB RAM kullandı. Henüz kapalı test aşamasında ve yayın tarihi belli değil.",
+      "hn_url": "https://news.ycombinator.com/item?id=50403507",
+      "article_url": "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/"
+    }
+  ],
+  "health_stories": [
+    {
+      "rank": 1,
+      "title": "Cancer at Sea",
+      "points": 24,
+      "num_comments": 2,
+      "summary": "Marine Mammal Center araştırmacıları, ölen yetişkin Kaliforniya deniz aslanlarının dörtte birinden fazlasını etkileyen bir kanseri inceliyor. Kanser bir herpesvirüsü, kirletici birikimi ve genetik etkenlerle ilişkilendiriliyor; bulguların insan kanserlerini anlamaya yardımcı olması umuluyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50404438",
+      "article_url": "https://biographic.com/cancer-at-sea/"
+    },
+    {
+      "rank": 2,
+      "title": "Cellular pathway that allows colorectal cancer to metastasize",
+      "points": 8,
+      "num_comments": 0,
+      "summary": "MIT araştırmacıları, kolon kanseri hücrelerinin doku onarımına yardım eden YAP1 proteinini ele geçirerek özellikle karaciğere yayıldığını buldu. Yüksek yağlı diyet seramidler yoluyla bu yolu güçlendiriyor; seramid üretimini engelleyen ilaçlar metastazı önleyebilir.",
+      "hn_url": "https://news.ycombinator.com/item?id=50400907",
+      "article_url": "https://news.mit.edu/2026/biologists-identify-cellular-pathway-allows-colorectal-cancer-metastasize-0924"
+    },
+    {
+      "rank": 3,
+      "title": "Noise pollution changes biology or behavior in 80% of animal species studied",
+      "points": 7,
+      "num_comments": 0,
+      "summary": "Science'ta yayımlanan bir derleme, 177 türü kapsayan 214 deneyin %80'inde insan kaynaklı gürültünün fizyoloji, gelişim veya davranışı değiştirdiğini buldu. Etkiler genel olarak zararlı; araştırmacılar sessiz bölgeler öneriyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50399464",
+      "article_url": "https://phys.org/news/2026-11-noise-pollution-biology-behavior-animal.html"
+    },
+    {
+      "rank": 4,
+      "title": "New \"high safety\" chemicals in plastic food packaging linked to low birth weight",
+      "points": 6,
+      "num_comments": 2,
+      "summary": "Guardian'a göre plastik gıda ambalajlarındaki yeni 'yüksek güvenlikli' kimyasallar düşük doğum ağırlığıyla ilişkilendirilmiş. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50404767",
+      "article_url": "https://www.theguardian.com/us-news/2026/nov/07/nontoxic-plastic-lower-birth-weight-study"
+    },
+    {
+      "rank": 5,
+      "title": "Help your friends get ADHD and depression meds",
+      "points": 5,
+      "num_comments": 0,
+      "summary": "Yazı, DEHB veya depresyonu olan arkadaşlarınıza ilaç için bir doktora gitme adımlarında yardım etmenin çok değerli olabileceğini savunuyor. Yorumcular ilaçların risklerine ve sağlık sisteminin yorucu olduğuna dikkat çekti, yazar da uyarılar ekledi.",
+      "hn_url": "https://news.ycombinator.com/item?id=50400164",
+      "article_url": "https://www.lesswrong.com/posts/8qYuy9Cr6BNpgjJjT/help-your-friends-get-adhd-and-depression-meds"
+    },
+    {
+      "rank": 6,
+      "title": "Vasomechanic treatment associated with increased efflux of human brain proteins",
+      "points": 4,
+      "num_comments": 0,
+      "summary": "Nature Communications'taki çalışma, 'vazomekanik' bir tedavinin insan beyin proteinlerinin dışarı atılımını artırdığını bildiriyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50407229",
+      "article_url": "https://www.nature.com/articles/s41467-026-78894-y"
+    },
+    {
+      "rank": 7,
+      "title": "GLP-1 Prescriptions for People with No Medical Need Are Climbing",
+      "points": 4,
+      "num_comments": 1,
+      "summary": "New York Times haberi, tıbbi ihtiyacı olmayan kişilere yazılan GLP-1 reçetelerinin arttığını bildiriyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50401606",
+      "article_url": "https://www.nytimes.com/2026/09/22/well/ozempic-glp1-medical-reason.html"
+    },
+    {
+      "rank": 8,
+      "title": "Are humans getting less hot scientists say our body temperature falling 200yrs",
+      "points": 3,
+      "num_comments": 1,
+      "summary": "MSN haberi, bilim insanlarına göre insan vücut sıcaklığının son 200 yıldır düştüğünü aktarıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50406825",
+      "article_url": "https://www.msn.com/en-in/health/women-health/are-humans-getting-less-hot-scientists-say-our-body-temperature-has-been-falling-for-200-years/ar-AA2gG8KV"
+    },
+    {
+      "rank": 9,
+      "title": "The brain's language network is more extensive than previously thought",
+      "points": 3,
+      "num_comments": 0,
+      "summary": "MIT, 772 kişinin beyin taramasında geleneksel dil merkezleri dışında beyincik, hipokampüs ve korteksteki 17 ek dile duyarlı bölge buldu. Bu bölgeler beyin hacminin yaklaşık %5'ini oluşturuyor ve rolleri hâlâ inceleniyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50403134",
+      "article_url": "https://news.mit.edu/2026/brain-language-network-more-extensive-than-previously-thought-0701"
+    }
+  ]
+}
