@@ -1,0 +1,198 @@
+{
+  "date": "2026-11-09",
+  "timestamp": "2026-11-09T05:10:00Z",
+  "summary_language": "tr",
+  "top_stories": [
+    {
+      "rank": 1,
+      "title": "Goodbye Claude, hello Pi",
+      "points": 719,
+      "num_comments": 445,
+      "summary": "Caleb, uzun süredir Claude Code kullanan bir geliştirici olarak çalışma düzenini açık kaynaklı Pi kodlama aracına taşıyor. Zayıf IDE desteği, hatalı VSCode eklentisi, sık değişen sistem istemleri ve yüksek token yükünü gerekçe gösteriyor. Pi'yi kararlı, sade ve özelleştirilebilir bulduğunu, Claude Code'un ise net bir ürün yönü olmadığını savunuyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50410107",
+      "article_url": "https://caleb.software/posts/claude-to-pi.html"
+    },
+    {
+      "rank": 2,
+      "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+      "points": 673,
+      "num_comments": 381,
+      "summary": "Goldman Sachs, Claude Code ve GitHub araçlarını çoğu trader ve bankacı için kısıtlayıp yalnızca mühendislere açtı. Karar, bankanın Anthropic'in halka arzına aracılık etmesinden haftalar önce geldi. Yazı, gözden geçirilmemiş yapay zekâ kodunu sınırlamayı doğru bulsa da değişikliğin kötü yönetildiğini savunuyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50415628",
+      "article_url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers"
+    },
+    {
+      "rank": 3,
+      "title": "Nvidia Board of Directors Is Investigating Jensen Huang",
+      "points": 451,
+      "num_comments": 336,
+      "summary": "NVIDIA yönetim kurulu, CEO Jensen Huang'ın yabancı bir istihbarat girişiminin hedefi olduğu yönündeki haberler üzerine bağımsız bir soruşturma başlattı. İnceleme, dış hukuk danışmanlarının desteklediği bağımsız yönetim kurulu üyelerinden oluşan bir komite tarafından yürütülecek. Kurul, ulusal güvenliğin veya şirket sırlarının ihlal edildiğine dair bir işaret olmadığını belirtiyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50416801",
+      "article_url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors"
+    },
+    {
+      "rank": 4,
+      "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+      "points": 434,
+      "num_comments": 472,
+      "summary": "Jensen Huang, eşine karşı sadakatsiz davrandığı için ailesinden ve çalışanlarından özür dilediği ve tüm sorumluluğu üstlendiği bir mektup yayımladı. Yönetim kurulunun ulusal güvenlik kaygılarıyla ilgili bağımsız soruşturma başlattığını ve soruşturmaya tam destek vereceğini söyledi.",
+      "hn_url": "https://news.ycombinator.com/item?id=50418016",
+      "article_url": "https://nvidianews.nvidia.com/news/a-message-to-our-company"
+    },
+    {
+      "rank": 5,
+      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+      "points": 392,
+      "num_comments": 175,
+      "summary": "llama-modchip, büyük uzman karışımı (MoE) modellerini GPU olmadan yalnızca sistem RAM'inde çalıştırmak için ggml/llama.cpp yamaları ve araçları sunan açık kaynaklı bir proje. Yazara göre 284 milyar parametreli DeepSeek modeli 64 GB'lık bir makinede saniyede yaklaşık 9-15 token hızında çalışıyor. Bu rakamlar projenin kendi iddialarıdır.",
+      "hn_url": "https://news.ycombinator.com/item?id=50411961",
+      "article_url": "https://github.com/synchopate/llama-modchip"
+    },
+    {
+      "rank": 6,
+      "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+      "points": 321,
+      "num_comments": 89,
+      "summary": "KetchUp, mobilya ve ahşap işi projelerini ölçülü biçimde planlamak için kullanılan ücretsiz, açık kaynaklı bir 3B tasarım uygulaması. Hesap gerektirmeden tarayıcıda ya da masaüstünde çalışıyor, işler yerel olarak otomatik kaydediliyor ve SketchUp modelleri içe aktarılabiliyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50418176",
+      "article_url": "https://ketchup3d.github.io/app/"
+    },
+    {
+      "rank": 7,
+      "title": "Writing as a thinking tool",
+      "points": 310,
+      "num_comments": 83,
+      "summary": "Yazı, yazmanın bir düşünme aracı olduğunu; fikirleri kâğıda dökmenin yalnızca zihinden yapılamayan işlemeyi mümkün kıldığını savunuyor. Özgürce taslak yazmak, acımasızca düzenlemek ve düz bir dil kullanmak gibi beş pratik kural öneriyor. Yazar ayrıca LLM çağında, modele danışmadan önce kendi yarım fikirlerini yazmanın düşünceyi size ait tuttuğunu söylüyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50412067",
+      "article_url": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html"
+    },
+    {
+      "rank": 8,
+      "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
+      "points": 308,
+      "num_comments": 219,
+      "summary": "5 Kasım 2026'dan beri Outlook.com, Hotmail, Live ve MSN, DMARC kaydı olmayan alan adlarından gelen bazı e-postaları, çoğu zaman haber vermeden reddediyor. Çözüm, `_dmarc` altında `v=DMARC1; p=none` değerli bir DNS TXT kaydı eklemek. DMARC'ın geçmesi için SPF veya DKIM ayarının From adresindeki alan adıyla uyumlu olması gerekiyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50416158",
+      "article_url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc"
+    },
+    {
+      "rank": 9,
+      "title": "Person of Interest",
+      "points": 295,
+      "num_comments": 188,
+      "summary": "Yazar, Person of Interest dizisini art arda izlemiş ve dizinin yaklaşık 15 yıl önceki yayın dönemine göre bugün daha güncel olduğunu düşünüyor. Dizi ona 2010'ların çevrimiçi forumlarını, SOPA/PIPA tartışmalarını ve Megaupload kapatılmasını hatırlatmış. Dizideki gözetim sistemi 'Makine'nin artık eskisi kadar bilimkurgu gibi görünmediğini belirtiyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50412318",
+      "article_url": "https://krthr.co/person-of-interest/"
+    },
+    {
+      "rank": 10,
+      "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
+      "points": 228,
+      "num_comments": 72,
+      "summary": "Dux Labs, niri, Hyprland ve Sway gibi Wayland derleyicileri için ücretsiz ve açık kaynaklı Dux Modular Shell masaüstü kabuğunu tanıtıyor. Dosya yöneticisi, sistem izleyici, giriş ekranı, arama ve takvim gibi araçları içeriyor ve GTK, Qt ile terminal uygulamaları için uyumlu temalar üretebiliyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50416053",
+      "article_url": "https://duxlabs.dev/"
+    }
+  ],
+  "health_stories": [
+    {
+      "rank": 1,
+      "title": "How I Fight AI Brain Fry",
+      "points": 190,
+      "num_comments": 151,
+      "summary": "Yazar, çok sayıda paralel yapay zekâ kodlama oturumunu yönetirken yaşadığı 'yapay zekâ beyin yorgunluğunu' anlatıyor. İşini markdown biletlerden oluşan git tabanlı bir öncelik kuyruğuna taşımış; yapay zekâ onaylı işleri yapıyor, yazarın ise yalnızca karar vermesi gereken öğeleri içeren bir gelen kutusu var. Tek seferde tek öğeyle ilgilenmek odağı koruyor, ancak iş yine de yorucu kalıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50416363",
+      "article_url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry"
+    },
+    {
+      "rank": 2,
+      "title": "Consumer brain wave headsets threaten privacy",
+      "points": 116,
+      "num_comments": 92,
+      "summary": "Tüketici beyin dalgası kulaklıkları ve giyilebilir cihazlar, kullanıcıların beyin verilerinin gizliliğini tehdit ediyor. Haber, üreticilerin bu verileri yapay zekâ eğitmek için kullanıcılara söylemeden topladığı iddiasını işliyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50409856",
+      "article_url": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F"
+    },
+    {
+      "rank": 3,
+      "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+      "points": 94,
+      "num_comments": 113,
+      "summary": "Haber, Silikon Vadisi'nin yapay zekânın hastalıkları tedavi edeceği vaadine ilaç şirketi CEO'larının şüpheyle yaklaştığını konu alıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50415817",
+      "article_url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c"
+    },
+    {
+      "rank": 4,
+      "title": "My parents chose to die together and I was left to grieve alone",
+      "points": 42,
+      "num_comments": 30,
+      "summary": "BBC haberi, anne babası birlikte ölmeyi seçen ve yas sürecinde kendini yalnız hisseden birinin hikâyesini anlatıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50410649",
+      "article_url": "https://www.bbc.com/news/articles/c81dwllzv113o"
+    },
+    {
+      "rank": 5,
+      "title": "Show HN: An offline desktop companion to help maintain a healthy blink rhythm",
+      "points": 38,
+      "num_comments": 23,
+      "summary": "EyesRhythm, web kamerasıyla göz kırpma sıklığınızı ve düzenini ölçen, bunları 0-100 arası bir 'Oküler Ritim Endeksi'nde birleştiren ücretsiz bir Mac ve Windows uygulaması. Ayrıca boyun ve omuz hareketi için hatırlatma yapan Poise özelliği var. Tüm işlem bilgisayarınızda kalıyor; uygulama tıbbi cihaz değil, sağlıklı yaşam yardımcısı olarak sunuluyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50408350",
+      "article_url": "https://eyesrhythm.com/"
+    },
+    {
+      "rank": 6,
+      "title": "Piezoelectric toothbrush reduces plaque",
+      "points": 4,
+      "num_comments": 0,
+      "summary": "Bilim dergisi Science Advances'te yayımlanan çalışma, piezoelektrik bir diş fırçasının diş plağını azalttığını bildiriyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50417460",
+      "article_url": "https://www.science.org/doi/10.1126/sciadv.aeg5744"
+    },
+    {
+      "rank": 7,
+      "title": "New drug could be cure for common cause of high blood pressure",
+      "points": 4,
+      "num_comments": 0,
+      "summary": "Guardian haberi, baxdrostat adlı yeni bir ilacın yaygın bir yüksek tansiyon nedenine çare olabileceğini bildiriyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50415806",
+      "article_url": "https://www.theguardian.com/society/2026/nov/08/new-drug-high-blood-pressure-baxdrostat"
+    },
+    {
+      "rank": 8,
+      "title": "The brain-body gap explanation for obesity",
+      "points": 4,
+      "num_comments": 0,
+      "summary": "Yazar, kilo alıp sonra vermiş biri olarak obeziteyi 'beyin-beden açığı' ile açıklıyor: Beynin istediği kalori alımı vücudun günlük enerji harcamasını aştıkça obezite olasılığı artıyor. Egzersizin her iki değeri de yükselttiği için açığı çoğu zaman kapatamadığını savunuyor ve 1988 tarihli bir Pima Kızılderilileri çalışmasına atıfta bulunuyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50408433",
+      "article_url": "https://greyenlightenment.com/2026/10/29/the-brain-body-gap-explanation-for-obesity/"
+    },
+    {
+      "rank": 9,
+      "title": "U.S. Obesity Rate Drops as Use of GLP-1 Weight Loss Drugs Surges",
+      "points": 3,
+      "num_comments": 1,
+      "summary": "U.S. News haberi, GLP-1 kilo verme ilaçlarının kullanımı artarken ABD'de obezite oranının düştüğünü bildiriyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50416732",
+      "article_url": "https://www.usnews.com/news/national-news/articles/2026-07-07/u-s-obesity-rate-drops-as-use-of-glp-1-weight-loss-drugs-surges"
+    },
+    {
+      "rank": 10,
+      "title": "A new cardiovascular drug lowered Lp(a) by 78%. Why didn't heart events fall?",
+      "points": 3,
+      "num_comments": 0,
+      "summary": "Novartis'in pelacarsen ilacı 8.322 kişilik HORIZON çalışmasında Lp(a) düzeyini %78 düşürdü, ancak büyük kardiyovasküler olaylar plaseboyla neredeyse aynı kaldı (%12,3 ve %12,1). Yazı üç olası açıklamayı tartışıyor: Lp(a) nedenden çok bir gösterge olabilir, katılımcıların LDL'si zaten düşüktü veya tedavi geç başladı. 2028-2029'da beklenen diğer ilaç sonuçları durumu netleştirmeli.",
+      "hn_url": "https://news.ycombinator.com/item?id=50416567",
+      "article_url": "https://www.empirical.health/blog/pelacarsen-lpa-horizon-results/"
+    },
+    {
+      "rank": 11,
+      "title": "\"Jumping genes\" helped ants evolve after the extinction of the dinosaurs",
+      "points": 3,
+      "num_comments": 0,
+      "summary": "Münster Üniversitesi'nden Dr. Lukas Schrader öncülüğündeki araştırmacılar, karıncaların dinozor neslinin tükenmesinden sonra hızla çeşitlenmesini 'sıçrayan genler' (transpozonlar) ile ilişkilendiriyor. 163 karınca türünün analizi, bu elementleri daha çok taşıyan soyların bugün en çok türe sahip olduğunu gösteriyor. Elementler ayrıca kimyasal iletişimde kullanılan koku reseptörü genlerinin çoğalmasına da katkıda bulunmuş olabilir.",
+      "hn_url": "https://news.ycombinator.com/item?id=50414004",
+      "article_url": "https://www.uni-muenster.de/news/view.php?cmdid=15659&utm_source=join1440&utm_medium=email&utm_placement=newsletter&user_id=66c4bf745d78644b3aa57b08"
+    }
+  ]
+}
