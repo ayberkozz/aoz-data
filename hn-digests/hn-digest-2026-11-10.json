@@ -1,0 +1,225 @@
+{
+  "date": "2026-11-10",
+  "timestamp": "2026-11-10T04:58:00Z",
+  "summary_language": "tr",
+  "top_stories": [
+    {
+      "rank": 1,
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "points": 968,
+      "num_comments": 6,
+      "summary": "Anthropic, en yetenekli modellerinin yükseltilmiş sürümleri olan Claude Fable 5.2 ve Mythos 5.2'yi duyurdu. Modeller çoğu kıyaslamada Opus 5.5'ten daha iyi performans gösteriyor ve çıktıyı %30'a kadar daha hızlı üretiyor. Fable 5.2 tüm kullanıcılara açıkken, Mythos 5.2 çift kullanımlı işler için doğrulanmış kuruluşlara sunuluyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50429906",
+      "article_url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+    },
+    {
+      "rank": 2,
+      "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+      "points": 953,
+      "num_comments": 1228,
+      "summary": "Nvidia CEO'su Jensen Huang, çalışanlara yazdığı mektupta eşine sadakatsiz davrandığı için ailesinden, çalışma arkadaşlarından ve hissedarlardan özür diledi. Huang tüm sorumluluğu üstlendiğini belirtti. Yönetim kurulu da haberlerde öne çıkan ulusal güvenlik kaygıları için bağımsız bir soruşturma başlattı.",
+      "hn_url": "https://news.ycombinator.com/item?id=50418016",
+      "article_url": "https://nvidianews.nvidia.com/news/a-message-to-our-company"
+    },
+    {
+      "rank": 3,
+      "title": "Foldable Flight: The Best Paper Airplanes",
+      "points": 904,
+      "num_comments": 144,
+      "summary": "Foldable Flight, 109 farklı tasarımın katlama talimatlarını sunan bir kâğıt uçak sitesi. Uçaklar zorluk, tür, tasarımcı ve kâğıt boyutuna göre filtrelenebiliyor ve her biri hız, süzülme ve isabet açısından puanlanıyor. Site ayrıca kâğıt uçak ürünleri satıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50424581",
+      "article_url": "https://www.foldableflight.com"
+    },
+    {
+      "rank": 4,
+      "title": "Is Opus 5.5 nerfed? Thinking patterns changed on November 3",
+      "points": 770,
+      "num_comments": 483,
+      "summary": "Bir kullanıcı, Opus 5.5 modelinin 3 Kasım'da düşünme biçiminin değiştiğini ve modelin geriletilmiş gibi göründüğünü öne sürüyor. Başka kullanıcılar da benzer şikâyetlerle konuya katılıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50422069",
+      "article_url": "https://twitter.com/shanemelaugh/status/2119192075505893695"
+    },
+    {
+      "rank": 5,
+      "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+      "points": 735,
+      "num_comments": 225,
+      "summary": "KetchUp, ahşap işleri ve mobilya projelerini 3 boyutlu planlamak için geliştirilen, Rust ve WebGPU tabanlı ücretsiz, açık kaynaklı bir SketchUp alternatifi. Hesap gerektirmiyor, projeler yerel olarak otomatik kaydediliyor. SketchUp içe aktarma ve OBJ dışa aktarma destekleniyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50418176",
+      "article_url": "https://ketchup3d.github.io/app/"
+    },
+    {
+      "rank": 6,
+      "title": "Unlocking any car from X brand in most of the world",
+      "points": 602,
+      "num_comments": 335,
+      "summary": "Güvenlik araştırmacıları Shubs ve Sam Curry, adı verilmeyen bir otomobil üreticisinin bağlı araç platformunda bir dizi açık buldu. Açıklar yalnızca plaka bilgisiyle Avustralya'daki araçların kapılarının uzaktan açılmasına izin veriyordu. Zincirde açıkta kalan yönetici kimlik bilgileri, güvenlik duvarı atlatma ve çok faktörlü doğrulama eksikliği vardı.",
+      "hn_url": "https://news.ycombinator.com/item?id=50419215",
+      "article_url": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/"
+    },
+    {
+      "rank": 7,
+      "title": "USPS now offers official ZIP Code boundary polygons",
+      "points": 554,
+      "num_comments": 278,
+      "summary": "USPS, teslimat adresi ve konum verilerinden oluşturulmuş resmî ZIP kodu sınır poligonlarını sunmaya başladı. Haritalama, sigorta, emlak ve lojistik gibi sektörler bunu veri düzenleme ve rota optimizasyonu için kullanabilecek. Veri seti üç sürümle ve üç aylık güncellemelerle geliyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50431058",
+      "article_url": "https://postalpro.usps.com/zcb"
+    },
+    {
+      "rank": 8,
+      "title": "I'm not convinced the AI bubble exists",
+      "points": 545,
+      "num_comments": 942,
+      "summary": "Yazar, \"yapay zekâ balonu\" anlatımının abartıldığını savunuyor. Harcamaların büyük kısmının tek seferlik veri merkezi yatırımları olduğunu, çıkarım (inference) işinin ise oldukça kârlı olduğunu belirtiyor. Borç ve düzenleme gibi riskleri kabul etse de yapay zekânın kalıcı olduğu sonucuna varıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50418975",
+      "article_url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists"
+    },
+    {
+      "rank": 9,
+      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+      "points": 494,
+      "num_comments": 275,
+      "summary": "Payments Canada, 9 Kasım 2026'da Gerçek Zamanlı Ağ'ı (RTR) devreye aldı; ödemeler artık 7/24 gerçek zamanlı olarak takas ve mutabakata bağlanıyor. Sistem, ilk günden merkezi dolandırıcılık hizmetlerini zorunlu kılan ilk G7 ülkesi oldu. C.D. Howe Enstitüsü 14,5 milyar dolara kadar maliyet tasarrufu öngörüyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50427362",
+      "article_url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy"
+    },
+    {
+      "rank": 10,
+      "title": "Google Gemini routes personal Drive files and emails to human annotators",
+      "points": 487,
+      "num_comments": 114,
+      "summary": "Bir GitHub deposu, Google Gemini'nin \"Bağlı Uygulamalar\" açıkken kişisel Gmail ve Drive içeriğini sohbetlere çekip insan inceleyicilere yönlendirebildiğini iddia ediyor. Yazar, Google'ın güncellenmiş yardım belgelerinin bu süreci doğruladığını söylüyor. Testler anekdotsal ve belirsiz olduğundan iddialar doğrulanmış değil.",
+      "hn_url": "https://news.ycombinator.com/item?id=50429426",
+      "article_url": "https://github.com/thisisme6598/gemini_files/"
+    }
+  ],
+  "health_stories": [
+    {
+      "rank": 1,
+      "title": "Too many men suffering in silence, national health report finds (Canada)",
+      "points": 325,
+      "num_comments": 509,
+      "summary": "Kasım ayında yayımlanan ulusal bir rapor, yaklaşık 6.000 Kanadalıyla yapılan istişareye dayanarak birçok erkek ve erkek çocuğun ruh sağlığı, yalnızlık ve yardım alma engelleriyle mücadele ettiğini gösterdi. Bulgular, Kanada'nın ilk federal erkek sağlığı stratejisine yön verecek; strateji 2027 başında bekleniyor. Movember Canada, daha iyi erkek sağlığının ülkeye yılda 12,4 milyar dolar kazandırabileceğini tahmin ediyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50429475",
+      "article_url": "https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds"
+    },
+    {
+      "rank": 2,
+      "title": "Castration extends life span, but in a surprising way, mouse study suggests",
+      "points": 49,
+      "num_comments": 53,
+      "summary": "Bir fare çalışmasına göre hadım etmenin yaşam süresini uzattığı, ancak bunun şaşırtıcı bir şekilde gerçekleştiği öne sürülüyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50427378",
+      "article_url": "https://www.science.org/content/article/castration-extends-life-span-surprising-way-mouse-study-suggests"
+    },
+    {
+      "rank": 3,
+      "title": "Elon Musk's Cuts Led to an Estimated 500k Deaths of Children",
+      "points": 37,
+      "num_comments": 10,
+      "summary": "Emerald Book yazısı, DOGE'un USAID'i küçültmesinin yoksul ülkelerde gıda, ilaç ve HIV tedavisi finansmanını durdurduğunu ve tahminen 518.000 çocuk ölümüne katkıda bulunduğunu savunuyor. Yazı, kesintiler sürerse 2030'a kadar 4,5 milyona varan çocuk ölümü öngörüyor. Rakamlar modellemeye dayalı tahminler ve Musk ile başkaları bunlara itiraz ediyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50431735",
+      "article_url": "https://emeraldbook.org/news/jun-3026-3/"
+    },
+    {
+      "rank": 4,
+      "title": "Piezoelectric toothbrush reduces plaque",
+      "points": 13,
+      "num_comments": 1,
+      "summary": "Piezoelektrik bir diş fırçasının diş plağını azalttığı bildiriliyor; bulgular Science Advances'te yayımlanan bir çalışmaya dayanıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50417460",
+      "article_url": "https://www.science.org/doi/10.1126/sciadv.aeg5744"
+    },
+    {
+      "rank": 5,
+      "title": "The Origins of Peanut Allergy",
+      "points": 12,
+      "num_comments": 11,
+      "summary": "Stephen Skolnick, ABD'de fıstık alerjisindeki artışı, kuraklık ve küf nedeniyle aflatoksinli fıstıkların fıstık ezmesine karıştığı 1980'deki \"Büyük Fıstık Krizi\"ne bağlıyor. Erken ve bütün fıstık maruziyetinin alerjiyi önleyebileceğini savunuyor ama hipotezin test edilmesinin zor olduğunu kabul ediyor. Yorumcular, beslenme rehberleri değiştikten sonra alerji oranlarının düştüğünü belirtiyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50421342",
+      "article_url": "https://stephenskolnick.substack.com/p/on-the-origins-of-peanut-allergy"
+    },
+    {
+      "rank": 6,
+      "title": "I reverse-engineered my Pixel Watch's raw PPG sensor to check for sleep apnea",
+      "points": 6,
+      "num_comments": 0,
+      "summary": "Bir yazılımcı, Fitbit'in gece kan oksijeni düşüşleri göstermesinin ardından eski Pixel Watch'ı için ham PPG verisini kaydeden bir Wear OS uygulaması yazdı. Dokuz gecelik verilerde tekrarlayan bir uyku apnesi örüntüsü bulamadı; uzun düşük oksijen evrelerinin bilek pozisyonuyla ilişkili olduğunu gördü. Bunun tıbbi tavsiye olmadığını ve ham sensör oksijen tahminlerinin henüz güvenilir olmadığını vurguluyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50425637",
+      "article_url": "https://www.swetlow.com/blog/pixel-watch-raw-ppg-sleep-apnea/"
+    },
+    {
+      "rank": 7,
+      "title": "A 24-hour fast triggers a microbiome repair response in the gut",
+      "points": 5,
+      "num_comments": 1,
+      "summary": "Bir PNAS çalışmasına göre 24 saatlik açlığın bağırsakta mikrobiyom onarım tepkisini tetiklediği bildiriliyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50420661",
+      "article_url": "https://www.pnas.org/doi/10.1073/pnas.2529215123"
+    },
+    {
+      "rank": 8,
+      "title": "Why Doctors in Thailand Fear KFC",
+      "points": 5,
+      "num_comments": 3,
+      "summary": "New York Times haberine göre Tayland'daki doktorların KFC'den çekinmesi, yaygın bir inanç ya da \"lanet\" anlatısıyla ilgili görünüyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50420476",
+      "article_url": "https://www.nytimes.com/2026/11/04/world/asia/thailand-kfc-curse-doctors.html"
+    },
+    {
+      "rank": 9,
+      "title": "CDC: Measles cases surpass 5k in US with infections confirmed in 45 states",
+      "points": 4,
+      "num_comments": 0,
+      "summary": "ABD'de CDC, 6 Kasım itibarıyla 45 eyalet ve Washington'da en az 5.182 kızamık vakası doğruladı ve bu yıl sekiz ölüm bildirildi. Vakaların yaklaşık %96'sı aşısız ya da aşı durumu bilinmeyen kişilerde görüldü. Anaokulu MMR aşılama oranı 2019-20'de %95,2'den 2025-26'da %92,4'e geriledi.",
+      "hn_url": "https://news.ycombinator.com/item?id=50426734",
+      "article_url": "https://abcnews.com/Health/measles-cases-surpass-5000-us-infections-confirmed-45/story?id=137907591"
+    },
+    {
+      "rank": 10,
+      "title": "Chewing gum releases microplastics into your saliva, UCLA research shows",
+      "points": 4,
+      "num_comments": 1,
+      "summary": "UCLA'nın pilot çalışması, çiğneme sakızının tükürüğe gram başına ortalama yaklaşık 100, bazı markalarda 600'e kadar mikroplastik parçacık saldığını buldu. Büyük bir sakız parçası 3.000'den fazla parçacık bırakabiliyor ve çoğu ilk sekiz dakikada salınıyor. Yutulan mikroplastiklerin sağlık etkileri hâlâ bilinmiyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50427701",
+      "article_url": "https://newsroom.ucla.edu/releases/bursting-your-bubble-chewing-gum-releases-microplastics-into-your-saliva-ucla-research-shows"
+    },
+    {
+      "rank": 11,
+      "title": "Six climate and health actions could save 1.6M lives and deliver trillions",
+      "points": 4,
+      "num_comments": 4,
+      "summary": "Yeni bir DSÖ raporu, ısı-sağlık uyarı sistemleri, temiz ev yakıtları ve verimli fosil yakıt fiyatlandırması gibi altı kanıtlanmış önlemin ölçeklenmesinin yılda yaklaşık 1,6 milyon ölümü önleyebileceğini belirtiyor. Yıllık ekonomik kazancın 3,9 trilyon dolar olacağı tahmin ediliyor. DSÖ, hükümetleri COP31 öncesinde bu eylemlere yatırım yapmaya çağırıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50423634",
+      "article_url": "https://www.who.int/news/item/04-11-2026-six-climate-and-health-actions-could-save-1.6-million-lives-and-deliver-trillions-in-benefits-each-year"
+    },
+    {
+      "rank": 12,
+      "title": "Elevation of Serum Prestin in Patients with Tinnitus",
+      "points": 4,
+      "num_comments": 1,
+      "summary": "Tinnitus (kulak çınlaması) hastalarında serum prestin düzeyinin yükseldiğini bildiren bir PubMed çalışması. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50420392",
+      "article_url": "https://pubmed.ncbi.nlm.nih.gov/41398620/"
+    },
+    {
+      "rank": 13,
+      "title": "Did Life Begin in an RNA World?",
+      "points": 4,
+      "num_comments": 0,
+      "summary": "RNA dünyası hipotezi, erken yaşamın hem genetik bilgiyi depolayabilen hem de kataliz yapabilen RNA'ya dayandığını öne sürüyor. Laboratuvar deneylerinde büyük ribozimlerin evrimleştirilmesi zor olmuş; ancak 45 nükleotidlik kendini kopyalayan bir RNA bu fikre bir miktar destek veriyor. Araştırmacılar, metabolizma olmadan kendini kopyalayan RNA'nın gerçekten canlı sayılamayabileceğini belirtiyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50428619",
+      "article_url": "https://www.quantamagazine.org/did-life-begin-in-an-rna-world-20261109/"
+    },
+    {
+      "rank": 14,
+      "title": "A weakness could reduce chemotherapy reliance in triple-negative breast cancer",
+      "points": 3,
+      "num_comments": 0,
+      "summary": "MUSC Hollings Kanser Merkezi araştırmacıları, LOX proteinini engellemenin üçlü negatif meme kanseri hücrelerini zayıflattığını ve hücrelerin yedek bir hayatta kalma yoluna yöneldiğini buldu. Bu yolu bloke eden, FDA onaylı leflunomid ilacı eklendiğinde, kemoterapiye dirençli modeller dahil tümör büyümesi önemli ölçüde yavaşladı. Sonuçlar henüz klinik öncesi aşamada ve insanlarda test edilmesi gerekiyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50430007",
+      "article_url": "https://hollingscancercenter.musc.edu/content-hub/News/2026/08/31/one-two-punch-against-aggressive-breast-cancer"
+    }
+  ]
+}
