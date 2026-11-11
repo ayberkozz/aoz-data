@@ -1,0 +1,198 @@
+{
+  "date": "2026-11-11",
+  "timestamp": "2026-11-11T05:05:00Z",
+  "summary_language": "tr",
+  "top_stories": [
+    {
+      "rank": 1,
+      "title": "Smart home devices should work without the internet",
+      "points": 792,
+      "num_comments": 284,
+      "summary": "Yazar, akıllı ev cihazlarının internet olmadan da temel işlevlerini yerine getirmesi gerektiğini savunuyor. Kendi evini Tasmota, MQTT ve Node-RED gibi yerel çözümlerle çalıştırıyor ve duvar anahtarlarını da çalışır durumda tutuyor. Yorumlarda birçok cihazın bu kriteri karşılamadığı ve yerel protokol ile açık yazılımın çözüm olabileceği belirtiliyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50441707",
+      "article_url": "https://docodethatmatters.com/home-automation-overnight-success/"
+    },
+    {
+      "rank": 2,
+      "title": ".name Grandfathered",
+      "points": 736,
+      "num_comments": 168,
+      "summary": "Verisign, yaklaşık 22.000 .name alan adını ve e-posta yönlendirmesini sonlandırma planından vazgeçti. Yeni üçüncü seviye .name kayıtları durdurulacak ancak mevcut alan adları süresiz olarak çalışmaya devam edecek. Neil Fraser, bu sonucu birçok kişinin katıldığı uzun ve zahmetli bir kampanyaya bağlıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50442736",
+      "article_url": "https://neil.fraser.name/news/2026/11/10/"
+    },
+    {
+      "rank": 3,
+      "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+      "points": 698,
+      "num_comments": 245,
+      "summary": "Amazon mühendisleri, bilet etiketleme işinde Claude Sonnet 4.6 yerine, metin üretmek yerine sabit seçenekler arasından seçim yapan Strands Decider E4B modelini kullandı. Sonuçlar korunurken bilet başına token kullanımı yaklaşık %70, yanıt süresi %78 ve tahmini maliyet yaklaşık %98 azaldı. Yazarlar yaklaşımın kapalı etiket kümesi olan yüksek hacimli işlere uygun olduğunu belirtiyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50436640",
+      "article_url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/"
+    },
+    {
+      "rank": 4,
+      "title": "AlphaProof Code",
+      "points": 597,
+      "num_comments": 179,
+      "summary": "Google DeepMind, Gemini Carbon üzerine kurulu çok ajanlı AlphaProof Code ile Signal'in kriptografik protokolünün derlenmiş kodunu biçimsel olarak doğruladı. Ajanlar yaklaşık dört haftada altı milyon satırdan fazla Lean kanıt kodu üretti ve insan uzmanlar kod tabanının yalnızca yaklaşık %1'ini inceledi. Sistem, yeniden eklenen iki eski hatanın güvensiz olduğunu da makine tarafından doğrulanan kanıtlarla gösterdi.",
+      "hn_url": "https://news.ycombinator.com/item?id=50439193",
+      "article_url": "https://deepmind.google/blog/introducing-alphaproof-code/"
+    },
+    {
+      "rank": 5,
+      "title": "Fable 5.2 one-shotted my nephew's dream game",
+      "points": 483,
+      "num_comments": 437,
+      "summary": "Lex Toumbourou, yeğeni Aiden'ın elle çizdiği tasarımları Fable 5.2 ile 12 seviyeli, 18 oynanabilir karakterli, dört oyunculu bir beat 'em up oyununa dönüştürdü. Model tek gecelik bir oturumda önceki prototipi yeniden yazdı ve yaklaşık 175 görsel ile 140 ses klibi üretti. Yazar, kodlama ajanlarının artık tek seferde eğlenceli ve tam uzunlukta bir oyun üretebildiğini savunuyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50433659",
+      "article_url": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game"
+    },
+    {
+      "rank": 6,
+      "title": "Blender 5.3 released with Gaussian Splat support",
+      "points": 452,
+      "num_comments": 68,
+      "summary": "Blender 5.3, yerel 3B Gaussian Splat desteği, cam benzeri malzemeler için Cycles dispersiyonu ve DLSS 4.5 Ray Reconstruction gürültü giderme özelliğini getiriyor. Ayrıca yeni EEVEE ışık düğümleri, panoramik kameralar, video düzenleme araçları ve eklenti olarak dağıtılan varlık kütüphaneleri sunuyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50442426",
+      "article_url": "https://www.blender.org/download/releases/5-3/"
+    },
+    {
+      "rank": 7,
+      "title": "AI usage generates a fragile codebase",
+      "points": 441,
+      "num_comments": 444,
+      "summary": "Yazılımcı Evan Merz, yapay zekâ kodlama araçlarına aşırı güvenmenin kod tabanlarını kırılgan hâle getirdiğini savunuyor. Yüzeysel testleri, gereksiz karmaşık kodu, azalan geliştirici anlayışını ve aceleyle yapılan incelemeleri neden olarak gösteriyor. Kaliteli yazılım ürünlerinin hâlâ insan emeğine ihtiyaç duyduğu sonucuna varıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50438318",
+      "article_url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/"
+    },
+    {
+      "rank": 8,
+      "title": "Scion is back and is going to sell a kei truck in America",
+      "points": 398,
+      "num_comments": 280,
+      "summary": "Toyota, Scion markasını yeni mobilite fikirleri için bir laboratuvar olarak yeniden canlandırdı. İlk üretim aracı, Indiana'da üretilecek ve düşük hızlı araç sınıfında olacak KEI-01 kei kamyonet. Satışlar 2027 sonunda düşük hacimli bir filo pilotuyla başlayacak.",
+      "hn_url": "https://news.ycombinator.com/item?id=50445401",
+      "article_url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/"
+    },
+    {
+      "rank": 9,
+      "title": "Val Town is winding down",
+      "points": 339,
+      "num_comments": 89,
+      "summary": "Val Town, bulut bilişim pazarında rekabet edemediği için kapanıyor. Yeni kayıtlar 10 Kasım 2026'da duruyor, salt okunur mod 10 Aralık 2026'da başlıyor ve çoğu hizmet 10 Ocak 2027'de sona eriyor. Platform 1 Şubat 2027'ye kadar açık kaynak yapılacak ve kullanıcılara taşıma rehberleri sunuluyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50443427",
+      "article_url": "https://blog.val.town/winding-down"
+    },
+    {
+      "rank": 10,
+      "title": "Starlink Mini 2",
+      "points": 331,
+      "num_comments": 338,
+      "summary": "Starlink Mini 2 ile ilgili bu başlık Hacker News'te yoğun ilgi gördü. Sayfanın içeriği okunabilir biçimde alınamadığı için ürün hakkında ayrıntı verilemiyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50444129",
+      "article_url": "https://starlink.com/mini-2"
+    }
+  ],
+  "health_stories": [
+    {
+      "rank": 1,
+      "title": "Sexual harassment takes a hidden toll on gig workers",
+      "points": 17,
+      "num_comments": 19,
+      "summary": "Rice Üniversitesi liderliğindeki bir çalışma, müşteri tacizinin gig çalışanlarının iyi oluşunu ve iş performansını olumsuz etkilediğini, etkilerin sonraki müşteri etkileşimlerine de taşındığını gösteriyor. Sendika veya benzeri gruplara erişimi olan çalışanlarda olumsuz etkiler daha zayıf görüldü. Araştırmacılar daha net taciz bildirimi, güvenlik bilgisi ve tekrar eden failler hakkında daha sıkı önlemler öneriyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50440608",
+      "article_url": "https://www.futurity.org/sexual-harassment-gig-workers-3352412/"
+    },
+    {
+      "rank": 2,
+      "title": "French blood banks hacked in latest cyber-attack on Europe",
+      "points": 16,
+      "num_comments": 1,
+      "summary": "Fransa'nın ulusal kan hizmetine yönelik bir siber saldırı, Avrupa'daki son dönem saldırılar arasında haber oldu. Başlıktaki saldırı sağlık altyapısını hedef alıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50433912",
+      "article_url": "https://www.theguardian.com/technology/2026/nov/04/france-national-blood-service-hack-cyber-attack-europe"
+    },
+    {
+      "rank": 3,
+      "title": "Show HN: I have trained 15 blood glucose forecasting models on my own data",
+      "points": 15,
+      "num_comments": 3,
+      "summary": "T1DMAI deposu, yazarın kendi tip 1 diyabet verisi ve herkese açık MetaboNet veri seti üzerinde eğittiği kan şekeri tahmin modellerini içeriyor. Küçük bir transformer iki saat sonrasını tahmin ediyor; XGBoost genel olarak en iyisi olsa da LoRA adaptörlü model yakın performans gösteriyor. Proje yalnızca araştırma ve eğitim amaçlı olup insülin dozlaması için kullanılmamalı.",
+      "hn_url": "https://news.ycombinator.com/item?id=50444761",
+      "article_url": "https://github.com/0xdeadf1sh/T1DMAI"
+    },
+    {
+      "rank": 4,
+      "title": "ADHD Is Not a Superpower",
+      "points": 11,
+      "num_comments": 7,
+      "summary": "Makale, DEHB'nin süper güç değil gerçek bir bozukluk olduğunu savunuyor. Yüksek kalıtsallık, depresyon ve uyku sorunlarıyla ilişkisi ve uyarıcı ilaçların işlevselliği artırması gibi kanıtlara dayanıyor. Tanı oranlarındaki artışı ise belirtilerin artmasından çok gevşeyen tanı uygulamalarına ve daha fazla tedaviye bağlıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50442796",
+      "article_url": "https://www.technotheoria.org/p/adhd-is-not-a-superpower"
+    },
+    {
+      "rank": 5,
+      "title": "A teen used her school Chromebook and Google AI Mode to plan her suicide",
+      "points": 7,
+      "num_comments": 0,
+      "summary": "Bir gencin okul Chromebook'unda Google yapay zekâ özelliğini kullanarak intihar planı yaptığı iddiasıyla ilgili bir dava haberi. Başlık, çocuk ve gençlerin ruh sağlığı ile yapay zekâ güvenliği arasındaki ilişkiye işaret ediyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50433977",
+      "article_url": "https://mashable.com/tech/google-gemini-chromebook-lawsuit-teen-planned-suicide"
+    },
+    {
+      "rank": 6,
+      "title": "Replacing Dairy with Plant-Based Alternatives Can Lead to Nutrient Deficiencies",
+      "points": 6,
+      "num_comments": 1,
+      "summary": "Lancet Planetary Health'te yayımlanan bir çalışma, süt ürünlerinin bir kısmını bitkisel alternatiflerle değiştirmenin iyot, kalsiyum, riboflavin ve B12 alımını azalttığını, en büyük düşüşün iyotta olduğunu buldu. Bitkisel süt ve ekmeğin bu besinlerle zenginleştirilmesi projeksiyonlarda iyot eksikliğini belirgin biçimde azalttı. Araştırmacılar zenginleştirme zorunluluklarının genişletilmesini öneriyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50434325",
+      "article_url": "https://www.smithsonianmag.com/smart-news/even-replacing-some-of-your-dietary-dairy-with-plant-based-alternatives-can-lead-to-nutrient-deficiencies-study-suggests-180989825/"
+    },
+    {
+      "rank": 7,
+      "title": "Hims and Hers to offer unapproved peptides after US eases curbs",
+      "points": 5,
+      "num_comments": 0,
+      "summary": "Hims & Hers'in, ABD'nin kısıtlamaları gevşetmesinin ardından onaylanmamış peptitler sunacağı bildiriliyor. Haber ayrıca şirketin 2026 gelir tahminindeki değişikliklere değiniyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50437357",
+      "article_url": "https://www.reuters.com/business/healthcare-pharmaceuticals/hims-hers-narrows-2026-revenue-forecast-margins-contract-2026-11-09/"
+    },
+    {
+      "rank": 8,
+      "title": "A Death from Dengue May Signal That the Disease in U.S. Is Here to Stay",
+      "points": 5,
+      "num_comments": 2,
+      "summary": "Bir dang humması ölümü, hastalığın ABD'de kalıcı hâle gelebileceğine işaret ediyor. Haber, Florida'daki sivrisinekler ve halk sağlığı riskleriyle ilgili görünüyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50433516",
+      "article_url": "https://www.nytimes.com/2026/11/09/us/dengue-united-states-florida-mosquitos.html"
+    },
+    {
+      "rank": 9,
+      "title": "For years she felt awful. Her flexible joints held a clue",
+      "points": 5,
+      "num_comments": 1,
+      "summary": "Haber, uzun süre kendini kötü hisseden bir kadının esnek eklemlerinin hipermobil Ehlers-Danlos sendromu gibi bir duruma dair ipucu verdiğini anlatıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50432896",
+      "article_url": "https://www.nytimes.com/2026/11/09/well/heds-eds-hypermobile.html"
+    },
+    {
+      "rank": 10,
+      "title": "An Experimental One-Time Treatment for High Cholesterol Shows Promising Results",
+      "points": 4,
+      "num_comments": 1,
+      "summary": "CRISPR Therapeutics'in deneysel tedavisi, karaciğerdeki ANGPTL3 genini düzenleyerek doğal olarak düşük kolesterolle ilişkili bir mutasyonu taklit ediyor. NEJM'de yayımlanan 15 kişilik küçük çalışmada lipit düzeyleri %50'ye kadar düştü, bir yıl boyunca düşük kaldı ve ciddi yan etki görülmedi. Daha büyük çalışmalara ihtiyaç var, ancak tek seferlik tedavi ilerde statinlere alternatif olabilir.",
+      "hn_url": "https://news.ycombinator.com/item?id=50445458",
+      "article_url": "https://time.com/article/2026/08/28/one-time-treatment-high-cholesterol-crispr-results/"
+    },
+    {
+      "rank": 11,
+      "title": "Instagram Can Predict How Lonely You Are",
+      "points": 4,
+      "num_comments": 2,
+      "summary": "UC San Diego araştırmacıları, 415 lisans öğrencisinin Instagram geçmişini inceledi ve gece geç paylaşım, geçmişe odaklı veya olumsuz dil gibi davranışların farklı yalnızlık türleriyle ilişkili olduğunu buldu. Instagram etkinliği bildirilen yalnızlığı orta düzeyde tahmin etti ancak gerçek sosyal destek ağını tahmin etmede çok daha zayıf kaldı. Bulgular bireysel tanı için güvenilir değil, grup düzeyinde örüntüler.",
+      "hn_url": "https://news.ycombinator.com/item?id=50442394",
+      "article_url": "https://today.ucsd.edu/story/your-instagram-can-predict-how-lonely-you-are"
+    }
+  ]
+}
