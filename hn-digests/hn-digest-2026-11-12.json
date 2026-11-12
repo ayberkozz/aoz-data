@@ -1,0 +1,180 @@
+{
+  "date": "2026-11-12",
+  "timestamp": "2026-11-12T04:58:47Z",
+  "summary_language": "tr",
+  "top_stories": [
+    {
+      "rank": 1,
+      "title": "Tim Peters has died",
+      "points": 994,
+      "num_comments": 107,
+      "summary": "Guido van Rossum, Zen of Python'ın yazarı ve Timsort'un yaratıcısı Python tasarımcısı Tim Peters'ın 15 Temmuz 2026'da hayatını kaybettiğini duyurdu. Python çekirdek geliştiricileri onun teknik dehasını, mizahını ve sabırlı akıl hocalığını anarak \"Timbot\" lakabını andı.",
+      "hn_url": "https://news.ycombinator.com/item?id=50450488",
+      "article_url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028"
+    },
+    {
+      "rank": 2,
+      "title": "My AI agents found an unmapped Maya site?",
+      "points": 951,
+      "num_comments": 349,
+      "summary": "Yazar, yapay zekâ ajanlarıyla Meksika'daki Maya bölgesinin herkese açık lidar verilerini inceledi ve ulusal arkeoloji kayıtlarında olmayan bir plaza, piramit ve avlulu bir tepe tespit etti. Daha sonra sitenin 2025'te arkeologlarca zaten haritalandığı anlaşıldı; yani ajanlar keşfetmedi, yeniden buldu.",
+      "hn_url": "https://news.ycombinator.com/item?id=50452455",
+      "article_url": "https://pietromiotti.com/latest/maya-site"
+    },
+    {
+      "rank": 3,
+      "title": "AWS emulator",
+      "points": 754,
+      "num_comments": 228,
+      "summary": "AWS Emulator, geliştiricilerin ve CI süreçlerinin AWS hesabı veya ücreti olmadan kod test etmesini sağlayan, AWS API'lerini taklit eden ücretsiz ve yerel bir programdır. Bağımsız sunucu olarak ya da Rust testlerine gömülü çalışabilir; telemetri varsayılan olarak açıktır ancak kapatılabilir.",
+      "hn_url": "https://news.ycombinator.com/item?id=50456631",
+      "article_url": "https://github.com/aws/aws-emulator"
+    },
+    {
+      "rank": 4,
+      "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+      "points": 445,
+      "num_comments": 225,
+      "summary": "Bir müteahhidin tozu, Jane Street'in Manhattan'daki veri merkezinde yanlış bir duman alarmı tetikledi; soğutma kapandı ve yağmurlama sistemleri devreye girme riski doğdu. Yazar sunucuları fişten çekerek sorunu büyümeden çözdü ve soğutma arızalarını erken yakalamak için sunucu sıcaklıklarının ortalamasını alan bir OCaml aracı yazdı.",
+      "hn_url": "https://news.ycombinator.com/item?id=50455394",
+      "article_url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/"
+    },
+    {
+      "rank": 5,
+      "title": "Protecting SSH Keys with macOS Secure Enclave",
+      "points": 387,
+      "num_comments": 137,
+      "summary": "Yazar, yalnızca macOS'in yerleşik araçlarıyla SSH anahtarlarını Secure Enclave içinde kurdu; böylece her kullanım Touch ID gerektiriyor ve özel anahtar dışarı çıkarılamıyor. Sonunda yerel Touch ID penceresi özensiz göründüğü için üçüncü taraf Secretive uygulamasına geçti ve anahtarlar dışa aktarılamadığı için yedek anahtar kaydetmeyi öneriyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50449748",
+      "article_url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/"
+    },
+    {
+      "rank": 6,
+      "title": "I asked every TV manufacturer 17 questions about how they spy on you",
+      "points": 345,
+      "num_comments": 241,
+      "summary": "Bu haber, The Verge'ün TV üreticilerine televizyonların kullanıcıları nasıl izlediği (ACR) konusunda yönelttiği 17 soruyu ele alıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50453474",
+      "article_url": "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions"
+    },
+    {
+      "rank": 7,
+      "title": "Hyper-Realistic Sand with WebGL2",
+      "points": 338,
+      "num_comments": 66,
+      "summary": "Sand, WebGL2 ve JavaScript ile yapılmış, telefon, tablet ve masaüstünde çalışan tarayıcı tabanlı ve son derece gerçekçi bir kum simülatörüdür. Kullanıcılar parmakla taneleri itebilir, cihazı eğip sallayarak kumu hareket ettirebilir ve isteğe bağlı ses ile titreşim geri bildirimi alabilir.",
+      "hn_url": "https://news.ycombinator.com/item?id=50453288",
+      "article_url": "https://av.github.io/safe-sand/"
+    },
+    {
+      "rank": 8,
+      "title": "Gemini Decisions API",
+      "points": 330,
+      "num_comments": 103,
+      "summary": "Google, Gemini Decision 1 modeliyle çalışan Gemini Decisions API'yi duyurdu; evet/hayır, çoktan seçmeli ve rubrik sorularını metin, görüntü, ses, video ve PDF üzerinde tek geçişte puanlıyor. Düşük gecikmeyle (150-250 ms) güven skorları döndürüyor ve yalnızca girdi token'ları için milyon başına 0,10 dolar alıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50456791",
+      "article_url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
+    },
+    {
+      "rank": 9,
+      "title": "Using voltage glitching to unleash the A100 in my mining card",
+      "points": 279,
+      "num_comments": 114,
+      "summary": "Yazar, NVIDIA GA100 çipinde voltaj hata enjeksiyonu kullanarak CMP 170HX madencilik kartının kapalı belleğini, işlem birimlerini, PCIe Gen4 ve NVLink özelliklerini açtı ve kartı A100-80G gibi çalıştırdı. Sonuçlar çipe göre değişiyor, NVLink küçük bir donanım değişikliği gerektiriyor ve bulgular yayımlanmadan önce NVIDIA'ya bildirildi.",
+      "hn_url": "https://news.ycombinator.com/item?id=50451903",
+      "article_url": "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/"
+    },
+    {
+      "rank": 10,
+      "title": "A great old-timey game-programming hack (2013)",
+      "points": 267,
+      "num_comments": 66,
+      "summary": "Tom Moertel ve bir arkadaşı, 6809 işlemcili 1980'lerin yavaş bir yan kaydırmalı oyununu, arka plan karolarını yığın (stack) komutlarıyla yaklaşık %70 daha hızlı kopyalayarak hızlandırdı. Kesmelerin yol açtığı bellek bozulmasını, yazmaçları değiştirip karoları ters sırayla çizerek giderdi.",
+      "hn_url": "https://news.ycombinator.com/item?id=50448921",
+      "article_url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html"
+    }
+  ],
+  "health_stories": [
+    {
+      "rank": 1,
+      "title": "To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",
+      "points": 154,
+      "num_comments": 153,
+      "summary": "ABD, biyoterörizmi caydırmak için sentetik DNA siparişlerine yeni kurallar getirdi. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50449275",
+      "article_url": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna"
+    },
+    {
+      "rank": 2,
+      "title": "Cancer vaccine for Yash, he's diagnosed with stage IV pancreatic cancer",
+      "points": 75,
+      "num_comments": 12,
+      "summary": "GitHub'daki 'popvax/yash' deposu, Ocak 2025'te evre IV pankreas kanseri teşhisi konan 32 yaşındaki Yash Bindal için geliştirilen kişiselleştirilmiş bir mRNA kanser aşısını ve tasarımını açık biçimde paylaşıyor. Önde gelen tasarım, tümör DNA/RNA'sı ile sağlıklı kan hücresi DNA'sını karşılaştırarak 24 antijen bölgesi seçiyor ve analiz için kod ile yöntemler sunuyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50457083",
+      "article_url": "https://github.com/popvax/yash"
+    },
+    {
+      "rank": 3,
+      "title": "Laser-armed AI submarine robots patrol Norwegian salmon farms, killing sea lice",
+      "points": 29,
+      "num_comments": 9,
+      "summary": "Norveç somon çiftliklerinde yaklaşık 3.500 lazerli, yapay zekâlı denizaltı robot devriye gezerek deniz bitlerini vuruyor ve yaklaşık 112 milyon balığı koruyor. Bu yöntem sert kimyasal banyoların yerini alıyor; makale tam okunamadığı için özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50456926",
+      "article_url": "https://www.tomshardware.com/tech-industry/drones/3-500-ai-laser-robots-patrol-norwegian-salmon-farms-killing-sea-lice-parasites-get-zapped-by-high-tech-alternative-to-harsh-chemical-baths"
+    },
+    {
+      "rank": 4,
+      "title": "AlphaGenome 2",
+      "points": 13,
+      "num_comments": 0,
+      "summary": "AlphaGenome 2, Google DeepMind'ın genetik varyantların belirli insan hücre tiplerinde gen aktivitesini nasıl etkilediğini tahmin eden yeni nesil DNA modelidir. 100 milyondan fazla tek hücre profiliyle eğitilen model, öncülünden yaklaşık iki kat fazla gen ifadesini değiştiren varyant buluyor ve ticari olmayan araştırmalar için API ile sunuluyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50454306",
+      "article_url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/"
+    },
+    {
+      "rank": 5,
+      "title": "US poised to lose measles elimination status",
+      "points": 11,
+      "num_comments": 1,
+      "summary": "ABD'nin 2000'den beri sahip olduğu kızamık eliminasyon statüsünü kaybetmesi bekleniyor; PAHO komisyonu bu hafta durumu inceliyor ve 2026'da 5.100'den fazla vaka bildirildi. Uzmanlar bunu halk sağlığının zayıfladığının işareti olarak görüyor, aşılama oranlarının artmasının statünün geri kazanılmasına yardımcı olabileceğini belirtiyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50454167",
+      "article_url": "https://www.cidrap.umn.edu/measles/us-poised-lose-measles-elimination-status-what-does-mean"
+    },
+    {
+      "rank": 6,
+      "title": "Life Expectancy Higher with Greater Sodium Intake",
+      "points": 10,
+      "num_comments": 2,
+      "summary": "Franz Messerli ve ekibinin European Heart Journal'da yayımlanan 181 ülkelik çalışması, ulusal düzeyde daha yüksek sodyum alımının daha uzun yaşam beklentisi ve daha düşük toplam ölümle ilişkili olduğunu buldu. Dış uzmanlar bu ekolojik tasarımın nedensellik gösteremeyeceği uyarısında bulundu ve yazarlar beslenme önerisi yapmadı.",
+      "hn_url": "https://news.ycombinator.com/item?id=50452422",
+      "article_url": "https://www.tctmd.com/news/fresh-foray-salt-wars-life-expectancy-higher-greater-sodium-intake"
+    },
+    {
+      "rank": 7,
+      "title": "Show HN: Fastsleep.app – Imagine micro-scenarios to get sleepy",
+      "points": 5,
+      "num_comments": 3,
+      "summary": "Fastsleep.app, kullanıcıların küçük hayali senaryolar kurgulayarak uykuya dalmasına yardımcı olmayı amaçlayan bir Show HN projesi. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50449576",
+      "article_url": "https://fastsleep.app/"
+    },
+    {
+      "rank": 8,
+      "title": "The Perverse Reasons Healthcare Costs Are About to Surge",
+      "points": 4,
+      "num_comments": 1,
+      "summary": "The Atlantic'te yayımlanan bu yazı, sağlık hizmeti maliyetlerinin neden yakında artacağını ele alıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50457015",
+      "article_url": "https://www.theatlantic.com/economy/2026/11/affordability-crisis-health-care-insurance/689365/"
+    },
+    {
+      "rank": 9,
+      "title": "My smartphone wrecked my wrist",
+      "points": 4,
+      "num_comments": 0,
+      "summary": "Akıllı telefonun aşırı kullanımı tetik parmak, karpal tünel sendromu ve \"tech neck\" gibi tekrarlayan zorlanma yaralanmalarına yol açabiliyor. Fizyoterapist Kelly Robinson iki elle kullanmayı, ekranları göz hizasına çıkarmayı ve sırt üstü kasları germeyi öneriyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50456559",
+      "article_url": "https://www.rnz.co.nz/life/wellbeing/my-smartphone-wrecked-my-wrist-here-s-how"
+    }
+  ]
+}
