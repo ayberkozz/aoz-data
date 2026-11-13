@@ -1,0 +1,153 @@
+{
+  "date": "2026-11-13",
+  "timestamp": "2026-11-13T04:57:12Z",
+  "summary_language": "tr",
+  "top_stories": [
+    {
+      "rank": 1,
+      "title": "Jensen Huang resigns",
+      "points": 3170,
+      "num_comments": 2952,
+      "summary": "Nvidia CEO'su Jensen Huang'ın istifa ettiği bildiriliyor; haber Singapur ve Çin bağlantılı Megaspeed soruşturmasıyla ilişkilendirilen gelişmelerin gölgesinde geliyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50467087",
+      "article_url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f"
+    },
+    {
+      "rank": 2,
+      "title": "Anthropic IPO",
+      "points": 863,
+      "num_comments": 829,
+      "summary": "Anthropic, Nasdaq'ta \"ANT\" koduyla A sınıfı hisselerini halka arz ediyor ve işlemlerin 19 Kasım'da başlaması bekleniyor. Şirket, üçüncü çeyrekte yıllık bazda 12 kattan fazla artışla 17,0 milyar dolar gelir açıkladı; yüksek değerlemeye bağlı 21,9 milyar dolarlık nakit dışı gider nedeniyle net zararı 23,3 milyar dolar oldu. Yatırımcılar Schwab, Fidelity, Robinhood gibi aracı kurumlar üzerinden talepte bulunabiliyor, ancak tahsis garantisi yok.",
+      "hn_url": "https://news.ycombinator.com/item?id=50465829",
+      "article_url": "https://ipo.anthropic.com/us/"
+    },
+    {
+      "rank": 3,
+      "title": "Service degradation on Microsoft 365",
+      "points": 642,
+      "num_comments": 607,
+      "summary": "Microsoft 365 hizmetlerinde bozulma yaşandığı bildiriliyor; Microsoft'un durum sayfası ise ayrıntı vermiyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50471731",
+      "article_url": "https://status.cloud.microsoft/"
+    },
+    {
+      "rank": 4,
+      "title": "Rust 1.100",
+      "points": 528,
+      "num_comments": 217,
+      "summary": "Rust 1.100.0 sürümü, yıllardır beklenen \"never\" türünü (`!`) kararlı hale getiriyor ve çekirdek `Allocator` API desteği, `DropGuard` yardımcısı ile `conjure_zst` işlevini ekliyor. Cargo tarafında kullanılmayan bağımlılık uyarıları, çakışmalara daha dayanıklı bir derleme dizini yapısı ve yeni yayımlanan paket sürümlerini bekleten \"min-publish-age\" özelliği geliyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50472038",
+      "article_url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/"
+    },
+    {
+      "rank": 5,
+      "title": "Gemini 4 Hydrogen",
+      "points": 493,
+      "num_comments": 313,
+      "summary": "Google, günlük kodlama ve ajan iş akışları için tasarlanmış daha hızlı bir model olan Gemini 4 Hydrogen'i duyurdu; model geliştiricilere, kurumlara, Gemini uygulamasına ve Google Arama'ya sunuluyor. Fiyatı milyon girdi token'ı için 1,50 dolar, çıktı için 7,50 dolar. Google, modelin Artificial Analysis Zekâ Endeksi'nde Argon'un biraz üzerinde puan aldığını ve benzer modellerden çoğu zaman daha hızlı bittiğini söylüyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50471431",
+      "article_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"
+    },
+    {
+      "rank": 6,
+      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+      "points": 406,
+      "num_comments": 154,
+      "summary": "ZigZag, Rust ile yazılmış ücretsiz ve açık kaynaklı bir nakış yazılımı; SVG çizimlerini makine nakışı dikişlerine çeviriyor ve görsel olarak düzenlemeye izin veriyor. PES, DST, JEF gibi biçimlere aktarabiliyor veya tasarımı Bluetooth ile doğrudan Brother Skitch makinesine gönderebiliyor. MCP desteği sayesinde yapay zekâ ajanları da tasarım oluşturup düzenleyebiliyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50470488",
+      "article_url": "https://github.com/simpsoka/zigzag"
+    },
+    {
+      "rank": 7,
+      "title": "Ask HN: Microsoft/Azure Outage?",
+      "points": 401,
+      "num_comments": 1,
+      "summary": "Bir kullanıcı, son beş dakikadır tüm Microsoft Cloud bağlantılarının koptuğunu ve durum sayfasının bile açılmadığını bildirerek başkalarının da Microsoft/Azure kesintisi yaşayıp yaşamadığını soruyor. Konu, aynı gün yaşanan Microsoft 365 hizmet bozulmasıyla bağlantılı görünüyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50471668",
+      "article_url": "https://news.ycombinator.com/item?id=50471668"
+    },
+    {
+      "rank": 8,
+      "title": "Jensen Huang resigns as Nvidia CEO immediately",
+      "points": 374,
+      "num_comments": 14,
+      "summary": "Reuters'in canlı yayınına göre Jensen Huang, ilişki iddialarına dair haberlerin ardından Nvidia CEO'luğundan hemen geçerli olacak şekilde istifa etti. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50467132",
+      "article_url": "https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12/"
+    },
+    {
+      "rank": 9,
+      "title": "\"Humble Bundle just killed most of their security through vibecoding\"",
+      "points": 373,
+      "num_comments": 222,
+      "summary": "Bir forum başlığında Humble Bundle'ın \"vibe coding\" yoluyla güvenliğinin büyük bölümünü zayıflattığı iddia ediliyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50463899",
+      "article_url": "https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/"
+    },
+    {
+      "rank": 10,
+      "title": "Writing correct software is hard and math alone won’t help us (2016)",
+      "points": 361,
+      "num_comments": 172,
+      "summary": "Yazı, hesaplanabilirlik ve karmaşıklık teorisindeki durma problemi ve Rice teoremi gibi sonuçlar nedeniyle doğru yazılım yazmanın doğası gereği zor olduğunu savunuyor. Program özelliklerini doğrulamak ya karar verilemez ya da pratikte çözülemez olduğundan, dilleri kısıtlamak bu maliyeti ortadan kaldırmıyor. Yazar, ilerlemenin yalnızca matematiğe değil, gerçek programlar üzerine ampirik çalışmalara ve pragmatik tekniklere dayanacağını söylüyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50465352",
+      "article_url": "https://pron.github.io/posts/correctness-and-complexity"
+    }
+  ],
+  "health_stories": [
+    {
+      "rank": 1,
+      "title": "Man's use of synthetic testosterone for cows nearly destroyed his heart",
+      "points": 7,
+      "num_comments": 3,
+      "summary": "Bir adamın ineklere yönelik sentetik testosteronu gizlice kullanmasının kalbine ciddi zarar verdiği anlatılıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50473448",
+      "article_url": "https://arstechnica.com/health/2026/11/mans-secret-use-of-synthetic-testosterone-for-cows-nearly-destroyed-his-heart/"
+    },
+    {
+      "rank": 2,
+      "title": "American Cancer Society calls for prostate cancer screening in guideline change",
+      "points": 6,
+      "num_comments": 3,
+      "summary": "Amerikan Kanser Derneği, prostat kanseri taramasına ilişkin rehberde değişiklik yapılması çağrısında bulunuyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50470633",
+      "article_url": "https://www.reuters.com/business/healthcare-pharmaceuticals/american-cancer-society-calls-routine-prostate-cancer-screening-guideline-change-2026-11-12/"
+    },
+    {
+      "rank": 3,
+      "title": "Mothers' poor sleep in late pregnancy linked to higher obesity risk in children",
+      "points": 6,
+      "num_comments": 0,
+      "summary": "Los Angeles'ta 645 anne-çocuk çiftiyle yapılan ve American Journal of Preventive Medicine'de yayımlanan çalışmaya göre, gebeliğin son döneminde kötü uyuyan annelerin çocukları ilk altı ayda daha az kilolu, ancak bir-iki yaşından sonra daha kilolu oluyor. Etki erkek çocuklarda ve zamanında doğan bebeklerde daha güçlü. Araştırmacılar, doğum öncesi bakımda rutin uyku taramasının riskli gebelikleri belirlemeye yardımcı olabileceğini öneriyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50462269",
+      "article_url": "https://www.eurekalert.org/news-releases/1143803"
+    },
+    {
+      "rank": 4,
+      "title": "Prostate Cancer Screening Now Broadly Recommended, Reversing Past Guidance",
+      "points": 5,
+      "num_comments": 0,
+      "summary": "Prostat kanseri taramasının artık geniş ölçüde önerildiği ve bunun önceki rehberlerin tersine bir değişiklik olduğu bildiriliyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50469435",
+      "article_url": "https://www.nytimes.com/2026/11/12/well/prostate-cancer-screening-guideline.html"
+    },
+    {
+      "rank": 5,
+      "title": "New Study Rewrites the Rules of the Blood-Brain Barrier",
+      "points": 5,
+      "num_comments": 0,
+      "summary": "Gladstone Enstitüsü'nden Cell dergisinde yayımlanan yeni bir çalışma, kan-beyin bariyerinin yalnızca pasif bir kalkan olmadığını, kandaki belirli proteinleri seçerek belirli beyin hücrelerine ilettiğini öne sürüyor. Farelerde, karaciğerin ürettiği ve beyne ulaşan bir proteini artırmak Alzheimer benzeri hastalık belirtilerini azalttı. Çalışma farelerde yapıldığı için insanlar açısından geçerliliği henüz kanıtlanmış değil.",
+      "hn_url": "https://news.ycombinator.com/item?id=50467751",
+      "article_url": "https://www.sciencealert.com/study-rewrites-the-rules-of-the-blood-brain-barrier-including-proteins-that-may-be-involved-in-alzheimers"
+    },
+    {
+      "rank": 6,
+      "title": "Molecular signal in blood helps detect early risk for ovarian cancer",
+      "points": 4,
+      "num_comments": 0,
+      "summary": "Kandaki bir moleküler sinyalin yumurtalık kanserinin erken riskini saptamaya yardımcı olabildiği bildiriliyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50468613",
+      "article_url": "https://www.theguardian.com/society/2026/nov/11/ovarian-cancer-study-early-detection-blood"
+    }
+  ]
+}
