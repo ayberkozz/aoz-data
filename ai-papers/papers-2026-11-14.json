@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-14",
+  "timestamp": "2026-11-14T05:00:00Z",
+  "papers": [
+    {
+      "title": "Outcome-Mass Alignment: Controlling Length-Dependent Trajectory Influence in Multi-Turn LLM Agent Reinforcement Learning",
+      "pdf_url": "https://arxiv.org/pdf/2611.16816",
+      "summary": "Identifies two accounting flaws in stepwise group-relative RL for multi-turn LLM agents: outcome statistics get counted multiple times per episode, and longer trajectories carry more total objective weight. Outcome-Mass Alignment computes statistics over unique trajectories and normalizes aggregate objective mass, without altering the base optimizer. It improves ALFWorld success by 7.0 to 9.4 points and raises WebShop success nAUC from 0.399 to 0.511.",
+      "page_count": 18
+    },
+    {
+      "title": "When can an interpretability claim be trusted? Stability and certification of feature dimensionality, ridge leverage and the feature recovery rate",
+      "pdf_url": "https://arxiv.org/pdf/2611.16190",
+      "summary": "Analyzes two common interpretability metrics, feature dimensionality and feature recovery rate, on toy models and synthetic dictionaries with known ground truth. Proposes a ridge-regularized dimensionality with provable stability bounds and certificates for when a feature-recovered claim holds under dictionary perturbations. Shows that recovery status flips with the training seed for 55% of features at the standard threshold, so such claims need care.",
+      "page_count": 70
+    }
+  ]
+}
