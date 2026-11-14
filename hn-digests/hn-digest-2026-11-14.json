@@ -1,0 +1,180 @@
+{
+  "date": "2026-11-14",
+  "timestamp": "2026-11-14T05:01:56Z",
+  "summary_language": "tr",
+  "top_stories": [
+    {
+      "rank": 1,
+      "title": "FAA issues national ground stop – lifted 4.5 hours later",
+      "points": 1432,
+      "num_comments": 1111,
+      "summary": "FAA, 13 Kasım'da ABD genelinde kalkış yapacak uçuşlar için ulusal yer durdurması emri verdi ve yaklaşık beş saat sonra kaldırdı; 7.000'den fazla uçuş iptal edildi. Ulaştırma Bakanı Duffy eski hava trafik kontrol sistemindeki aşırı yüklenmiş yönlendiricileri suçlarken, İç Güvenlik Bakanlığı siber saldırıya dair bir işaret olmadığını belirtti. Bir havacılık uzmanı 300.000-400.000 yolcunun mahsur kaldığını tahmin ediyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50489641",
+      "article_url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247"
+    },
+    {
+      "rank": 2,
+      "title": "LibreOffice actually works 365 days a year",
+      "points": 854,
+      "num_comments": 263,
+      "summary": "LibreOffice'in resmi hesabından yapılan bu paylaşım, ofis paketinin yılın 365 günü sorunsuz çalıştığını vurguluyor; Microsoft 365 kesintisine gönderme yapıyor görünüyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50486482",
+      "article_url": "https://twitter.com/LibreOffice/status/2121205272479998268"
+    },
+    {
+      "rank": 3,
+      "title": "Nvidia employees petition to bring back Jensen Huang",
+      "points": 796,
+      "num_comments": 658,
+      "summary": "Nvidia çalışanlarının, Jensen Huang'ın CEO olarak geri getirilmesi için dilekçe başlattığı bildiriliyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50477231",
+      "article_url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/"
+    },
+    {
+      "rank": 4,
+      "title": "Reverse engineering my Coway air purifier to ditch the cloud",
+      "points": 711,
+      "num_comments": 204,
+      "summary": "Yazar, bulut hizmetine bağımlılıktan kurtulmak için Coway Airmega hava temizleyicisini tersine mühendislikle çözdü. Cihazın kök sertifikasını düz HTTP ile indirdiğini keşfetti; mitmproxy, Bluetooth günlükleri ve yapay zekâ destekli çözümlemeyle MQTT komutlarını ve eşleştirme protokolünü öğrendi. Sonuçta cihazı yerel olarak kontrol eden bir Home Assistant entegrasyonu ortaya çıktı.",
+      "hn_url": "https://news.ycombinator.com/item?id=50474959",
+      "article_url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/"
+    },
+    {
+      "rank": 5,
+      "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+      "points": 488,
+      "num_comments": 383,
+      "summary": "13 Kasım'da Claude.ai, Claude Console, Claude Code ve Claude Cowork'te yükselen hata oranları görüldü; kullanıcılar kimlik doğrulamada sorun yaşadı. Düzeltme uygulanıp izlendikten sonra olay 11:58 UTC'de çözüldü olarak işaretlendi.",
+      "hn_url": "https://news.ycombinator.com/item?id=50481187",
+      "article_url": "https://status.claude.com/incidents/nn11wk485zfn"
+    },
+    {
+      "rank": 6,
+      "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
+      "points": 466,
+      "num_comments": 321,
+      "summary": "1960 tarihli bu Science makalesi, 13 Kasım 2026 Cuma gününe işaret eden meşhur 'Kıyamet Günü' nüfus projeksiyonunu konu alıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50482379",
+      "article_url": "https://www.science.org/doi/10.1126/science.132.3436.1291"
+    },
+    {
+      "rank": 7,
+      "title": "Microsoft Outlook/365 still down after 12 hours",
+      "points": 464,
+      "num_comments": 308,
+      "summary": "Microsoft 365 durum hesabından yapılan paylaşıma göre Outlook ve Microsoft 365 hizmetleri 12 saati aşkın süredir çalışmıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50478609",
+      "article_url": "https://twitter.com/MSFT365Status/status/2121079061774491735"
+    },
+    {
+      "rank": 8,
+      "title": "IceWM",
+      "points": 358,
+      "num_comments": 217,
+      "summary": "IceWM, hız, sadelik ve kullanıcının yolundan çekilmeyi hedefleyen bir X Window System pencere yöneticisi. Görev çubuğu, özelleştirilebilir kısayollar, Alt+Tab, çoklu monitör, tema ve sistem tepsisi sunuyor. 1997'de Marko Maček tarafından geliştirilen proje GitHub'da sürdürülüyor; son sürüm 4.1.0.",
+      "hn_url": "https://news.ycombinator.com/item?id=50478515",
+      "article_url": "https://ice-wm.org/"
+    },
+    {
+      "rank": 9,
+      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+      "points": 357,
+      "num_comments": 152,
+      "summary": "Unemployment Labs raporu, DeepSeek, Moonshot AI, MiniMax ve Ant Group'un altı yeni modelinin, Çin'e ihracatı kısıtlanmış NVIDIA Blackwell GPU'larının sayısal parmak izlerini taşıdığını, eski modellerin ise Hopper kuşağıyla uyumlu olduğunu öne sürüyor. Analiz, yayımlanan ağırlıklardan başlangıç değerlerinin nasıl üretildiğini çözmeye dayanıyor. Rapor, çiplerin nerede bulunduğunu veya bir ihracat kuralının ihlal edilip edilmediğini kanıtlayamadığını da belirtiyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50474883",
+      "article_url": "https://unemploymentlabs.com/checkpoint-forensics"
+    },
+    {
+      "rank": 10,
+      "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+      "points": 357,
+      "num_comments": 95,
+      "summary": "Yapay zekânın, matematikçi Kurt Gödel'in defterlerinin çözülmesine yardımcı olduğu ve bunların yüzlerce ispatlanmış teorem içerdiği söyleniyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50486748",
+      "article_url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths"
+    }
+  ],
+  "health_stories": [
+    {
+      "rank": 1,
+      "title": "Found: A protein that drives ageing without unleashing inflammation",
+      "points": 157,
+      "num_comments": 23,
+      "summary": "Nature'da yayımlanan haber, iltihabı tetiklemeden yaşlanmayı yönlendiren bir proteinin bulunduğunu bildiriyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50488470",
+      "article_url": "https://www.nature.com/articles/d41586-026-03638-3"
+    },
+    {
+      "rank": 2,
+      "title": "Eli Lilly CEO pushes back on Dario Amodei's medical claims",
+      "points": 265,
+      "num_comments": 365,
+      "summary": "Gary Marcus, Anthropic CEO'su Dario Amodei'nin kanser, Alzheimer, kalp hastalığı ve ruhsal hastalıkların on yıl içinde tedavi edileceği iddiasını eleştiriyor. Eli Lilly CEO'su Dave Ricks de böyle bir atılımın olası olmadığını, ilerlemenin muhtemelen kademeli olacağını söyledi. Marcus, ana akım medyanın bu iddiaları yeterince sorgulamadığını savunuyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50483480",
+      "article_url": "https://garymarcus.substack.com/p/breaking-eli-lilly-ceo-becomes-latest"
+    },
+    {
+      "rank": 3,
+      "title": "Amodei Says AI Will Cure Cancer in a Decade. Doctors Are Skeptical",
+      "points": 32,
+      "num_comments": 70,
+      "summary": "Business Insider'daki haber, Dario Amodei'nin yapay zekânın kanseri on yıl içinde tedavi edeceği yönündeki sözlerine doktorların şüpheyle yaklaştığını bildiriyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50484110",
+      "article_url": "https://www.businessinsider.com/dario-amodei-anthropic-cancer-cure-ipo-roadshow-backlash-doctors-2026-11"
+    },
+    {
+      "rank": 4,
+      "title": "'Transition regret' is rare, according to study",
+      "points": 7,
+      "num_comments": 1,
+      "summary": "Them'deki yazı, cinsiyet geçişi pişmanlığının bir çalışmaya göre çok nadir olduğunu anlatıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50477215",
+      "article_url": "https://www.them.us/answers-and-advice/health/transition-regret-extremely-rare"
+    },
+    {
+      "rank": 5,
+      "title": "FDA Approves First Factor Xla Inhibitor to Help Prevent Stroke",
+      "points": 5,
+      "num_comments": 0,
+      "summary": "FDA, ilk faktör XIa inhibitörü olan Sunharbo'yu (asundexian), yakın zamanda hafif-orta şiddette kardiyoembolik olmayan inme veya yüksek riskli geçici iskemik atak geçirenlerde inme riskini azaltmak için onayladı. 12.327 yetişkinle yapılan çalışmada iskemik inme riski plaseboya göre %26 azaldı. 75 yaş üstünde ve ilk 90 günde kanama riski arttı; ilaç atriyal fibrilasyonda inme önleme için onaylı değil.",
+      "hn_url": "https://news.ycombinator.com/item?id=50477949",
+      "article_url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-factor-xla-inhibitor-help-prevent-stroke-certain-adults-high-risk"
+    },
+    {
+      "rank": 6,
+      "title": "AI Can Help You Appeal Health Insurance Denials",
+      "points": 5,
+      "num_comments": 1,
+      "summary": "Sigorta şirketleri kapsam taleplerini değerlendirmede giderek daha çok yapay zekâ kullanırken, hastalar da itiraz dilekçelerini hazırlamak için Claimable ve Fight Health Insurance gibi araçlara başvuruyor. Commonwealth Fund anketine göre reddedilenlerin yalnızca yaklaşık yarısı itiraz ediyor. Yapay zekâyla hazırlanan itiraz, bir Crohn hastasının reddedilen ilacının onaylanmasını sağladı.",
+      "hn_url": "https://news.ycombinator.com/item?id=50475482",
+      "article_url": "https://time.com/article/2026/11/12/how-ai-can-help-you-appeal-health-insurance-denials/"
+    },
+    {
+      "rank": 7,
+      "title": "CRISPR therapy poised for first FDA approval to edit genes inside the body",
+      "points": 5,
+      "num_comments": 0,
+      "summary": "Nature'daki haber, vücudun içinde gen düzenleyen bir CRISPR tedavisinin ilk FDA onayına yaklaştığını bildiriyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50485918",
+      "article_url": "https://www.nature.com/articles/d41586-026-03705-9"
+    },
+    {
+      "rank": 8,
+      "title": "Male Pattern Baldness: Extended-Release Minoxidil Regrows Hair in Phase 3 Trial",
+      "points": 4,
+      "num_comments": 2,
+      "summary": "Medscape'teki habere göre, uzun salımlı minoksidil, erkek tipi saç dökülmesinde faz 3 çalışmada saç çıkışını sağladı. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50477062",
+      "article_url": "https://www.medscape.com/viewarticle/male-pattern-baldness-extended-release-minoxidil-regrows-2026a10013pk"
+    },
+    {
+      "rank": 9,
+      "title": "Duran Duran drummer Roger Taylor, 66, leaves band due to tinnitus",
+      "points": 5,
+      "num_comments": 3,
+      "summary": "Duran Duran davulcusu Roger Taylor (66), kulak çınlaması (tinnitus) nedeniyle gruptan ayrıldı. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50475105",
+      "article_url": "https://www.theguardian.com/music/2026/nov/12/duran-duran-drummer-roger-taylor-leaves-band-due-to-tinnitus"
+    }
+  ]
+}
