@@ -1,0 +1,117 @@
+{
+  "date": "2026-11-14",
+  "timestamp": "2026-11-14T12:00:00Z",
+  "summary": "Two threads stood out: people reclaiming cloud-locked hardware (a Coway purifier and a Brother embroidery machine, both with 700+ point Show HN/HN posts and a 1,194-point 'smart home should work offline' post), and small decision or CPU-only models replacing frontier LLM calls. Only one solo idea cleared the demand-plus-weak-supply bar, at low confidence; no startup idea is reported.",
+  "solo": [
+    {
+      "title": "Cloud-free native iPhone app for Coway Airmega purifiers",
+      "problem": "Owners of Coway Airmega purifiers rely on a vendor app that users rate 1.45 stars, with login loops and failed Wi-Fi pairing, and the cloud integration for home automation keeps breaking.",
+      "evidence": [
+        {
+          "title": "HN: Reverse engineering my Coway air purifier to ditch the cloud (item 50474959, 723 pts, 208 comments)",
+          "url": "https://news.ycombinator.com/item?id=50474959"
+        },
+        {
+          "title": "Author write-up: local control, Web Bluetooth provisioning, Home Assistant bridge",
+          "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/"
+        },
+        {
+          "title": "App Store customer reviews feed for Coway IoCare (id 1045884963), recent 1-star reviews",
+          "url": "https://itunes.apple.com/us/rss/customerreviews/id=1045884963/sortby=mostrecent/json"
+        },
+        {
+          "title": "HN: Smart home devices should work without the internet (item 50441707, 1194 pts)",
+          "url": "https://news.ycombinator.com/item?id=50441707"
+        }
+      ],
+      "competitors": "Coway's own IoCare app: App Store lookup shows 1.45 stars from 649 ratings and IoCare+ 1.48 from 102 (last updates 2026-10-19 and 2026-11-12); Google Play listing shows 2.5. Open-source: scottjg/coway-local (16 stars, pushed 2026-11-12) and Antonio112009/ha-coway (3 stars), both Home Assistant based, so no polished no-Home-Assistant iPhone option was found. Inference: the gap is a normal-user app, not a hacker integration.",
+      "first_version": "SwiftUI app that provisions the purifier over Bluetooth and controls power, fan speed, mode and schedules over the local network, with no account. Reuse the protocol work in coway-local; verify the licence first. Later: Shortcuts actions and a Matter/HomeKit bridge.",
+      "effort": "3-4 weeks if the local protocol is stable and documented by coway-local; longer if it must be re-derived. Needs a physical Airmega to test.",
+      "monetization": "One-time purchase or small paid upgrade for schedules and automations. Revenue not evidenced; the market is limited to owners of supported models.",
+      "risks": "Small niche; coway-local targets one model (AP-1022K) so other models may differ; Coway firmware or certificate changes could break it; App Review may question a third-party control app; one-time pricing leaves ongoing support unpaid.",
+      "score": 4,
+      "score_reason": "Real demand and a clearly weak vendor app, but a tiny, model-specific market and unproven protocol coverage.",
+      "confidence": "low"
+    }
+  ],
+  "startup": [],
+  "future_signals": [
+    {
+      "technology": "AI-assisted reverse engineering to reclaim cloud-locked hardware",
+      "stage": "emerging",
+      "why_now": "Two Show HN/HN posts within two days (Coway purifier, 723 pts; Brother Skitch embroidery app with Bluetooth protocol, 722 pts) describe ordinary owners using AI assistants to decode vendor protocols and drop the cloud or subscription. The Coway author says an AI assistant reconstructed the encrypted provisioning protocol.",
+      "could_enable": "Community-built local apps for appliances whose vendors abandon or monetise their cloud; per-device apps could be produced in days rather than months. Inference: vendors may respond with tighter firmware signing.",
+      "signals": [
+        {
+          "title": "This repo: HN digest 2026-11-14 (Coway story)",
+          "url": "https://github.com/ayberkozz/aoz-data/blob/main/hn-digests/hn-digest-2026-11-14.json"
+        },
+        {
+          "title": "This repo: HN digest 2026-11-13 (embroidery machine story)",
+          "url": "https://github.com/ayberkozz/aoz-data/blob/main/hn-digests/hn-digest-2026-11-13.json"
+        },
+        {
+          "title": "ZigZag open-source embroidery software (Rust, Apache-2.0, 634 stars at fetch)",
+          "url": "https://github.com/simpsoka/zigzag"
+        },
+        {
+          "title": "Coway write-up",
+          "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "technology": "Closed-choice 'decision' models replacing LLM text generation for high-volume labelling",
+      "stage": "emerging",
+      "why_now": "Amazon engineers report replacing Sonnet 4.6 with a small Strands Decider model for ticket labelling, with token use down 70%, latency down 78% and cost about 98% lower (self-reported, list-price basis). It fits fixed label sets only.",
+      "could_enable": "Cheap, fast routing and triage over fixed categories on small servers or devices, for example clinical message triage. Inference: this extends the small-specialist-model signal in earlier reports.",
+      "signals": [
+        {
+          "title": "This repo: HN digest 2026-11-11 (Amazon/Decider story)",
+          "url": "https://github.com/ayberkozz/aoz-data/blob/main/hn-digests/hn-digest-2026-11-11.json"
+        },
+        {
+          "title": "Strands blog: Amazon saves millions replacing Sonnet with Strands Decider",
+          "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "technology": "CPU-only inference of very large mixture-of-experts models in commodity RAM",
+      "stage": "emerging",
+      "why_now": "llama-modchip (1.2k stars at fetch) claims a 284B MoE model in under 59 GiB RAM at about 9 tokens/s with no GPU, via custom low-bit formats. Figures are the author's own and inconsistent in places; it needs its own runtime.",
+      "could_enable": "Frontier-scale private models on a single workstation without GPUs, relevant to on-prem use where data cannot leave the site. Unverified independently.",
+      "signals": [
+        {
+          "title": "This repo: HN digest 2026-11-09 (Llama-modchip story)",
+          "url": "https://github.com/ayberkozz/aoz-data/blob/main/hn-digests/hn-digest-2026-11-09.json"
+        },
+        {
+          "title": "llama-modchip GitHub repo (Apache-2.0)",
+          "url": "https://github.com/synchopate/llama-modchip"
+        }
+      ],
+      "confidence": "low"
+    },
+    {
+      "technology": "Multi-agent formal verification of deployed code",
+      "stage": "emerging",
+      "why_now": "DeepMind says AlphaProof Code agents produced over six million lines of Lean in about four weeks to verify Signal's compiled cryptographic protocol code, with humans reviewing specifications and about 1% of code. This updates the earlier formal-verification signal with a named, large-scale result.",
+      "could_enable": "Machine-checked guarantees for security-critical or safety-critical code, a task that previously took expert teams years. Applying it to other systems is stated as future work.",
+      "signals": [
+        {
+          "title": "This repo: HN digest 2026-11-11 (AlphaProof Code story)",
+          "url": "https://github.com/ayberkozz/aoz-data/blob/main/hn-digests/hn-digest-2026-11-11.json"
+        },
+        {
+          "title": "DeepMind: Introducing AlphaProof Code",
+          "url": "https://deepmind.google/blog/introducing-alphaproof-code/"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "limitations": "Checked: Reddit (0 posts), HN Algolia (14 queries), App Store API (about 35 apps across 3 searches, 1 review feed), Google Play (1 search, 15 apps), Chrome Web Store (1 search, 4 extensions, plus 1 site: search), G2/Capterra (2 site: searches, snippets only), Product Hunt (1 weekly leaderboard, 10 products), Google Trends (blocked), Indie Hackers (1 site: search, snippets only), RevenueCat (ok, via search summaries only).\nReddit: old.reddit.com and www.reddit.com JSON fetches were refused by the fetch tool, and site:reddit.com search returned mostly blog posts plus one r/iosapps mirror. Google Trends: fetch returned HTTP 429, no second-hand source found. App Store top-paid chart: first URL redirected, redirect target returned 502. G2 pages and Indie Hackers posts were seen only as search snippets, not opened, so they are not used as evidence. Google Play result gave ratings but no install bands or update dates. Coway-local and ha-coway data come from the GitHub search API listing, not opened repo pages. Dropped leads: USPS ZIP polygons (the HN post exists, but reporting says licences cost $10,000-$150,000 a year, so no solo product); Microsoft 365 email continuity (HN outage thread opened, but no commenter asked for a tool and enterprise products exist); embroidery companion app (Brother Artspira has 4.56 stars from 6,810 ratings, so supply is not weak). No startup idea was reported because none had fresh evidence beyond earlier weeks' clinical ideas."
+}
