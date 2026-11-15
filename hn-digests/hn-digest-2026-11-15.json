@@ -1,0 +1,207 @@
+{
+  "date": "2026-11-15",
+  "timestamp": "2026-11-15T04:56:39Z",
+  "summary_language": "tr",
+  "top_stories": [
+    {
+      "rank": 1,
+      "title": "FAA issues national ground stop – lifted 4.5 hours later",
+      "points": 1638,
+      "num_comments": 1273,
+      "summary": "ABD'de FAA, ülke genelinde tüm uçuşları durduran bir yer durdurma emri verdi ve bu emir yaklaşık 4,5 saat sonra kaldırıldı. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50489641",
+      "article_url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247"
+    },
+    {
+      "rank": 2,
+      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+      "points": 1054,
+      "num_comments": 624,
+      "summary": "Nvidia'nın, yapay zekâ girişimlerine yatırım yaparak bunların kendi GPU'larını satın almasını sağladığı ve böylece yapay bir kıtlık yarattığı iddia ediliyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50493251",
+      "article_url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus"
+    },
+    {
+      "rank": 3,
+      "title": "Lovable apps expose passport details and more than 200K private messages",
+      "points": 715,
+      "num_comments": 290,
+      "summary": "Crissy Field GmbH, 159.041 Lovable projesini inceledi ve Supabase kullanan birçok sitenin oturum açmaya gerek kalmadan kişisel verileri açığa çıkardığını buldu. Açığa çıkan veriler arasında pasaport bilgileri ve özel mesajlar da var; araştırmacılar bunun kesinleşmiş bir sızıntı oranı olmadığını belirtiyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50499017",
+      "article_url": "https://www.crissyfield.de/research/lovable-en/"
+    },
+    {
+      "rank": 4,
+      "title": "Tech companies are trying to shift the concept of privacy again",
+      "points": 511,
+      "num_comments": 182,
+      "summary": "Teknoloji şirketlerinin gizlilik kavramını yeniden kendi lehlerine tanımlamaya çalıştığı öne sürülüyor; EFF konuyu eleştirel biçimde ele alıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50496602",
+      "article_url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again"
+    },
+    {
+      "rank": 5,
+      "title": "Monkey Island: all 13 versions side by side",
+      "points": 469,
+      "num_comments": 148,
+      "summary": "Bu sayfa, The Secret of Monkey Island oyununun 13 farklı sürümünü aynı 12 sahne üzerinden yan yana karşılaştırıyor ve isteğe bağlı CRT efektleri sunuyor. Hayran yapımı olan proje, Lucasfilm Games veya LucasArts ile bağlantılı değil.",
+      "hn_url": "https://news.ycombinator.com/item?id=50493904",
+      "article_url": "https://monkeyisland.pages.dev/"
+    },
+    {
+      "rank": 6,
+      "title": "KDE: The documentary [video]",
+      "points": 416,
+      "num_comments": 89,
+      "summary": "Bu video, KDE masaüstü projesi ve özgür yazılım topluluğu hakkında bir belgesel olarak paylaşıldı. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50496976",
+      "article_url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c"
+    },
+    {
+      "rank": 7,
+      "title": "Terminal borders that don't cost a cell",
+      "points": 408,
+      "num_comments": 197,
+      "summary": "Ratatui bakımcısı Joshka, kutu çizim karakterleri yerine hücre kenarlarına ince çizgiler çizen yeni bir terminal protokolü öneriyor. Böylece kenarlıklar satır veya sütun harcamıyor; Ghostty çatalında çalışan bir prototip var ve terminal geliştiricilerinden geri bildirim isteniyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50491423",
+      "article_url": "https://www.joshka.net/cell-borders/"
+    },
+    {
+      "rank": 8,
+      "title": "Ggml v1.0.0",
+      "points": 400,
+      "num_comments": 67,
+      "summary": "GGML v1.0.0, eski API'leri kaldırıyor, YaRN kırpma kontrolü ve FP8 desteği ekliyor. Ayrıca CUDA, Metal, Vulkan, SYCL, OpenCL, WebGPU, Hexagon ve CPU arka uçlarında performans iyileştirmeleri içeriyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50493062",
+      "article_url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0"
+    },
+    {
+      "rank": 9,
+      "title": "Italy fines Meta $887M over Android users' data access",
+      "points": 360,
+      "num_comments": 249,
+      "summary": "İtalya'nın Meta'ya, Android kullanıcılarının verilerine erişim nedeniyle yaklaşık 887 milyon dolar para cezası verdiği bildiriliyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50497009",
+      "article_url": "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/"
+    },
+    {
+      "rank": 10,
+      "title": "Ukraine knocks out 36% of Russia's oil refining capacity in under two weeks",
+      "points": 311,
+      "num_comments": 235,
+      "summary": "Ukrayna'nın iki haftadan kısa sürede Rusya'nın petrol rafinaj kapasitesinin yaklaşık yüzde 36'sını devre dışı bıraktığı bildiriliyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50492456",
+      "article_url": "https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html"
+    }
+  ],
+  "health_stories": [
+    {
+      "rank": 1,
+      "title": "Elephants found to be increasingly isolated leading to fractured social networks",
+      "points": 189,
+      "num_comments": 43,
+      "summary": "UC San Diego araştırmacıları, Sri Lanka'daki Udawalawe Milli Parkı'nda 12 yıl boyunca 440'tan fazla yabani dişi Asya filini izledi. Ölümler ve göçler nedeniyle büyük sosyal gruplar küçük ve izole gruplara bölündü; araştırmacılar bu durumun geri döndürülmesinin zor olabileceği uyarısında bulunuyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50492860",
+      "article_url": "https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks"
+    },
+    {
+      "rank": 2,
+      "title": "GLP-1 Drugs May Work Differently in Women",
+      "points": 20,
+      "num_comments": 6,
+      "summary": "GLP-1 ilaçlarının kadınlarda erkeklerden farklı etki gösterebileceği bildiriliyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50493105",
+      "article_url": "https://www.medpagetoday.com/endocrinology/obesity/120124"
+    },
+    {
+      "rank": 3,
+      "title": "After 26 years, the US has lost its measles elimination status",
+      "points": 10,
+      "num_comments": 2,
+      "summary": "ABD'nin 26 yıl sonra kızamık eliminasyonu statüsünü kaybettiği bildiriliyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50494521",
+      "article_url": "https://www.cnn.com/2026/11/13/health/us-measles-elimination-status"
+    },
+    {
+      "rank": 4,
+      "title": "US loses measles-free status after continued spread of the disease",
+      "points": 9,
+      "num_comments": 2,
+      "summary": "Kızamığın yayılmaya devam etmesi nedeniyle ABD'nin kızamıktan arınmış ülke statüsünü kaybettiği bildiriliyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50493073",
+      "article_url": "https://www.reuters.com/world/us-loses-measles-free-status-after-continued-spread-disease-wsj-reports-2026-11-14/"
+    },
+    {
+      "rank": 5,
+      "title": "Polymarket and Kalshi now host bets on measles and other US health crises",
+      "points": 6,
+      "num_comments": 2,
+      "summary": "Polymarket ve Kalshi platformlarında artık kızamık ve diğer ABD halk sağlığı krizleri üzerine bahis oynanabildiği bildiriliyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50496466",
+      "article_url": "https://www.theguardian.com/world/2026/nov/14/measles-kalshi-polymarket-betting"
+    },
+    {
+      "rank": 6,
+      "title": "An organ transplant controversy tests 'the dead donor rule'",
+      "points": 5,
+      "num_comments": 0,
+      "summary": "Organ nakli konusunda 'ölü donör kuralı'nı test eden bir tartışma yaşanıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50496566",
+      "article_url": "https://www.npr.org/2026/11/14/nx-s1-6032604/organ-transplant-donor-dead-ethics"
+    },
+    {
+      "rank": 7,
+      "title": "Cancer society issues updated prostate cancer screening guidelines",
+      "points": 5,
+      "num_comments": 0,
+      "summary": "Amerikan Kanser Derneği, ortalama riskli 50-69 yaş erkekler için iki yılda bir PSA kan testi öneriyor; yüksek riskli erkekler için tarama 45 yaşında başlıyor. Tarama 75 yaşında veya yaşam beklentisi 10 yılın altına düştüğünde bırakılmalı; diğer büyük kuruluşların önerileri ise farklı.",
+      "hn_url": "https://news.ycombinator.com/item?id=50493534",
+      "article_url": "https://abcnews.com/GMA/Wellness/cancer-society-issues-specific-prostate-cancer-screening-guidelines/story?id=138053060"
+    },
+    {
+      "rank": 8,
+      "title": "US to fund new research into psychedelic drug ibogaine for veterans with PTSD",
+      "points": 4,
+      "num_comments": 0,
+      "summary": "ABD'nin, TSSB'li gaziler için psikedelik ilaç ibogain üzerine yeni araştırmalara fon ayıracağı bildiriliyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50494060",
+      "article_url": "https://www.reuters.com/legal/litigation/us-fund-new-research-into-psychedelic-drug-ibogaine-veterans-with-ptsd-2026-11-12/"
+    },
+    {
+      "rank": 9,
+      "title": "A Novel Approach Against Male Pattern Hair Loss",
+      "points": 3,
+      "num_comments": 0,
+      "summary": "Erkek tipi saç dökülmesine karşı yeni bir yaklaşımı ele alan bir bilimsel makale paylaşıldı. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50500723",
+      "article_url": "https://pubmed.ncbi.nlm.nih.gov/40820949/"
+    },
+    {
+      "rank": 10,
+      "title": "Show HN: Radiotherapy Delivery Demo Written in Rust and WebAssembly",
+      "points": 3,
+      "num_comments": 1,
+      "summary": "Rust ve WebAssembly ile yazılmış bir radyoterapi planlama gösterimi paylaşıldı. Araç UT Southwestern'de geliştirilmiş, sonra NeuralRad tarafından ilerletilmiş; sayfa ise yalnızca bir başlangıç durumu gösteriyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50500000",
+      "article_url": "https://tps.neuralrad.com"
+    },
+    {
+      "rank": 11,
+      "title": "Tuberculosis rapid test allows in-the-field results",
+      "points": 3,
+      "num_comments": 0,
+      "summary": "Northwestern mühendisleri, dil sürüntüsü veya balgam örneğiyle yaklaşık 20 dakikada sonuç veren hızlı bir tüberküloz testi geliştirdi. Test, yaygın kullanılan Xpert MTB/RIF Ultra ile benzer performans gösteriyor ve 45°C'ye kadar dayanıklı olduğu için elektriği veya soğutması sınırlı bölgelerde kullanılabilir.",
+      "hn_url": "https://news.ycombinator.com/item?id=50499947",
+      "article_url": "https://news.northwestern.edu/stories/2026/11/tuberculosis-rapid-test-allows-in-the-field-results"
+    },
+    {
+      "rank": 12,
+      "title": "The Japanese region where \"eight-testicle women\" outdo men",
+      "points": 3,
+      "num_comments": 0,
+      "summary": "Japonya'da bir bölgede kadınların erkeklerden daha başarılı olduğu anlatılıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50499068",
+      "article_url": "https://www.economist.com/asia/2026/11/12/the-japanese-region-where-eight-testicle-women-outdo-men"
+    }
+  ]
+}
