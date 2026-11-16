@@ -1,0 +1,207 @@
+{
+  "date": "2026-11-16",
+  "timestamp": "2026-11-16T04:57:00Z",
+  "summary_language": "tr",
+  "top_stories": [
+    {
+      "rank": 1,
+      "title": "SpaceX catches the Starship to end Flight 15",
+      "points": 1663,
+      "num_comments": 1243,
+      "summary": "SpaceX'in Starship uçuş 15'te aracı geri yakalayarak testi tamamladığı bildiriliyor. Haber, yeniden kullanılabilir roket hedefinde önemli bir adım olarak öne çıkıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50500963",
+      "article_url": "https://www.spacex.com/launches/starship-flight-15"
+    },
+    {
+      "rank": 2,
+      "title": "All AI-generated code should be Open Source",
+      "points": 1119,
+      "num_comments": 603,
+      "summary": "Yazar, yapay zekâ modellerinin açık lisanslı kodlar ve Stack Overflow içerikleriyle eğitildiğini, bu yüzden kapalı kaynaklı çıktının lisans aklamaya benzediğini savunuyor. Tamamen yapay zekâ tarafından üretilen kodun insan eseri sayılmadığını, bu nedenle açık kaynak lisansıyla ya da CC0 ile kamuya açılması gerektiğini söylüyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50507303",
+      "article_url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/"
+    },
+    {
+      "rank": 3,
+      "title": "Court denies motion to dismiss DRAM price fixing case",
+      "points": 500,
+      "num_comments": 219,
+      "summary": "Kaliforniya Kuzey Bölgesi federal hâkimi, Samsung, SK Hynix ve Micron'un DRAM arzını kısıp üretimi HBM'e kaydırmak için anlaştıkları iddiasıyla açılan toplu davayı reddetme talebini tamamen geri çevirdi. Hâkim, uzun vadeli HBM sözleşmelerini ve Micron'un Crucial markasını kapatmasını anlaşma iddiasını makul kılan unsurlar olarak gösterdi.",
+      "hn_url": "https://news.ycombinator.com/item?id=50502988",
+      "article_url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal"
+    },
+    {
+      "rank": 4,
+      "title": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
+      "points": 482,
+      "num_comments": 220,
+      "summary": "Haber, Ticaret Bakanı Lutnick'in, ailesinin işiyle örtüşen çip kurallarının gevşetilmesi için baskı yaptığını öne sürüyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50506180",
+      "article_url": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html"
+    },
+    {
+      "rank": 5,
+      "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+      "points": 455,
+      "num_comments": 194,
+      "summary": "Microsoft 365 kesintisinin, bir eğlence parkındaki havuz klor arızasının fark edilmesini engellediği ve 15 otel misafirinin klor gazından zehirlendiği bildiriliyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50509411",
+      "article_url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html"
+    },
+    {
+      "rank": 6,
+      "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
+      "points": 445,
+      "num_comments": 234,
+      "summary": "Haber, Nvidia'nın dairesel finansman anlaşmalarıyla GPU fiyatlarını bilerek yüksek tuttuğunu öne sürüyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50501631",
+      "article_url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html"
+    },
+    {
+      "rank": 7,
+      "title": "The MacBook Pro's OLED PWM problem",
+      "points": 440,
+      "num_comments": 254,
+      "summary": "Yazı, MacBook Pro'nun OLED ekranındaki PWM titremesinin daha iyi bir ekranı kullanım açısından neden daha kötü hâle getirebildiğini ele alıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50506719",
+      "article_url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/"
+    },
+    {
+      "rank": 8,
+      "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
+      "points": 340,
+      "num_comments": 127,
+      "summary": "EFF ve ACLU, Altıncı Daire Temyiz Mahkemesi'ne sundukları görüşte, plaka okuma sistemleriyle bir aracın izlenmesinin Dördüncü Değişiklik kapsamında arama sayıldığını ve mahkeme izni gerektirdiğini savunuyor. Yakın tarihli bir federal karar da bu sistemleri \"ayrım gözetmeyen kitlesel gözetim\" olarak nitelendirmişti.",
+      "hn_url": "https://news.ycombinator.com/item?id=50503255",
+      "article_url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches"
+    },
+    {
+      "rank": 9,
+      "title": "How did Woz write the Apple 1 BASIC before building the computer? (2021)",
+      "points": 314,
+      "num_comments": 170,
+      "summary": "Soru, Steve Wozniak'ın bilgisayarı yapmadan önce Apple 1 BASIC'i nasıl yazdığını sorguluyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50501594",
+      "article_url": "https://retrocomputing.stackexchange.com/questions/17957"
+    },
+    {
+      "rank": 10,
+      "title": "Why did some Apollo missions carry a grenade launcher? (2019)",
+      "points": 236,
+      "num_comments": 147,
+      "summary": "Soru, bazı Apollo görevlerinin neden el bombası fırlatıcısı taşıdığını sorguluyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50505271",
+      "article_url": "https://space.stackexchange.com/questions/37775"
+    }
+  ],
+  "health_stories": [
+    {
+      "rank": 1,
+      "title": "Crows make decisions faster than we can",
+      "points": 195,
+      "num_comments": 142,
+      "summary": "Haber, karga kuşlarının karar verme hızının insanlardan daha yüksek olabileceğini bildiren bir araştırmayı ele alıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50509023",
+      "article_url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html"
+    },
+    {
+      "rank": 2,
+      "title": "US loses measles-free status after continued spread of the disease, WSJ reports",
+      "points": 13,
+      "num_comments": 0,
+      "summary": "ABD'nin, hastalığın yayılmaya devam etmesi nedeniyle kızamıktan arındırılmış ülke statüsünü kaybettiği bildiriliyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50503579",
+      "article_url": "https://www.msn.com/en-us/health/diseases-and-conditions/us-loses-measles-free-status-after-continued-spread-of-the-disease-wsj-reports/ar-AA2hoEdU"
+    },
+    {
+      "rank": 3,
+      "title": "New Species of Giant Fungus Discovered in China Grows Up to 20 Inches Tall",
+      "points": 6,
+      "num_comments": 2,
+      "summary": "Çin'de, boyu 20 inç'e kadar uzayan yeni bir dev mantar türü keşfedildiği bildiriliyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50506928",
+      "article_url": "https://www.wired.com/story/new-species-of-giant-fungus-discovered-in-china-grows-up-to-20-inches-tall/"
+    },
+    {
+      "rank": 4,
+      "title": "Coffee consumption changes gut microbiota and physiology",
+      "points": 6,
+      "num_comments": 4,
+      "summary": "Çalışma, kahve tüketiminin bağırsak mikrobiyotasını ve vücut fizyolojisini değiştirdiğini bildiriyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50501305",
+      "article_url": "https://www.sciencedirect.com/science/article/pii/S3051172026000149?via%3Dihub"
+    },
+    {
+      "rank": 5,
+      "title": "Our Amazing Immune System",
+      "points": 4,
+      "num_comments": 0,
+      "summary": "Yazar, bağışıklık sisteminin insanların geliştirdiği her şeyden çok daha sofistike olduğunu ve COVID-19 enfeksiyonlarının %99'dan fazlasını durdurduğunu anlatıyor. Bir B hücresinin antikoru virüse zayıf bağlandığında, hücre yüksek hatalı mutasyonlarla kendini kopyalıyor ve giderek daha iyi antikorlar ile kalıcı bağışıklık oluşuyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50507357",
+      "article_url": "https://berthub.eu/articles/posts/immune-system/"
+    },
+    {
+      "rank": 6,
+      "title": "Remote work increases sleep and reduces physical activity",
+      "points": 4,
+      "num_comments": 1,
+      "summary": "Turku Üniversitesi'nin 99 hibrit çalışanla yaptığı araştırmaya göre, çalışanlar evden çalıştıkları günlerde yaklaşık 15 dakika daha uyuyor ve yaklaşık 45 dakika daha fazla oturuyor ya da uzanıyor. Ayakta durma ve hafif ile orta-yüksek şiddetli aktivite de azalıyor; bunun nedeni yolculuk sırasındaki yürüyüş ve bisiklet imkânının kaybolması olabilir.",
+      "hn_url": "https://news.ycombinator.com/item?id=50504511",
+      "article_url": "https://www.utu.fi/en/news/press-release/remote-work-increases-sleep-and-reduces-physical-activity-sedentary-behaviour"
+    },
+    {
+      "rank": 7,
+      "title": "Screens, we have learned another way of reading that short-circuits the brain",
+      "points": 4,
+      "num_comments": 1,
+      "summary": "Nörobilimci Maryanne Wolf, ekranların okuma biçimimizi değiştirdiğini ve beynin derin okumayı atlayan yeni bir yol öğrendiğini söylüyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50502924",
+      "article_url": "https://english.elpais.com/science-tech/2026-11-14/maryanne-wolf-neuroscientist-because-of-screens-we-have-learned-another-way-of-reading-that-short-circuits-the-brain.html"
+    },
+    {
+      "rank": 8,
+      "title": "Once considered macabre, the consumption of roadkill is having a culinary moment",
+      "points": 4,
+      "num_comments": 1,
+      "summary": "Ben Goldfarb'un yazısı, yol kenarında ölen hayvanların yenmesinin ABD'de yaklaşık otuz eyalette yasal hâle geldiğini ve giderek yaygınlaştığını anlatıyor. Yazı ayrıca, toplayıcıların verilerinin vahşi yaşam geçitlerine yardımcı olabileceğini, bunun da ücretsiz et miktarını azaltacağını belirtiyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50502592",
+      "article_url": "https://www.vqronline.org/essays/opportunivores-dilemma"
+    },
+    {
+      "rank": 9,
+      "title": "Bone-Marrow transplants offer surprising way to treat mitochondrial diseases",
+      "points": 3,
+      "num_comments": 1,
+      "summary": "Stanford Tıp'ın Nature Communications'ta yayımlanan çalışması, Friedreich ataksisi olan farelerde kemik iliği naklinin donör bağışıklık hücrelerinin beyin ve kalbe yerleşip sağlıklı mitokondrileri komşu hücrelere aktarmasını sağladığını ve belirtileri kısmen hafiflettiğini gösterdi. Araştırmacılar yaklaşımın ileride diğer mitokondriyal hastalıklara da yardımcı olabileceğini düşünüyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50508939",
+      "article_url": "https://med.stanford.edu/news/all-news/2026/09/stem-cell-mitochondrial-disease.html"
+    },
+    {
+      "rank": 10,
+      "title": "Volcanic Springs Amoeba Survives 63 °C, Setting Heat Record for Complex Life",
+      "points": 3,
+      "num_comments": 0,
+      "summary": "Syracuse Üniversitesi araştırmacıları, Kaliforniya'daki bir kaplıcada 63 °C'ye dayanabilen Incendiamoeba cascadensis adlı amibi keşfetti; bu, karmaşık yaşam için bilinen 60 °C sınırını aşıyor. Organizma bu sıcaklıkta bölünebildi, kısa süreli 70 °C'den kurtuldu ancak 80 °C'den toparlanamadı.",
+      "hn_url": "https://news.ycombinator.com/item?id=50508059",
+      "article_url": "https://www.sciencealert.com/volcanic-springs-amoeba-survives-63-c-setting-a-new-heat-record-for-complex-life"
+    },
+    {
+      "rank": 11,
+      "title": "Atlas of the brain's striatum could guide researchers to new drug treatments",
+      "points": 3,
+      "num_comments": 0,
+      "summary": "MIT araştırmacıları, tek hücreli RNA dizileme ile beynin striatum bölgesinin atlasını çıkararak bağımlılık, depresyon ve şizofreniyle ilişkili olanlar dahil 31 nöron alt grubu belirledi. Çalışma, Huntington hastalığında bazı nöronların neden daha savunmasız olduğunu da açıklıyor ve yeni ilaç geliştirmeye yol göstermeyi hedefliyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50507863",
+      "article_url": "https://news.mit.edu/2026/brains-striatum-atlas-could-guide-researchers-new-drug-treatments-0901"
+    },
+    {
+      "rank": 12,
+      "title": "Scientists Made Monkeys Watch Minions to Study Their Brains",
+      "points": 3,
+      "num_comments": 0,
+      "summary": "404 Media'nın bu haftalık derlemesi, film izleyen insan ve makak beyin kayıtlarının, primat görme sisteminin göz hareketleri boyunca anlamı sürekli olarak ve \"anlamsal yenilik\"e tepki vererek kurduğunu gösterdiğini bildiriyor. Derleme ayrıca antik Peru'da iklim stresi ile şiddet arasındaki zayıf ilişkiyi ve diğer birkaç çalışmayı kapsıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50506803",
+      "article_url": "https://www.404media.co/scientists-made-monkeys-watch-minions-to-study-their-brains/"
+    }
+  ]
+}
