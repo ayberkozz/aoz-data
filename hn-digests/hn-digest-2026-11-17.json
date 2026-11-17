@@ -1,0 +1,189 @@
+{
+  "date": "2026-11-17",
+  "timestamp": "2026-11-17T05:10:00Z",
+  "summary_language": "tr",
+  "top_stories": [
+    {
+      "rank": 1,
+      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+      "points": 1007,
+      "num_comments": 154,
+      "summary": "Carnegie Mellon'ın Griffin Bilgisayar Bilimleri Okulu, ders kayıtlarını YouTube'da ücretsiz yayınlıyor. Yapay zekâ, robotik ve sistemler gibi alanlardaki dersler Kasım 2026 ile Ocak 2027 arasında yayına girecek. Daha sonra anında geri bildirim ve yapay zekâ destekli eğitmen içeren kendi hızında ilerlenen içerikler de planlanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50522980",
+      "article_url": "https://www.cs.cmu.edu/learn/"
+    },
+    {
+      "rank": 2,
+      "title": "Many of Amazon’s Black Friday and Cyber Monday “deals” offered no savings",
+      "points": 867,
+      "num_comments": 517,
+      "summary": "Groundwork Collaborative'in raporu, Amazon'un Black Friday ve Cyber Monday sayfalarındaki 350'den fazla ürünü inceledi. Bu \"fırsatların\" yaklaşık üçte biri satıştan önceki ay ödenebilecek fiyattan daha ucuz değildi, yaklaşık onda biri ise daha pahalıydı. Grup, düzenleyicilerden yanıltıcı indirimlere karşı önlem alınmasını ve son 30 günün en düşük fiyatının gösterilmesini istiyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50517488",
+      "article_url": "http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/"
+    },
+    {
+      "rank": 3,
+      "title": "How to make almost anything",
+      "points": 856,
+      "num_comments": 144,
+      "summary": "MIT'nin 2026 dönemi \"How To Make (almost) Anything\" dersinin sayfası, 9 Eylül'den 15 Aralık'taki proje sunumuna kadar haftalık programı veriyor. Konular arasında bilgisayar destekli tasarım, kesme ve işleme, elektronik, 3B tarama ve baskı, ağ iletişimi ve makine tasarımı var. Sayfada başvuru, ekip ve önceki yılların dokümantasyonuna bağlantılar da bulunuyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50514470",
+      "article_url": "https://pub.cba.mit.edu/863.26/site/"
+    },
+    {
+      "rank": 4,
+      "title": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
+      "points": 739,
+      "num_comments": 615,
+      "summary": "ABD'de JPMorgan Chase'teki teknik bir sorun, çevrimiçi bankacılıkta gecikmelere yol açtı ve diğer bankaları da etkiledi. Haber, kesintinin yaşandığı bankaları ve müşterilere etkisini ele alıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50521045",
+      "article_url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda"
+    },
+    {
+      "rank": 5,
+      "title": "Software is breaking down at a systemic level",
+      "points": 350,
+      "num_comments": 222,
+      "summary": "Yazar, yazılımın sistemik düzeyde çöktüğünü savunuyor ve 2026'daki Azure kesintisi ile npm saldırısı gibi olayları örnek gösteriyor. Bunu artan karmaşıklığa, açık kaynağa aşırı bağımlılığa ve yapay zekâ ürettiği kodun yol açtığı \"uyumsuzluğa\" bağlıyor. Yazara göre bu yeni normal ve yazılım ekosisteminin temelleri aşınıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50520866",
+      "article_url": "https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/"
+    },
+    {
+      "rank": 6,
+      "title": "Jiff 1.0: A datetime library for Rust",
+      "points": 343,
+      "num_comments": 78,
+      "summary": "Andrew Gallant, saat dilimi yönetimini API'sinin merkezine koyan Rust tarih-saat kütüphanesi Jiff'in 1.0 sürümünü duyurdu. Yazı temel türleri, süreleri, ayrıştırma ve biçimlendirmeyi tanıtıyor. Jiff; uv, Cargo ve Starship gibi projelerde kullanılıyor ve 1.0 API'sinin kararlı kalacağı taahhüt ediliyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50519744",
+      "article_url": "https://burntsushi.net/jiff/"
+    },
+    {
+      "rank": 7,
+      "title": "Frame – 31.5\" color ePaper display",
+      "points": 343,
+      "num_comments": 241,
+      "summary": "TRMNL, el yapımı ahşap gövdeli 31,5 inçlik renkli ePaper ekran Frame'i duyurdu ve ön siparişe açtı. İlk üretim yaklaşık 470 adet ve teslimatların çoğu 2027 başında bekleniyor. Cihaz, çevrimdışı mod ve özel renk dönüştürme motoru gibi özellikler sunuyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50519354",
+      "article_url": "https://trmnl.com/blog/introducing-frame"
+    },
+    {
+      "rank": 8,
+      "title": "What is w2rt6byl5nf1opmc-a.com?",
+      "points": 318,
+      "num_comments": 141,
+      "summary": "Bir blog yazarı, siterate.org'un var olmayan bir alan adını en popüler 8. .com sitesi olarak listelediğini fark etti. Alan adı günler önce kaydedilmişti ve çalışan bir sitesi yoktu. Majestic çalışanı, bunun raporlamadan düzgün filtrelenmeyen dahili bir deney olduğunu açıkladı.",
+      "hn_url": "https://news.ycombinator.com/item?id=50517602",
+      "article_url": "https://jack.cab/blog/siterate"
+    },
+    {
+      "rank": 9,
+      "title": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
+      "points": 303,
+      "num_comments": 119,
+      "summary": "Mike Masnick'in 2007 tarihli yazısı, tamamen ölen bir ThinkPad'i ve IBM desteğinin önerdiği çözümü anlatıyor: adaptörü ve bataryayı çıkarıp güç düğmesine 10 kez basmak, 30 saniye basılı tutmak, sonra bataryayı takmak. Birçok yorumcu bu yöntemin ölü dizüstü bilgisayarını canlandırdığını yazdı, bazıları ise işe yaramadığını belirtti.",
+      "hn_url": "https://news.ycombinator.com/item?id=50516473",
+      "article_url": "https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/"
+    },
+    {
+      "rank": 10,
+      "title": "Interpreting claims that a theorem is correct because it was checked in Lean",
+      "points": 293,
+      "num_comments": 132,
+      "summary": "Xena Project blogu, bir teoremin Lean'de kontrol edildiği iddiasının nasıl değerlendirileceğini anlatıyor. Dört kontrol öneriliyor: ifadenin eşleşmesi, kodun derlenmesi, ispatın gizli hile olmadan o ifadeyi kanıtlaması ve çekirdek hatasından yararlanılmaması. Yazar, derlenen bir Lean ispatının eşlik eden PDF'in doğru olduğunu garanti etmediğini de vurguluyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50515058",
+      "article_url": "https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/"
+    }
+  ],
+  "health_stories": [
+    {
+      "rank": 1,
+      "title": "US now \"comfortable\" with children dying of measles as death toll hits 10",
+      "points": 69,
+      "num_comments": 57,
+      "summary": "ABD'de kızamıktan ölen çocuk sayısının 10'a ulaştığı bildiriliyor. Haber başlığa göre, yetkililerin bu duruma tepkisini ve halk sağlığı açısından kaygı verici tabloyu ele alıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50519924",
+      "article_url": "https://arstechnica.com/health/2026/11/us-now-comfortable-with-children-dying-of-measles-as-death-toll-hits-10/"
+    },
+    {
+      "rank": 2,
+      "title": "Some OLED MacBook Pro Owners Report Eye Strain and Dizziness",
+      "points": 36,
+      "num_comments": 7,
+      "summary": "Yeni OLED MacBook Pro sahiplerinin bir kısmı göz yorgunluğu, baş ağrısı ve baş dönmesi bildiriyor; olası neden olarak ekranın PWM parlaklık kontrolü gösteriliyor. Notebookcheck, parlaklık %99 ve altındayken 240Hz titreşim ölçtü. macOS'ta iPhone'daki Display Pulse Smoothing benzeri bir seçenek henüz yok.",
+      "hn_url": "https://news.ycombinator.com/item?id=50520853",
+      "article_url": "https://www.macrumors.com/2026/11/16/oled-macbook-pro-owners-report-eye-strain/"
+    },
+    {
+      "rank": 3,
+      "title": "New wearable ultrasound patch boosts REM sleep",
+      "points": 6,
+      "num_comments": 1,
+      "summary": "Texas Üniversitesi Austin araştırmacıları, derin beyin bölgelerini ultrasonla uyaran ve beyin aktivitesini izleyen, ciltte taşınan yumuşak bir yama (NEUSLeeP) geliştirdi. 28 kişilik çalışmada kullanıcılar REM uykusuna yaklaşık 43 dakika erken girdi ve yaklaşık 16 dakika daha uzun kaldı. Araştırmacılar daha büyük denemelere ihtiyaç olduğunu söylüyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50519569",
+      "article_url": "https://www.sciencedaily.com/releases/2026/11/261116014842.htm"
+    },
+    {
+      "rank": 4,
+      "title": "Waves that clear waste from the brain during sleep are impaired in older adults",
+      "points": 4,
+      "num_comments": 1,
+      "summary": "MIT araştırmacıları, derin uykuda beyindeki atıkların temizlenmesine yardım eden beyin omurilik sıvısı dalgalarının yaşlı yetişkinlerde belirgin biçimde zayıfladığını buldu. Bu durum yalnızca daha az uyumakla değil, yavaş beyin dalgalarının azalmasıyla ilişkili. Ekip, bu zayıflığın nörodejeneratif hastalık riskini artırıp artırmadığını inceleyecek.",
+      "hn_url": "https://news.ycombinator.com/item?id=50518855",
+      "article_url": "https://news.mit.edu/2026/waste-clearing-waves-in-brain-during-sleep-are-impaired-in-older-adults-1113"
+    },
+    {
+      "rank": 5,
+      "title": "Chinese scientists fired after child dies in first brain gene-editing attempt",
+      "points": 4,
+      "num_comments": 0,
+      "summary": "Çinli bilim insanlarının, dünyada ilk kez beyne yönelik gen düzenleme girişiminde bir çocuğun ölmesi üzerine işten çıkarıldığı bildiriliyor. Haber başlığa göre klinik araştırmanın etik ve güvenlik boyutunu ele alıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50518619",
+      "article_url": "https://www.scmp.com/news/china/science/article/3374429/chinese-scientists-fired-after-child-dies-worlds-first-brain-gene-editing-attempt"
+    },
+    {
+      "rank": 6,
+      "title": "Boots to begin prescribing medical cannabis in UK",
+      "points": 4,
+      "num_comments": 0,
+      "summary": "Boots eczanelerinin İngiltere'de tıbbi kenevir reçete etmeye başlayacağı bildiriliyor. Haber başlığa göre, bu adımın hasta erişimi açısından yaratabileceği değişimi ele alıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50517342",
+      "article_url": "https://www.theguardian.com/business/2026/nov/16/boots-pharmacy-begin-prescribing-medical-cannabis-uk"
+    },
+    {
+      "rank": 7,
+      "title": "Delivery drones are coming. For some with PTSD, that's a terrifying prospect",
+      "points": 4,
+      "num_comments": 1,
+      "summary": "Teslimat dronlarının yaygınlaşmasının, savaş travması yaşayan ve TSSB'si olan kişiler için korkutucu olabileceği belirtiliyor. Haber başlığa göre, bu kişilerin dron sesi ve görüntüsüne tepkisini ve ruh sağlığı etkilerini ele alıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50517311",
+      "article_url": "https://arstechnica.com/gadgets/2026/11/the-drone-delivery-boom-could-be-a-nightmare-for-people-traumatized-by-war/"
+    },
+    {
+      "rank": 8,
+      "title": "The Proponents of 'Dark Nutrition' Think Everything You Know About Food Is Wrong",
+      "points": 4,
+      "num_comments": 2,
+      "summary": "New York Times Magazine'in yazısı, \"karanlık beslenme\" savunucularının bildiğimiz her şeyin yanlış olduğunu düşündüğünü anlatıyor. Başlık ve URL'ye göre, çiğ et diyeti gibi uç beslenme akımlarını ele alıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50517140",
+      "article_url": "https://www.nytimes.com/2026/10/21/magazine/dark-nutrition-raw-meat-diet.html"
+    },
+    {
+      "rank": 9,
+      "title": "Against Supplements",
+      "points": 4,
+      "num_comments": 1,
+      "summary": "Works in Progress editörü Ben Southwood, eskiden önerdiği K2 vitamini ve balık yağı gibi takviyelere olan inancını neden bıraktığını anlatıyor. Yöntemin, evrimsel akıl yürütmeye ve korelasyonel çalışmalara dayandığını ve doğrulama yanlılığı içerdiğini kabul ediyor. Artık hiçbir takviye kullanmıyor ve sağlıklı kişilerin özel bir tıbbi gerekçe olmadan almasına gerek görmüyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50516627",
+      "article_url": "https://worksinprogress.co/issue/against-supplements/"
+    },
+    {
+      "rank": 10,
+      "title": "FDA Rejects Closely Watched Lung Cancer Drug from China",
+      "points": 4,
+      "num_comments": 0,
+      "summary": "FDA'nın Çin'den gelen, yakından izlenen bir akciğer kanseri ilacını reddettiği bildiriliyor. Haber başlığa göre, kararın ilaç onay süreçleri ve Çin kaynaklı ilaçlar açısından anlamını ele alıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50514795",
+      "article_url": "https://www.nytimes.com/2026/11/15/business/fda-lung-cancer-drug-china.html"
+    }
+  ]
+}
