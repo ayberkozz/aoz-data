@@ -1,0 +1,162 @@
+{
+  "date": "2026-11-18",
+  "timestamp": "2026-11-18T04:56:55Z",
+  "summary_language": "tr",
+  "top_stories": [
+    {
+      "rank": 1,
+      "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
+      "points": 1198,
+      "num_comments": 599,
+      "summary": "Yeni bulgulara göre okullarda cep telefonu yasaklarının test puanlarını kademeli olarak iyileştirdiği görülüyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50530163",
+      "article_url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html"
+    },
+    {
+      "rank": 2,
+      "title": "GPT‑6.2 Astra and Sol",
+      "points": 1168,
+      "num_comments": 736,
+      "summary": "OpenAI, GPT-6.2 Astra ve Sol adlı yeni model sürümlerini tanıttı. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50535230",
+      "article_url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/"
+    },
+    {
+      "rank": 3,
+      "title": "Windows 11 is collecting data on which coding agents and developer tools you use",
+      "points": 717,
+      "num_comments": 596,
+      "summary": "Araştırmacı Xusheng Li, Windows 11'deki MissionControlAggregator.dll bileşeninin codex.exe, claude.exe ve cursor.exe gibi kodlama ajanlarını ve gcc.exe, python.exe gibi geliştirici araçlarını tespit ettiğini buldu. Çalışan programlar yerel bir bit eşlemde kaydedilip bir ETW olayıyla bildiriliyor. İsteğe bağlı tanılama verisi açıksa bu bilgi Microsoft'a gönderilmek üzere kuyruğa alınıyor; kullanıcılar bunu Tanılama ve geri bildirim ayarlarından kapatabiliyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50524736",
+      "article_url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/"
+    },
+    {
+      "rank": 4,
+      "title": "BugMeNot has closed",
+      "points": 715,
+      "num_comments": 338,
+      "summary": "BugMeNot sayfası, sitenin kapandığını duyuruyor ve daha iyi bir internet hedefine destek verenlere teşekkür ediyor. Sayfanın altında anlamı açıklanmayan dörder harflik rastgele gruplardan oluşan bir ızgara yer alıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50523601",
+      "article_url": "https://www.bugmenot.com/"
+    },
+    {
+      "rank": 5,
+      "title": "Optimizely compromised, served malware on Zoom, GitLab",
+      "points": 675,
+      "num_comments": 268,
+      "summary": "16 Kasım 2026'da saldırganlar Optimizely Web'in Project JavaScript özelliğine zararlı kod enjekte ederek Zoom, BBC, CNN ve HSBC dahil 178 kuruluştaki 188 kod parçasını etkiledi. Kod kripto cüzdan adreslerini değiştirdi, kart bilgilerini çaldı ve yaklaşık 7.040 dolarlık kripto saldırganların cüzdanlarına gitti. Yazar, kısıtlayıcı bir İçerik Güvenliği Politikasının test edilen sitelerin yalnızca %15'inde yükü engellediğini belirtiyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50524767",
+      "article_url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/"
+    },
+    {
+      "rank": 6,
+      "title": "Apple Services Down",
+      "points": 660,
+      "num_comments": 371,
+      "summary": "Apple'ın iCloud, App Store ve diğer hizmetlerinde yaşanan kesinti nedeniyle Apple sistem durumu sayfası gündeme geldi. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50535238",
+      "article_url": "https://developer.apple.com/system-status/"
+    },
+    {
+      "rank": 7,
+      "title": "Highly classified US national security communications network goes down",
+      "points": 522,
+      "num_comments": 594,
+      "summary": "ABD'de yüksek derecede gizli bir ulusal güvenlik iletişim ağının çöktüğü bildiriliyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50532849",
+      "article_url": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down"
+    },
+    {
+      "rank": 8,
+      "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
+      "points": 449,
+      "num_comments": 217,
+      "summary": "Nvidia'nın, gelirleri 104 milyar dolara ulaşırken Singapur satışlarını açıklamayı bıraktığı bildiriliyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50534631",
+      "article_url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf"
+    },
+    {
+      "rank": 9,
+      "title": "What is the best harness for each model?",
+      "points": 350,
+      "num_comments": 121,
+      "summary": "Runta'nın FrontierHarness Eval v1.1 çalışması, beş açık model ve 62 terminal görevinde 22 ajan çatısı yapılandırmasını test etti. En iyi çatının modele göre değiştiği, fiyatın başarı oranını güvenilir biçimde yansıtmadığı ve harcamanın %64,5'inin başarısız çalıştırmalara gittiği görüldü.",
+      "hn_url": "https://news.ycombinator.com/item?id=50532191",
+      "article_url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/"
+    },
+    {
+      "rank": 10,
+      "title": "We don't need more apps, we need better open source",
+      "points": 347,
+      "num_comments": 235,
+      "summary": "Jordan Krueger, yapay zekâ destekli kodlamanın yeni uygulamalar üretmek yerine mevcut açık kaynak yazılımları iyileştirmeye yönelmesi gerektiğini savunuyor. Araçları daha hızlı, kurulumu kolay ve hafif hale getirmenin sivil toplum kuruluşlarının maliyetini düşüreceğini söylüyor. Katkıcılara önce yazılımı denemelerini, bakımcılara danışmalarını, değişiklikleri küçük tutmalarını ve yapay zekâ kullanımını belirtmelerini öneriyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50532086",
+      "article_url": "https://jordankrueger.com/blog/better-open-source-not-more-apps/"
+    }
+  ],
+  "health_stories": [
+    {
+      "rank": 1,
+      "title": "U.S. Loses Its Measles Elimination Status",
+      "points": 49,
+      "num_comments": 7,
+      "summary": "ABD'nin kızamık eliminasyon statüsünü kaybettiği bildiriliyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50534500",
+      "article_url": "https://www.nytimes.com/2026/11/17/well/us-measles-elimination-status.html"
+    },
+    {
+      "rank": 2,
+      "title": "Advancing computer-use agents for healthcare teams",
+      "points": 46,
+      "num_comments": 30,
+      "summary": "OpenAI'ın sağlık ekipleri için bilgisayar kullanan yapay zekâ ajanlarını geliştirmesiyle ilgili bir duyuru. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50535898",
+      "article_url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams/"
+    },
+    {
+      "rank": 3,
+      "title": "Kennedy let measles run wild in America",
+      "points": 38,
+      "num_comments": 2,
+      "summary": "Kennedy yönetiminin ABD'de kızamık salgınının kontrolden çıkmasına nasıl izin verdiğini inceleyen bir soruşturma haberi. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50533082",
+      "article_url": "https://www.reuters.com/investigations/how-kennedy-let-measles-run-wild-america-2026-11-17/"
+    },
+    {
+      "rank": 4,
+      "title": "Meta faces sanctions bid over withheld evidence in teen mental health cases",
+      "points": 22,
+      "num_comments": 1,
+      "summary": "Meta'nın, gençlerin ruh sağlığıyla ilgili davalarda delilleri sakladığı iddiasıyla yaptırım talebiyle karşı karşıya olduğu bildiriliyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50526019",
+      "article_url": "https://www.reuters.com/legal/litigation/meta-faces-sanctions-bid-over-withheld-evidence-teen-mental-health-cases-2026-11-16/"
+    },
+    {
+      "rank": 5,
+      "title": "Isomorphic Labs $5B Series C",
+      "points": 11,
+      "num_comments": 2,
+      "summary": "Demis Hassabis'in kurduğu yapay zekâ ilaç keşfi girişimi Isomorphic Labs, Greenoaks ve Sequoia liderliğinde 5 milyar dolarlık C Serisi yatırım aldı; a16z ve Alphabet de katıldı. Tur, mayıstaki 2,1 milyar dolarlık B Serisi'nin ardından geldi. Dealroom'a göre ilaç keşfi girişimleri 2026'da toplam 23,2 milyar dolar yatırım topladı.",
+      "hn_url": "https://news.ycombinator.com/item?id=50537890",
+      "article_url": "https://www.cnbc.com/2026/11/17/isomorphic-labs-series-c-ai-drug-discovery-.html"
+    },
+    {
+      "rank": 6,
+      "title": "Older adults have significantly weaker waves of cerebrospinal fluid during sleep",
+      "points": 10,
+      "num_comments": 0,
+      "summary": "Yaşlı yetişkinlerde uyku sırasındaki beyin omurilik sıvısı dalgalarının belirgin biçimde daha zayıf olduğunu bildiren bir Nature Aging çalışması. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50526755",
+      "article_url": "https://www.nature.com/articles/s43587-026-01270-4"
+    },
+    {
+      "rank": 7,
+      "title": "Upside can now make a million pounds of chicken and year (Lab grown meat)",
+      "points": 10,
+      "num_comments": 1,
+      "summary": "Upside Foods, süreci yaklaşık 10.000 kat büyüterek hayvan öldürmeden yılda 1 milyon pounddan fazla kültürlenmiş tavuk üretebildiğini açıkladı. Ürün Kaliforniya'daki birkaç restoranda satılıyor ve fiyatının yüksek kaliteli organik tavuk aralığına indiği belirtiliyor. Şirket, sonraki FDA ve USDA onaylarını da aldığını söylüyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50537386",
+      "article_url": "https://techcrunch.com/2026/11/17/upside-foods-can-now-make-one-million-pounds-of-chicken-each-year-without-killing-a-single-animal/"
+    }
+  ]
+}
