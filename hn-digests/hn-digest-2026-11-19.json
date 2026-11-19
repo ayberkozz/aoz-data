@@ -1,0 +1,153 @@
+{
+  "date": "2026-11-19",
+  "timestamp": "2026-11-19T04:58:00Z",
+  "summary_language": "tr",
+  "top_stories": [
+    {
+      "rank": 1,
+      "title": "Unauthenticated remote code execution in Nginx",
+      "points": 1231,
+      "num_comments": 539,
+      "summary": "Wiz Research ve dört başka ekip, HTTP/2 etkin olduğunda kimliği doğrulanmamış saldırganların sunucuda kod çalıştırmasına izin veren iki kritik NGINX açığını (CVSS 9.2) duyurdu. Düzeltmeler NGINX 1.30.7 ve 1.31.9 sürümlerinde geldi; hemen güncellenemiyorsa geçici çözüm olarak HTTP/2'nin kapatılması öneriliyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50547374",
+      "article_url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities"
+    },
+    {
+      "rank": 2,
+      "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+      "points": 1159,
+      "num_comments": 323,
+      "summary": "Calif, OpenJDK'nin x86-64 Base64 çözücüsündeki bellek bozulması açığını (Java4Shell) açıkladı; açık, kimliği doğrulanmamış bir saldırganın bellek sızdırmasına veya uzaktan kod çalıştırmasına yol açabiliyor. AVX-512 VBMI destekli x86-64 işlemcilerde OpenJDK 17.0.6 ve sonrasını etkiliyor, yamalar 17 Kasım 2026'da yayımlandı.",
+      "hn_url": "https://news.ycombinator.com/item?id=50538240",
+      "article_url": "https://calif.io/java4shell/"
+    },
+    {
+      "rank": 3,
+      "title": "Quad9's withdrawal from France: A canary in the coal mine",
+      "points": 888,
+      "num_comments": 433,
+      "summary": "İsviçreli kâr amacı gütmeyen Quad9, Fransa'da telif hakkı ihlaliyle ilişkilendirilen alan adlarını engellemediği için mahkemece günlük para cezasına çarptırıldı ve ücretsiz DNS hizmetini Fransa'dan çekeceğini duyurdu. Cloudflare, DNS düzeyinde engellemeye karşı çıkıyor ve Belçika'daki benzer bir mahkeme kararına itiraz ettiğini belirtiyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50538994",
+      "article_url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/"
+    },
+    {
+      "rank": 4,
+      "title": "AI is killing All About Berlin",
+      "points": 767,
+      "num_comments": 688,
+      "summary": "Berlin rehberi All About Berlin'in yazarı, yedi yıllık büyümenin ardından site trafiğinin yaklaşık %70-75 düştüğünü ve bunu Google'ın yapay zekâ özetlerine bağlıyor. Google'ın yapay zekâ cevaplarının arama sonuçlarının yerini almasından ve reklam içermesinden söz ediyor; sitesinin bu gelecekteki yeri belirsiz.",
+      "hn_url": "https://news.ycombinator.com/item?id=50542705",
+      "article_url": "https://nicolasbouliane.com/blog/death-by-ai"
+    },
+    {
+      "rank": 5,
+      "title": "Google's AI answers reducing search traffic by 40%",
+      "points": 693,
+      "num_comments": 543,
+      "summary": "Yazıda aktarılan rastgele deneylere göre Google'ın yapay zekâ özetleri dış sitelere tıklamaları yaklaşık %40 azaltıyor ve ABD'de takip edilen anahtar kelimelerin yarısından fazlasında görünüyor. Yapay zekâ asistanlarının sitelere yönlendirdiği trafik ise Mart 2026'da yalnızca yaklaşık %0,3 düzeyinde.",
+      "hn_url": "https://news.ycombinator.com/item?id=50540178",
+      "article_url": "https://revscope.co/blog/search-seo-geo-2026/"
+    },
+    {
+      "rank": 6,
+      "title": "DNS resolvers are the wrong place to fight piracy",
+      "points": 634,
+      "num_comments": 240,
+      "summary": "Makale, Quad9'un 24 Kasım 2026'dan itibaren Fransa'da yanıt vermeyi bırakacağını anlatıyor; neden, Paris'te bir mahkemenin yetkisiz spor yayını sitelerini engellemediği için günlük 1.000 euro ceza vermesi. Benzer yaklaşık 20 dava daha bekliyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50545958",
+      "article_url": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/"
+    },
+    {
+      "rank": 7,
+      "title": "Inside Deutsche Bank",
+      "points": 594,
+      "num_comments": 202,
+      "summary": "Inside Deutsche Bank, 15 milyondan fazla sızdırılmış dosyaya dayanan ve çok sayıda uluslararası medya kuruluşuyla yürütülen bir soruşturma. Bankanın uyum süreçlerini, müşteri ilişkilerini ve risk kararlarını; Jho Low, Rus oligarklar ve Epstein bağlantılı işlemler gibi başlıklarla inceliyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50547620",
+      "article_url": "https://www.inside-db.com/"
+    },
+    {
+      "rank": 8,
+      "title": "ID.me terms required for IRS sign-in",
+      "points": 496,
+      "num_comments": 260,
+      "summary": "IRS çevrimiçi hizmetlerine ID.me ile giriş yapan vergi mükellefleri, çoğu anlaşmazlığı tahkime yönlendiren ve toplu dava hakkını kısıtlayan koşulları kabul ediyor; gizlilik politikası ise verilerin pazarlamada kullanılmasına izin veriyor. Devletin kendi Login.gov hizmeti de kullanılabiliyor ve Ekim 2026'da iki senatör Hazine ve IRS'e neden hâlâ ID.me kullandıklarını sordu.",
+      "hn_url": "https://news.ycombinator.com/item?id=50540437",
+      "article_url": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in"
+    },
+    {
+      "rank": 9,
+      "title": "Interviewed at a YC startup, found out they used my LinkedIn without permission",
+      "points": 494,
+      "num_comments": 127,
+      "summary": "Reddit gönderisinde bir kişi, bir YC girişiminde mülakata girdiğini ve LinkedIn bilgilerinin kendisinden izin alınmadan kullanıldığını öğrendiğini anlatıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50542135",
+      "article_url": "https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/"
+    },
+    {
+      "rank": 10,
+      "title": "Seven new models at scalable price-performance",
+      "points": 481,
+      "num_comments": 329,
+      "summary": "Microsoft AI, 17 Kasım 2026'da daha uygun fiyat-performans sunan yedi yeni modeli duyurdu; bunlar arasında MAI Code 2, MAI Image 2.7 ve MAI Realtime 1 var. Şirket ayrıca müşterilerin bir MAI modelini kendi Azure ortamlarında özelleştirmesine imkân veren MAI Licensed Weights'i tanıttı ve Maia 200 hızlandırıcısının üretimde olduğunu söyledi.",
+      "hn_url": "https://news.ycombinator.com/item?id=50548021",
+      "article_url": "https://microsoft.ai/news/microsoft-ignite-2026/"
+    }
+  ],
+  "health_stories": [
+    {
+      "rank": 1,
+      "title": "Energy drinks linked to 11 times more reports of cardiac arrest",
+      "points": 210,
+      "num_comments": 200,
+      "summary": "Amerikan Kalp Derneği 2026 oturumlarında sunulan ön bulgulara göre, enerji içeceği ve uyarıcı takviyeler için FDA'ya yapılan bildirimlerde kalp durması, bu ürünleri içermeyenlere kıyasla yaklaşık 11 kat daha sık geçiyor. Bildirimlerin yaklaşık %45'i 18-34 yaş arası yetişkinlere ait, ancak gönüllü bildirimlere dayandığı için nedensellik kanıtlanamıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50546465",
+      "article_url": "https://www.sciencedaily.com/releases/2026/11/261110042543.htm"
+    },
+    {
+      "rank": 2,
+      "title": "Claude was trained on protein sequences at scale",
+      "points": 167,
+      "num_comments": 72,
+      "summary": "Yazar, son Claude modellerinin az incelenmiş bakteri ve arke proteinlerinde bir sonraki amino asidi, karıştırılmış dizilere göre gerçek dizilerde çok daha iyi tahmin ettiğini gösteriyor. Bunu Claude'un büyük ölçekte protein dizileriyle eğitilmiş olabileceğinin işareti olarak yorumluyor; diğer modeller sıfıra yakın kalıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50541619",
+      "article_url": "http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/"
+    },
+    {
+      "rank": 3,
+      "title": "Congress can but refuses to fix the antibiotic market",
+      "points": 15,
+      "num_comments": 5,
+      "summary": "Yazı, antibiyotik direncinin inhibitörlerle veya yeni ilaçlarla aşılabileceğini, ancak yeni antibiyotikler son çare olarak kısıtlandığı için üreticilerin zarar ettiğini anlatıyor; plazomisinin üreticisi Achaogen iflas etti. Geliştiricilere abonelik tarzı ödeme öngören PASTEUR Yasası ise Kongre'de takılı kalmış durumda.",
+      "hn_url": "https://news.ycombinator.com/item?id=50541110",
+      "article_url": "https://davidngo1562.substack.com/p/pioneering-antimicrobial-subscriptions"
+    },
+    {
+      "rank": 4,
+      "title": "Mosquitoes are Ladakh's latest tourists",
+      "points": 13,
+      "num_comments": 0,
+      "summary": "Ladakh'ın Leh bölgesi; iklim değişikliği, zayıf kamu sistemleri ve plansız turizm nedeniyle daha önce görülmeyen sıtma ve dengue hastalıklarına karşı savunmasız hâle geldi. İlk dengue vakaları 2022'de, sıtma vakaları 2024 ve 2025'te görüldü; bölgede artan sivrisinek nüfusunu izleyecek gözetim ve test kapasitesi yok.",
+      "hn_url": "https://news.ycombinator.com/item?id=50542441",
+      "article_url": "https://ruralindiaonline.org/article/mosquitoes-are-ladakh-s-latest-tourists"
+    },
+    {
+      "rank": 5,
+      "title": "What makes a dog or cat live longer?",
+      "points": 12,
+      "num_comments": 4,
+      "summary": "Makale, köpek ve kedilerin ömrünü etkileyen faktörlere ait kanıtları sıralıyor: ırk büyüklüğü en büyük etkiye sahip ama değiştirilemiyor, değiştirilebilir etkenlerden ise zayıf tutmak (bir Labrador çalışmasında 1,8 yıl fazla) ve kısırlaştırma öne çıkıyor. Diş bakımı ve egzersizin faydalı olduğu düşünülüyor, takviye ve diyet türü için ise henüz ömür kanıtı yok.",
+      "hn_url": "https://news.ycombinator.com/item?id=50539664",
+      "article_url": "https://fluffmobile.com/research/what-makes-pets-live-longer/"
+    },
+    {
+      "rank": 6,
+      "title": "Show HN: Tinnitus frequency finder and audio notch tool",
+      "points": 6,
+      "num_comments": 3,
+      "summary": "Sayfa, yaklaşık dört dakika süren, tarayıcı tabanlı ücretsiz bir ses eşleştirme aracıyla kişinin kulak çınlaması (tinnitus) frekansını tahmin ediyor. Sonuçlar yalnızca kullanıcının cihazında saklanıyor; araç bir işitme testi veya teşhis değil.",
+      "hn_url": "https://news.ycombinator.com/item?id=50541568",
+      "article_url": "https://trynotched.com/find"
+    }
+  ]
+}
