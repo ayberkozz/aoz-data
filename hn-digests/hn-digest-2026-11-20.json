@@ -1,0 +1,153 @@
+{
+  "date": "2026-11-20",
+  "timestamp": "2026-11-20T04:58:12Z",
+  "summary_language": "tr",
+  "top_stories": [
+    {
+      "rank": 1,
+      "title": "Gemini 4 Neon",
+      "points": 1023,
+      "num_comments": 763,
+      "summary": "Google, kodlama, bilgi işi ve bilim alanlarında sınır seviyesinde zekâ ve hızlı uçtan uca görev tamamlama vaat eden Gemini 4 Neon modelini duyurdu. Model, daha büyük Carbon ile daha hızlı Hydrogen arasında konumlanıyor ve milyon token başına 3 dolar girdi, 15 dolar çıktı fiyatıyla sunuluyor. Gemini API, Google AI Studio ve ücretli Gemini uygulaması üzerinden kullanıma açılıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50552424",
+      "article_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
+    },
+    {
+      "rank": 2,
+      "title": "Anthropic’s Nasdaq debut",
+      "points": 1010,
+      "num_comments": 1979,
+      "summary": "Anthropic'in Nasdaq'taki tarihi halka arzının yapay zekânın vaatlerini ve risklerini Wall Street'te sınayacağı konuşuluyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50562754",
+      "article_url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/"
+    },
+    {
+      "rank": 3,
+      "title": "We need smart people who give a shit",
+      "points": 791,
+      "num_comments": 397,
+      "summary": "Yazar, bankacılık ve hava trafik kontrolü gibi karmaşık sistemlerin ancak onlara gerçekten önem veren yetenekli insanlar sayesinde çalıştığını savunuyor. Şirketlerin bu çalışanların yerine gerçek bir anlayışa sahip olmayan üretken yapay zekâyı koyduğunu, bunun işten çıkarmalara ve beceri kaybına yol açarak sistem arızalarını artıracağını söylüyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50554045",
+      "article_url": "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/"
+    },
+    {
+      "rank": 4,
+      "title": "How the European Commission rolled out Matrix to more than 40k staff",
+      "points": 679,
+      "num_comments": 331,
+      "summary": "Element'in sayfası, The Matrix Conference 2026 kamu sektörü oturumlarının videolarını listeliyor. Avrupa Komisyonu'nun da aralarında olduğu konuşmacılar birlikte çalışabilirlik, dijital egemenlik, sınır ötesi federasyon ve MatrixRTC gibi konuları ele alıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50558533",
+      "article_url": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/"
+    },
+    {
+      "rank": 5,
+      "title": "Pancreatic cancer halted by virus injection in three patients",
+      "points": 678,
+      "num_comments": 107,
+      "summary": "Üç hastada pankreas kanserinin ilerlemesinin virüs enjeksiyonuyla durdurulduğu bildiriliyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50563066",
+      "article_url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/"
+    },
+    {
+      "rank": 6,
+      "title": "UK government forced to admit it issued Apple a secret encryption order",
+      "points": 573,
+      "num_comments": 261,
+      "summary": "İngiltere hükümetinin Apple'a gizli bir şifreleme emri verdiğini kabul etmek zorunda kaldığı bildiriliyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50562113",
+      "article_url": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/"
+    },
+    {
+      "rank": 7,
+      "title": "Fuck Your AI Safeguards",
+      "points": 502,
+      "num_comments": 204,
+      "summary": "Bir yazılım mühendisi, Claude Code'dan projesindeki basit güvenlik açıklarını bulmasını istedi ve araç tek satırlık bir sorunu buldu, ancak Anthropic'in siber güvenlik korumaları nedeniyle devam etmeyi reddetti. Muafiyet süreci yavaştı ve kimlik paylaşımı gerektiriyordu. Yazar sorunu AB'de barındırılan açık ağırlıklı bir modelle çözdü ve bu korumaların savunmacıları engellerken kötü niyetlileri durdurmadığını savunuyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50562262",
+      "article_url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/"
+    },
+    {
+      "rank": 8,
+      "title": "Claude solves two open problems in the physics of black holes",
+      "points": 437,
+      "num_comments": 202,
+      "summary": "Anthropic, Claude'un kara delik fiziğindeki iki açık problemi büyük ölçüde kendi başına çözdüğünü bildiriyor. Biri 2003'te önerilen, ısıtmayla parçacık gazından kara deliğe ani geçişin kütleçekimsiz bir kuantum teoride de sürdüğünü gösteren hesaptı. Diğeri, basitleştirilmiş 3 boyutlu kuantum kütleçekim modelinde en hafif kara deliğin kütlesine kesin ve en iyi sınırın türetilmesiydi.",
+      "hn_url": "https://news.ycombinator.com/item?id=50563148",
+      "article_url": "https://www.anthropic.com/research/claude-black-hole-physics"
+    },
+    {
+      "rank": 9,
+      "title": "Anthropic prices initial public offering",
+      "points": 413,
+      "num_comments": 778,
+      "summary": "Anthropic, halka arzını hisse başına 83 dolardan fiyatladı ve çoğunu şirketin kendisinin sattığı 980 milyon A sınıfı hisse sunuyor. Hisseler 19 Kasım 2026'da Nasdaq'ta ANT koduyla işlem görmeye başlayacak. Aracı kurumlara ayrıca 147 milyon ek hisse alma opsiyonu verildi.",
+      "hn_url": "https://news.ycombinator.com/item?id=50553843",
+      "article_url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering"
+    },
+    {
+      "rank": 10,
+      "title": "Someone reported java4shell bug in September 2026",
+      "points": 396,
+      "num_comments": 106,
+      "summary": "OpenJDK'ye gönderilen bir çekme isteği, AVX-512 Base64 çözücüsündeki bellek bozulmasına yol açan bir hatayı ele alıyor. 4 bayttan kısa geçersiz girdide çıktı boyutu negatif hesaplanıyor ve tampon dışına yazılıyordu. Öneri, kısa girdilerde Java koduna erken dönmekti; istek 4 Kasım'da kapatıldı çünkü sorun ana dalda artık yoktu.",
+      "hn_url": "https://news.ycombinator.com/item?id=50558906",
+      "article_url": "https://github.com/openjdk/jdk/pull/32781"
+    }
+  ],
+  "health_stories": [
+    {
+      "rank": 1,
+      "title": "Pancreatic cancer halted by virus injection in three patients",
+      "points": 678,
+      "num_comments": 107,
+      "summary": "Üç hastada pankreas kanserinin ilerlemesinin virüs enjeksiyonuyla durdurulduğu bildiriliyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50563066",
+      "article_url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/"
+    },
+    {
+      "rank": 2,
+      "title": "Facial photographs reveal mortality risk beyond triage and clinical risk scores",
+      "points": 11,
+      "num_comments": 1,
+      "summary": "Yüz fotoğraflarının, standart triyaj ve klinik risk skorlarının ötesinde ölüm riski hakkında bilgi verdiği bildiriliyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50566167",
+      "article_url": "https://www.nature.com/articles/s41467-026-79581-8"
+    },
+    {
+      "rank": 3,
+      "title": "Eagles preying on human-sized baboons upend existing evolutionary defense theory",
+      "points": 10,
+      "num_comments": 3,
+      "summary": "St Andrews Üniversitesi öncülüğündeki araştırmacılar, Çad'ın Ennedi platosunda yetişkin erkek babunların kafatası ve kemiklerinde kartal pençesi izleri buldu. Bir babunun 26 kilogramdan ağır olduğu tahmin ediliyor; bu, insan boyutundaki primatların kartallar için fazla ağır olduğu varsayımını sorguluyor. Bulgular, insan evrimindeki avcı-av dinamiklerine bakışı değiştirebilir.",
+      "hn_url": "https://news.ycombinator.com/item?id=50553817",
+      "article_url": "https://phys.org/news/2026-11-eagles-preying-human-sized-baboons.html"
+    },
+    {
+      "rank": 4,
+      "title": "Patients Hospitalized with Psychosis or Mania After Abruptly Stopping GLP-1s",
+      "points": 6,
+      "num_comments": 0,
+      "summary": "Primary Care Companion for CNS Disorders dergisindeki iki vaka raporu, tirzepatidi (Mounjaro, Zepbound) aniden bıraktıktan sonra mani, psikoz veya halüsinasyonla hastaneye yatan iki erkeği anlatıyor. Yazarlar, ilacı bırakmanın risk altındaki küçük bir grupta bu belirtilere katkıda bulunabileceğini söylüyor ancak nedensellik kanıtlanmış değil. İki hastanın da önceden psikiyatrik tanısı vardı; birinde düşük B12 ve artan esrar kullanımı gibi başka etkenler de olabilir.",
+      "hn_url": "https://news.ycombinator.com/item?id=50553428",
+      "article_url": "https://www.sciencealert.com/2-patients-have-been-hospitalized-with-psychosis-or-mania-after-abruptly-stopping-glp-1s"
+    },
+    {
+      "rank": 5,
+      "title": "University students are biggest spreaders of Covid",
+      "points": 5,
+      "num_comments": 0,
+      "summary": "Nature'da yayımlanan bir haberde üniversite öğrencilerinin Covid'in en büyük yayıcıları arasında olduğu belirtiliyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50564483",
+      "article_url": "https://www.nature.com/articles/d41586-026-03746-0"
+    },
+    {
+      "rank": 6,
+      "title": "Scientists Discover a Possible Marker in the Blood of CTE Patients",
+      "points": 4,
+      "num_comments": 0,
+      "summary": "Bilim insanlarının CTE hastalarının kanında olası bir belirteç keşfettiği bildiriliyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50564508",
+      "article_url": "https://www.nytimes.com/2026/11/19/science/cte-blood-test-diagnosis.html"
+    }
+  ]
+}
