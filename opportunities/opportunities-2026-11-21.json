@@ -1,0 +1,134 @@
+{
+  "date": "2026-11-21",
+  "timestamp": "2026-11-21T12:00:00Z",
+  "summary": "A thin week for buildable ideas: most big HN threads (Gemini 4, Anthropic IPO, outages, GRH proof claims) are news, not unmet demand, and Reddit could not be read. One solo idea survived at low confidence: an on-device audio-to-MIDI iPhone app built on the newly released Apache-2.0 dettato model. Future signals centre on small open specialist models, OS-level AI agents reading app screens, laptop-sized open models, plain-text agent memory and harness choice per model.",
+  "solo": [
+    {
+      "title": "On-device multi-instrument audio-to-MIDI iPhone app (Core ML, pay once)",
+      "problem": "Musicians and producers who want to turn a recording into per-instrument MIDI plus drums currently use web uploads or small new apps, while a 20M-parameter open model now makes this feasible on a phone.",
+      "evidence": [
+        {
+          "title": "Show HN: I made an audio-to-MIDI model 60x more efficient (263 pts; commenters ask for DAW/beatbox use)",
+          "url": "https://news.ycombinator.com/item?id=50526023"
+        },
+        {
+          "title": "dettato README: four chained models, ~20M params total, code and weights Apache-2.0, no copyrighted training audio",
+          "url": "https://github.com/kobimusic/dettato"
+        },
+        {
+          "title": "Author page: author-reported benchmarks vs MuScriptor and a closed model; weak at separating instruments",
+          "url": "https://kobi.music/research/dettato"
+        },
+        {
+          "title": "App Store search API 'audio to midi' (8 apps, ratings counts 0-51 on most)",
+          "url": "https://itunes.apple.com/search?term=audio+to+midi&entity=software&country=us&limit=8"
+        }
+      ],
+      "competitors": "App Store search shows mostly very young apps with few or no ratings (Earworm 4.33 from 3 ratings, Piano Transcriptionist 4.2 from 51, KODAI 2.0 from 6, several at 0), plus Reprise (4.51 from 602 ratings) and PlayScore 2 (4.15 from 4,851) which target sheet music. Google Play search lists similar small apps (Memody, KODAI, voice2midi). Open source: Spotify Basic Pitch (6.1k stars, last push 2025-11) and NeuralNote (3.5k stars, pushed 2026-11-07, desktop plugin). Inference: no polished iPhone app was seen that does multi-track plus drum output on-device, but several entrants launched this month, so the window may be short.",
+      "first_version": "SwiftUI app: import audio or record, run dettato converted to Core ML on-device, show piano-roll preview, export per-instrument .mid and drum track via share sheet, with a few free conversions and a one-time unlock.",
+      "effort": "3-4 weeks if the Core ML conversion of the four-stage chain works; the largest risk is the conversion and on-device speed, which was not tested.",
+      "monetization": "One-time purchase or small credit packs; running cost is near zero because inference is on-device. No revenue figure for this niche was found.",
+      "risks": "Core ML conversion may fail or be slow; author says instrument separation is poor; accuracy claims are author-reported on three to nine benchmark sets; many tiny competitors launched in November; no revenue evidence found; no Reddit or Trends demand data.",
+      "score": 5,
+      "score_reason": "Real new capability and weak ratings among rivals, but crowded with fresh entrants and no money signal.",
+      "confidence": "low"
+    }
+  ],
+  "startup": [],
+  "future_signals": [
+    {
+      "technology": "Tiny open-weight specialist models that beat far larger general ones",
+      "stage": "rising",
+      "why_now": "A 20M-parameter audio-to-MIDI chain is reported to beat a 1.3B model, and Amazon reported replacing a large LLM with a small decision model for ticket labelling at far lower cost.",
+      "could_enable": "Paid niche features that run entirely on a phone or laptop with no per-call cost, such as transcription, labelling or scoring inside apps.",
+      "signals": [
+        {
+          "title": "Repo: HN digest 2026-11-11 (Amazon Strands Decider, Gemini Decisions API)",
+          "url": "https://github.com/ayberkozz/aoz-data/blob/main/hn-digests/hn-digest-2026-11-11.json"
+        },
+        {
+          "title": "dettato README (open weights, Apache-2.0)",
+          "url": "https://github.com/kobimusic/dettato"
+        },
+        {
+          "title": "Amazon write-up: small decision model replaces Sonnet for ticket labels",
+          "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "technology": "OS-level AI agents reading other apps' screens, and app-side opt-outs",
+      "stage": "emerging",
+      "why_now": "Signal says it will block screenshots on iOS 27 and auto-enable screen security on Android when an AI assistant tries to read the screen, and asks Apple and Google for documented opt-out tools.",
+      "could_enable": "Privacy-sensitive apps (health, messaging, finance) need agent-aware protection and audit tooling; platform opt-out APIs would become a new part of app development.",
+      "signals": [
+        {
+          "title": "Repo: HN digest 2026-11-21 (Signal post, 533 pts)",
+          "url": "https://github.com/ayberkozz/aoz-data/blob/main/hn-digests/hn-digest-2026-11-21.json"
+        },
+        {
+          "title": "Signal blog: protecting your privacy from OS-level AI agents",
+          "url": "https://signal.org/blog/protecting-your-privacy/"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "technology": "Looped-layer open-weight MoE models that run on laptops",
+      "stage": "emerging",
+      "why_now": "Thinking Machines released Inkling 2 Mini (26.4B total, about 3.4B active, about 20GB memory) that reruns middle layers three times per token; it is reported to lead open models under 100B on agentic coding tests but is weaker at multi-turn chat.",
+      "could_enable": "Local coding and agent workflows on 32GB laptops, and on-prem use where data cannot leave the machine, including health data.",
+      "signals": [
+        {
+          "title": "Repo: HN digest 2026-11-21 (Inkling 2 Mini, 825 pts)",
+          "url": "https://github.com/ayberkozz/aoz-data/blob/main/hn-digests/hn-digest-2026-11-21.json"
+        },
+        {
+          "title": "Thinking Machines: Inkling 2 Mini announcement (vendor claims)",
+          "url": "https://thinkingmachines.ai/news/inkling-2-mini/"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "technology": "Plain-text, regex-searchable memory for long-running agents",
+      "stage": "emerging",
+      "why_now": "A new paper keeps the full agent history in an append-only text log and recalls with regex search, reporting 95-97% on ContextBench vs at most 21% for summarising baselines; practitioners on Ask HN (103 pts) describe re-explaining context across clients and agents as their main cost.",
+      "could_enable": "Simple, auditable agent memory with no embedding index, which fits regulated settings where every recalled fact must be traceable.",
+      "signals": [
+        {
+          "title": "Repo: AI papers 2026-11-21 (GrepMem)",
+          "url": "https://github.com/ayberkozz/aoz-data/blob/main/ai-papers/papers-2026-11-21.json"
+        },
+        {
+          "title": "arXiv 2611.25123, Forget Freely, Grep Later (author-reported results)",
+          "url": "https://arxiv.org/abs/2611.25123"
+        },
+        {
+          "title": "Ask HN: managing AI agents' context across clients and projects",
+          "url": "https://news.ycombinator.com/item?id=50403153"
+        }
+      ],
+      "confidence": "low"
+    },
+    {
+      "technology": "Per-model agent harness selection and failed-run cost control",
+      "stage": "emerging",
+      "why_now": "Runta's study of 22 harness configs, 5 models and 62 tasks found the best-value harness differs by model and about 64.5% of spend went to runs that did not pass.",
+      "could_enable": "Routing and benchmarking tools that pick the harness per model and stop failing runs early, cutting agent spend.",
+      "signals": [
+        {
+          "title": "Repo: HN digest 2026-11-18 (FrontierHarness, 350 pts)",
+          "url": "https://github.com/ayberkozz/aoz-data/blob/main/hn-digests/hn-digest-2026-11-18.json"
+        },
+        {
+          "title": "Runta: FrontierHarness Eval v1.1 (vendor study)",
+          "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/"
+        }
+      ],
+      "confidence": "low"
+    }
+  ],
+  "limitations": "Checked: Reddit (0 posts), HN Algolia (about 60 hits across 20 queries, 6 threads read), App Store API (about 60 apps across 10 searches, 4 review feeds), Google Play (1 search page), Chrome Web Store (1 search page), G2/Capterra (1 search, 1 relevant G2 page), Product Hunt (1 search, results not opened), Google Trends (blocked), Indie Hackers (1 search, no Nov 2026 posts), RevenueCat (ok, via search summaries only).\nReddit: www.reddit.com fetch returned 403, old.reddit.com is blocked in WebFetch, and site: searches returned no reddit.com posts; I did not try third-party Reddit mirrors. Google Trends: fetch returned 429; a search found only a third-party Semrush estimate, not Trends data. Product Hunt: only search-result listings, no page opened or dated, so not used as evidence. Google Play and Chrome Web Store: pages returned but I only extracted app and extension ids, not ratings or install counts. Indie Hackers and RevenueCat: no niche revenue figure found for audio-to-MIDI. Google Play and G2 for the solo idea gave no complaint themes. No startup idea was reported because no new evidence justified one this week. Other candidates (2FA recovery, price trackers, vibe-code security scanners, invoice, plant and meal apps) were examined and dropped as saturated."
+}
