@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-21",
+  "timestamp": "2026-11-21T05:00:00Z",
+  "papers": [
+    {
+      "title": "Forget Freely, Grep Later: Lossless, Index-Free Memory for Long-Horizon LLM Agents",
+      "pdf_url": "https://arxiv.org/pdf/2611.25123",
+      "summary": "Proposes GrepMem, which keeps an agent's full history in an append-only plain-text log and recalls it on demand via regex search, avoiding lossy summarization and any embedding or retrieval index. Trained with RL on Qwen3.5-9B, it reports 95-97% accuracy on ContextBench versus at most 21% for lossy baselines, while staying on the accuracy-token-cost Pareto frontier across five tasks.",
+      "page_count": 17
+    },
+    {
+      "title": "In-Context Learning for Robots: Methods and Applications",
+      "pdf_url": "https://arxiv.org/pdf/2609.36012",
+      "summary": "A 100-page review of in-context learning for robots, organized around the interfaces between contextual evidence and execution: context-conditioned policies, geometric demonstration transfer, world-model-based control, and skill/agent-based execution. It compares their transfer assumptions and evaluation practices, and outlines an agenda toward compositional task acquisition and physical recursive self-improvement.",
+      "page_count": 100
+    }
+  ]
+}
