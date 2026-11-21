@@ -1,0 +1,171 @@
+{
+  "date": "2026-11-21",
+  "timestamp": "2026-11-21T04:56:43Z",
+  "summary_language": "tr",
+  "top_stories": [
+    {
+      "rank": 1,
+      "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+      "points": 2465,
+      "num_comments": 1663,
+      "summary": "Levent Alpöge, Genelleştirilmiş Riemann Hipotezi'nin (GRH) kanıtına sahip olduğunu iddia eden bir makale yayımladı. Bu, sayı teorisinin en büyük açık problemlerinden birine ilişkin çok dikkat çeken bir iddia. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50574968",
+      "article_url": "https://alpo.ge/remark.pdf"
+    },
+    {
+      "rank": 2,
+      "title": "Hurried Announcement: Alessandro Masullo GRH",
+      "points": 1772,
+      "num_comments": 790,
+      "summary": "Ravi Vakil, Alessandro Maria Masullo'nun Genelleştirilmiş Riemann Hipotezi için hazırladığı taslak kanıtı paylaştı; Brian Conrad taslağı aylarca inceleyip umut verici bulmuştu. Taslak, topluluğun kontrol edip boşlukları doldurması için erken yayımlandı. Sonradan eklenen güncellemede bazı kişilerin kanıtta sorunlar bulduğu ve sorunlar çözülene kadar kabul edilmeyeceği belirtiliyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50579568",
+      "article_url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/"
+    },
+    {
+      "rank": 3,
+      "title": "Inkling 2 Mini",
+      "points": 825,
+      "num_comments": 143,
+      "summary": "Thinking Machines Lab, dizüstü bilgisayarlarda çalışabilen, 26,4 milyar parametreli açık ağırlıklı Inkling 2 Mini modelini duyurdu. Model, orta katmanlarını her token için üç kez döngüye sokarak daha az metin yazarak daha fazla akıl yürütebiliyor ve 100 milyar parametrenin altındaki açık modeller arasında ajan tabanlı kodlama testlerinde öne çıkıyor. Ancak olgusal bilgi hatırlama ve çok kısıtlı çok turlu sohbetlerde daha zayıf.",
+      "hn_url": "https://news.ycombinator.com/item?id=50581260",
+      "article_url": "https://thinkingmachines.ai/news/inkling-2-mini/"
+    },
+    {
+      "rank": 4,
+      "title": "I'll never buy Framework hardware again",
+      "points": 779,
+      "num_comments": 560,
+      "summary": "Yazar, Framework donanımına verdiği destek ve yaşadığı deneyimler nedeniyle bir daha Framework ürünü almayacağını söylüyor. Şirketin zarar görmesini istemediğini, ancak destek sürecini düzeltmesini ve ödenen paraya karşılık çalışan bir dizüstü bilgisayar sunmasını beklediğini belirtiyor. Sayfa yaşanan sorunların ayrıntılarını az veriyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50576855",
+      "article_url": "https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/"
+    },
+    {
+      "rank": 5,
+      "title": "If you can't explain something in simple terms, you don't understand it (2017)",
+      "points": 642,
+      "num_comments": 303,
+      "summary": "Yazı, bir şeyi basit terimlerle açıklayamıyorsanız onu tam olarak anlamamış olabileceğiniz fikrini tartışıyor. Feynman'ın spin-½ parçacıklarını birinci sınıf düzeyine indirgeyemediği itirafı ile John Gruber'in Apple mühendislerinden karmaşık ürünleri sade dille anlatmasını beklediği örneğine yer veriyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50572355",
+      "article_url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it"
+    },
+    {
+      "rank": 6,
+      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+      "points": 635,
+      "num_comments": 331,
+      "summary": "Architect Labs, etkileşim ağlarına dayalı yeni bir komut kümesine sahip Frostbite adlı CPU'yu tanıttı; tasarımın yapay zekâ sistemlerince keşfedildiği, tasarlandığı ve doğrulandığı belirtiliyor. Şirket, 25 iş yükünde modern çift yayınlı sıralı bir çekirdeğe göre ortalama 4,59 kat watt başına performans artışı bildiriyor. Gelecekte FPGA tabanlı bir oyun alanı ve RTL ile ISA'nın açık yayımı planlanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50572503",
+      "article_url": "https://architectlabs.com/blog/frostbite"
+    },
+    {
+      "rank": 7,
+      "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
+      "points": 533,
+      "num_comments": 311,
+      "summary": "Signal, bir yapay zekâ asistanı ekranı okumaya çalıştığında iOS 27'de ekran görüntülerini engelleyeceğini ve Android'de \"Ekran güvenliği\" ayarını açacağını duyurdu. Gerekçe, işletim sistemi düzeyindeki yapay zekâ ajanlarının mesaj içeriğini Signal'in kontrolü dışında yakalayıp saklayabilmesi. Signal, Apple, Google ve Microsoft'tan geliştiricilere vazgeçme araçları ve daha net belgeler sunmasını istiyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50572348",
+      "article_url": "https://signal.org/blog/protecting-your-privacy/"
+    },
+    {
+      "rank": 8,
+      "title": "Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars (2019)",
+      "points": 512,
+      "num_comments": 320,
+      "summary": "Transport & Environment analizine göre Carnival Corporation, 2017'de Avrupa kıyılarında Avrupa'daki tüm otomobillerin yaklaşık on katı kükürt oksit saldı. Rapor, gemilerin turistik kıyılarda yüksek kükürtlü yakıt yakmasına izin veren zayıf denizcilik yakıt standartlarını suçluyor ve sıfır emisyonlu liman standartları ile daha geniş emisyon kontrol bölgeleri talep ediyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50572116",
+      "article_url": "https://ecohustler.com/article/one-corporation-to-pollute-them-all/"
+    },
+    {
+      "rank": 9,
+      "title": "Google is pushing OEMs against GrapheneOS and bootloader unlocking",
+      "points": 483,
+      "num_comments": 190,
+      "summary": "GrapheneOS'un Mastodon hesabından yapılan bir paylaşım, Google'ın OEM üreticileri GrapheneOS'a ve önyükleyici kilidi açmaya karşı yönlendirdiğini öne sürüyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50570479",
+      "article_url": "https://grapheneos.social/@GrapheneOS/117645038299496084"
+    },
+    {
+      "rank": 10,
+      "title": "\"I can tell you wrote this yourself\"",
+      "points": 412,
+      "num_comments": 404,
+      "summary": "Bir mühendislik lisans öğrencisi, danışmanının ilerleme raporunun yapay zekâ tarafından yazılmış gibi durmadığını söylemesinden yola çıkarak bölümünün öğrencileri yapay zekâ kullanmaya ittiğini düşünüyor. İş, kitap ve tavsiye için yapay zekâya yaslanmanın bağımsız düşünmeyi zayıflattığını savunuyor ve okumaya, yazmaya, araştırmaya ve sorgulamaya çağırıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50571189",
+      "article_url": "https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/"
+    }
+  ],
+  "health_stories": [
+    {
+      "rank": 1,
+      "title": "Infinite scroll and autoplay are fuelling a global problem",
+      "points": 23,
+      "num_comments": 8,
+      "summary": "Uzmanlar, sonsuz kaydırma ve otomatik oynatma gibi tasarım özelliklerinin internetle ilişkili bağımlılıkları küresel bir sağlık tehdidi haline getirdiğini savunuyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50572217",
+      "article_url": "https://www.scimex.org/newsfeed/internet-related-addictions-are-a-global-health-threat-experts-argue"
+    },
+    {
+      "rank": 2,
+      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+      "points": 20,
+      "num_comments": 0,
+      "summary": "Bir ilacın, pankreas kanseri tedavisinde \"on yılların en büyük atılımı\" olarak nitelendirildiği haberi, daraxonrasib adlı hapa ilişkin. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50573041",
+      "article_url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib"
+    },
+    {
+      "rank": 3,
+      "title": "Lenacapavir",
+      "points": 6,
+      "num_comments": 1,
+      "summary": "Lenacapavir, Gilead Sciences'ın geliştirdiği bir HIV-1 kapsid inhibitörü; tedavi için Sunlenca, korunma için Yeztugo adıyla satılıyor. İlk kez 2022'de ileri derecede ilaca dirençli HIV tedavisi için, 2025'te ise ABD, AB ve Kanada'da maruziyet öncesi korunma için onaylandı. Yılda iki kez enjeksiyonla uygulanabilmesi onu uzun etkili bir seçenek yapıyor; jenerik üreticiler düşük ve orta gelirli birçok ülkeye düşük maliyetle sağlamayı kabul etti.",
+      "hn_url": "https://news.ycombinator.com/item?id=50580655",
+      "article_url": "https://en.wikipedia.org/wiki/Lenacapavir"
+    },
+    {
+      "rank": 4,
+      "title": "The quest to understand a tick-borne allergy to red meat",
+      "points": 4,
+      "num_comments": 0,
+      "summary": "Keneler aracılığıyla bulaşan ve kırmızı ete alerjiye yol açan alfa-gal sendromunun anlaşılma çabasını konu alan bir haber. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50573623",
+      "article_url": "https://knowablemagazine.org/content/article/health-disease/2026/red-meat-allergy-how-ticks-spread-alpha-gal-syndrome"
+    },
+    {
+      "rank": 5,
+      "title": "We're Getting Less Demented. Why?",
+      "points": 3,
+      "num_comments": 0,
+      "summary": "Science dergisinin blogunda, demans oranlarının neden azaldığı sorusu ele alınıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50581722",
+      "article_url": "https://www.science.org/content/blog-post/we-re-getting-less-demented-why"
+    },
+    {
+      "rank": 6,
+      "title": "Chronic Brain Trauma Is Extensive in Navy's Elite Speedboat Crews",
+      "points": 3,
+      "num_comments": 0,
+      "summary": "Haber, Donanma'nın seçkin hızlı bot ekiplerinde kronik beyin travmasının yaygın olduğunu konu alıyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50580478",
+      "article_url": "https://www.nytimes.com/2024/11/12/us/brain-trauma-cte-navy-speedboat.html"
+    },
+    {
+      "rank": 7,
+      "title": "Woman entered hibernation-like state during winter for more than 30 years",
+      "points": 3,
+      "num_comments": 1,
+      "summary": "Bir kadının otuz yılı aşkın süre boyunca kışları hibernasyona benzer bir duruma girdiği bildiriliyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50580245",
+      "article_url": "https://www.newscientist.com/article/2599918-woman-entered-hibernation-like-state-during-winter-for-more-than-30-years/"
+    },
+    {
+      "rank": 8,
+      "title": "One minute of stair stepping may cut blood sugar spikes by 40 percent",
+      "points": 3,
+      "num_comments": 0,
+      "summary": "Haber, bir dakikalık basamak çıkma egzersizinin kan şekeri artışlarını yaklaşık yüzde 40 azaltabileceğini bildiriyor. Sayfaya erişilemediği için bu özet yalnızca başlığa dayanıyor.",
+      "hn_url": "https://news.ycombinator.com/item?id=50579215",
+      "article_url": "https://www.washingtonpost.com/wellness/2026/11/20/just-one-minute-this-activity-may-cut-blood-sugar-spikes-by-40-percent/"
+    }
+  ]
+}
